@@ -270,6 +270,12 @@
 - requires 2 hour hike to the beach (and 2 hours back)
 - activities: hiking, swimming
 
+## New Moon Beach (新月沙灣) (Hsinchu County, Zhubei City)
+- aka: 新月沙灘
+- [Google Maps](https://maps.app.goo.gl/gvK4pNVewPQVpp5X9)
+- https://alex13wei.pixnet.net/blog/post/119858076
+- https://travel.hsinchu.gov.tw/En/attraction/content/eR6yPpEWLwYJ
+
 ## Niushan Huting (牛山呼庭) (Hualien County, Shoufeng Township)
 - [Google Maps](https://maps.app.goo.gl/GyRshXewAcqvqVLy5)
 - https://niou-shan.com/
@@ -325,6 +331,16 @@
 - https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=b1a218f8-898e-4c93-85f7-e82513cb6fe8&SortType=1&SearchAdvanced=False&Language=1028
 
 # Mountains and Trails
+
+## Xizikou Mountain (溪子口山) / Xianjiyan Trail (仙跡岩步道) (Taipei City, Wenshan District)
+- aka: 仙跡岩觀山步道
+- [Google Maps (Trailhead)](https://maps.app.goo.gl/DeuNk2feDUYeNn8EA)
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/06/22/xianji-yan-trail-%E4%BB%99%E8%B7%A1%E5%B2%A9%E8%A7%80%E5%B1%B1%E6%AD%A5%E9%81%93/)
+- https://www.travel.taipei/en/attraction/details/520
+- [wanderlog](https://wanderlog.com/place/details/5021754/xianjiyan-trail)
+- https://www.travelking.com.tw/eng/tourguide/scenery461.html
+- [AllTrails](https://www.alltrails.com/trail/taiwan/taipei-city/xianjiyan-trail)
+- [Wikipedia (Cebuano)](https://ceb.wikipedia.org/wiki/Xizikou_Shan)
 
 ## Ejiaoge Mountain (鵝角格山) (Taipei City, Wenshan District)
 - [Google Maps (peak)](https://maps.app.goo.gl/DsRa4X2aDeYo3gMG6)
@@ -462,8 +478,7 @@
 - https://hikingbook.net/trails/%E6%A1%83%E6%BA%90%E8%B0%B7%E6%AD%A5%E9%81%93-%E5%85%A7%E5%AF%AE%E7%B7%9A
 - https://www.alltrails.com/trail/taiwan/new-taipei-city/taoyuan-valley-neiliao-line-trail
 
-## Yinhe Cave (銀河洞) (New Taipei City, Xindian District)
-- also: Yinhe Cave Hiking Trail (銀河洞越嶺步道)
+## Yinhe Cave (銀河洞) / Yinhe Cave Hiking Trail (銀河洞越嶺步道) (New Taipei City, Xindian District)
 - [Google Maps (cave)](https://maps.app.goo.gl/hYRbUteySUgyaGZh9)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/zBufH35jpEVUkTYp7)
 - https://newtaipei.travel/en/attractions/detail/403028
@@ -490,6 +505,20 @@
 - https://taiwanoutdoors.com/hiking/small-mountains/dadongshan/
 
 - #015 of Taiwan's 100 minor peaks (台灣小百岳)
+
+## Sanjiaolun Mountain (三角崙山) / Shengmu Hiking Trail (聖母登山步道) (Yilan County, Jiaoxi Township)
+- aka: Sacred Mother Trail, Saint Marian's Trail, Saint Marian's Hut Hiking Trail, 聖母山莊步道, Matcha Mountain
+- [Google Maps (Peak)](https://maps.app.goo.gl/KzomdKJuAERttbte6)
+- [Google Maps (Trailhead)](https://maps.app.goo.gl/Eokyd2fyFrXynthK9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E4%B8%89%E8%A7%92%E5%B4%99%E5%B1%B1)
+- [Josh Ellis](https://www.goteamjosh.com/blog/shengmu)
+- https://recreation.forest.gov.tw/Trail/RT?tr_id=009
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/01/28/st-marians-hiking-trail-%E8%81%96%E6%AF%8D%E5%B1%B1%E8%8E%8A/)
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2024/05/18/matcha-mountain-mount-sanjiaolun/)
+- [Facebook (Saint Marian's Hut application)](https://www.facebook.com/groups/185834538788284/)
+- https://www.taiwanhikes.com/blog-posts/st-marian-trail.html
+
+- #083 of Taiwan's 100 minor peaks (台灣小百岳)
 
 ## Paoma Historic Trail (跑馬古道) (Yilan County, Jiaoxi Township)
 - [Google Maps (trail head)](https://maps.app.goo.gl/pJFyAKjxpjGyUsKG9)
@@ -904,7 +933,7 @@
 - https://recreation.forest.gov.tw/en/Forest/RA?typ_id=0200005
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002016&id=A12-00389
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2025/08/30/lalashan-sacred-trees/)
-- https://wanderlog.com/place/details/5978655/lala-shan-national-forest-recreation-area
+- [wanderlog](https://wanderlog.com/place/details/5978655/lala-shan-national-forest-recreation-area)
 
 ## Huilong Temple (龜山迴龍寺) (Taoyuan City, Guishan District)
 - [Google Maps](https://maps.app.goo.gl/nVXHzjfUDPFadbi57)
@@ -1233,9 +1262,17 @@
 
 - Taiwan Tourism Board top 10 small towns (hot springs) [臺灣十大觀光小城](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E8%A7%80%E5%85%89%E5%B0%8F%E5%9F%8E)
 
+## Wenshan District (文山區) (Taipei City, Wenshan District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Wenshan_District
+- [Google Maps](https://maps.app.goo.gl/PfsddxeEFA3LL5qv5)
+
 ## Yonghe District (永和區) (New Taipei City, Yonghe District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yonghe_District)
 - [Google Maps](https://maps.app.goo.gl/wVJPhfhTkVCTckC48)
+
+## Zhonghe District (中和區) (New Taipei City, Zhonghe District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhonghe_District)
+- [Google Maps](https://maps.app.goo.gl/axAgsAMqHwRgwAUX6)
 
 ## Banqiao District (板橋區) (New Taipei City, Banqiao District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Banqiao_District)
@@ -1266,6 +1303,14 @@
 - [Google Maps](https://maps.app.goo.gl/HXLH6rtU9CKDhwRj9)
 
 - Taiwan Tourism Board top 10 small towns (famous old streets) [臺灣十大觀光小城](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E8%A7%80%E5%85%89%E5%B0%8F%E5%9F%8E)
+
+## Xinzhuang District (新莊區) (New Taipei City, Xinzhuang District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Xinzhuang_District)
+- [Google Maps](https://maps.app.goo.gl/oHYHXPhP4FxW1otN8)
+
+## Qidu District (七堵區) (Keelung City, Qidu District)
+- https://en.wikipedia.org/wiki/Qidu_District
+- https://maps.app.goo.gl/do2Ccn6JAKqQtz11A
 
 ## Zhongli District (中壢區) (Taoyuan City, Zhongli District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhongli_District)

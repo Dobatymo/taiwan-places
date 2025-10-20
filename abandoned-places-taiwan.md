@@ -11,7 +11,8 @@
 
 - looks like it's difficult to visit now because there are preservation efforts going on. there are guided tours sometimes.
 
-## Wanshou Road Residential Ruins (萬壽路廢棄社區) (Taoyuan City, Guishan District)
+## Wanshou Road Apartment Complex (萬壽路廢棄社區) (Taoyuan City, Guishan District)
+- aka: Wanshou Road Residential Ruins
 - [Google Maps](https://maps.app.goo.gl/wReF8r1F5HG3zDPd7)
 - [SpectralCodex](https://spectralcodex.com/guishan-wanshou-road-residential-ruins/)
 - [Facebook (夜遊台灣)](https://www.facebook.com/media/set/?set=a.636564939729584)
