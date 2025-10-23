@@ -141,6 +141,7 @@
 - https://www.remotelands.com/travelogues/the-forsaken-ufo-village-of-wanli/
 - https://www.rachelenroute.com/wanli-ufo-village-a-supernatural-day-trip-from-taipei/
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
+- [Atlas Obscura](https://www.atlasobscura.com/places/wanli-ufo-village)
 
 ## Wanshou Road Apartment Complex (萬壽路廢棄社區) (Taoyuan City, Guishan District)
 - aka: Wanshou Road Residential Ruins
@@ -342,6 +343,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8E%9F%E6%97%A5%E6%9C%AC%E6%B5%B7%E8%BB%8D%E9%B3%B3%E5%B1%B1%E7%84%A1%E7%B7%9A%E9%9B%BB%E4%BF%A1%E6%89%80)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Former_Japanese_Navy_Fongshan_Communication_Center)
 - https://www.kathmanduandbeyond.com/abandoned-taiwan-former-japanese-navy-fongshan-communication-centre-kaohsiung/
+- [Atlas Obscura](https://www.atlasobscura.com/places/the-imperial-japanese-navy-fengshan-wireless-communications-station)
 
 ## Linyuan Cingshueiyan Former Japanese Military Tunnel (清水巖原日軍戰備坑道) (Kaohsiung City, Linyuan District)
 - [Google Maps](https://maps.app.goo.gl/hoAc99NYt3UNQRfXA)
@@ -364,3 +366,4 @@
 - [Google Maps](https://maps.app.goo.gl/2hEK7RTjk23HqAz19)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Guomao_Community)
 - https://formosajmac.com/2025/01/23/explore-guomao-community-kaohsiungs-little-hong-kong/
+- [Atlas Obscura](https://www.atlasobscura.com/places/guomao-community)
