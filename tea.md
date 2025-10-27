@@ -192,6 +192,9 @@
 ## Presotea (鮮茶道)
 - http://presotea.com.tw/
 
+## Drinkstore (水雲朵)
+- https://www.drinkstore.com.tw/
+
 ## MonMonDay (漫漫點, 慢慢點)
 - https://www.instagram.com/monmonday.yanji/
 
@@ -279,6 +282,8 @@ https://www.teapro.com.tw/
 ## tsutabi (蔦日子)
 - https://www.facebook.com/tsutabi/
 - https://www.instagram.com/tsutabi_hq/
+- https://www.tsutabi.com/
+- https://timmyblog.cc/tsutabi/
 
 ## Rencha (煉瓦涼茶)
 - https://rencha.tw/
@@ -310,9 +315,27 @@ https://www.teapro.com.tw/
 - [Google Maps](https://maps.app.goo.gl/quPqKmjYR5RJbfEu9)
 - sells fresh tea and also leaves
 
-## Fong Puu Tea (峰圃茶)
-- https://www.fongpuu.com.tw/index
+## Fong Puu Tea co. (峰圃茶莊)
+- https://www.fongpuu.com.tw/
 - sells fresh tea and also leaves
+
+## Tea Sommelier (侍茶匠)
+- https://www.instagram.com/teasommelier2019/
+- https://www.facebook.com/teasommelier2019/
+- https://anney94649.pixnet.net/blog/post/50549048
+
+## Tao Tao Tea (先喝道)
+- https://www.taotaotea.com.tw/
+- https://www.instagram.com/tao.tao.tea/
+
+## Cane Farmer (甘蔗農夫)
+- https://www.facebook.com/profile.php?id=100057192471244
+
+## Thirsty Sun (三拾叁)
+- aka: March Sun
+- https://www.facebook.com/profile.php?id=61576312020232
+- https://www.instagram.com/thirsty_sun/
+- https://www.marchsun.net/
 
 ## Chun Shui Tang (春水堂)
 - https://en.wikipedia.org/wiki/Chun_Shui_Tang

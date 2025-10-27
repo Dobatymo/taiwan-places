@@ -164,7 +164,7 @@
 - [Google Maps](https://maps.app.goo.gl/aDmvfhFsoCad7bFR6)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002105&id=R80
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2024/05/28/heping-island-park/)
-- https://corissajoy.com/keelung-heping-island-park/
+- [Coco in Taiwan](https://corissajoy.com/keelung-heping-island-park/)
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Heping_Island_Park)
 - https://taiwantravelblog.com/the-10-best-beaches-in-taipei/#heping-island-
 
@@ -295,10 +295,10 @@
 - [TaiwanObsessed](https://www.taiwanobsessed.com/best-beaches-taiwan/#Qixingtan_Beach_Hualien)
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001124&id=9488
 
-## Sizihwan Beach(西子灣海水浴場) (Kaohsiung City, Gushan District)
+## Sizihwan Beach (西子灣海水浴場) (Kaohsiung City, Gushan District)
 - aka: Xiziwan Beach
 - [Google Maps](https://maps.app.goo.gl/FKi3CGdsmJqt4XUX9)
-- https://en.wikipedia.org/wiki/Sizihwan
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Sizihwan)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002121&id=624
 - https://khh.travel/en/attractions/detail/438/
 - https://www.travelking.com.tw/eng/tourguide/scenery167.html
@@ -340,8 +340,8 @@
 - https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=b1a218f8-898e-4c93-85f7-e82513cb6fe8&SortType=1&SearchAdvanced=False&Language=1028
 
 ## Mysterious Little Bay (神祕小海灣) (Lienchiang County, Juguang Township)
-- https://maps.app.goo.gl/BDSwjQV1kmahYAtQ6
-- https://en.wikipedia.org/wiki/Mysterious_Little_Bay
+- [Google Maps](https://maps.app.goo.gl/BDSwjQV1kmahYAtQ6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Mysterious_Little_Bay)
 - https://www.matsu-nsa.gov.tw/Attraction-Content.aspx?a=2752&l=1
 - https://www.matsu-nsa.gov.tw/Attraction-Content.aspx?a=2752&l=2
 - https://etravel.matsu.gov.tw/trip/9a4b36cb-0468-4867-8188-c4e7a9603d97
@@ -398,7 +398,7 @@
 ## Datun Mountain (大屯山) (Taipei City, Beitou District)
 - [Google Maps (Peak)](https://maps.app.goo.gl/diGSViqV2VscYobs8)
 - [Google Maps (Trailhead)](https://maps.app.goo.gl/QhRM7cEH5J9MaKAcA)
-- https://en.wikipedia.org/wiki/Datun_Mountain
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Datun_Mountain)
 - https://www.foreignersintaiwan.com/blog/datunshan
 - https://taiwantrailsandtales.com/2019/02/14/mount-datun-multi-peak-trail/
 
@@ -433,23 +433,25 @@
 - you can bath in the waterfall pools
 
 ## Fuzhou Mountain (福州山) (Taipei City, Da'an District)
+- close by: Fuyang Ecological Park, Zhongpu Mountain
 - [Google Maps](https://maps.app.goo.gl/Q2L1e3SmZtn5gAog9)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/fuzhoushan-zhongpushan/
-- close by: Fuyang Ecological Park, Zhongpu Mountain
+- https://www.travel.taipei/zh-tw/attraction/details/407
 
 ## Zhongpu Mountain (中埔山) (Taipei City, Da'an District)
+- close by: Fuyang Ecological Park, Fuzhou Mountain
 - [Google Maps (east peak)](https://maps.app.goo.gl/KQ5erDUQMFdDBbU78)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/PffPpbPMuikhhPfw8)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/fuzhoushan-zhongpushan/
 - https://danlantrail.necoast-nsa.gov.tw/Trails-Content.aspx?a=2927&l=2&listid=2867&fromCnt=0
 - [onethingoneweek](https://onethingoneweek.com/zhongpushan/)
-- close by: Fuyang Ecological Park, Fuzhou Mountain
 
 - part of Taipei Grand Trail Section 6
 
 ## Tiaomi Historic Trail (糶米古道) (Taipei City, Xinyi District)
 - [Google Maps](https://maps.app.goo.gl/27m5ukLkZ2zjcHzs9)
 - https://www.travel.taipei/en/attraction/details/702
+- https://www.travel.taipei/zh-tw/attraction/details/379
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/tiaomi-historic-trail-a-quiet-route-to-mt-thumb)
 
 ## Nanshijiao Mountain (南勢角山) / Hongludi Trail (烘爐地登山步道) (New Taipei City, Zhonghe District)
@@ -488,8 +490,8 @@
 - [Google Maps (Datong Mountain peak)](https://maps.app.goo.gl/HpEM9byuP6eLoH2F8)
 - [Josh Ellis](https://www.goteamjosh.com/blog/sanjiao)
 - https://hiking.biji.co/index.php?q=trail&act=detail&id=210
-- https://newtaipei.travel/wiki/tour/731
-- https://newtaipei.travel/wiki/attractions/detail/110605
+- https://newtaipei.travel/zh-tw/tour/731
+- https://newtaipei.travel/zh-tw/attractions/detail/110605
 - https://hikingbook.net/trails/%E4%B8%89%E8%A7%92%E5%9F%94%E9%A0%82%E5%B1%B1%E6%AD%A5%E9%81%93
 - https://www.taiwanhikes.com/blog-posts/dadong-mountain-sanjiaopuding-shulin.html
 - https://confusingstone.pixnet.net/blog/post/232459813
@@ -521,7 +523,7 @@
 
 ## Caoling Historic Trail (草嶺古道) (New Taipei City, Gongliao District)
 - aka: Caoling Old Trail
-- https://maps.app.goo.gl/yeuqo6PEjVCfGyDJA
+- [Google Maps](https://maps.app.goo.gl/yeuqo6PEjVCfGyDJA)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/10/11/caoling-historic-trail/)
 - [Hiking/Cycling in Taiwan](https://bikehiketaipei.wordpress.com/caoling-trail/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=R114
@@ -552,8 +554,11 @@
 
 ## Lovers Lake (情人湖) (Keelung City, Anle District)
 - aka: Lovers Lake Circular Trail, 情人湖環湖步道, Lovers Lake Park, 情人湖公園
-- https://maps.app.goo.gl/ZXdgVSiJbqVtzAgB8
+- [Google Maps](https://maps.app.goo.gl/ZXdgVSiJbqVtzAgB8)
 - https://bikehiketaipei.wordpress.com/lovers-lake/
+- https://www.northguan-nsa.gov.tw/user/article.aspx?Lang=2&SNo=04005324
+- https://keelung-for-a-walk.com/attraction/keelung-parks-lovers-lake-park/
+- [Coco in Taiwan](https://corissajoy.com/lovers-lake-park/)
 
 ## Sanjiaolun Mountain (三角崙山) / Shengmu Hiking Trail (聖母登山步道) (Yilan County, Jiaoxi Township)
 - aka: Sacred Mother Trail, Saint Marian's Trail, Saint Marian's Hut Hiking Trail, 聖母山莊步道, Matcha Mountain
@@ -620,12 +625,26 @@
 - public transport: great
 - dinosaurs!
 
+## Taipei 228 Memorial Museum (臺北二二八紀念館) (Taipei City, Zhongzheng District)
+- in: 228 Peace Memorial Park
+- [Google Maps](https://maps.app.goo.gl/UUWgBTAyTd6GPtge6)
+- https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=fd669d9f-bb4f-4047-a67d-532bd1cb5add
+
+- categories: museum
+
 ## Chiang Kai-shek Memorial Hall (中正紀念堂) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/n11NHtAhSVxAkFNx6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall)
 - https://www.travel.taipei/en/attraction/details/445
 
 = categories: memorial hall, park
+
+## Evergreen Maritime Museum (長榮海事博物館) (Taipei City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/rr3pCX3yKZJwsNiEA)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Evergreen_Maritime_Museum)
+- https://www.evergreenmuseum.org.tw/
+
+- categories: museum
 
 ## Taipei Water Park (自來水園區) (Taipei City, Zhongzheng District)
 - aka: Water Country Park
@@ -650,10 +669,12 @@
 
 ## Treasure Hill Artist Village (寶藏巖國際藝術村) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/sFgQ8YVphqNmfWHq5)
-- https://en.wikipedia.org/wiki/Treasure_Hill
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Treasure_Hill)
 - https://www.atlasobscura.com/places/treasure-hill-taipei
 - https://www.artistvillage.org/
 - https://www.travel.taipei/en/attraction/details/613
+- [Coco in Taiwan](https://corissajoy.com/treasure-hill-light-festival/)
+- [SpectralCodex](https://spectralcodex.com/zhongzheng-treasure-hill/)
 
 - categories: community
 
@@ -669,7 +690,19 @@
 - [Google Maps](https://maps.app.goo.gl/txAbPYJdRNu5Syzp7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Fanglan_Mansion)
 - https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&sms=07D68BC61ECBFF67&s=F54B37BDDC5F1D93
-- https://spectralcodex.com/daan-fanglan-old-house/
+- [SpectralCodex](https://spectralcodex.com/daan-fanglan-old-house/)
+
+## Huanmin Village (煥民新村) / Toad Mountain (蟾蜍山) (Taipei City, Da'an District)
+- [Google Maps (Huanmin Village)](https://maps.app.goo.gl/VBvRQVuY2igELw1g7)
+- [Google Maps (Toad Mountain)](https://maps.app.goo.gl/WjH3VwPmdVKKCw4K6)
+- https://www.travel.taipei/en/attraction/details/3690
+- https://huanminvillage.taipei/
+- https://english.culture.gov.taipei/News_Content.aspx?n=1720A1EC75EF55C2&s=C293CDAA7CF4B133
+- https://www.tomrookart.com/hiddentaiwan/2015/1/10/toad-mountain
+- [SpectralCodex](https://spectralcodex.com/daan-toad-mountain/)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%9F%BE%E8%9C%8D%E5%B1%B1)
+
+- categories: community
 
 ## Lin An Tai Historical House and Museum (林安泰古厝) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/YUZwd6zARo8J2caF8)
@@ -730,7 +763,7 @@
 ## Taipei 101 (台北101) (Taipei City, Xinyi District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_101)
 - [Google Maps](https://maps.app.goo.gl/RA3TPtpMmP5yKQ5J9)
-- https://www.goteamjosh.com/blog/cityscape
+- [Josh Ellis](https://www.goteamjosh.com/blog/cityscape)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/taipei-101/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=3469
 - https://www.taiwanese-secrets.com/taipei-101-tower/
@@ -763,13 +796,13 @@
 - [Google Maps](https://maps.app.goo.gl/4LTE6J3Yby4pu7rz8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taiwan_Design_Museum)
 - https://www.travel.taipei/en/attraction/details/2485
-- https://www.tdri.org.tw/zh-TW/service-and-space/taiwan-design-museum
+- https://www.tdri.org.tw/zh-tw/service-and-space/taiwan-design-museum
 
 - categories: museum
 - public transport: great
 
 ## Hexing Coal Mine (和興炭坑) (Taipei City, Xinyi District)
-- https://maps.app.goo.gl/dq3fxzhMApykJP69A
+- [Google Maps](https://maps.app.goo.gl/dq3fxzhMApykJP69A)
 - https://www.travel.taipei/en/attraction/details/2351
 - https://www.travel.taipei/zh-tw/attraction/details/398
 - https://www.atlasobscura.com/places/hexing-coal-mine
@@ -842,6 +875,14 @@
 - categories: zoo, aquarium
 - public transport: great
 
+## Shilin Residence Park (士林官邸公園) (Taipei City, Shilin District)
+- [Google Maps](https://maps.app.goo.gl/PbPA54sASwUhfTtD8)
+- https://www.travel.taipei/en/attraction/details/450
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shilin_Official_Residence)
+- https://www.foreignersintaiwan.com/blog/shilin-official-residence
+
+- categories: park
+
 ## National Palace Museum (國立故宮博物院) (Taipei City, Shilin District)
 - [Google Maps](https://maps.app.goo.gl/KB2s6Sny3qFLPsJj8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Palace_Museum)
@@ -856,6 +897,12 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Astronomical_Museum)
 - official (eng): https://en.tam.gov.taipei/
 - https://www.travel.taipei/en/attraction/details/461
+
+## National Taiwan Science Education Center (國立臺灣科學教育館) (Taipei City, Shilin District)
+- [Google Maps](https://maps.app.goo.gl/rfUMhs1V7QqYS1RD8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Taiwan_Science_Education_Center)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=5662
+- https://www.travel.taipei/en/attraction/details/443
 
 ## Taipei Children's Amusement Park (臺北市立兒童新樂園) (Taipei City, Shilin District)
 - [Google Maps](https://maps.app.goo.gl/bX2DTtoXuJSuaQax8)
@@ -909,6 +956,16 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Museum_of_World_Religions)
 - https://www.mwr.org.tw/mwr_en
 
+- categories: museum
+
+## Yonghe Baofu Temple (永和保福宮) (New Taipei City, Yonghe District)
+- [Google Maps](https://maps.app.goo.gl/daqpULCTtwrBWJDZ7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%92%8C%E4%BF%9D%E7%A6%8F%E5%AE%AE)
+- https://newtaipei.travel/en/attractions/detail/112019
+- https://www.wikidata.org/wiki/Q28410545
+
+- categories: temple
+
 ## Jing-Mei White Terror Memorial Park (白色恐怖景美紀念園區) (New Taipei City, Xindian District)
 - also: National Human Rights Museum (國家人權博物館)
 - [Google Maps](https://maps.app.goo.gl/P66JJNuGNdib86iu6)
@@ -944,7 +1001,7 @@
 
 ## Shanjia railway station (山佳車站) (New Taipei City, Shulin District)
 - [Google Maps](https://maps.app.goo.gl/9fuRZArFas6BXLjR8)
-- https://en.wikipedia.org/wiki/Shanjia_railway_station
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanjia_railway_station)
 - https://www.tomrookart.com/hiddentaiwan/2017/11/16/shanjia
 
 ## Pinglin Tea Museum (坪林茶業博物館) (New Taipei City, Pinglin District)
@@ -977,8 +1034,20 @@
 - https://newtaipei.travel/en/attractions/detail/111504
 
 - categories: amusement park, nature park
-- public transport: ok from taipei, mrt to xindian, bus to wulai, some walking in wulai and cable car to the park
+- public transport: ok from Taipei, MRT to Xindian, bus to Wulai, some walking in Wulai and cable car to the park
 - not well maintained at all in 2025, everything is closed or broken
+
+## Neidong National Forest Recreation Area (內洞國家森林遊樂區) (New Taipei City, Wulai District)
+- also: Xinxian Waterfall (信賢瀑布)
+- [Google Maps](https://maps.app.goo.gl/KVNoM7d3VqrdX91g9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Neidong_National_Forest_Recreation_Area)
+- [Josh Ellis](https://www.goteamjosh.com/blog/neidong)
+- https://recreation.forest.gov.tw/Forest/RA?typ_id=0200002
+- https://recreation.forest.gov.tw/en/Forest/RA?typ_id=0200002
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=R38
+- https://taiwantrailsandtales.com/2025/08/23/neidong-forest-recreation-area-trails/
+- https://newtaipei.travel/en/attractions/detail/111505
+- https://taiwanoutdoors.com/hiking/neidong/
 
 ## Shenkeng Old Street (深坑老街) (New Taipei City, Shenkeng District)
 - [Google Maps](https://maps.app.goo.gl/x7wkBxQEyqmY1WZX6)
@@ -1031,20 +1100,20 @@
 ## Xiaowulai Skywalk (小烏來天空步道) (Taoyuan City, Fuxing District)
 - [Google Maps](https://maps.app.goo.gl/2ags5Si5XWwNgmgM9)
 - https://travel.tycg.gov.tw/en/travel/attraction/723
-- https://www.goteamjosh.com/blog/xiaowulai
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiaowulai)
 
 ## Longtan Martial Arts Hall (龍潭武德殿) (Taoyuan City, Longtan District)
 - [Google Maps](https://maps.app.goo.gl/fRn7Zvx8WumkLgft7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%BD%AD%E6%AD%A6%E5%BE%B7%E6%AE%BF)
-- https://spectralcodex.com/longtan-martial-arts-hall/
-- https://www.goteamjosh.com/blog/longwude
+- [SpectralCodex](https://spectralcodex.com/longtan-martial-arts-hall/)
+- [Josh Ellis](https://www.goteamjosh.com/blog/longwude)
 
 ## Daxi Old Street (大溪老街) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/R3YDMUpbKmqM9WoQ7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Daxi_Old_Street)
 - https://travel.tycg.gov.tw/en/travel/attraction/1151
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/daxi-old-street)
-- https://www.goteamjosh.com/blog/daxioldstreet
+- [Josh Ellis](https://www.goteamjosh.com/blog/daxioldstreet)
 
 ## Daxi Tea Factory (大溪老茶廠) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/AWakLxaw36z8B5F4A)
@@ -1060,7 +1129,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Cihu_Mausoleum)
 - https://travel.tycg.gov.tw/en/travel/attraction/718
 - https://travel.tycg.gov.tw/en/travel/attraction/1153
-- https://www.goteamjosh.com/blog/cihu
+- [Josh Ellis](https://www.goteamjosh.com/blog/cihu)
 
 ## Zhuwei Fishing Harbor (竹圍漁港) (Taoyuan City, Dayuan District)
 - [Google Maps](https://maps.app.goo.gl/qSWXt6vLFb3FHbMs6)
@@ -1116,6 +1185,7 @@
 - https://travel.klcg.gov.tw/en/TourContent.aspx?n=8509&s=724
 - [wanderlog](https://wanderlog.com/place/details/1882912/zhengbin-port-color-houses)
 - [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
+- [Coco in Taiwan](https://corissajoy.com/keelung-zhengbin-fishing-harbor/)
 
 ## Dongshan River Water Park (冬山河親水公園) (Yilan County, Wujie Township)
 - [Google Maps](https://maps.app.goo.gl/FYFGMpDBfz5wxNvc8)
@@ -1149,9 +1219,64 @@
 - [Google Maps](https://maps.app.goo.gl/63xR7zXzXZ9s5iGt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Little_Ding-Dong_Science_Theme_Park)
 - official: https://www.ding-dong.com.tw/
-- categories: amusement park, museum
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=2098
 
+- categories: amusement park, museum
 - average to reach by public transport. direct train to from Taipei to Xinfeng railway station, but then 50min of walking or taxi required.
+
+## Hsinchu Zoo (新竹市立動物園) (Hsinchu City, East District)
+- [Google Maps](https://maps.app.goo.gl/5NHkTDsdidzNdV168)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Zoo)
+- https://zoo-info.hccg.gov.tw/
+
+## Baozhong Yimin Temple (褒忠亭義民廟) (Hsinchu County, Xinpu Township)
+- [Google Maps](https://maps.app.goo.gl/dcQ4iZFW9yq86UY98)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F)
+- https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=33
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=448
+- [Josh Ellis](https://www.goteamjosh.com/blog/yimin)
+
+- biggest Hakka religious center in Taiwan
+
+## Green World Ecological Farm (綠世界生態農場) (Hsinchu County, Beipu Township)
+- aka: Green World Ecological Park
+- [Google Maps](https://maps.app.goo.gl/oij2cb6Cqc7JcXP18)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=A12-00207
+- https://www.green-world.com.tw/
+- https://www.foreignersintaiwan.com/blog/green-world-ecological-farm
+
+- categories: zoo, farm, park
+
+## Smangus Giant Trees (司馬庫斯巨木群) (Hsinchu County, Jianshi Township)
+- aka: Jianshi Giant Trees
+- [Google Maps](https://maps.app.goo.gl/TWykSKTb3EGcmgKYA)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=6880
+- https://taiwantrailsandtales.com/2025/05/10/smangus-giant-tree/
+- https://www.taiwanhikes.com/blog-posts/smangus-giant-tree-trail.html
+
+## Neiwan Theater (內灣戲院) (Hsinchu County, Hengshan Township)
+- [Google Maps](https://maps.app.goo.gl/qaeb7fxA62TgWzJF6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Neiwan_Theater)
+- https://neiwan.okgo.tw/scenic/3363.html
+
+- categories: cinema, restaurant
+
+## Neiwan Old Street (內灣老街) (Hsinchu County, Hengshan Township)
+- aka: 内灣老街
+- includes: Neiwan Theater (內灣戲院)
+- close by: Neiwan Suspension Bridge (內灣吊橋)
+- https://maps.app.goo.gl/aUXFudP4Sowy2TN59
+- https://www.taiwanobsessed.com/neiwan-old-street/
+- [Josh Ellis](https://www.goteamjosh.com/blog/neiwan)
+- https://www.foreignersintaiwan.com/blog/neiwan-old-street
+- [Orphaned Nation](https://www.orphanednation.com/what-to-do-in-neiwan-%e5%85%a7%e7%81%a3/)
+
+- categories: old street
+
+## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
+- https://maps.app.goo.gl/UgYuANtaqwsSv3a2A
+- https://www.foreignersintaiwan.com/blog/xiangshan-wetlands
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiangshi)
 
 ## Lihpao Land (麗寶樂園度假區) (Taichung City, Houli District)
 - [Google Maps](https://maps.app.goo.gl/rzL8BkyiZUVyXhDm7)
@@ -1194,34 +1319,34 @@
 
 ## Pier-2 Art Center (駁二藝術特區) (Kaohsiung City, Yancheng District)
 - [Google Maps](https://maps.app.goo.gl/A95BMVuDZ5kiEWmBA)
-- https://en.wikipedia.org/wiki/Pier-2_Art_Center
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Pier-2_Art_Center)
 - https://pier2.org/
 - https://www.nickkembel.com/pier-2-art-center-kaohsiung/
 - https://www.atlasobscura.com/places/pier2-art-center
 
 ## Hamasen Museum of Taiwan Railway (哈瑪星台灣鐵道館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/nvWJqY21F1Wm3T6V9)
-- https://en.wikipedia.org/wiki/Hamasen_Museum_of_Taiwan_Railway
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hamasen_Museum_of_Taiwan_Railway)
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=ad8619af-19cc-4489-81c2-e3cb25841f74
 
 - museum
 
 ## Takao Railway Museum (舊打狗驛故事館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/xdakc5okNUjnSKMG6)
-- https://en.wikipedia.org/wiki/Takao_Railway_Museum
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Takao_Railway_Museum)
 
 - museum
 
 ## Wu De Martial Arts Center (高雄武德殿) (Kaohsiung City, Gushan District)
 - aka: Kaohsiung Martial Arts Hall, 高雄市武德殿
 - [Google Maps](https://maps.app.goo.gl/FwM5b17YWTyCkc8i9)
-- https://en.wikipedia.org/wiki/Kaohsiung_Wude_Hall
-- https://www.goteamjosh.com/blog/takaohall
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Wude_Hall)
+- [Josh Ellis](https://www.goteamjosh.com/blog/takaohall)
 - https://nchdb.boch.gov.tw/assets/overview/monument/20201118000004
 
 ## Shoushan Zoo (壽山動物園) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/ePdwZUgzd3hMqcuT9)
-- https://en.wikipedia.org/wiki/Shoushan_Zoo
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shoushan_Zoo)
 
 - zoo
 
@@ -1234,11 +1359,11 @@
 
 ## Kaohsiung Martyrs' Shrine (高雄市忠烈祠) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/18TjcVqC2zbFdBHK7)
-- https://en.wikipedia.org/wiki/Kaohsiung_Martyrs%27_Shrine
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Martyrs%27_Shrine)
 
 ## Former British Consulate at Takao (打狗英國領事館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/foK15XBujYAxmvrA6)
-- https://en.wikipedia.org/wiki/Former_British_Consulate_at_Takao
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Former_British_Consulate_at_Takao)
 
 ## National Science and Technology Museum (國立科學工藝博物館) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/kanGuAYUZxRBatUUA)
@@ -1249,14 +1374,14 @@
 
 ## Sankuaicuo Station (三塊厝車站) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/CgGdgQQdPkY6YvgB8)
-- https://en.wikipedia.org/wiki/Sankuaicuo_railway_station
-- https://www.goteamjosh.com/blog/sankuai
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Sankuaicuo_railway_station)
+- [Josh Ellis](https://www.goteamjosh.com/blog/sankuai)
 
 ## Sunfong Temple (高雄三鳳宮) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/wyVWJaf8FjAS9tsG7)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/sanfong-temple-kaohsiung/)
 - https://khh.travel/en/attractions/detail/497/
-- https://girlonazebra.com/sunfong-temple-kaohsiung/
+- [Girl on a Zebra](https://girlonazebra.com/sunfong-temple-kaohsiung/)
 
 - temple
 
@@ -1275,12 +1400,18 @@
 ## Kaohsiung Confucius Temple (左營孔子廟) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/wQ4RcWpk4Ghz7VSM8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Confucius_Temple)
-- https://www.goteamjosh.com/blog/kaokong
+- [Josh Ellis](https://www.goteamjosh.com/blog/kaokong)
 
 - temple
 
+## Dragon and Tiger Pagodas (龍虎塔) (Kaohsiung City, Zuoying District)
+- [Google Maps](https://maps.app.goo.gl/vNhS1qzyKZUbmFXs5)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Dragon_and_Tiger_Pagodas)
+- [Girl on a Zebra](https://girlonazebra.com/dragon-and-tiger-pagodas/)
+- https://www.foreignersintaiwan.com/blog/lotus-pond
+
 ## Ocean Fantasy Museum (澄清湖海洋奇珍園) (Kaohsiung City, Niaosong District)
-- https://maps.app.goo.gl/oqkeVGiNByoawoRG9
+- [Google Maps](https://maps.app.goo.gl/oqkeVGiNByoawoRG9)
 - https://www.atlasobscura.com/places/ocean-fantasy-museum
 - https://torenatkinson.com/2023/11/05/torens-taiwan-trip-19-ocean-fantasy-museum-at-chengching-lake-niaosong-district-kaohsiung-a-sad-octopus/
 - https://www.facebook.com/cclem7356166/
@@ -1314,11 +1445,11 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Qingtian_Hall)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%93%8E%E5%A4%A9%E5%BB%B3)
 - https://kinmen.travel/en/travel/attraction/1567
-- https://kinmen.travel/wiki/guide/control-attraction
+- https://kinmen.travel/zh-tw/guide/control-attraction
 
 ## Zhaishan Tunnel (翟山坑道) (Kinmen County, Jincheng Township)
 - [Google Maps](https://maps.app.goo.gl/KvdaNiszeGLb1jfj6)
-- https://en.wikipedia.org/wiki/Zhaishan_Tunnel
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhaishan_Tunnel)
 - https://www.atlasobscura.com/places/jhaishan-tunnel
 - https://kinmen.travel/en/travel/attraction/21
 
@@ -1326,6 +1457,13 @@
 - annual "Kinmen Tunnel Music Festival" is located there
 
 # Markets and Night Markets
+
+## Shuiyuan Market (水源市場) (Taipei City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/TbSYC4oEw8YARadv9)
+- [SpectralCodex](https://spectralcodex.com/zhongzheng-shuiyuan-market/)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&sms=56EA48C2CF815D63&s=5EED5B101DBC4834
+
+- categories: traditional indoor market
 
 ## Yongle Market (永樂市場) (Taipei City, Datong District)
 - aka: Yongle Fabric Market
@@ -1337,7 +1475,7 @@
 ## Raohe Street Night Market (饒河街觀光夜市) (Taipei City, Songshan District)
 - aka: Raohe Street Tourist Night Market
 - [Google Maps](https://maps.app.goo.gl/ZhhFu67dTCZEeZeq6)
-- https://en.wikipedia.org/wiki/Raohe_Street_Night_Market
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Raohe_Street_Night_Market)
 - https://www.travel.taipei/en/attraction/details/1691
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=R177
 
@@ -1377,6 +1515,21 @@
 
 - categories: night market
 
+## Hsinchu Weekend Flower Market (新竹假日花市) (Hsinchu City, East District)
+- [Google Maps](https://maps.app.goo.gl/77cxpTp4gZaCSxfD6)
+- https://www.foreignersintaiwan.com/blog/hsinchu-weekend-flower-market
+- [Orphaned Nation](https://www.orphanednation.com/hsinchu-weekend-flower-market-%E6%96%B0%E7%AB%B9%E5%B8%82%E5%81%87%E6%97%A5%E8%8A%B1%E5%B8%82/)
+
+- categories: traditional market
+
+## Green Grass Lake Night Market (青草湖夜市) (Hsinchu City, East District)
+- [Google Maps](https://maps.app.goo.gl/umsZxv6RFWqubgVE7)
+- [Orphaned Nation](https://www.orphanednation.com/green-grass-lake-night-market-%e9%9d%92%e8%8d%89%e6%b9%96%e5%a4%9c%e5%b8%82/)
+- https://ahuilife2020.pixnet.net/blog/post/54962014
+- https://www.instagram.com/reel/DP1ZyZhEmei/
+
+- categories: night market
+
 ## Liuhe Night Market (六合觀光夜市) (Kaohsiung City, Sinsing District)
 - [Google Maps](https://maps.app.goo.gl/ePvx68xccizmCC13A)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002121&id=2245
@@ -1409,7 +1562,13 @@
 - aka: Dagouxi Riverside Park, 大溝溪親水公園
 - [Google Maps](https://maps.app.goo.gl/ztGks7jVAuiWDnCs8)
 - https://www.travel.taipei/en/attraction/details/2481
-- https://www.travel.taipei/wiki/attraction/details/2269
+- https://www.travel.taipei/zh-tw/attraction/details/2269
+
+## Shanshuilu Eco Park (山水綠生態公園) (Taipei City, Nangang District)
+- [Google Maps](https://maps.app.goo.gl/Axw7oszY4XJKQhrt9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanshuilu_Eco_Park)
+- https://www.travel.taipei/en/attraction/details/705
+- https://www.foreignersintaiwan.com/blog/shanshuilu-eco-park
 
 ## Sulfur Valley Recreation Area (硫磺谷遊憩區) (Taipei City, Beitou District)
 - aka: Sulfur Valley Geothermal Scenic Area, 硫磺谷地熱景觀區
@@ -1450,7 +1609,7 @@
 ## Golden Waterfall (黃金瀑布) (New Taipei City, Ruifang District)
 - [Google Maps](https://maps.app.goo.gl/EmceSUbC8vuJEBTV6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Golden_Waterfall)
-- https://newtaipei.travel/wiki/attractions/detail/110626
+- https://newtaipei.travel/zh-tw/attractions/detail/110626
 
 - categories: waterfall
 
@@ -1470,7 +1629,7 @@
 - [Google Maps](https://maps.app.goo.gl/DB9fM7pnjkbr4xs56)
 - [Dribs & Drabs](https://www.dribs-drabs.com/%e6%97%85%e8%a1%8c-%e9%87%91%e7%93%9c%e7%9f%b3%e6%9c%ac%e5%b1%b1%e5%9c%b0%e8%b3%aa%e5%85%ac%e5%9c%92-%e6%ad%b2%e6%9c%88%e7%9a%84%e6%b4%aa%e6%b5%81/)
 - https://newtaipei.travel/en/attractions/detail/112907
-- https://newtaipei.travel/wiki/attractions/detail/111421
+- https://newtaipei.travel/zh-tw/attractions/detail/111421
 - https://youfuntaiwan.com/en/jinguashi-geopark/
 
 ## Kaohsiung 228 Peace Memorial Park (二二八和平紀念公園) (Kaohsiung City, Yancheng District)
@@ -1504,14 +1663,14 @@
 ## Liyu Lake (鯉魚潭) (Hualien County, Shoufeng Township)
 - aka: Carp Lake
 - [Google Maps](https://maps.app.goo.gl/o2YkvXfwT98iNAmp9)
-- https://en.wikipedia.org/wiki/Liyu_Lake
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Liyu_Lake)
 
 - categories: lake
 
 ## Sun Moon Lake (日月潭) (Nantou County, Yuchi Township)
 - aka: Zintun, Lake Candidius
-- https://maps.app.goo.gl/DWGwi4MDYCTfp32q8
-- https://en.wikipedia.org/wiki/Sun_Moon_Lake
+- [Google Maps](https://maps.app.goo.gl/DWGwi4MDYCTfp32q8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Sun_Moon_Lake)
 - https://www.nickkembel.com/sun-moon-lake-taiwan/
 - https://www.taiwanobsessed.com/sun-moon-lake-guide/
 
@@ -1524,8 +1683,8 @@
 # National Parks
 
 ## Yangmingshan National Park (陽明山國家公園) (Taipei City & New Taipei City)
-- https://en.wikipedia.org/wiki/Yangmingshan
-- https://maps.app.goo.gl/d89sV74wuGiR7SMu8
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Yangmingshan)
+- [Google Maps](https://maps.app.goo.gl/d89sV74wuGiR7SMu8)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/yangmingshan-national-park/)
 
 - tallest mountain: Qixing Mountain (七星山)
@@ -1645,6 +1804,7 @@
 - [Google Maps](https://maps.app.goo.gl/PfsddxeEFA3LL5qv5)
 
 ## Yonghe District (永和區) (New Taipei City, Yonghe District)
+- includes: Yonghe Baofu Temple, Museum of World Religions
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yonghe_District)
 - [Google Maps](https://maps.app.goo.gl/wVJPhfhTkVCTckC48)
 
@@ -1748,11 +1908,14 @@
 ## Fanglan (芳蘭) (Taipei City, Da'an District)
 - [Google Maps (芳蘭山莊)](https://maps.app.goo.gl/61bYnHUsoLdVPUQ48)
 
+- categories: community
+
 ## Dadaocheng (大稻埕) (Taipei City, Datong District)
 - also: Dihua Street (迪化街)
 - includes: Yongle Market
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Dadaocheng)
 - [Google Maps (Dihua Street 迪化街)](https://maps.app.goo.gl/prr43tud391zDmX46)
+- [Coco in Taiwan](https://corissajoy.com/dadaocheng-taipei/)
 
 ## Maokong (貓空) (Taipei City, Wenshan District)
 - [Google Maps](https://maps.app.goo.gl/PqSsaqPvyDjJ3o156)
@@ -1776,6 +1939,7 @@
 - https://www.travel.taipei/en/attraction/details/642
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001091&id=290
 - [Dribs & Drabs](https://www.dribs-drabs.com/%e6%97%85%e8%a1%8c-%e4%b9%9d%e4%bb%bd%e3%80%81%e8%80%81%e8%a1%97-%e5%a4%9c%e7%9a%84%e7%be%8e/)
+- https://girlonazebra.com/is-jiufen-worth-visiting/
 
 - Historic hillside mining village
 
