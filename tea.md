@@ -33,6 +33,7 @@
 
 ## Le Phare (樂法)
 - https://www.facebook.com/lepharedrink/
+- https://www.instagram.com/lepharelife/
 
 ## Milksha (迷客夏)
 - formerly: Milkshop
@@ -85,6 +86,7 @@
 - founded 2020 in Taiwan, Taichung
 
 ## Kebuke (可不可)
+- aka: 可不可熟成紅茶
 - https://kebuke.com/
 
 ## 清心福全
@@ -178,9 +180,11 @@
 - founded 2013 in Taiwan, Taoyuan
 
 ## Tea & Magic Hand (茶之魔手)
+- aka: 茶の魔手
 - https://zh.wikipedia.org/wiki/%E8%8C%B6%E4%B9%8B%E9%AD%94%E6%89%8B
 - https://www.teamagichand.com.tw/
 - founded 1993 in Taiwan, Tainan
+- https://www.marieclaire.com.tw/lifestyle/taste/62589
 
 ## WooYo (吾悠茶所)
 - https://www.facebook.com/profile.php?id=100078114432886
@@ -226,6 +230,7 @@
 
 ## pinatshiu (坪林手)
 - https://www.instagram.com/pinatshiu/
+- ice made of tea?
 
 ## Dragon Horn (龍角)
 - https://dragonhorn.com.tw/
@@ -337,6 +342,22 @@ https://www.teapro.com.tw/
 - https://www.instagram.com/thirsty_sun/
 - https://www.marchsun.net/
 
+## Fang Zui Artisan Tea (方最茗品)
+- https://www.instagram.com/fangzui_artisan.tea/
+- https://www.facebook.com/FangZuiArtisanTea/
+
+## Tea Know YOU (茶曉伊)
+- https://www.instagram.com/teaknowyou/
+- https://www.facebook.com/profile.php?id=100084371089331
+
+## Milk Tea Bank MTB (米堤銀行)
+- https://www.instagram.com/milkteabank/
+- https://www.facebook.com/MilkTeaBank/
+
+## TEASSENTIAL (茶山小)
+- https://www.facebook.com/teassential101
+- https://www.instagram.com/teassential101/
+
 ## Chun Shui Tang (春水堂)
 - https://en.wikipedia.org/wiki/Chun_Shui_Tang
 - https://www.chunshuitang.com.tw/
@@ -365,6 +386,7 @@ https://www.teapro.com.tw/
 - Tea love (提樂) [Google Maps](https://maps.app.goo.gl/Xp9x6mAWe8UeGeNk9), [Facebook](https://www.facebook.com/TeaLove2013/)
 - 誠正茶苑 (previously 詩篇) [Google Maps](https://maps.app.goo.gl/EWD8KgJcsRxQWFRp9)
 - Sunbeam (佐日光茶館) [Google Maps](https://maps.app.goo.gl/RVqenhvPTXRg5KU7A), [Facebook](https://www.facebook.com/TheSunbeam/), [Instagram](https://www.instagram.com/the_sunbeam68/)
+- 春山茶水舖 (春山茶水舖) [Google Maps](https://maps.app.goo.gl/yNqT1DTS7uWkM4Ds7)
 
 # leaves only
 

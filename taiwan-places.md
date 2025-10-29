@@ -1224,11 +1224,6 @@
 - categories: amusement park, museum
 - average to reach by public transport. direct train to from Taipei to Xinfeng railway station, but then 50min of walking or taxi required.
 
-## Hsinchu Zoo (新竹市立動物園) (Hsinchu City, East District)
-- [Google Maps](https://maps.app.goo.gl/5NHkTDsdidzNdV168)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Zoo)
-- https://zoo-info.hccg.gov.tw/
-
 ## Baozhong Yimin Temple (褒忠亭義民廟) (Hsinchu County, Xinpu Township)
 - [Google Maps](https://maps.app.goo.gl/dcQ4iZFW9yq86UY98)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F)
@@ -1265,7 +1260,7 @@
 - aka: 内灣老街
 - includes: Neiwan Theater (內灣戲院)
 - close by: Neiwan Suspension Bridge (內灣吊橋)
-- https://maps.app.goo.gl/aUXFudP4Sowy2TN59
+- [Google Maps](https://maps.app.goo.gl/aUXFudP4Sowy2TN59)
 - https://www.taiwanobsessed.com/neiwan-old-street/
 - [Josh Ellis](https://www.goteamjosh.com/blog/neiwan)
 - https://www.foreignersintaiwan.com/blog/neiwan-old-street
@@ -1273,14 +1268,65 @@
 
 - categories: old street
 
-## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
-- https://maps.app.goo.gl/UgYuANtaqwsSv3a2A
-- https://www.foreignersintaiwan.com/blog/xiangshan-wetlands
-- [Josh Ellis](https://www.goteamjosh.com/blog/xiangshi)
+## Hsinchu Prison Martial Arts Hall (新竹少年刑務所演武場) (Hsinchu City, North District)
+- aka: 新竹演武場
+- [Google Maps](https://maps.app.goo.gl/iePLR9d7oazZCbz97)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80%E6%BC%94%E6%AD%A6%E5%A0%B4)
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2017/11/20/the-hsinchu-prison-budokan-and-dormitories)
+- [Josh Ellis](https://www.goteamjosh.com/blog/shaonian)
+- [Orphaned Nation](https://www.orphanednation.com/hsinchu-prison-martial-arts-hall-%E6%96%B0%E7%AB%B9%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80%E6%BC%94%E6%AD%A6%E5%A0%B4/)
+- [SpectralCodex](https://spectralcodex.com/hsinchu-juvenile-prison-martial-arts-hall/)
+- https://nchdb.boch.gov.tw/assets/overview/monument/20120727000001
+
+- categories: martial arts hall
+
+## Hsinchu City God Temple (新竹都城隍廟) (Hsinchu City, North District)
+- aka: Hsinchu Chenghuang Temple, 新竹城隍廟
+- [Google Maps](https://maps.app.goo.gl/FnFxAgMPHcWD1U476)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Chenghuang_Temple)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002109&id=447
+- https://www.kcis.hc.edu.tw/gsh2024/gsh8748/03.htm
+- [SpectralCodex](https://spectralcodex.com/hsinchu-city-god-temple/)
+- [Josh Ellis](https://www.goteamjosh.com/blog/hsincitygod)
+
+- categories: temple
+
+## Hsinchu Zoo (新竹市立動物園) (Hsinchu City, East District)
+- aka: 新竹動物園
+- [Google Maps](https://maps.app.goo.gl/5NHkTDsdidzNdV168)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Zoo)
+- https://zoo-info.hccg.gov.tw/
+
+- categories: zoo
+- Taiwan's oldest zoo
+
+## Hsinchu Guandi Temple (新竹關帝廟) (Hsinchu City, East District)
+- [Google Maps](https://maps.app.goo.gl/tsKEaH3oWKLD6weHA)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E9%97%9C%E5%B8%9D%E5%BB%9F)
+- [Wikidata](https://www.wikidata.org/wiki/Q11084085)
+- [SpectralCodex](https://spectralcodex.com/hsinchu-guandi-temple/)
+
+- categories: temple
+
+## Hsinchu City Art Gallery (新竹市美術館) (Hsinchu City, East District)
+- aka: Reclamation Hall
+- [Google Maps](https://maps.app.goo.gl/4t6BgZViTQxoqaMQ6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8)
+- [Wikidata](https://www.wikidata.org/wiki/Q17164638)
+- https://culture.hccg.gov.tw/en/home.jsp?id=21&parentpath=0,3
+
+- categories: gallery, historical building
+
+## Shibajianshan Air Raid Shelters (十八尖山防空洞步道) (Hsinchu City, East District)
+- [Google Maps](https://maps.app.goo.gl/ChuakW7y9gkuE6Lm7)
+- [SpectralCodex](https://spectralcodex.com/hsinchu-shibajianshan-air-raid-shelters/)
+- https://blythe77777.pixnet.net/blog/post/576304296
+- https://www.youtube.com/watch?v=4dfPW5901Ps
 
 ## Lihpao Land (麗寶樂園度假區) (Taichung City, Houli District)
 - [Google Maps](https://maps.app.goo.gl/rzL8BkyiZUVyXhDm7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lihpao_Land)
+- [Wikidata](https://www.wikidata.org/wiki/Q11175218)
 - official: https://www.lihpaoresort.com
 - categories: amusement park, swimming pool
 
@@ -1289,6 +1335,7 @@
 ## Janfusun Fancyworld (劍湖山世界) (Yunlin County, Gukeng Township)
 - [Google Maps](https://maps.app.goo.gl/d1pxXn3fLtXiH1L19)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Janfusun_Fancyworld)
+- [Wikidata](https://www.wikidata.org/wiki/Q3161941)
 - official: https://www.janfusun.com.tw/
 - categories: amusement park, swimming pool
 
@@ -1297,6 +1344,7 @@
 ## Qingjing Farm (清境農場) (Nantou County, Ren'ai Township)
 - aka: Cingjing Farm
 - [Google Maps](https://maps.app.goo.gl/E7S3de8N1fAzQfed6)
+- [Wikidata](https://www.wikidata.org/wiki/Q14657879)
 - [GuideToTaipei.com](https://guidetotaipei.com/visit/qingjing-farm-%E6%B8%85%E5%A2%83%E8%BE%B2%E5%A0%B4-cingjing-chingjing)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002114&id=R128
 - https://www.cingjing.gov.tw/eng/
@@ -1313,9 +1361,10 @@
 ## Kaohsiung Museum of History (高雄市立歷史博物館) (Kaohsiung City, Yancheng District)
 - [Google Maps](https://maps.app.goo.gl/1jPese7PrnzVPZyc7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Museum_of_History)
+- [Wikidata](https://www.wikidata.org/wiki/Q6125749)
 - https://khm.org.tw/
 
-- museum
+- categories: museum
 
 ## Pier-2 Art Center (駁二藝術特區) (Kaohsiung City, Yancheng District)
 - [Google Maps](https://maps.app.goo.gl/A95BMVuDZ5kiEWmBA)
@@ -1327,35 +1376,42 @@
 ## Hamasen Museum of Taiwan Railway (哈瑪星台灣鐵道館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/nvWJqY21F1Wm3T6V9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Hamasen_Museum_of_Taiwan_Railway)
+- [Wikidata](https://www.wikidata.org/wiki/Q28682583)
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=ad8619af-19cc-4489-81c2-e3cb25841f74
 
-- museum
+- categories: museum
 
 ## Takao Railway Museum (舊打狗驛故事館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/xdakc5okNUjnSKMG6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Takao_Railway_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q25713893)
 
-- museum
+- categories: museum
 
-## Wu De Martial Arts Center (高雄武德殿) (Kaohsiung City, Gushan District)
+## Wude Martial Arts Center (高雄武德殿) (Kaohsiung City, Gushan District)
 - aka: Kaohsiung Martial Arts Hall, 高雄市武德殿
 - [Google Maps](https://maps.app.goo.gl/FwM5b17YWTyCkc8i9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Wude_Hall)
+- [Wikidata](https://www.wikidata.org/wiki/Q15921908)
 - [Josh Ellis](https://www.goteamjosh.com/blog/takaohall)
 - https://nchdb.boch.gov.tw/assets/overview/monument/20201118000004
+
+- categories: martial arts hall
 
 ## Shoushan Zoo (壽山動物園) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/ePdwZUgzd3hMqcuT9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Shoushan_Zoo)
+- [Wikidata](https://www.wikidata.org/wiki/Q9097841)
 
-- zoo
+- categories: zoo
 
 ## Kaohsiung Museum of Fine Arts (高雄市立美術館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/rNTvv1y7AG7yq2JD6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Museum_of_Fine_Arts)
+- [Wikidata](https://www.wikidata.org/wiki/Q3846600)
 - https://www.kmfa.gov.tw/English
 
-- museum
+- categories: museum
 
 ## Kaohsiung Martyrs' Shrine (高雄市忠烈祠) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/18TjcVqC2zbFdBHK7)
@@ -1370,7 +1426,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Science_and_Technology_Museum)
 - https://www.nstm.gov.tw/english/
 
-- museum
+- categories: museum
 
 ## Sankuaicuo Station (三塊厝車站) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/CgGdgQQdPkY6YvgB8)
@@ -1383,7 +1439,7 @@
 - https://khh.travel/en/attractions/detail/497/
 - [Girl on a Zebra](https://girlonazebra.com/sunfong-temple-kaohsiung/)
 
-- temple
+- categories: temple
 
 ## Weiwuying Street Art Village (衛武營彩繪社區) (Kaohsiung City, Fengshan District)
 - aka: 衛武營藝術村 WeR, WeiWu Mi Mi Village
@@ -1395,14 +1451,14 @@
 - [Google Maps](https://maps.app.goo.gl/AJxwaZJWWRFAs2LZ7)
 - https://www.suzukacircuitpark.com/
 
-- amusement park
+- categories: amusement park
 
 ## Kaohsiung Confucius Temple (左營孔子廟) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/wQ4RcWpk4Ghz7VSM8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Confucius_Temple)
 - [Josh Ellis](https://www.goteamjosh.com/blog/kaokong)
 
-- temple
+- categories: temple
 
 ## Dragon and Tiger Pagodas (龍虎塔) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/vNhS1qzyKZUbmFXs5)
@@ -1415,6 +1471,8 @@
 - https://www.atlasobscura.com/places/ocean-fantasy-museum
 - https://torenatkinson.com/2023/11/05/torens-taiwan-trip-19-ocean-fantasy-museum-at-chengching-lake-niaosong-district-kaohsiung-a-sad-octopus/
 - https://www.facebook.com/cclem7356166/
+
+- categories: museum
 
 ## National Museum of Marine Biology and Aquarium (國立海洋生物博物館) (Pingtung County, Checheng Township)
 - [Google Maps](https://maps.app.goo.gl/vCyAggv7Z1wyCczG8)
@@ -1515,6 +1573,18 @@
 
 - categories: night market
 
+## Chenghuang Temple Night Market (新竹市城隍廟夜市) (Hsinchu City, North District)
+- aka: City God Temple Night Market
+- [Google Maps](https://maps.app.goo.gl/4MF8z9dZvHMQ4ZsU6)
+- https://daphnelcc.wordpress.com/2014/02/12/taiwanese-eats-hsinchu-cheng-huang-temple-night-market/
+- https://www.travelking.com.tw/eng/tourguide/nightmarket/scenery613.html
+
+## Shulintou Night Market (樹林頭觀光夜市) (Hsinchu City, North District)
+- aka: 樹林頭夜市
+- [Google Maps](https://maps.app.goo.gl/85gCnjXwKyzbLmib6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%A8%B9%E6%9E%97%E9%A0%AD%E5%A4%9C%E5%B8%82)
+- https://journey.tw/shulintou-night-market/
+
 ## Hsinchu Weekend Flower Market (新竹假日花市) (Hsinchu City, East District)
 - [Google Maps](https://maps.app.goo.gl/77cxpTp4gZaCSxfD6)
 - https://www.foreignersintaiwan.com/blog/hsinchu-weekend-flower-market
@@ -1530,13 +1600,32 @@
 
 - categories: night market
 
+## Dongmen Market (新竹東門市場) (Hsinchu City, East District)
+- aka: 新竹市東門市場
+- [Google Maps](https://maps.app.goo.gl/YAdzmckL2LvKHeBz8)
+- [Wikidata](https://www.wikidata.org/wiki/Q81692009)
+- [Breezing Hsinchu](https://www.kcis.hc.edu.tw/gsh2024/gsh8748/08.htm)
+- [Facebook](https://www.facebook.com/TumgmenMarket/)
+- https://eyesonplace.net/2021/11/12/19055/
+
+- categories: traditional indoor market
+
 ## Liuhe Night Market (六合觀光夜市) (Kaohsiung City, Sinsing District)
 - [Google Maps](https://maps.app.goo.gl/ePvx68xccizmCC13A)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Liouhe_Night_Market)
+- [Wikidata](https://www.wikidata.org/wiki/Q701113)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002121&id=2245
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001121&id=2245
 - [TaiwanObsessed](https://www.taiwanobsessed.com/liuhe-night-market-kaohsiung/)
 
 - categories: night market
+
+## Taitung Tourism Night Market (臺東觀光夜市) (Taitung County, Taitung City)
+- aka: 台東觀光夜市
+- [Google Maps](https://maps.app.goo.gl/6uehhKfWEA1v94uW8)
+- https://zh.wikipedia.org/wiki/%E8%87%BA%E6%9D%B1%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82
+- [Wikidata](https://www.wikidata.org/wiki/Q65053626)
+- https://www.travelking.com.tw/eng/tourguide/scenery105132.html
 
 # Parks and Waterfalls
 
@@ -1632,6 +1721,11 @@
 - https://newtaipei.travel/zh-tw/attractions/detail/111421
 - https://youfuntaiwan.com/en/jinguashi-geopark/
 
+## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
+- https://maps.app.goo.gl/UgYuANtaqwsSv3a2A
+- https://www.foreignersintaiwan.com/blog/xiangshan-wetlands
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiangshi)
+
 ## Kaohsiung 228 Peace Memorial Park (二二八和平紀念公園) (Kaohsiung City, Yancheng District)
 - aka: 二二八和平公園
 - [Google Maps](https://maps.app.goo.gl/btXj51uZ5nk98ZMh8)
@@ -1657,6 +1751,8 @@
 ## Meihua Lake (梅花湖) (Yilan County, Dongshan Township)
 - aka: Plum Blossom Lake
 - [Google Maps](https://maps.app.goo.gl/xWrxg73jmxZLK9YT7)
+- [Wikidata](https://www.wikidata.org/wiki/Q11115236)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Meihua_Lake)
 
 - categories: lake
 
@@ -1664,6 +1760,7 @@
 - aka: Carp Lake
 - [Google Maps](https://maps.app.goo.gl/o2YkvXfwT98iNAmp9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Liyu_Lake)
+- [Wikidata](https://www.wikidata.org/wiki/Q11172723)
 
 - categories: lake
 
@@ -1671,6 +1768,7 @@
 - aka: Zintun, Lake Candidius
 - [Google Maps](https://maps.app.goo.gl/DWGwi4MDYCTfp32q8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Sun_Moon_Lake)
+- [Wikidata](https://www.wikidata.org/wiki/Q716206)
 - https://www.nickkembel.com/sun-moon-lake-taiwan/
 - https://www.taiwanobsessed.com/sun-moon-lake-guide/
 
@@ -1686,6 +1784,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yangmingshan)
 - [Google Maps](https://maps.app.goo.gl/d89sV74wuGiR7SMu8)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/yangmingshan-national-park/)
+- [Wikidata](https://www.wikidata.org/wiki/Q709029)
 
 - tallest mountain: Qixing Mountain (七星山)
 - popular areas: Xiaoyoukeng (小油坑), Qingtiangang (擎天崗), Lengshuikeng (冷水坑)
@@ -1695,6 +1794,7 @@
 ## Bayan Hot Springs (八煙溫泉) (New Taipei City, Jinshan District)
 - [Google Maps](https://maps.app.goo.gl/E4LfXaS4XA1TVo3D8)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/2/17/bayan-hot-springs)
+- [Wikidata](https://www.wikidata.org/wiki/Q10892293)
 - https://explore.myroomabroad.com.tw/bayan-hot-springs/
 - [Flickr (Taiwan Adventures)](https://www.flickr.com/photos/taiwanadventures/albums/72157626458081013/)
 - [Nickkembel Travels](https://www.nickkembel.com/taiwan-hot-springs/#Bayan_Ye_Xi_Hot_Spring_%E5%85%AB%E7%85%99%E9%87%8E%E6%BA%AA%E6%BA%AB%E6%B3%89_CLOSED)
@@ -1705,6 +1805,8 @@
 - aka: 烏來野溪溫泉
 - [Google Maps](https://maps.app.goo.gl/keWoQSDC86HhhhsTA)
 - [Google Maps (Stairs)](https://maps.app.goo.gl/7hrRiumZEPxWwFyM6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Wulai_Hot_Spring)
+- [Wikidata](https://www.wikidata.org/wiki/Q11567253)
 - [HopOut](https://hopout.com.tw/location/taipei-wulai-hot-spring)
 - https://www.nickkembel.com/wulai-hot-spring-taipei-taiwan/
 
@@ -1720,6 +1822,7 @@
 ## Sileng Hot Springs (四稜溫泉) (Taoyuan City, Fuxing District)
 - aka: 四陵溫泉, 四棱溫泉
 - [Google Maps](https://maps.app.goo.gl/cXCYC8GR18jqiV1p9)
+- [Wikidata](https://www.wikidata.org/wiki/Q10925231)
 - [HopOut](https://hopout.com.tw/location/taoyuan-sileng-hot-spring)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/02/09/sileng-hotspring-%E5%9B%9B%E7%A8%9C%E6%BA%AB%E6%B3%89/)
 - [Hiking Taiwan](https://hikingtaiwan.wordpress.com/2009/03/26/sileng-wild-springs-%E5%9B%9B%E7%A8%9C%E6%BA%AB%E6%B3%89/)
@@ -1737,6 +1840,8 @@
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2020/1/22/fanfan-wild-hot-spring-yilan)
 - [HopOut](https://hopout.com.tw/location/yilan-fanfan-hot-spring)
 - [Nickkembel Travels](https://www.nickkembel.com/taiwan-hot-springs/#Paigu_Fan_Fan_Hot_Springs_%E6%8E%92%E9%AA%A8_%E6%A2%B5%E6%A2%B5%E6%BA%AB%E6%B3%89)
+- [Wikidata](https://www.wikidata.org/wiki/Q136669312)
+- https://www.foreignersintaiwan.com/blog/fanfan-hot-spring
 
 - categories: camping, hot spring, river tracing
 
@@ -1749,6 +1854,8 @@
 
 ## Lisong Hot Springs (栗松溫泉) (Taitung County, Haiduan Township)
 - [Google Maps](https://maps.app.goo.gl/k28pJCS49YHQ6Wgw8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Lisong_Hot_Spring)
+- [Wikidata](https://www.wikidata.org/wiki/Q11110687)
 - https://www.tomrookart.com/hiddentaiwan/lisong-wild-hot-springs-taitung
 - [TaiwanObsessed](https://www.taiwanobsessed.com/lisong-hot-spring/)
 - [HopOut](https://hopout.com.tw/location/taitung-lisong-hot-spring)
