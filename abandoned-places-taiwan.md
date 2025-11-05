@@ -55,7 +55,7 @@
 - note: the location on the SpectralCodex website is slightly off, the above one is correct
 
 ## Green Mansion (汐止豪宅廢墟) (New Taipei City, Xizhi District)
-- [Google Maps](https://maps.app.goo.gl/kmbNdY144c1A1Sme6)
+- [Google Maps](https://maps.app.goo.gl/AhxQNBM2iy3hokXXA)
 - https://gdaytaiwan.wordpress.com/2015/10/27/adventures-within-taiwans-green-mansion/
 - https://lenpep.wordpress.com/2017/11/03/green-mansion-xizhi-%E6%B1%90%E6%AD%A2%E5%8D%80/
 - http://pireze.org/2013/location-scout-urban-exploration-of-taiwans-green-mansion/

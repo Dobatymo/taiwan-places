@@ -10,6 +10,7 @@
 ## Like Tea (老賴茶棧)
 - https://zh.wikipedia.org/wiki/%E8%80%81%E8%B3%B4%E8%8C%B6%E6%A3%A7
 - https://www.liketeashop.com/ 
+- https://www.facebook.com/liketeashop
 - founded 1980
 
 ## Junchan (軍茶)
@@ -55,6 +56,8 @@
 
 ## Happy Lemon (快樂檸檬)
 - http://yummy-town.tw/
+- https://www.facebook.com/happylemonglobal
+- locations: https://yummy-town.tw/global_en.php
 
 ## Guiji (龜記茗品)
 - https://guiji-group.com/
@@ -88,9 +91,13 @@
 ## Kebuke (可不可)
 - aka: 可不可熟成紅茶
 - https://kebuke.com/
+- locations: https://kebuke.com/store/
+- menu: https://kebuke.com/menu/
 
-## 清心福全
+## Ching Shin Fu Quan (清心福全)
 - https://zh.wikipedia.org/wiki/%E6%B8%85%E5%BF%83%E7%A6%8F%E5%85%A8
+- https://www.chingshin.tw/
+- locations: https://www.chingshin.tw/store.php
 - founded 1987 in Taiwan
 
 ## NUTTEA (堅果奶茶)
@@ -106,6 +113,7 @@
 ## COMEBUY (COMEBUY)
 - https://en.wikipedia.org/wiki/COMEBUYTEA
 - https://www.comebuy2002.com.tw/
+- https://www.facebook.com/comebuytea
 - founded 2002 in Taiwan
 
 ## CoCo Fresh Tea & Juice (CoCo都可茶飲)
@@ -133,6 +141,7 @@
 - founded 2018 in Taiwan
 
 ## TRUEDAN (珍煮丹)
+- aka: JenJuDan, 珍煮丹黑糖飲品
 - https://zh.wikipedia.org/wiki/%E7%8F%8D%E7%85%AE%E4%B8%B9
 - https://www.truedan.com.tw/
 - founded 2010
@@ -140,6 +149,7 @@
 ## MACU TEA (麻古茶坊)
 - https://www.macutea.com.tw/en/
 - https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%8F%A4%E8%8C%B6%E5%9D%8A
+- https://www.facebook.com/macuteaglobal
 - founded 2008 in Taiwan
 
 ## CHAPPii (開心茶事)
@@ -152,8 +162,10 @@
 - https://www.facebook.com/tea.topTW/
 
 ## ONEZO (丸作食茶)
+- aka: 丸作
 - https://zh.wikipedia.org/wiki/%E4%B8%B8%E4%BD%9C%E9%A3%9F%E8%8C%B6
 - https://www.onezotea.com/
+- https://www.instagram.com/onezo.official/
 - founded in 2015
 
 ## Odd One Out (OOO Tea)
@@ -163,6 +175,7 @@
 ## WooTea (五桐號)
 - https://www.wootea.com/
 - https://www.instagram.com/wooteatw/
+- locations: https://www.wootea.com/store/
 
 ## 8yotea (八曜和茶)
 - https://zh.wikipedia.org/wiki/%E5%85%AB%E6%9B%9C%E5%92%8C%E8%8C%B6
@@ -173,6 +186,7 @@
 - https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%8B%91%E5%AD%90
 - http://www.dayungs.com.tw
 - founded 2001
+- locations: https://www.dayungs.com/retail-html/
 
 ## THE ALLEY (鹿角巷)
 - https://zh.wikipedia.org/wiki/%E9%B9%BF%E8%A7%92%E5%B7%B7_THE_ALLEY
@@ -195,6 +209,8 @@
 
 ## Presotea (鮮茶道)
 - http://presotea.com.tw/
+- https://www.facebook.com/presotea.tw/
+- https://www.instagram.com/presotea_global/
 
 ## Drinkstore (水雲朵)
 - https://www.drinkstore.com.tw/
@@ -298,6 +314,69 @@ https://www.teapro.com.tw/
 - https://www.instagram.com/60plusteashop/
 - https://www.facebook.com/profile.php?id=100063911601105
 - https://linktr.ee/60plusteashop
+- locations:
+  - https://maps.app.goo.gl/8o28Mg614JujUg9N7
+  - https://maps.app.goo.gl/tZRiWKcD4YX2SzTc9
+  - https://maps.app.goo.gl/BhDyJjqK9LtVSKDw7
+
+## Orange Tea Express (橘子工坊)
+- id: orange_tea
+- http://www.orangetea.com.tw/
+- locations: http://www.orangetea.com.tw/index.php?option=com_content&task=blogsection&id=4&Itemid=32
+- locations:
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=10&id=51&Itemid=76
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=10&id=50&Itemid=77
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=9&id=49&Itemid=79
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=8&id=46&Itemid=75
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=8&id=20&Itemid=73
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=8&id=45&Itemid=72
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=8&id=43&Itemid=74
+  - http://www.orangetea.com.tw/index.php?option=com_content&task=category&sectionid=11&id=48&Itemid=78
+
+## Joomar Tea (舟馬茶坊)
+- formerly: 原外婆茶屋
+- https://www.facebook.com/Joomartea
+- locations:
+  - 台北市大安區四維路170巷47號 https://maps.app.goo.gl/J7qKD6S3TdJ8qJpR7
+
+## DINGTEA (薡茶)
+- aka: 鼎茶, 頂呱呱茶坊
+- https://www.instagram.com/dingteaofficial/
+- https://www.dingtea.com/
+- https://www.facebook.com/DingteaOfficial/
+- https://www.instagram.com/dingteaofficial_tw/
+- https://www.facebook.com/DingteaStore/
+- are there any locations left in Taiwan?
+
+## machi machi (麥吉)
+- aka: 麻吉
+- https://www.instagram.com/machimachi__official/
+- https://www.facebook.com/profile.php?id=100064009001259
+- locations:
+  - https://maps.app.goo.gl/ZfcQjyQavrHpzuuy5
+  - https://maps.app.goo.gl/uQZzAULWdJR3WZm79
+
+## John Tea Company (約翰紅茶公司)
+- https://www.facebook.com/johnteacompany/
+- https://www.instagram.com/johnteacompany/
+
+## Wanpo Tea (萬波島嶼紅茶)
+- https://wanpotea.com/
+- https://www.instagram.com/wanpotea.com.tw/
+- https://www.facebook.com/wanpotea.com.tw/
+- locations: https://wanpotea.com/shop.php
+- https://www.marieclaire.com.tw/lifestyle/taste/76724/wanpo-tea-shop
+
+## Don't Yell At Me (不要對我尖叫)
+- https://www.facebook.com/dont.y.atme/
+- https://www.dontyellatme.com/%E9%A6%96%E9%A0%81
+- https://www.instagram.com/dont.yell.at.me/
+
+## SOMA (特調飲品)
+- https://soma-drinks.com/
+- https://www.facebook.com/somadrinks/
+- https://www.instagram.com/somadrink/
+- locations: https://soma-drinks.com/store.html
 
 ## Mita Tea (米塔黑糖)
 - https://www.instagram.com/mitateashop/
@@ -359,6 +438,7 @@ https://www.teapro.com.tw/
 - https://www.instagram.com/teassential101/
 
 ## Chun Shui Tang (春水堂)
+- aka: 春水堂人文茶館
 - https://en.wikipedia.org/wiki/Chun_Shui_Tang
 - https://www.chunshuitang.com.tw/
 - founded 1983 in Taiwan

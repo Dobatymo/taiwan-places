@@ -660,7 +660,7 @@
 - only open in July and August...
 
 ## Road Castle (親水體驗教育區) (Taipei City, Zhongzheng District)
-- [Google Maps](https://maps.app.goo.gl/JghN46ZRTHiN3MC27)
+- [Google Maps](https://maps.app.goo.gl/isTx8qebCfxrWf176)
 - https://www.roadcastle.com.tw/32080264632915126989.html
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/road-castle
 - permanently closed (since end of 2021)
@@ -689,7 +689,7 @@
 ## Fanglan Mansion (芳蘭大厝) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/txAbPYJdRNu5Syzp7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Fanglan_Mansion)
-- https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&sms=07D68BC61ECBFF67&s=F54B37BDDC5F1D93
+- https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&s=F54B37BDDC5F1D93
 - [SpectralCodex](https://spectralcodex.com/daan-fanglan-old-house/)
 
 ## Huanmin Village (煥民新村) / Toad Mountain (蟾蜍山) (Taipei City, Da'an District)
@@ -703,6 +703,15 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%9F%BE%E8%9C%8D%E5%B1%B1)
 
 - categories: community
+
+## Long'anpo Huangzhai Lianrang Residence (龍安坡黃宅濂讓居) (Taipei City, Da'an District)
+- aka: Long'anpo Huangzhai Lianren Residence
+- [Google Maps](https://maps.app.goo.gl/Kummk9W3Xk1dhEMW6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%BE%8D%E5%AE%89%E5%9D%A1%E9%BB%83%E5%AE%85%E6%BF%82%E8%AE%93%E5%B1%85)
+- [SpectralCodex](https://spectralcodex.com/daan-longanpo-huangzhai-lianren-residence/)
+- https://miniculturaltripsen.gov.taipei/News_Content.aspx?n=F6AC7278C929CDD9&s=E2966859D5B91787
+
+- categories: cultural heritage, sanheyuan
 
 ## Lin An Tai Historical House and Museum (林安泰古厝) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/YUZwd6zARo8J2caF8)
@@ -780,7 +789,7 @@
 ## Chiang Wei-shui Memorial Plaza (蔣渭水先生紀念廣場) (Taipei City, Xinyi District)
 - aka: Chiang Wei-shui Memorial Square, 蔣渭水紀念廣場
 - [Google Maps](https://maps.app.goo.gl/mnntPz9LZ8Z4A85fA)
-- https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&sms=337199328131CB54&s=79737B7635134B3C
+- https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&s=79737B7635134B3C
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/chiang-wei-shui-memorial-square2)
 - https://culture.gov.taipei/cp.aspx?n=58B73B2AC9F88E85
 
@@ -802,7 +811,7 @@
 - public transport: great
 
 ## Hexing Coal Mine (和興炭坑) (Taipei City, Xinyi District)
-- [Google Maps](https://maps.app.goo.gl/dq3fxzhMApykJP69A)
+- [Google Maps](https://maps.app.goo.gl/eejcEn5cLXD7jTjW7)
 - https://www.travel.taipei/en/attraction/details/2351
 - https://www.travel.taipei/zh-tw/attraction/details/398
 - https://www.atlasobscura.com/places/hexing-coal-mine
@@ -965,6 +974,11 @@
 - https://www.wikidata.org/wiki/Q28410545
 
 - categories: temple
+
+## Yonghe Lin Family Residence (永和林家古厝) (New Taipei City, Yonghe District)
+- [Google Maps](https://maps.app.goo.gl/586aMD3G5i3X5RcG9)
+- [SpectralCodex](https://spectralcodex.com/yonghe-lin-family-residence/)
+- https://justabalcony.blogspot.com/2021/12/just-old_11.html
 
 ## Jing-Mei White Terror Memorial Park (白色恐怖景美紀念園區) (New Taipei City, Xindian District)
 - also: National Human Rights Museum (國家人權博物館)
@@ -1519,26 +1533,25 @@
 ## Shuiyuan Market (水源市場) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/TbSYC4oEw8YARadv9)
 - [SpectralCodex](https://spectralcodex.com/zhongzheng-shuiyuan-market/)
-- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&sms=56EA48C2CF815D63&s=5EED5B101DBC4834
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=5EED5B101DBC4834
 
 - categories: traditional indoor market
 
-## Yongle Market (永樂市場) (Taipei City, Datong District)
-- aka: Yongle Fabric Market
-- [Google Maps (Yongle Market)](https://maps.app.goo.gl/EQcU38uW6QqHPZNLA)
-- https://www.travel.taipei/en/attraction/details/1697
+## Nanmen Market (南門市場) (Taipei City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/xWEXrW247Xbd58SM9)
+- https://en.wikipedia.org/wiki/Nanmen_Market
+- https://www.tpnanmen.org.tw/
+- https://www.travel.taipei/en/attraction/details/2017
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=A9AA4DF1B73C5444
 
-- categories: market
+- categories: traditional indoor market
 
-## Raohe Street Night Market (饒河街觀光夜市) (Taipei City, Songshan District)
-- aka: Raohe Street Tourist Night Market
-- [Google Maps](https://maps.app.goo.gl/ZhhFu67dTCZEeZeq6)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Raohe_Street_Night_Market)
-- https://www.travel.taipei/en/attraction/details/1691
-- https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=R177
+## Chengzhong Market (城中市場) (Taipei City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/x6CKcHrxE6NFfi9A8)
+- https://www.facebook.com/chengchung.market/
+- https://www.travel.taipei/en/attraction/details/3693
 
-- public transport: great, next to Songshan station
-- categories: night market
+- categories: traditional indoor market
 
 ## Nanjichang Night Market (南機場夜市) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/NMk5kg4kxQ8BxMZo9)
@@ -1546,7 +1559,78 @@
 - [TaiwanObsessed](https://www.taiwanobsessed.com/nanjichang-night-market-taipei/)
 - https://taiwantravelblog.com/nanjichang-night-market/
 - [onethingoneweek](https://onethingoneweek.com/nanjichang-night-market/)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=8D1486E0B9D99902&s=EE57644D1D75A134
 
+- categories: night market
+
+## Xinfu Market (新富町文化市場) (Taipei City, Wanhua District)
+- aka: 新富市場
+- [Google Maps](https://maps.app.goo.gl/cB64LyGjXegjgbi4A)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%AF%8C%E5%B8%82%E5%A0%B4)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=88CA7DE5854573CA
+- https://umkt.jutfoundation.org.tw/
+- https://www.travel.taipei/zh-tw/attraction/details/1798
+- https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&s=7F796ED476464D5B
+- https://www.travel.taipei/en/attraction/details/2388
+
+## Huaxi Street Tourist Night Market (華西街夜市) (Taipei City, Wanhua District)
+- aka: 華西街觀光夜市
+- close by: Longshan Temple
+- [Google Maps](https://maps.app.goo.gl/TnZnFBNDsohpmHnN8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Snake_Alley_(Taipei))
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%8F%AF%E8%A5%BF%E8%A1%97%E5%A4%9C%E5%B8%82)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=8D1486E0B9D99902&s=8B997A24EF1CDB82
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=18
+- https://www.travel.taipei/en/attraction/details/1687
+
+## Changchun Market (長春市場) (Taipei City, Zhongshan District) 
+- [Google Maps](https://maps.app.goo.gl/YoiWbAvXu2JDXU93A)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=689BFAF0564C88F0
+- https://www.cto.moea.gov.tw/Market/web/market/detail.php?mid=306
+
+- categories: traditional indoor market
+
+## Yongchun Market (永春市場) (Taipei City, Xinyi District)
+- [Google Maps](https://maps.app.goo.gl/oGPEfVzzyeR5WALD6)
+- https://www.tcma.gov.taipei/News_Content.aspx?n=1A4C7120ABFD0F9F&s=52D5C81885209CE3
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=2E18E7895E2765CE
+
+## Chenggong Market (公有成功市場) (Taipei City, Da'an District)
+- [Google Maps](https://maps.app.goo.gl/r8eHDMTC6Y8r6mV2A)
+- [Facebook](https://www.facebook.com/profile.php?id=100064173636622)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=256D6534E19619EA
+
+- categories: traditional indoor market
+
+## Longquan Market (龍泉市場) (Taipei City, Da'an District)
+- [Google Maps](https://maps.app.goo.gl/tputn2YTjGryP3qq5)
+
+- categories: traditional indoor market
+
+## Dalong Market (大龍市場) (Taipei City, Datong District)
+- [Google Maps](https://maps.app.goo.gl/XSsghwXjDKw5PB6v6)
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=71413C8D8A5A106F
+- https://seankuma.wordpress.com/2020/05/25/%E9%A3%9F%E5%9C%A8%E5%8F%B0%E5%8C%97-%E6%96%B0%E5%A4%A7%E9%BE%8D%E5%B8%82%E5%A0%B4%E6%8E%A2%E7%A7%98/
+
+- categories: traditional indoor market
+
+## Yongle Market (永樂市場) (Taipei City, Datong District)
+- aka: Yongle Fabric Market
+- [Google Maps (Yongle Market)](https://maps.app.goo.gl/EQcU38uW6QqHPZNLA)
+- https://www.travel.taipei/en/attraction/details/1697
+- https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=B4CEB2924E2AE3D0
+
+- categories: traditional indoor market
+
+## Raohe Street Night Market (饒河街觀光夜市) (Taipei City, Songshan District)
+- aka: Raohe Street Tourist Night Market
+- [Google Maps](https://maps.app.goo.gl/ZhhFu67dTCZEeZeq6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Raohe_Street_Night_Market)
+- https://www.travel.taipei/en/attraction/details/1691
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=R177
+- https://english.tcma.gov.taipei/News_Content.aspx?n=8D1486E0B9D99902&s=F040CB446A14DF94
+
+- public transport: great, next to Songshan station
 - categories: night market
 
 ## Zhongli Tourist Night Market (中壢觀光夜市) (Taoyuan City, Zhongli District)
@@ -1623,7 +1707,7 @@
 ## Taitung Tourism Night Market (臺東觀光夜市) (Taitung County, Taitung City)
 - aka: 台東觀光夜市
 - [Google Maps](https://maps.app.goo.gl/6uehhKfWEA1v94uW8)
-- https://zh.wikipedia.org/wiki/%E8%87%BA%E6%9D%B1%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%87%BA%E6%9D%B1%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82)
 - [Wikidata](https://www.wikidata.org/wiki/Q65053626)
 - https://www.travelking.com.tw/eng/tourguide/scenery105132.html
 
@@ -1722,7 +1806,7 @@
 - https://youfuntaiwan.com/en/jinguashi-geopark/
 
 ## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
-- https://maps.app.goo.gl/UgYuANtaqwsSv3a2A
+- [Google Maps](https://maps.app.goo.gl/UgYuANtaqwsSv3a2A)
 - https://www.foreignersintaiwan.com/blog/xiangshan-wetlands
 - [Josh Ellis](https://www.goteamjosh.com/blog/xiangshi)
 
@@ -1804,7 +1888,7 @@
 ## Wulai Hot Springs (烏來溫泉) (New Taipei City, Wulai District)
 - aka: 烏來野溪溫泉
 - [Google Maps](https://maps.app.goo.gl/keWoQSDC86HhhhsTA)
-- [Google Maps (Stairs)](https://maps.app.goo.gl/7hrRiumZEPxWwFyM6)
+- [Google Maps (Stairs)](https://maps.app.goo.gl/uo1VHKVGEBxCv5a66)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Wulai_Hot_Spring)
 - [Wikidata](https://www.wikidata.org/wiki/Q11567253)
 - [HopOut](https://hopout.com.tw/location/taipei-wulai-hot-spring)
@@ -2001,6 +2085,28 @@
 - [Google Maps](https://maps.app.goo.gl/zLyUefLYvFkEvsFd6)
 - [Google Maps (Ximen Village 西門里)](https://maps.app.goo.gl/pgKfMxnmnoj8JVpH8)
 - [GuideToTaipei.com](https://guidetotaipei.com/visit/ximending-youth-shopping-district-%E8%A5%BF%E9%96%80%E7%94%BA)
+
+## Huajiang Public Housing (華江整宅) (Taipei City, Wanhua District)
+- aka: 華江整建住宅, 華江整宅社區
+- [Google Maps](https://maps.app.goo.gl/dDHPLYLbP7msqQAB7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%8F%AF%E6%B1%9F%E6%95%B4%E5%BB%BA%E4%BD%8F%E5%AE%85)
+- https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&s=20BC5AC01CB14B77
+- [SpectralCodex](https://spectralcodex.com/wanhua-huajiang-public-housing/)
+- https://www.veins-of-taipei.com/2024/04/23/r094/
+- https://culture.gov.taipei/cp.aspx?n=AAC416EAE7014930
+
+- categories: community, housing complex, building complex
+
+## Nanjichang Community (南機場社區) (Taipei City, Zhongzheng District)
+- aka: 南機場國民住宅
+- [Google Maps (南機場公寓國民住宅)](https://maps.app.goo.gl/UJwbJ6ENNkSB1v4W8)
+- [Google Maps (南機場：第3期)](https://maps.app.goo.gl/Cz5SmND3kLrDfiTR9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A9%9F%E5%A0%B4%E5%9C%8B%E6%B0%91%E4%BD%8F%E5%AE%85)
+- https://www.goteamjosh.com/blog/nanjichang
+- https://www.tomrookart.com/hiddentaiwan/2018/5/2/lanzhou-street-and-taiwans-2nd-generation-market-buildings
+- https://nookcity.tw/South-Airport-Apartments_history.html
+
+- categories: community, condominium complex
 
 ## Gongguan (公館) (Taipei City, Zhongzheng District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Gongguan,_Taipei)
