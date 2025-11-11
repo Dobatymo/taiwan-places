@@ -378,6 +378,16 @@ https://www.teapro.com.tw/
 - https://www.instagram.com/somadrink/
 - locations: https://soma-drinks.com/store.html
 
+## UNOCHA (烏弄原茶)
+- https://unocha.com.tw/
+- https://www.instagram.com/unocha_tw/
+
+## UG (UG Tea)
+- aka: Unique Green
+- https://www.facebook.com/uniquegreentea/
+- https://www.instagram.com/ugtea_official/
+- location: https://maps.app.goo.gl/qmC1nubYurHz3MUt6
+
 ## Mita Tea (米塔黑糖)
 - https://www.instagram.com/mitateashop/
 - https://www.facebook.com/mitateashop/

@@ -10,6 +10,10 @@
 - [Official](https://web.archive.org/web/20010218000423fw_/http://www.stanton-club.com.tw/index2.htm)
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=IKCBtfkDrKY)
 
+## Tianmu Chuanjiaju (天母傳家居) (Taipei City, Shilin District)
+- [Google Maps](https://maps.app.goo.gl/156btUY9nF7ko7dLA)
+- https://spectralcodex.com/shilin-tianmu-chuanjiaju/
+
 ## Youya Road Abandoned Clinic (幽雅路廢棄診所, 北投幽雅路診所) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/b5tFQM6ZH7rwA3sa7)
 - https://taiwansruinadventure.weebly.com/212712523724290226873267624290268203538625152.html
@@ -60,8 +64,9 @@
 - https://lenpep.wordpress.com/2017/11/03/green-mansion-xizhi-%E6%B1%90%E6%AD%A2%E5%8D%80/
 - http://pireze.org/2013/location-scout-urban-exploration-of-taiwans-green-mansion/
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=8lvg2hMmaLU)
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/6/abandoned-hotel-xizhi)
 
-- 2015: almost completely demolished (according to Paul Kemp)
+- 2015: almost completely demolished (according to Paul Kemp and Tom Rook)
 
 ## Losheng Sanatorium (樂生療養院) (New Taipei City, Xinzhuang District)
 - [Google Maps](https://maps.app.goo.gl/JYmhGJh5n16ZspK67)
@@ -88,6 +93,7 @@
 - https://gdaytaiwan.wordpress.com/2016/07/15/taiwans-abandoned-the-thirteen-levels/
 - [Reddit (r/AbandonedPorn)](https://www.reddit.com/r/AbandonedPorn/comments/10uwld9/abandoned_remains_of_the_13_levels_taiwan/)
 - https://www.dribs-drabs.com/%e5%8d%81%e4%b8%89%e5%b1%a4%e9%81%ba%e5%9d%80%e5%9b%9b%e5%80%8b%e6%9c%80%e4%bd%b3%e6%8b%8d%e6%94%9d%e9%bb%9e-%e6%b0%b4%e6%b9%b3%e6%b4%9e%e5%a4%9c%e6%99%9a%e6%9c%80%e9%96%83%e4%ba%ae%e7%9a%84%e4%b8%80/
+- [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.643952795657465)
 
 - dangerous, guards, need to climb fences
 
@@ -102,6 +108,8 @@
 - https://en.wikipedia.org/wiki/2015_New_Taipei_water_park_fire
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=RDMSDAZdRVE)
 - https://lostplaces.tw/formosa-fun-coast/
+- https://spectralcodex.com/bali-formosa-fun-coast/
+- https://home.gamer.com.tw/creationDetail.php?sn=4516571
 
 ## Bali Mediterranean Club (八里地中海俱樂部) (New Taipei City, Bali District)
 - [Google Maps](https://maps.app.goo.gl/ricruu4XX3xdFJUu9)
@@ -125,9 +133,14 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%9F%8E%E5%BD%88%E8%97%A5%E5%BA%AB)
 
 ## Nantianmu Forest Park (南天母森林遊樂園) (New Taipei City, Tucheng District)
+- aka: South Tianmu forest town, 南天母森林小鎮
 - [Google Maps](https://maps.app.goo.gl/NsiXvpVVxvzcP8Wi6)
 - [SpectralCodex](https://spectralcodex.com/tucheng-nantianmu-forest-park/)
+- [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.655367261182685)
 - https://www.juksy.com/article/122891
+- https://forum.gamer.com.tw/C.php?bsn=60201&snA=16912
+- https://home.gamer.com.tw/creationDetail.php?sn=3268193
+- https://www.youtube.com/watch?v=1mzAZWvTQUU
 
 ## Wanli UFO Village (萬里飛碟屋) (New Taipei City, Wanli District)
 - aka: 翡翠灣太空玲瓏屋, Wanli Futuro Village
@@ -144,6 +157,13 @@
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
 - [Atlas Obscura](https://www.atlasobscura.com/places/wanli-ufo-village)
 - https://www.youtube.com/watch?v=_cvGmcHW0Yo
+- https://www.taipeitimes.com/News/feat/archives/2025/03/07/2003833010
+
+## Sanzhi Beihai Resort Center (三芝北海度假中心) (New Taipei City, Sanzhi District)
+- https://maps.app.goo.gl/p6iXWVv4eUZrcHcX6
+- https://www.flickr.com/photos/csdido/albums/72157665582211220/
+- https://spectralcodex.com/sanzhi-beihai-resort-center/
+- [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.805711559481587)
 
 ## Jinjin Theater (金金大戲院) (New Taipei City, Yingge District)
 - aka: 金金戲院
@@ -154,25 +174,53 @@
 
 - categories: cinema
 
-## Bitan “Happy Paradise” Park (碧潭幸福樂園) (New Taipei City, Xindian District)
+## Bitan "Happy Paradise" Park (碧潭幸福樂園) (New Taipei City, Xindian District)
+- aka: 幸福碧潭樂園
+- [Google Maps](https://maps.app.goo.gl/QSaurmmWQZtnxR3LA)
 - https://taiwandiscovery.wordpress.com/2013/09/17/gone-but-definitely-not-forgotten/
 - https://web.archive.org/web/20140223181820/http://news.housefun.com.tw/news/article/14216825137.html
 - https://www.juksy.com/article/122891
 - https://time.udn.com/udntime/story/122833/7380260
+- [SpectralCodex](https://spectralcodex.com/xindian-xingfu-bitan-theme-park/)
+- https://www.flickr.com/photos/poagao/albums/72157594399069967/
 
-- exact location missing
+- partially demolished
+
+## Tongyong Electronics Ruins (通用電子廢墟) (New Taipei City, Shulin District)
+- [Google Maps](https://maps.app.goo.gl/QvVknnhqzLsJucE76)
+- https://elmajana.pixnet.net/blog/post/339006576
 
 ## Wanshou Road Apartment Complex (萬壽路廢棄社區) (Taoyuan City, Guishan District)
 - aka: Wanshou Road Residential Ruins
 - [Google Maps](https://maps.app.goo.gl/wReF8r1F5HG3zDPd7)
 - [SpectralCodex](https://spectralcodex.com/guishan-wanshou-road-residential-ruins/)
 - [Facebook (夜遊台灣)](https://www.facebook.com/media/set/?set=a.636564939729584)
+- [Facebook (夜遊台灣)](https://www.facebook.com/media/set/?set=a.635380209848057)
 - [Facebook (鬼故事夜遊團)](https://www.facebook.com/media/set/?set=a.493546214033948)
 - https://www.youtube.com/watch?v=1nBfPdulum0
 - https://www.facebook.com/notes/3377443659019063/
 - [Yahoo Answers](https://web.archive.org/web/20210416173519/https://tw.answers.yahoo.com/question/index?qid=20121116000015KK02797)
 - [Flickr (csdido)](https://www.flickr.com/photos/csdido/albums/72157648402942835/)
 - https://disp.cc/b/Gossiping/6nyC
+
+## Daoxiangcun Hotel (稻香村大酒店) (Taoyuan City, Longtan District)
+- aka: Shimen Daoxiangcun Hotel, Longtan Daoxiangcun Hotel, 桃園稻香村飯店, 石門稻香村大酒店
+- [Google Maps](https://maps.app.goo.gl/8xN36TnxMuyEwEo79)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%A8%BB%E9%A6%99%E6%9D%91%E5%A4%A7%E9%85%92%E5%BA%97)
+- [SpectralCodex](https://spectralcodex.com/longtan-shimen-daoxiangcun-hotel/)
+- [Instagram (crain67183)](https://www.instagram.com/p/DCTcSC8JxZG/)
+- [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.655392841180127)
+- https://wwodstocc.pixnet.net/blog/post/353882330
+- https://home.gamer.com.tw/creationDetail.php?sn=4695425
+- [Facebook (Steve Ronin)](https://www.facebook.com/reel/1359612039216264), [Facebook (Steve Ronin)](https://www.facebook.com/reel/1159670508925277)
+
+
+## Yunxiao Hotel (雲霄大飯店) (Taoyuan City, Daxi District)
+- [Google Maps](https://maps.app.goo.gl/6xD8GuWCWJdcDMp49)
+- [SpectralCodex](https://spectralcodex.com/daxi-yunxiao-hotel/)
+- [Instagram (crain67183)](https://www.instagram.com/p/DIa0KKipI9z/)
+- https://www.facebook.com/groups/387825485830122/permalink/477956490150354/
+- https://forum.gamer.com.tw/C.php?bsn=60201&snA=18481
 
 ## Abandoned Temple (蘆竹吳氏宗祠) (Taoyuan City, Luzhu District)
 - aka: 南崁將軍廟, 桃園廢棄將軍廟
@@ -196,6 +244,7 @@
 - [Josh Ellis](https://www.goteamjosh.com/blog/koozhai)
 - [SpectralCodex](https://spectralcodex.com/keelung-khoo-tsu-song-old-house/)
 - https://www.nickkembel.com/things-to-do-keelung-taiwan/#Khoo_Tsu-song_Old_Mansion
+- https://keelung-for-a-walk.com/culture/keelungs-abandoned-mansion/
 
 ## Buddha's World (佛陀世界) (Hsinchu County, Guanxi Township)
 - aka: Fairy Tale Land, 童話世界
@@ -225,6 +274,10 @@
 - [Josh Ellis](https://www.goteamjosh.com/blog/dapingcha)
 
 - categories: factory
+
+## Lidong Lodge (李棟山莊) (Hsinchu County, Jianshi Township)
+- https://maps.app.goo.gl/G2z9biu9SQBjCPAU7
+- https://hiking.biji.co/index.php?q=review&act=info&review_id=24182
 
 ## Qianyue Building (千越大樓) (Taichung City, Central District)
 - [Google Maps](https://maps.app.goo.gl/odFCoATYYvuMSRYB6)
@@ -257,6 +310,7 @@
 - https://www.kathmanduandbeyond.com/abandoned-taiwan-encore-garden-taichung/
 - https://fakeliteraryyouth.blogspot.com/2015/02/20141206.html
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=WDDliwI_hd8)
+- https://www.explore.com/adventure/20-creepiest-abandoned-theme-parks-around-world/
 
 - categories: amusement park
 
@@ -301,6 +355,8 @@
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=sOKfeb5MoMg)
 - https://formosajmac.com/2019/10/25/minxiong-ghost-house-%e6%b0%91%e9%9b%84%e9%ac%bc%e5%b1%8b/
 - https://lostplaces.tw/liu-family-old-mansion/
+- https://commons.wikimedia.org/wiki/Category:Liu_Mansion_(Minsyong,_Taiwan)
+- https://tbocc.cyhg.gov.tw/en/Sight_Content.aspx?n=100778&s=514803
 
 ## Yizhu Longxia Elementary School (義竹龍蛟國民小學) (Chiayi County, Yizhu Township)
 - aka: 龍蛟國小
@@ -326,6 +382,15 @@
 - [Facebook (kevinzhang.tw)](https://www.facebook.com/share/p/1Bk8HkmdzH/)
 
 - categories: school
+
+## Chiayi Tobacco Factory (嘉義菸葉廠) (Chiayi City, West District)
+- https://maps.app.goo.gl/b1VN8oa35UvWD6Z46
+- https://zh.wikipedia.org/zh-tw/%E5%98%89%E7%BE%A9%E8%8F%B8%E8%91%89%E5%BB%A0
+- https://www.tomrookart.com/hiddentaiwan/2016/12/23/chaiyi-tobacco-factory
+- https://spectralcodex.com/chiayi-tobacco-factory/
+- https://lostplaces.tw/chiayi-tobacco-factory/
+
+- categories: factory
 
 ## Huaji Yongan Senior High School (華濟永安高中) (Tainan City, Dongshan District)
 - [Google Maps](https://maps.app.goo.gl/EqVuiTRCH5GYx2HG8)
@@ -353,6 +418,26 @@
 
 - demolished in the late 2000s (according to SpectralCodex)
 
+## Laiya Building (來亞大樓) (Tainan City, West Central District)
+- aka: Laiya Hotel (來亞飯店)
+- [Google Maps](https://maps.app.goo.gl/MHjkeJHF3j5LzBNj9)
+- https://wwodstocc.pixnet.net/blog/post/362637641
+- https://fakeliteraryyouth.blogspot.com/2021/05/20210109.html
+- https://spectralcodex.com/tainan-laiya-building/
+- https://www.ettoday.net/news/20211025/2108783.htm
+
+## Xinglin General Hospital (杏林綜合醫院) (Tainan City, West Central District)
+- [Google Maps](https://maps.app.goo.gl/BBvdvvxzWwqYGHZ9A)
+- https://zh.wikipedia.org/zh-tw/%E6%9D%8F%E6%9E%97%E9%86%AB%E9%99%A2
+- https://fakeliteraryyouth.blogspot.com/2013/06/20110514.html
+- https://wwodstocc.pixnet.net/blog/post/299799355
+- https://lenpep.wordpress.com/2017/04/27/day-six-tainan-to-kenting/
+- https://kylemerriman.com/xinglin-hospital/
+- [Instagram (zarckaroo)](https://www.instagram.com/reel/DB01NUsyM0W/)
+- referenced in film: https://en.wikipedia.org/wiki/Strange_Frequencies:_Taiwan_Killer_Hospital
+- https://www.rtaiwanr.com/tainan/tainan/xinglin-hospital
+- https://www.youtube.com/watch?v=quUmyd9YDG0
+
 ## Chen Chang Wood Industry Plywood Factory (振昌木業合板廠) (Nantou County, Shuili Township)
 - aka: 振昌木業合板場, 南投縣水里鄉振昌木業合板廠
 - [Google Maps](https://maps.app.goo.gl/QEW8Scz2bh69Mv8y7)
@@ -377,6 +462,28 @@
 
 - recommended to go in winter when snakes are less active
 
+## Chengcing Lake Oceanarium (水族館) (Kaohsiung City, Niaosong District)
+- [Google Maps](https://maps.app.goo.gl/CDzwWF8ZTYvw7hVj8)
+- https://wwodstocc.pixnet.net/blog/post/362720898
+- https://spectralcodex.com/niaosong-chengqing-lake-aquarium/
+- https://taiwantravelblog.com/the-complete-guide-to-cheng-ching-lake/#old-aquarium-
+
+- not to be confused with: Ocean Fantasy Museum
+
+## Dahu Tomato Cannery (大湖番茄會社) (Kaohsiung City, Hunei District)
+- aka: 番茄會社
+- [Google Maps](https://maps.app.goo.gl/MVJQXYPeRfFsPJUe9)
+- https://spectralcodex.com/hunei-dahu-tomato-cannery/
+- https://khh.travel/zh-tw/attractions/detail/321/
+
+## Namaxia Xi'anshan Tunnel (錫安山明隧道) (Kaohsiung City, Jiaxian District)
+- aka: Zion Mountain Tunnel
+- [Google Maps](https://maps.app.goo.gl/PmB3o6SpbDk5evKd7)
+- https://spectralcodex.com/namaxia-xianshan-tunnel/
+- https://fakeliteraryyouth.blogspot.com/2024/08/20230610.html
+- https://rdwrertaiwan.blogspot.com/2013/01/21.html
+- https://www.facebook.com/explorer.kingspy/posts/pfbid0g5E9zwBQvzmFEn5Z2WVwbbpxeNqvxvEWiZRLkpzJy2aTsJBC3oyfkQui7su63BoZl
+
 ## Taitung Miramar Resort (美麗灣渡假村) (Taitung County, Beinan Township)
 - aka: Meiliwan Resort, Miramar Resort
 - https://en.wikipedia.org/wiki/Taitung_Miramar_Resort
@@ -385,6 +492,9 @@
 
 ## kinmen overgrown abandoned Village () ()
 - ?
+
+## Apartment Building at Juguang Tower Bus Stop (莒光樓公車站的公寓大樓) (Kinmen County, Jincheng Township)
+- [Google Maps](https://maps.app.goo.gl/ms29QMT5im5afYUx6)
 
 ## Kinmen underground Hospital (南雄醫院, 坑道醫院 南雄軍醫院) (Kinmen, Lieyu)
 - https://visitkinmen.pixnet.net/blog/post/40893473
@@ -419,6 +529,23 @@
 - https://kinmen.travel/en/travel/attraction/1963
 
 - does this house the morgue for "Kinmen Armed Forces Hospital"?
+
+# Demolished Places
+
+## Sanzhi UFO houses (三芝飛碟屋) (New Taipei City, Sanzhi District)
+- https://en.wikipedia.org/wiki/Sanzhi_UFO_houses
+- https://desertedplaces.blogspot.com/2012/10/the-ufo-houses-of-sanjhih.html
+
+## Abandoned building complex () (Keelung City, Zhongzheng District)
+- https://desertedplaces.blogspot.com/2013/05/abandoned-building-complex-in-taiwan.html
+
+## Golden Empire Building (黃金帝國大樓) (Yuanlin City, Changhua County)
+- [Google Maps](https://maps.app.goo.gl/ZrzWiQcgcE1kdMxG6)
+- https://commons.wikimedia.org/wiki/Category:Golden_Empire_Building
+- https://spectralcodex.com/yuanlin-golden-empire-building/
+- https://tw.news.yahoo.com/%E6%9B%BE%E6%98%AF%E5%93%A1%E6%9E%97%E4%BA%BA%E9%A9%95%E5%82%B2-%E9%BB%83%E9%87%91%E5%B8%9D%E5%9C%8B%E5%A4%A7%E6%A8%93%E8%8D%92%E5%BB%A220%E5%B9%B4%E6%88%90%E5%BB%A2%E5%A2%9F-105700095.html
+
+- abandoned after the 1999 Jiji earthquake, demolition started in 2025
 
 # not abandoned but cool
 
