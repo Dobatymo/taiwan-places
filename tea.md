@@ -225,6 +225,9 @@
 ## Peak Tea (青山)
 - https://peak-tea.com/
 - https://www.instagram.com/peaktea.official/
+- https://www.facebook.com/peaktea.official/
+- locations: https://peak-tea.com/all-stores/
+- menu (Chinese): https://peak-tea.com/tea-menu/
 
 ## SHARE TEA (歇腳亭)
 - https://www.1992sharetea.com.tw/
@@ -387,6 +390,10 @@ https://www.teapro.com.tw/
 - https://www.facebook.com/uniquegreentea/
 - https://www.instagram.com/ugtea_official/
 - location: https://maps.app.goo.gl/qmC1nubYurHz3MUt6
+
+## Yuanming (猿茗)
+- aka: Monkey Tea
+- location: https://maps.app.goo.gl/wC7rdq15QQYoAc4i7
 
 ## Mita Tea (米塔黑糖)
 - https://www.instagram.com/mitateashop/

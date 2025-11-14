@@ -10,6 +10,7 @@
 - https://www.thecrag.com/en/climbing/taiwan/longdong
 - https://www.taiwanese-secrets.com/rock-climbing-long-dong-taiwan/
 - http://climbstone.com/
+- [Wikidata](https://www.wikidata.org/wiki/Q11180562)
 
 # Beaches and Shores
 
@@ -22,6 +23,7 @@
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Shalun_Beach)
 - https://blog.mrhost.com.tw/8005/top-8-taipei-beaches-you-cant-miss/#0-taipei-beach-recommendation-1%EF%BD%9Cshalun-beach
 - [TaiwanObsessed](https://www.taiwanobsessed.com/best-beaches-taiwan/#Shalun_Beach_Tamsui)
+- [Wikidata](https://www.wikidata.org/wiki/Q11139948)
 
 - very dangerous too swim (source: GuideToTaipei.com)
 - nice for sunbathing and other beach activities
@@ -47,10 +49,12 @@
 
 ## Long Dong (龍洞) (New Taipei City, Gongliao District)
 - [Google Maps](https://maps.app.goo.gl/yUJa9HqTv9GXevG56)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%B4%9E_(%E5%8F%B0%E7%81%A3))
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/long-dong)
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Longdong)
 - https://blog.mrhost.com.tw/8005/top-8-taipei-beaches-you-cant-miss/#12-taipei-beach-recommendation-7%EF%BD%9Clongdong-bay
 - [onethingoneweek](https://onethingoneweek.com/longdong/)
+- [Wikidata](https://www.wikidata.org/wiki/Q10567385)
 
 - activities: swimming, snorkeling, rock climbing
 - sand beach no, rocks and corals yes, bring diving shoes
@@ -87,6 +91,7 @@
 - https://beaches-searcher.com/en/beach/158201002/fulong-beach
 - [TaiwanObsessed](https://www.taiwanobsessed.com/best-beaches-taiwan/#Fulong_Beach_New_Taipei_City)
 - https://www.getmetotaiwan.com/taiwan-top-5/most-beautiful-beaches/
+- [Wikidata](https://www.wikidata.org/wiki/Q31103)
 
 - public transport: direct train from Taipei, can be very crowded
 - sand Beach
@@ -98,6 +103,8 @@
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Wanli_Beach)
 - https://taiwantravelblog.com/the-10-best-beaches-in-taipei/#emerald-bay-feitsuiwan
 - https://blog.mrhost.com.tw/8005/top-8-taipei-beaches-you-cant-miss/#8-taipei-beach-recommendation-5%EF%BD%9Cwanli-beach
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%BF%A1%E7%BF%A0%E7%81%A3)
+- [Wikidata](https://www.wikidata.org/wiki/Q15925377)
 
 - close by: Wanli UFO Houses, Yehliu Geopark
 - activities: paragliding, surfing
@@ -111,6 +118,7 @@
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Qianshuiwan)
 - https://taiwantravelblog.com/the-10-best-beaches-in-taipei/#qianshuiwan-beach-
 - [TaiwanObsessed](https://www.taiwanobsessed.com/best-beaches-taiwan/#Qianshuiwan)
+- [Wikidata](https://www.wikidata.org/wiki/Q11153661)
 
 - activities: swimming, sunbathing
 - better for swimming during high tide, better for walking in the water and finding tiny crabs during low tidy
@@ -130,6 +138,7 @@
 - https://taiwantravelblog.com/the-10-best-beaches-in-taipei/#baishawan-beach-
 - https://blog.mrhost.com.tw/8005/top-8-taipei-beaches-you-cant-miss/#4-taipei-beach-recommendation-3%EF%BD%9Cbaishawan-beach
 - [TaiwanObsessed](https://www.taiwanobsessed.com/best-beaches-taiwan/#Baishawan_New_Taipei_City)
+- [Wikidata](https://www.wikidata.org/wiki/Q7217864)
 
 - activities: swimming, sunbathing, surfing
 - annoying life guards (source: "Foreigners in Taiwan")
@@ -168,6 +177,7 @@
 - https://travel.tycg.gov.tw/en/travel/attraction/739
 - https://natsuphil.com/taoyuan/zhuwei-port/
 - https://ksjourney.life/taoyuansea1/
+- https://www.wikidata.org/wiki/Q49325388
 
 - sand beach
 
@@ -641,7 +651,8 @@
 - official (eng): https://www.ntm.gov.tw/en/
 - [Dribs & Drabs](https://www.dribs-drabs.com/taiwan-museum/)
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=523
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=523)
+- [Wikidata](https://www.wikidata.org/wiki/Q706692)
 
 - categories: museum
 - public transport: great
@@ -650,6 +661,7 @@
 - [Google Maps](https://maps.app.goo.gl/TAGLTVQURV3EWjYF7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AE%B6%E6%94%9D%E5%BD%B1%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83)
 - https://ncpi.ntmofa.gov.tw/en/
+- [Wikidata](https://www.wikidata.org/wiki/Q109257755)
 
 - categories: museum, gallery
 - public transport: great
@@ -669,23 +681,26 @@
 - in: 228 Peace Memorial Park
 - [Google Maps](https://maps.app.goo.gl/UUWgBTAyTd6GPtge6)
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=fd669d9f-bb4f-4047-a67d-532bd1cb5add
+- [Wikidata](https://www.wikidata.org/wiki/Q19853356)
 
 - categories: museum
 
 ## National 228 Memorial Museum (二二八國家紀念館) (Taipei City, Zhongzheng District)
-- https://maps.app.goo.gl/7MLrm7JTPD4XS6657
-- https://zh.wikipedia.org/wiki/%E5%8E%9F%E8%87%BA%E7%81%A3%E6%95%99%E8%82%B2%E6%9C%83%E9%A4%A8#%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%9C%8B%E5%AE%B6%E7%B4%80%E5%BF%B5%E9%A4%A8
+- [Google Maps](https://maps.app.goo.gl/7MLrm7JTPD4XS6657)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8E%9F%E8%87%BA%E7%81%A3%E6%95%99%E8%82%B2%E6%9C%83%E9%A4%A8#%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%9C%8B%E5%AE%B6%E7%B4%80%E5%BF%B5%E9%A4%A8)
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=6d53026b-d043-4db7-ac0a-340d34e78e3a
 - https://www.228.org.tw/en
 - [Round Taiwan Round](https://www.rtaiwanr.com/taipei/taipei-city/national-228-memorial-museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q113587551)
 
 ## Chiang Kai-shek Memorial Hall (中正紀念堂) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/n11NHtAhSVxAkFNx6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall)
 - https://www.travel.taipei/en/attraction/details/445
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/16/chiang-kai-shek-memorial-hall
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=130
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=8196
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=130)
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=8196)
+- [Wikidata](https://www.wikidata.org/wiki/Q540794)
 
 - categories: memorial hall, park
 
@@ -695,8 +710,9 @@
 - https://www.evergreenmuseum.org.tw/
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/29/evergreen-maritime-museum
 - https://www.facebook.com/cyffemm
+- [Wikidata](https://www.wikidata.org/wiki/Q14920625)
 
-- categories: museum
+- categories: museum, ships
 
 ## Taipei Water Park (自來水園區) (Taipei City, Zhongzheng District)
 - aka: Water Country Park
@@ -705,7 +721,7 @@
 - https://www.travel.taipei/en/media/audio-guide/details/241
 - [Nickkembel Travels](https://www.nickkembel.com/taipei-with-kids/#Taipei_Water_Park_and_other_Spray_Parks)
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/07/31/taipei-city-waterpark
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1560
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1560)
 
 - categories: swimming pool
 - no changing rooms!, very crowded
@@ -720,7 +736,7 @@
 - https://culture.gov.taipei/cp.aspx?n=B11D042F39B10F2E
 - https://waterparken.water.gov.taipei/cp.aspx?n=516187666E31C372
 - https://www.opentaipei.org/house/2025GuanyinshanReservoir
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=10710
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=10710)
 
 - categories: water reservoir
 
@@ -746,18 +762,21 @@
 
 ## Postal Museum (郵政博物館) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/QJT7D2gq6xetFq7L8)
-- https://zh.wikipedia.org/wiki/%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8_(%E8%87%BA%E7%81%A3)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8_(%E8%87%BA%E7%81%A3))
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Chunghwa_Postal_Museum)
 - https://museum.post.gov.tw/post/Postal_Museum/museum_en/
 - https://www.travel.taipei/en/attraction/details/477
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=990)
+- [Wikidata](https://www.wikidata.org/wiki/Q5116373)
 
 - categories: museum
 
 ## Taipei Guest House (臺北賓館) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/aERSWRAk8DrLrQLL7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Guest_House)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=444
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=444)
 - https://subsite.mofa.gov.tw/tgh/Default.aspx
+- [Wikidata](https://www.wikidata.org/wiki/Q3699230)
 
 - categories: historical building
 
@@ -775,6 +794,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Fanglan_Mansion)
 - https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&s=F54B37BDDC5F1D93
 - [SpectralCodex](https://spectralcodex.com/daan-fanglan-old-house/)
+- [Wikidata](https://www.wikidata.org/wiki/Q21472650)
 
 ## Huanmin Village (煥民新村) / Toad Mountain (蟾蜍山) (Taipei City, Da'an District)
 - [Google Maps (Huanmin Village)](https://maps.app.goo.gl/VBvRQVuY2igELw1g7)
@@ -785,6 +805,7 @@
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/10/toad-mountain)
 - [SpectralCodex](https://spectralcodex.com/daan-toad-mountain/)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%9F%BE%E8%9C%8D%E5%B1%B1)
+- [Wikidata](https://www.wikidata.org/wiki/Q31391794)
 
 - categories: community
 
@@ -794,6 +815,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%BE%8D%E5%AE%89%E5%9D%A1%E9%BB%83%E5%AE%85%E6%BF%82%E8%AE%93%E5%B1%85)
 - [SpectralCodex](https://spectralcodex.com/daan-longanpo-huangzhai-lianren-residence/)
 - https://miniculturaltripsen.gov.taipei/News_Content.aspx?n=F6AC7278C929CDD9&s=E2966859D5B91787
+- [Wikidata](https://www.wikidata.org/wiki/Q11180494)
 
 - categories: cultural heritage, sanheyuan
 
@@ -802,7 +824,8 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lin_An_Tai_Historical_House_and_Museum)
 - https://linantai.taipei/
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/lin-an-tai-ancestral-house
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=174
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=174)
+- [Wikidata](https://www.wikidata.org/wiki/Q6776837)
 
 - categories: museum, cultural heritage, architecture
 
@@ -810,6 +833,7 @@
 - [Google Maps](https://maps.app.goo.gl/AVe6gGYJi87GwnR56)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%B6%93%E5%9C%8B%E4%B8%83%E6%B5%B7%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80)
 - https://www.travel.taipei/en/attraction/details/2648
+- [Wikidata](https://www.wikidata.org/wiki/Q114298970)
 
 - categories: city park
 
@@ -821,6 +845,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum)
 - https://www.travel.taipei/en/attraction/details/451
 - https://www.lonelyplanet.com/taiwan/taipei/zhongshan-datong/attractions/fine-arts-museum/a/poi-sig/375603/1340906
+- [Wikidata](https://www.wikidata.org/wiki/Q697319)
 
 - categories: museum
 - public transport: great
@@ -828,7 +853,8 @@
 ## National Revolutionary Martyrs' Shrine (國民革命忠烈祠) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/3A28sDmUGocWRhnt8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Revolutionary_Martyrs%27_Shrine)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1715
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1715)
+- [Wikidata](https://www.wikidata.org/wiki/Q5956488)
 
 - categories: shrines, historical
 
@@ -837,13 +863,16 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Miniatures_Museum_of_Taiwan)
 - official (zho/eng): https://www.mmot.com.tw/
 - [Atlas Obscura](https://www.atlasobscura.com/places/miniatures-museum-of-taiwan)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=962
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=962)
+- [Wikidata](https://www.wikidata.org/wiki/Q6865171)
 
 - categories: museum
 - public transport: great
 
 ## Jingfu Temple (景福宮) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/r4tDWiF1QqhJzk9A7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%99%AF%E7%A6%8F%E5%AE%AE)
+- [Wikidata](https://www.wikidata.org/wiki/Q1925009)
 - https://www.travel.taipei/en/attraction/details/689
 
 - categories: temple
@@ -860,10 +889,10 @@
 ## Yuanshan Natural Landscape Park (圓山自然景觀公園) (Taipei City, Zhongshan District)
 - aka: former Taipei Children's Recreation Center, 圓山舊兒童樂園
 - [Google Maps](https://maps.app.goo.gl/MTXgmeiCLPCq7VdR7)
-- https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AB%8B%E5%85%92%E7%AB%A5%E6%96%B0%E6%A8%82%E5%9C%92
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AB%8B%E5%85%92%E7%AB%A5%E6%96%B0%E6%A8%82%E5%9C%92)
 - https://www.travel.taipei/en/attraction/details/2420
 - https://parks.gov.taipei/parks/m2/pkl_parks_m2C.php?sid=839
-- https://www.filmcommission.taipei/scenesCT.aspx?id=1370
+- [Taipei Film Commission](https://www.filmcommission.taipei/scenesCT.aspx?id=1370)
 - https://www.foreignersintaiwan.com/blog/former-taipei-child-amusement-park
 - https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=25A36C3FB5E63EF2
 - https://home.gamer.com.tw/creationDetail.php?sn=4384141
@@ -873,6 +902,7 @@
 - [Medium (Kyle Chu)](https://medium.com/@Kyle_Chu/廢墟攝影-景點-舊台北兒童育樂中心-a-private-photo-site-abandoned-taipei-childrens-recreation-center-95080186dc1d)
 - [Official (Archived)](https://web.archive.org/web/*/http://www.tcrc.gov.tw)
 - https://spectralcodex.com/zhongshan-yuanshan-childrens-amusement-park/
+- [Wikidata](https://www.wikidata.org/wiki/Q114436869)
 
 - categories: park, abandoned amusement park
 
@@ -884,8 +914,9 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=3469
 - https://www.taiwanese-secrets.com/taipei-101-tower/
 - [Atlas Obscura](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=576
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=576)
 - [Round Taiwan Round](https://www.rtaiwanr.com/taipei/taipei-city/taipei-101)
+- [Wikidata](https://www.wikidata.org/wiki/Q83101)
 
 ## Sun Yat-sen Memorial Hall (國立國父紀念館) (Taipei City, Xinyi District)
 - located in: Zhongshan Park
@@ -896,7 +927,8 @@
 - https://www.foreignersintaiwan.com/blog/sun-yat-sen-memorial-hall
 - [Atlas Obscura](https://www.atlasobscura.com/places/sun-yat-sen-memorial-hall-taipei-taiwan)
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/sun-yat-sen-memorial-hall
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=204
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=204)
+- [Wikidata](https://www.wikidata.org/wiki/Q697314)
 
 ## Chiang Wei-shui Memorial Plaza (蔣渭水先生紀念廣場) (Taipei City, Xinyi District)
 - aka: Chiang Wei-shui Memorial Square, 蔣渭水紀念廣場
@@ -904,13 +936,15 @@
 - https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&s=79737B7635134B3C
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/chiang-wei-shui-memorial-square2)
 - https://culture.gov.taipei/cp.aspx?n=58B73B2AC9F88E85
+- [Wikidata](https://www.wikidata.org/wiki/Q97358137)
 
 - not to be confused with Chiang Wei-Shui Memorial Park (蔣渭水紀念公園) (Taipei City, Datong District)
 
 ## Discovery Center of Taipei (台北探索館) (Taipei City, Xinyi District)
 - [Google Maps](https://maps.app.goo.gl/nKr1kAoZ9aaxkgSV8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Discovery_Center_of_Taipei)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=622
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=622)
+- [Wikidata](https://www.wikidata.org/wiki/Q10914179)
 
 - permanently closed [Yahoo News (Chinese)](https://tw.news.yahoo.com/22%E5%B9%B4%E5%9B%9E%E6%86%B6-%E5%8F%B0%E5%8C%97%E6%8E%A2%E7%B4%A2%E9%A4%A8%E6%8E%B0%E4%BA%86-201000917.html)
 
@@ -919,6 +953,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taiwan_Design_Museum)
 - https://www.travel.taipei/en/attraction/details/2485
 - https://www.tdri.org.tw/zh-tw/service-and-space/taiwan-design-museum
+- [Wikidata](https://www.wikidata.org/wiki/Q16242281)
 
 - categories: museum
 - public transport: great
@@ -930,7 +965,7 @@
 - [Atlas Obscura](https://www.atlasobscura.com/places/hexing-coal-mine)
 
 ## Longshan Temple (龍山寺) (Taipei City, Wanhua District)
-- aka: 艋舺龍山寺
+- aka: Bangka Lungshan Temple, 艋舺龍山寺
 - [Google Maps](https://maps.app.goo.gl/Yeo6TpggxPyJkgo9A)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Longshan_Temple_(Taipei))
 - official (zho): https://www.lungshan.org.tw/
@@ -938,7 +973,8 @@
 - [TaiwanObsessed](https://www.taiwanobsessed.com/longshan-temple-taipei/)
 - [GuideToTaipei.com](https://guidetotaipei.com/visit/longshan-temple-%E9%BE%8D%E5%B1%B1%E5%AF%BA)
 - [Josh Ellis](https://www.goteamjosh.com/blog/longshan)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1753
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1753)
+- [Wikidata](https://www.wikidata.org/wiki/Q706761)
 
 ## Youth Park Swimming Pool (青年公園游泳池) (Taipei City, Wanhua District)
 - [Google Maps](https://maps.app.goo.gl/2GVBKHTbrK3HEK1k7)
@@ -956,6 +992,7 @@
 
 ## National Taiwan Museum Railway Department Park (國立臺灣博物館鐵道部園區) (Taipei City, Datong District)
 - [Google Maps](https://maps.app.goo.gl/fSynnpAcuQuo2VXDA)
+- [Wikidata](https://www.wikidata.org/wiki/Q135701878)
 - official (zho): https://www.ntm.gov.tw/
 - official (eng): https://www.ntm.gov.tw/en/
 
@@ -982,10 +1019,10 @@
 
 ## Taipei Confucius Temple (臺北孔子廟) (Taipei City, Datong District)
 - [Google Maps](https://maps.app.goo.gl/NySiZAthCqNbeBHN8)
-- https://en.wikipedia.org/wiki/Taipei_Confucius_Temple
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Confucius_Temple)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=212
 - https://www.travel.taipei/en/attraction/details/505
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=222
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=222)
 
 - categories: temple
 
@@ -1014,7 +1051,7 @@
 - https://www.travel.taipei/en/attraction/details/450
 - https://www.foreignersintaiwan.com/blog/shilin-official-residence
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/16/cks-shilin-residence
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1553
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1553)
 
 - categories: park
 
@@ -1024,7 +1061,7 @@
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taiwan-national-palace-museum)
 - https://www.travel.taipei/en/attraction/details/441
 - [Atlas Obscura](https://www.atlasobscura.com/places/jade-cabbage)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=138
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=138)
 
 - categories: museum, historical
 
@@ -1034,7 +1071,7 @@
 - official (eng): https://en.tam.gov.taipei/
 - https://www.travel.taipei/en/attraction/details/461
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/17/taipei-astronomical-museum
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=624
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=624)
 
 ## National Taiwan Science Education Center (國立臺灣科學教育館) (Taipei City, Shilin District)
 - [Google Maps](https://maps.app.goo.gl/rfUMhs1V7QqYS1RD8)
@@ -1042,7 +1079,7 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=5662
 - https://www.travel.taipei/en/attraction/details/443
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/19/science-education-center
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=591
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=591)
 - https://www.rtaiwanr.com/taipei/taipei-city/national-taiwan-science-education-center
 
 ## Taipei Children's Amusement Park (臺北市立兒童新樂園) (Taipei City, Shilin District)
@@ -1051,14 +1088,14 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Children%27s_Amusement_Park)
 - https://www.travelking.com.tw/eng/tourguide/taipei/taipei-city-childrens-amusement-park.html
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/taipei-childrens-amusement-park
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=936
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=936)
 
 - categories: amusement park
 - public transport: easy to reach from Taipei. MRT and short walk or bus
 
 ## Taipei Performing Arts Center (臺北表演藝術中心) (Taipei City, Shilin District)
 - [Google Maps](https://maps.app.goo.gl/phFHfaAAkKeZaDC78)
-- https://en.wikipedia.org/wiki/Taipei_Performing_Arts_Center
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Performing_Arts_Center)
 - https://tpac.org.taipei/en
 
 - categories: performing arts theater
@@ -1091,7 +1128,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch)
 - https://www.travel.taipei/en/attraction/details/538
 - [Dribs & Drabs](https://www.dribs-drabs.com/beitou-library/)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1070
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1070)
 
 - categories: library
 
@@ -1125,7 +1162,7 @@
 - [Google Maps](https://maps.app.goo.gl/daqpULCTtwrBWJDZ7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%92%8C%E4%BF%9D%E7%A6%8F%E5%AE%AE)
 - https://newtaipei.travel/en/attractions/detail/112019
-- https://www.wikidata.org/wiki/Q28410545
+- [Wikidata](https://www.wikidata.org/wiki/Q28410545)
 
 - categories: temple
 
@@ -1237,15 +1274,21 @@
 
 - categories: old street
 
-## New Taipei City Yingge Ceramics Museum (新北市立鶯歌陶瓷博物館) (New Taipei City, Yingge District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Yingge_Ceramics_Museum)
-- [Google Maps](https://maps.app.goo.gl/e3g8mgNmv8sYueFo6)
-- https://www.ceramics.ntpc.gov.tw/
+## Zhulinshan Guanyin Temple (竹林山觀音寺) (New Taipei City, Linkou District)
+- [Google Maps](https://maps.app.goo.gl/3JZanNMhHyhKfnv69)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%AB%B9%E6%9E%97%E5%B1%B1%E8%A7%80%E9%9F%B3%E5%AF%BA)
+- [SpectralCodex](https://spectralcodex.com/linkou-zhulinshan-guanyin-temple/)
+- https://newtaipei.travel/zh-tw/attractions/detail/109896
 
 ## National Archives Administration, National Development Council (國家發展委員會檔案管理局) (New Taipei City, Linkou District)
 - [Google Maps](https://maps.app.goo.gl/MLrEGRUchTrxaSY37)
 - https://www.archives.gov.tw/en/arcen
 - [Dribs & Drabs](https://www.dribs-drabs.com/national-archives/)
+
+## New Taipei City Yingge Ceramics Museum (新北市立鶯歌陶瓷博物館) (New Taipei City, Yingge District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Yingge_Ceramics_Museum)
+- [Google Maps](https://maps.app.goo.gl/e3g8mgNmv8sYueFo6)
+- https://www.ceramics.ntpc.gov.tw/
 
 ## Hobe Fort (滬尾礮臺) (New Taipei City, Tamsui District)
 - aka: Huwei Fort
@@ -1257,8 +1300,16 @@
 
 - categories: historical building
 
+## Sanzhi Seashell Temple (三芝貝殼廟) / Eighteen Arhats Cave (十八羅漢洞) (New Taipei City, Sanzhi District)
+- aka: Fufuding Mountain Temple (富福頂山寺)
+- [Google Maps](https://maps.app.goo.gl/cHzyNsuFHCL3KGh86)
+- https://www.goteamjosh.com/blog/seashell
+
+- not to be confused with the abandoned Eighteen Arhats Cave (十八羅漢洞) in Keelung.
+- categories: temple
+
 ## Guangwu Tunnel (光武坑道) (New Taipei City, Jinshan District)
-- https://maps.app.goo.gl/vgaEbLMBqQamfxVQ9
+- [Google Maps](https://maps.app.goo.gl/vgaEbLMBqQamfxVQ9)
 - https://taiwantour.net/jinshan-mystery/
 
 - filming location for: Incantation
@@ -1372,10 +1423,12 @@
 - [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
 - [Coco in Taiwan](https://corissajoy.com/keelung-zhengbin-fishing-harbor/)
 
+
+
 ## Qidu Railway Memorial Park (七堵鐵道紀念公園) / Old Qidu Train Station (舊七堵車站) (Keelung City, Qidu District)
 - [Google Maps (Park)](https://maps.app.goo.gl/9Sb1qs2heH1GttqW8)
 - [Google Maps (Station)](https://maps.app.goo.gl/WkW31P5MemonBoR97)
-- https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A0%B5%E8%BB%8A%E7%AB%99
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A0%B5%E8%BB%8A%E7%AB%99)
 - https://spectralcodex.com/qidu-railway-station/
 - https://www.goteamjosh.com/blog/qidu
 
@@ -1517,6 +1570,16 @@
 - https://blythe77777.pixnet.net/blog/post/576304296
 - https://www.youtube.com/watch?v=4dfPW5901Ps
 
+## Qiumao Garden (秋茂園) (Miaoli County, Tongxiao Township)
+- [Google Maps](https://maps.app.goo.gl/scHJGbNT2gwrPKVv9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%A7%8B%E8%8C%82%E5%9C%92)
+- https://spectralcodex.com/tongxiao-qiumao-garden/
+- https://formosajmac.com/2024/06/20/qiu-mao-garden/
+- https://www.juksy.com/article/111101
+- https://www.youtube.com/watch?v=xNRU6w2p3sk
+
+- categories: theme park
+
 ## Lihpao Land (麗寶樂園度假區) (Taichung City, Houli District)
 - [Google Maps](https://maps.app.goo.gl/rzL8BkyiZUVyXhDm7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lihpao_Land)
@@ -1644,7 +1707,7 @@
 ## National Kaohsiung Center for the Arts (衛武營國家藝術文化中心) (Kaohsiung City, Fengshan District)
 - aka: Weiwuying
 - [Google Maps](https://maps.app.goo.gl/1zdiH1f3sr6CsekB6)
-- https://en.wikipedia.org/wiki/National_Kaohsiung_Center_for_the_Arts
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Kaohsiung_Center_for_the_Arts)
 - https://www.npac-weiwuying.org/
 
 - categories: performing arts theater
@@ -1724,7 +1787,7 @@
 ## Jiugong Tunnel (九宮坑道) (Kinmen County, Lieyu Township)
 - aka: Siwei Tunnels
 - [Google Maps](https://maps.app.goo.gl/8S2HyAap38k4R5NG9)
-- https://en.wikipedia.org/wiki/Jiugong_Tunnel
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Jiugong_Tunnel)
 - https://www.rtaiwanr.com/kinmen/kinmen/jiugong-tunnels
 - https://kinmen.travel/en/travel/attraction/44
 - https://lieyu.kinmen.gov.tw/travel_en/cp.aspx?n=E9F14A5122D9323E
@@ -1735,9 +1798,10 @@
 # Universities and Schools
 
 ## Taipei National University of the Arts (國立臺北藝術大學) (Taipei City, Beitou District)
+- aka: TNUA
 - [Google Maps](https://maps.app.goo.gl/uGMB5LRVr7WuM2j96)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_National_University_of_the_Arts)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1182
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1182)
 - https://w3.tnua.edu.tw/
 
 - categories: University, gallery
@@ -1749,19 +1813,25 @@
 
 - categories: University
 
+## National Central University (國立中央大學) (Taoyuan City, Zhongli District)
+- aka: NCU
+- [Google Maps](https://maps.app.goo.gl/ALqpmt3pWYGyduLE6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Central_University)
+- https://www.ncu.edu.tw/
+
 # Markets and Night Markets
 
 ## Shuiyuan Market (水源市場) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/TbSYC4oEw8YARadv9)
 - [SpectralCodex](https://spectralcodex.com/zhongzheng-shuiyuan-market/)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=5EED5B101DBC4834
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=610
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=610)
 
 - categories: traditional indoor market
 
 ## Nanmen Market (南門市場) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/xWEXrW247Xbd58SM9)
-- https://en.wikipedia.org/wiki/Nanmen_Market
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Nanmen_Market)
 - https://www.tpnanmen.org.tw/
 - https://www.travel.taipei/en/attraction/details/2017
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=A9AA4DF1B73C5444
@@ -1794,6 +1864,15 @@
 
 ## Longquan Market (龍泉市場) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/tputn2YTjGryP3qq5)
+- https://nowhot01.com/long-quan-market/
+- https://anise.tw/242386
+
+- categories: traditional street market
+
+## Xinyi Market (信義市場) (Taipei City, Da'an District)
+- [Google Maps](https://maps.app.goo.gl/dMQLLFNbsJ45WvPC7)
+- https://spectralcodex.com/daan-xinyi-market/
+- https://www.tcma.gov.taipei/News_Content.aspx?n=1A4C7120ABFD0F9F&sms=26C5BF03E7963F4E&s=A2DEB3C8693EB5EE
 
 - categories: traditional indoor market
 
@@ -1806,7 +1885,7 @@
 
 ## Xinxin Market (新興市場) (Taipei City, Zhongshan District)
 - aka: Xinxing Market
-- also: Xinxin Social Housing
+- also: Xinxin Social Housing (新興公宅)
 - [Google Maps (Market)](https://maps.app.goo.gl/zkULkHkqXQeM2Fxj7)
 - https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing
 - https://taipeiwalker.walkerland.com.tw/articles/view/4026
@@ -1819,6 +1898,8 @@
 - https://www.tcma.gov.taipei/News_Content.aspx?n=1A4C7120ABFD0F9F&s=52D5C81885209CE3
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=2E18E7895E2765CE
 
+- categories: traditional indoor market
+
 ## Raohe Street Night Market (饒河街觀光夜市) (Taipei City, Songshan District)
 - aka: Raohe Street Tourist Night Market
 - [Google Maps](https://maps.app.goo.gl/ZhhFu67dTCZEeZeq6)
@@ -1830,8 +1911,8 @@
 - public transport: great, next to Songshan station
 - categories: night market
 
-## Xinfu Market (新富町文化市場) (Taipei City, Wanhua District)
-- aka: 新富市場
+## Xinfu Market Cultural Center (新富町文化市場) (Taipei City, Wanhua District)
+- aka: U-Market, 新富市場 (Traditional Market)
 - [Google Maps](https://maps.app.goo.gl/cB64LyGjXegjgbi4A)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%AF%8C%E5%B8%82%E5%A0%B4)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=88CA7DE5854573CA
@@ -1839,6 +1920,10 @@
 - https://www.travel.taipei/zh-tw/attraction/details/1798
 - https://miniculturaltrips.gov.taipei/News_Content.aspx?n=0DA7E7A7A1EA5C19&s=7F796ED476464D5B
 - https://www.travel.taipei/en/attraction/details/2388
+- https://www.gvm.com.tw/article/88370
+- https://www.travel.taipei/en/attraction/details/2228
+
+- categories: cultural center, traditional market
 
 ## Huaxi Street Tourist Night Market (華西街夜市) (Taipei City, Wanhua District)
 - aka: 華西街觀光夜市
@@ -1850,6 +1935,8 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=18
 - https://www.travel.taipei/en/attraction/details/1687
 - [Round Taiwan Round](https://www.rtaiwanr.com/taipei/taipei-city/huaxi-street-night-market)
+
+- categories: night market
 
 ## Dalong Market (大龍市場) (Taipei City, Datong District)
 - [Google Maps](https://maps.app.goo.gl/XSsghwXjDKw5PB6v6)
@@ -1863,23 +1950,23 @@
 - [Google Maps (Yongle Market)](https://maps.app.goo.gl/EQcU38uW6QqHPZNLA)
 - https://www.travel.taipei/en/attraction/details/1697
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=B4CEB2924E2AE3D0
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1626
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1626)
 
 - categories: traditional indoor market
 
 ## Ningxia Night Market (寧夏夜市) (Taipei City, Datong District)
 - aka: Ningxia Road Night Market, 寧夏觀光夜市
 - [Google Maps](https://maps.app.goo.gl/q253MWkMmSJTW6U17)
-- https://en.wikipedia.org/wiki/Ningxia_Night_Market
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Ningxia_Night_Market)
 - https://www.travel.taipei/en/attraction/details/1689
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=762
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=762)
 
 - categories: night market
 
 ## Shilin Night Market (士林夜市) (Taipei City, Shilin District)
-- https://maps.app.goo.gl/mcdbFyJbNiXb4nRC6
-- https://en.wikipedia.org/wiki/Shilin_Night_Market
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=726
+- [Google Maps](https://maps.app.goo.gl/mcdbFyJbNiXb4nRC6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shilin_Night_Market)
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=726)
 - https://www.travel.taipei/en/attraction/details/1692
 - https://www.travel.taipei/zh-tw/attraction/details/1536
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=154
@@ -1887,6 +1974,14 @@
 - https://www.taiwanobsessed.com/shilin-night-market-taipei/
 
 - categories: night market
+
+## Xinglong Market (興隆市場) (Taipei City, Wenshan District)
+- [Google Maps](https://maps.app.goo.gl/Wpm3uexjmx7oBTmJ8)
+- https://www.tcma.gov.taipei/News_Content.aspx?n=1A4C7120ABFD0F9F&sms=26C5BF03E7963F4E&s=844934E9B6BD8265
+- https://taiwanmarket.pixnet.net/blog/post/37531135
+- https://wenshan.org.tw/wss/index.php/%E7%94%A2%E6%A5%AD/item/2123-%E8%88%88%E9%9A%86%E5%B8%82%E5%A0%B4
+
+- categories: traditional indoor market
 
 ## Zhongli Tourist Night Market (中壢觀光夜市) (Taoyuan City, Zhongli District)
 - aka: Zhongli Night Market, 中壢區觀光夜市
@@ -1918,11 +2013,15 @@
 - https://daphnelcc.wordpress.com/2014/02/12/taiwanese-eats-hsinchu-cheng-huang-temple-night-market/
 - https://www.travelking.com.tw/eng/tourguide/nightmarket/scenery613.html
 
+- categories: night market
+
 ## Shulintou Night Market (樹林頭觀光夜市) (Hsinchu City, North District)
 - aka: 樹林頭夜市
 - [Google Maps](https://maps.app.goo.gl/85gCnjXwKyzbLmib6)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%A8%B9%E6%9E%97%E9%A0%AD%E5%A4%9C%E5%B8%82)
 - https://journey.tw/shulintou-night-market/
+
+- categories: night market
 
 ## Hsinchu Weekend Flower Market (新竹假日花市) (Hsinchu City, East District)
 - [Google Maps](https://maps.app.goo.gl/77cxpTp4gZaCSxfD6)
@@ -1966,15 +2065,18 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q65053626)
 - https://www.travelking.com.tw/eng/tourguide/scenery105132.html
 
+- categories: night market
+
 # Parks and Waterfalls
 
-## 228 Peace Memorial Park ( 二二八和平紀念公園) (Taipei City, Zhongzheng District)
+## 228 Peace Memorial Park (二二八和平紀念公園) (Taipei City, Zhongzheng District)
 - aka: 二二八和平公園
 - [Google Maps](https://maps.app.goo.gl/PfpqqjiyQzemXDGcA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/228_Peace_Memorial_Park)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=R3
 - https://baxter222sarah.wixsite.com/mysite/single-post/2016/11/03/228-peace-park
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1407
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1407)
+- [Wikidata](https://www.wikidata.org/wiki/Q697177)
 
 ## Taipei Botanical Garden (臺北植物園) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/AN4DoeTEXwCJsUsa6)
@@ -1986,7 +2088,7 @@
 
 ## Rongxing Garden Park (榮星花園公園) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/yk5eyCwkkcPvb5Hu7)
-- https://en.wikipedia.org/wiki/Rongxing_Garden_Park
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Rongxing_Garden_Park)
 - https://www.travel.taipei/en/attraction/details/2102
 
 - categories: park, playground
@@ -2016,9 +2118,9 @@
 - categories: city park, playground
 
 ## Zhongshan Park (中山公園) (Taipei City, Xinyi District)
-- aka Zhongshan Memorial Park
+- aka: Zhongshan Memorial Park
 - has: Sun Yat-sen Memorial Hall
-- https://maps.app.goo.gl/SohVde77TsUdGUeX9
+- [Google Maps](https://maps.app.goo.gl/SohVde77TsUdGUeX9)
 - https://www.yatsen.gov.tw/cp.aspx?n=6532
 
 ## Shanshuilu Eco Park (山水綠生態公園) (Taipei City, Nangang District)
@@ -2077,21 +2179,21 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Guandu_Nature_Park)
 - official (eng): https://gd-park.org.tw/en/frontpage
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/04/05/guandu-nature-park
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1393
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1393)
 
 - admission fee: 60 NTD (general), 30 NTD (discount)
 
 ## Xiaoyoukeng (小油坑) (Taipei City, Beitou District)
 - located in: Yangmingshan National Park
 - [Google Maps (Recreation Area)](https://maps.app.goo.gl/qQcaVsJJKmMTHStx7)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1521
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1521)
 - https://www.foreignersintaiwan.com/blog/xiaoyoukeng
 - https://www.taiwan-panorama.com/en/Articles/Details?Guid=30f718c4-fe48-4157-b6a9-39250c728927&langId=3&CatId=12&postname=Xiaoyoukeng
 
 ## 823 Memorial Park (八二三紀念公園) (New Taipei City, Zhonghe District)
 - aka: No. 4 Park, 四號公園
 - [Google Maps](https://maps.app.goo.gl/aid1gD6x3UDV4VXh6)
-- https://zh.wikipedia.org/zh-tw/%E5%85%AB%E4%BA%8C%E4%B8%89%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E4%BA%8C%E4%B8%89%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92)
 - https://newtaipei.travel/en/attractions/detail/112292
 
 - categories: park, playground
@@ -2130,14 +2232,32 @@
 - https://newtaipei.travel/zh-tw/attractions/detail/111421
 - https://youfuntaiwan.com/en/jinguashi-geopark/
 
+## Luodong Forestry Culture Park (羅東林業文化園區) (Yilan County, Luodong Township)
+- [Google Maps](https://maps.app.goo.gl/Rh8TobSsK2bR91dXA)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Luodong_Forestry_Culture_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q19853323)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002106&id=A12-00149
+- https://recreation.forest.gov.tw/EN/Forestry/CP?typ_id=0100021
+
+## Renshan Botanical Garden (仁山植物園) (Yilan County, Dongshan Township)
+- [Google Maps](https://maps.app.goo.gl/yA1JbNG19MEU4AGS7)
+- [Wikidata](https://www.wikidata.org/wiki/Q132861559)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002106&id=6578
+- https://www.taiwan.net.tw/m1.aspx?sNo=0001106&id=9828
+- https://renshan.e-land.gov.tw/
+
 ## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
 - [Google Maps](https://maps.app.goo.gl/UgYuANtaqwsSv3a2A)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%A6%99%E5%B1%B1%E6%BF%95%E5%9C%B0)
+- [Wikidata](https://www.wikidata.org/wiki/Q15909515)
 - https://www.foreignersintaiwan.com/blog/xiangshan-wetlands
 - [Josh Ellis](https://www.goteamjosh.com/blog/xiangshi)
 
-## Kaohsiung 228 Peace Memorial Park (二二八和平紀念公園) (Kaohsiung City, Yancheng District)
-- aka: 二二八和平公園
+## Kaohsiung 228 Peace Memorial Park (高雄市二二八和平公園) (Kaohsiung City, Yancheng District)
+- aka: 二二八和平公園, 二二八和平紀念公園
 - [Google Maps](https://maps.app.goo.gl/btXj51uZ5nk98ZMh8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84%E5%B8%82%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%92%8C%E5%B9%B3%E5%85%AC%E5%9C%92)
+- [Wikidata](https://www.wikidata.org/wiki/Q117663088)
 
 - categories: city park
 
@@ -2194,7 +2314,7 @@
 - [Google Maps](https://maps.app.goo.gl/d89sV74wuGiR7SMu8)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/yangmingshan-national-park/)
 - [Wikidata](https://www.wikidata.org/wiki/Q709029)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=1365
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1365)
 
 - tallest mountain: Qixing Mountain (七星山)
 - popular areas: Xiaoyoukeng (小油坑), Qingtiangang (擎天崗), Lengshuikeng (冷水坑)
@@ -2320,10 +2440,6 @@
 
 - Taiwan Tourism Board top 10 small towns (hot springs) [臺灣十大觀光小城](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E8%A7%80%E5%85%89%E5%B0%8F%E5%9F%8E)
 
-## Tamsui District (淡水區) (New Taipei City, Tamsui District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Tamsui_District)
-- [Google Maps](https://maps.app.goo.gl/ND1Z7H6z1XdV22HE6)
-
 ## Yonghe District (永和區) (New Taipei City, Yonghe District)
 - includes: Yonghe Baofu Temple, Museum of World Religions
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yonghe_District)
@@ -2345,6 +2461,23 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Sanchong_District)
 - [Google Maps](https://maps.app.goo.gl/6fF8zZCKLZmg1EUc8)
 
+## Shenkeng District (深坑區) (New Taipei City, Shenkeng District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shenkeng_District)
+- [Google Maps](https://maps.app.goo.gl/7oaTPtsc85cqP3Sp6)
+- https://guidetotaipei.com/visit/shenkeng-%E6%B7%B1%E5%9D%91
+
+## Xinzhuang District (新莊區) (New Taipei City, Xinzhuang District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Xinzhuang_District)
+- [Google Maps](https://maps.app.goo.gl/oHYHXPhP4FxW1otN8)
+
+## Linkou District (林口區) (New Taipei City, Linkou District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Linkou_District)
+- [Google Maps](https://maps.app.goo.gl/erodkQLSXAEFhtwV8)
+
+## Tamsui District (淡水區) (New Taipei City, Tamsui District)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Tamsui_District)
+- [Google Maps](https://maps.app.goo.gl/ND1Z7H6z1XdV22HE6)
+
 ## Yingge District (鶯歌區) (New Taipei City, Yingge District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yingge_District)
 - [Google Maps](https://maps.app.goo.gl/hj6K1m6vFk9qzByv6)
@@ -2357,20 +2490,11 @@
 - https://taiwantravelblog.com/wulai-travel-guide/
 - https://yesyoucan.info/wulai/
 
-## Shenkeng District (深坑區) (New Taipei City, Shenkeng District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shenkeng_District)
-- [Google Maps](https://maps.app.goo.gl/7oaTPtsc85cqP3Sp6)
-- https://guidetotaipei.com/visit/shenkeng-%E6%B7%B1%E5%9D%91
-
 ## Ruifang District (瑞芳區) (New Taipei City, Ruifang District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Ruifang_District)
 - [Google Maps](https://maps.app.goo.gl/HXLH6rtU9CKDhwRj9)
 
 - Taiwan Tourism Board top 10 small towns (famous old streets) [臺灣十大觀光小城](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E8%A7%80%E5%85%89%E5%B0%8F%E5%9F%8E)
-
-## Xinzhuang District (新莊區) (New Taipei City, Xinzhuang District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Xinzhuang_District)
-- [Google Maps](https://maps.app.goo.gl/oHYHXPhP4FxW1otN8)
 
 ## Qidu District (七堵區) (Keelung City, Qidu District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Qidu_District)
@@ -2411,8 +2535,8 @@
 
 ## Yongkang Street (永康街) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/TQts7s8AMDzcVUpg7)
-- https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%BA%B7%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=939
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%BA%B7%E8%A1%97_(%E8%87%BA%E5%8C%97%E5%B8%82))
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=939)
 - https://www.foreignersintaiwan.com/blog/yongkang-street
 - https://www.nickkembel.com/yong-kang-street-taipei-food/
 - https://www.travel.taipei/en/attraction/details/1696
@@ -2420,7 +2544,7 @@
 
 - categories: commercial area
 
-## Xinxin Social Housing (新興市場／公宅) (Taipei City, Zhongshan District)
+## Xinxin Social Housing (新興市場/公宅) (Taipei City, Zhongshan District)
 - also: Xinxing Market
 - [Google Maps (Public Housing)](https://maps.app.goo.gl/GiLN2Ad43iasaWj5A)
 - https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing
@@ -2431,7 +2555,7 @@
 - [Google Maps](https://maps.app.goo.gl/zLyUefLYvFkEvsFd6)
 - [Google Maps (Ximen Village 西門里)](https://maps.app.goo.gl/pgKfMxnmnoj8JVpH8)
 - [GuideToTaipei.com](https://guidetotaipei.com/visit/ximending-youth-shopping-district-%E8%A5%BF%E9%96%80%E7%94%BA)
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=918
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=918)
 
 - categories: commercial area
 
@@ -2498,8 +2622,8 @@
 
 ## Dihua Street (迪化街) (Taipei City, Datong District)
 - [Google Maps](https://maps.app.goo.gl/4SzR4HuyWdHDKoGb9)
-- https://en.wikipedia.org/wiki/Dihua_Street
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=905
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Dihua_Street)
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=905)
 - https://www.travel.taipei/zh-tw/attraction/details/1541
 - https://www.nickkembel.com/dadaocheng-dihua-street-walking-tour/
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=418
@@ -2516,8 +2640,8 @@
 
 ## Dadaocheng Wharf (大稻埕碼頭) (Taipei City, Datong District)
 - [Google Maps (Plaza)](https://maps.app.goo.gl/bC89r9p65atMQ1769)
-- https://en.wikipedia.org/wiki/Dadaocheng_Wharf
-- https://www.filmcommission.taipei/en/scenesCT.aspx?id=2243
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Dadaocheng_Wharf)
+- [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=2243)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=A12-00003
 - https://www.travel.taipei/en/attraction/details/426
 - https://www.travel.taipei/zh-tw/attraction/details/1
