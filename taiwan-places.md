@@ -1135,6 +1135,7 @@
 ## Guandu Temple (關渡宮) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/xfsz32U3E5vLVxYP9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Guandu_Temple)
+- [Wikidata](https://www.wikidata.org/wiki/Q701292)
 - https://www.travel.taipei/en/attraction/details/495
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=237
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/guandu-temple)
@@ -1152,6 +1153,7 @@
 ## Museum of World Religions (世界宗教博物館) (New Taipei City, Yonghe District)
 - [Google Maps](https://maps.app.goo.gl/viBzk5FvawJtRwNH8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Museum_of_World_Religions)
+- [Wikidata](https://www.wikidata.org/wiki/Q6941061)
 - https://www.mwr.org.tw/mwr_en
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/08/museum-of-world-religions
 - https://www.facebook.com/mwr1109
@@ -1161,12 +1163,13 @@
 ## Yonghe Baofu Temple (永和保福宮) (New Taipei City, Yonghe District)
 - [Google Maps](https://maps.app.goo.gl/daqpULCTtwrBWJDZ7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%92%8C%E4%BF%9D%E7%A6%8F%E5%AE%AE)
-- https://newtaipei.travel/en/attractions/detail/112019
 - [Wikidata](https://www.wikidata.org/wiki/Q28410545)
+- https://newtaipei.travel/en/attractions/detail/112019
 
 - categories: temple
 
 ## Yonghe Lin Family Residence (永和林家古厝) (New Taipei City, Yonghe District)
+- aka: 樹德居
 - [Google Maps](https://maps.app.goo.gl/586aMD3G5i3X5RcG9)
 - [SpectralCodex](https://spectralcodex.com/yonghe-lin-family-residence/)
 - https://justabalcony.blogspot.com/2021/12/just-old_11.html
@@ -1176,6 +1179,7 @@
 - [Google Maps](https://maps.app.goo.gl/P66JJNuGNdib86iu6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Jing-Mei_White_Terror_Memorial_Park)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Human_Rights_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q11090153)
 - https://www.nhrm.gov.tw/w/nhrmEN/JMParks
 - [Atlas Obscura](https://www.atlasobscura.com/places/national-human-rights-museum)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/10/6/jingmei-prison)
@@ -1184,6 +1188,7 @@
 
 ## Greater Xindian Swimming Pool (大新店游泳池) (New Taipei City, Xindian District)
 - [Google Maps](https://maps.app.goo.gl/SXZCfX5WaSYqp42L7)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793778)
 
 - public transport: walking experience from Xindian District Office is pretty shitty
 - crowded, expensive, dirty, electric wires and pipes in the pools!
@@ -1193,6 +1198,7 @@
 ## Lin Family Mansion and Garden (林本源園邸) (New Taipei City, Banqiao District)
 - [Google Maps](https://maps.app.goo.gl/S6jx82qjrRfUGVjF8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lin_Family_Mansion_and_Garden)
+- [Wikidata](https://www.wikidata.org/wiki/Q6550027)
 - [Josh Ellis](https://www.goteamjosh.com/blog/taipeimansion)
 - official site: https://www.linfamily.ntpc.gov.tw/
 
@@ -1201,6 +1207,7 @@
 ## Taiwan Toy Museum (台灣玩具博物館) (New Taipei City, Banqiao District)
 - [Google Maps](https://maps.app.goo.gl/zYBKtuUGkD83CprRA)
 - [Facebook](https://www.facebook.com/taiwantoymuseum/)
+- [Wikidata](https://www.wikidata.org/wiki/Q61940537)
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/11/13/taiwan-toy-museum
 - https://www.taiwantoymuseum.com/
 
@@ -1209,6 +1216,7 @@
 ## Tamsui Fisherman's Wharf (淡水漁人碼頭) (New Taipei City, Tamsui District)
 - [Google Maps](https://maps.app.goo.gl/A3X9FNpJh8r9YJsB6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Tamsui_Fisherman%27s_Wharf)
+- [Wikidata](https://www.wikidata.org/wiki/Q4708464)
 - https://newtaipei.travel/en/attractions/detail/111429
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=4028
 - https://www.nickkembel.com/tamsui-taiwan-fishermens-wharf-old-street/
@@ -1217,10 +1225,14 @@
 - [Google Maps](https://maps.app.goo.gl/9fuRZArFas6BXLjR8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanjia_railway_station)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2017/11/16/shanjia)
+- [Wikidata](https://www.wikidata.org/wiki/Q11466294)
+
+- categories: train station, historical building
 
 ## Pinglin Tea Museum (坪林茶業博物館) (New Taipei City, Pinglin District)
 - [Google Maps](https://maps.app.goo.gl/bkuVgfTUtE1ftieV9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Ping-Lin_Tea_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q7195646)
 - https://www.tea.ntpc.gov.tw/tea_en
 - [TaiwanObsessed](https://www.taiwanobsessed.com/pinglin-bagua-tea-plantation-taipei/)
 - https://newtaipei.travel/en/attractions/detail/111457
@@ -1231,6 +1243,7 @@
 
 ## Formosa Freeway Swimming Pool (鑫北一游泳館) (New Taipei City, Zhonghe District)
 - [Google Maps](https://maps.app.goo.gl/GAbdr8XFXZRWwsfG9)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793767)
 - [Facebook](https://www.facebook.com/profile.php?id=100075761264688)
 
 - indoor pools: swimming pool, water spa area, sauna
@@ -1242,9 +1255,10 @@
 - categories: swimming pool
 
 ## Yun Hsien Resort (雲仙樂園) (New Taipei City, Wulai District)
-- official: https://www.yun-hsien.com.tw/
 - [Google Maps](https://maps.app.goo.gl/1FZgQbdn8vSd3JCE6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yun_Hsien_Resort)
+- [Wikidata](https://www.wikidata.org/wiki/Q19841101)
+- official: https://www.yun-hsien.com.tw/
 - https://newtaipei.travel/en/attractions/detail/111504
 
 - categories: amusement park, nature park
@@ -1286,14 +1300,18 @@
 - [Dribs & Drabs](https://www.dribs-drabs.com/national-archives/)
 
 ## New Taipei City Yingge Ceramics Museum (新北市立鶯歌陶瓷博物館) (New Taipei City, Yingge District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Yingge_Ceramics_Museum)
 - [Google Maps](https://maps.app.goo.gl/e3g8mgNmv8sYueFo6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Yingge_Ceramics_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q7012025)
 - https://www.ceramics.ntpc.gov.tw/
+
+- categories: museum
 
 ## Hobe Fort (滬尾礮臺) (New Taipei City, Tamsui District)
 - aka: Huwei Fort
 - [Google Maps](https://maps.app.goo.gl/j2GnXjSC3kFyooas9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Hobe_Fort)
+- [Wikidata](https://www.wikidata.org/wiki/Q5875008)
 - [Dribs & Drabs](https://www.dribs-drabs.com/hobe-fort/)
 - https://newtaipei.travel/en/attractions/detail/111533
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/hobe-fort)
@@ -1316,6 +1334,7 @@
 
 ## Taoyuan Jingfu Temple (桃園景福宮) (Taoyuan City, Taoyuan District)
 - [Google Maps](https://maps.app.goo.gl/1VLEkKyQfo78RHp1A)
+- [Wikidata](https://www.wikidata.org/wiki/Q11112007)
 - https://www.jingfugung.com/
 - https://travel.tycg.gov.tw/en/travel/attraction/1216
 - https://wanderlog.com/place/details/5352775/taoyuan-jingfu-temple
@@ -1325,6 +1344,7 @@
 ## Xpark (Xpark) (Taoyuan City, Zhongli District)
 - [Google Maps](https://maps.app.goo.gl/4EUNzzdUwMRHEGY2A)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Xpark)
+- [Wikidata](https://www.wikidata.org/wiki/Q124514449)
 - https://www.xpark.com.tw/
 - https://travel.tycg.gov.tw/en/travel/attraction/1620
 - https://vivianjourney.tw/xpark-taiwan/
@@ -1333,11 +1353,13 @@
 
 ## Xiaowulai Skywalk (小烏來天空步道) (Taoyuan City, Fuxing District)
 - [Google Maps](https://maps.app.goo.gl/2ags5Si5XWwNgmgM9)
+- [Wikidata](https://www.wikidata.org/wiki/Q10959632)
 - https://travel.tycg.gov.tw/en/travel/attraction/723
 - [Josh Ellis](https://www.goteamjosh.com/blog/xiaowulai)
 
 ## Longtan Martial Arts Hall (龍潭武德殿) (Taoyuan City, Longtan District)
 - [Google Maps](https://maps.app.goo.gl/fRn7Zvx8WumkLgft7)
+- [Wikidata](https://www.wikidata.org/wiki/Q17062840)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%BD%AD%E6%AD%A6%E5%BE%B7%E6%AE%BF)
 - [SpectralCodex](https://spectralcodex.com/longtan-martial-arts-hall/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/longwude)
@@ -1345,12 +1367,14 @@
 ## Daxi Old Street (大溪老街) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/R3YDMUpbKmqM9WoQ7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Daxi_Old_Street)
+- [Wikidata](https://www.wikidata.org/wiki/Q10936578)
 - https://travel.tycg.gov.tw/en/travel/attraction/1151
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/daxi-old-street)
 - [Josh Ellis](https://www.goteamjosh.com/blog/daxioldstreet)
 
 ## Daxi Tea Factory (大溪老茶廠) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/AWakLxaw36z8B5F4A)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793717)
 - [Josh Ellis](https://www.goteamjosh.com/blog/daxitea)
 - https://travel.tycg.gov.tw/en/travel/attraction/1369
 
@@ -1369,6 +1393,7 @@
 - aka: Zhuwei Fishing Port
 - [Google Maps](https://maps.app.goo.gl/qSWXt6vLFb3FHbMs6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhuwei_Fish_Harbor)
+- [Wikidata](https://www.wikidata.org/wiki/Q15925262)
 - https://travel.tycg.gov.tw/en/travel/attraction/739
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/zhuwei-fishing-harbor)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002107&id=A12-00158
@@ -1386,15 +1411,18 @@
 
 ## Huilong Temple (龜山迴龍寺) (Taoyuan City, Guishan District)
 - [Google Maps](https://maps.app.goo.gl/nVXHzjfUDPFadbi57)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793703)
 - https://nchdb.boch.gov.tw/city/Taoyuan/assets/overview/historicalBuilding/20230103000001
+- https://taiwanc.com/2023/09/17/%E9%BE%9C%E5%B1%B1%E8%BF%B4%E9%BE%8D%E5%AF%BA/
 
 - categories: temple
 
 ## National Museum of Marine Science and Technology (國立海洋科技博物館) (Keelung City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/2eLHPbg5QhJsxnRx8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Museum_of_Marine_Science_and_Technology)
+- [Wikidata](https://www.wikidata.org/wiki/Q8784491)
 - official (zho): https://www.nmmst.gov.tw/
 - official (eng): https://www.nmmst.gov.tw/enhtml/
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Museum_of_Marine_Science_and_Technology)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002105&id=A12-00123
 - https://www.northguan-nsa.gov.tw/user/article.aspx?Lang=2&SNo=04005330
 - categories: museum, aquarium
@@ -1404,6 +1432,7 @@
 ## YM Oceanic Culture and Art Museum (陽明海洋文化藝術館) (Keelung City, Ren'ai District)
 - [Google Maps](https://maps.app.goo.gl/LSHHfE72bp6D27Na8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/YM_Oceanic_Culture_and_Art_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q13499281)
 - [The Occasional Traveller](https://theoccasionaltraveller.com/keelung-guide/#1915-yangming-oceanic-culture-art-museum-1915-%E9%99%BD%E6%98%8E%E6%B5%B7%E6%B4%8B%E6%96%87%E5%8C%96%E8%97%9D%E8%A1%93%E9%A4%A8)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002105&id=A12-00331
 
@@ -1413,6 +1442,8 @@
 - aka: 正濱漁港彩色街屋
 - [Google Maps](https://maps.app.goo.gl/b6TxHshbNa5Bmgom6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhengbin_Fishing_Port)
+- [Wikidata (Colored Houses)](https://www.wikidata.org/wiki/Q136747059)
+- [Wikidata (Port)](https://www.wikidata.org/wiki/Q100450621)
 - [The Occasional Traveller](https://theoccasionaltraveller.com/keelung-guide/#zhengbin-fishing-port-colourful-houses-%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E5%B1%8B)
 - https://www.taiwantourbus.com.tw/C/us/view-content/twbus/Chen-Pin-Fishing-Harbor
 - [TaiwanObsessed](https://www.taiwanobsessed.com/zhengbin-fishing-harbor-color-houses/)
@@ -1422,8 +1453,6 @@
 - [wanderlog](https://wanderlog.com/place/details/1882912/zhengbin-port-color-houses)
 - [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
 - [Coco in Taiwan](https://corissajoy.com/keelung-zhengbin-fishing-harbor/)
-
-
 
 ## Qidu Railway Memorial Park (七堵鐵道紀念公園) / Old Qidu Train Station (舊七堵車站) (Keelung City, Qidu District)
 - [Google Maps (Park)](https://maps.app.goo.gl/9Sb1qs2heH1GttqW8)
@@ -1437,12 +1466,14 @@
 ## Dongshan River Water Park (冬山河親水公園) (Yilan County, Wujie Township)
 - [Google Maps](https://maps.app.goo.gl/FYFGMpDBfz5wxNvc8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Dongshan_River_Water_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q5296020)
 - https://www.goilan.com.tw/dsriver/
 
 - categories: swimming pool
 
 ## Robert Y Museum (RobertY廢墟暴龍館) (Yilan County, Su'ao Township)
 - [Google Maps](https://maps.app.goo.gl/7j3eKGxpp75irpJaA)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793608)
 - [Atlas Obscura](https://www.atlasobscura.com/places/robert-y-museum)
 - https://www.robert-y.com.tw/
 - https://www.robert-y.eu/
@@ -1454,6 +1485,7 @@
 ## Leofoo Village Theme Park (六福村主題遊樂園) (Hsinchu County, Guanxi Township)
 - [Google Maps](https://maps.app.goo.gl/o57HSFrecq238FmT7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Leofoo_Village_Theme_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q3229621)
 - official: https://www.leofoovillage.com.tw/
 - https://www.themepark.net.tw/web_en/ParkDetail/5f3ed53336c84dcabdc3e07d580914b2
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=R40
@@ -1465,6 +1497,7 @@
 ## Little Ding-Dong Science Theme Park (小叮噹科學主題樂園) (Hsinchu County, Xinfeng Township)
 - [Google Maps](https://maps.app.goo.gl/63xR7zXzXZ9s5iGt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Little_Ding-Dong_Science_Theme_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q10958042)
 - official: https://www.ding-dong.com.tw/
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=2098
 
@@ -1474,6 +1507,7 @@
 ## Baozhong Yimin Temple (褒忠亭義民廟) (Hsinchu County, Xinpu Township)
 - [Google Maps](https://maps.app.goo.gl/dcQ4iZFW9yq86UY98)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F)
+- [Wikidata](https://www.wikidata.org/wiki/Q15924047)
 - https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=33
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=448
 - [Josh Ellis](https://www.goteamjosh.com/blog/yimin)
@@ -1483,6 +1517,8 @@
 ## Green World Ecological Farm (綠世界生態農場) (Hsinchu County, Beipu Township)
 - aka: Green World Ecological Park
 - [Google Maps](https://maps.app.goo.gl/oij2cb6Cqc7JcXP18)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Green_World_Ecological_Farm)
+- [Wikidata](https://www.wikidata.org/wiki/Q15222106)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=A12-00207
 - https://www.green-world.com.tw/
 - https://www.foreignersintaiwan.com/blog/green-world-ecological-farm
@@ -1499,6 +1535,7 @@
 ## Neiwan Theater (內灣戲院) (Hsinchu County, Hengshan Township)
 - [Google Maps](https://maps.app.goo.gl/qaeb7fxA62TgWzJF6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Neiwan_Theater)
+- [Wikidata](https://www.wikidata.org/wiki/Q35315691)
 - https://neiwan.okgo.tw/scenic/3363.html
 
 - categories: cinema, restaurant
@@ -1508,6 +1545,8 @@
 - includes: Neiwan Theater (內灣戲院)
 - close by: Neiwan Suspension Bridge (內灣吊橋)
 - [Google Maps](https://maps.app.goo.gl/aUXFudP4Sowy2TN59)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%85%A7%E7%81%A3%E8%80%81%E8%A1%97)
+- [Wikidata](https://www.wikidata.org/wiki/Q10891351)
 - https://www.taiwanobsessed.com/neiwan-old-street/
 - [Josh Ellis](https://www.goteamjosh.com/blog/neiwan)
 - https://www.foreignersintaiwan.com/blog/neiwan-old-street
@@ -1519,6 +1558,7 @@
 - aka: 新竹演武場
 - [Google Maps](https://maps.app.goo.gl/iePLR9d7oazZCbz97)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80%E6%BC%94%E6%AD%A6%E5%A0%B4)
+- [Wikidata](https://www.wikidata.org/wiki/Q65058483)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2017/11/20/the-hsinchu-prison-budokan-and-dormitories)
 - [Josh Ellis](https://www.goteamjosh.com/blog/shaonian)
 - [Orphaned Nation](https://www.orphanednation.com/hsinchu-prison-martial-arts-hall-%E6%96%B0%E7%AB%B9%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80%E6%BC%94%E6%AD%A6%E5%A0%B4/)
@@ -1531,6 +1571,7 @@
 - aka: Hsinchu Chenghuang Temple, 新竹城隍廟
 - [Google Maps](https://maps.app.goo.gl/FnFxAgMPHcWD1U476)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Chenghuang_Temple)
+- [Wikidata](https://www.wikidata.org/wiki/Q11084079)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002109&id=447
 - https://www.kcis.hc.edu.tw/gsh2024/gsh8748/03.htm
 - [SpectralCodex](https://spectralcodex.com/hsinchu-city-god-temple/)
@@ -1542,6 +1583,7 @@
 - aka: 新竹動物園
 - [Google Maps](https://maps.app.goo.gl/5NHkTDsdidzNdV168)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Zoo)
+- [Wikidata](https://www.wikidata.org/wiki/Q11084009)
 - https://zoo-info.hccg.gov.tw/
 
 - categories: zoo
@@ -1573,7 +1615,8 @@
 ## Qiumao Garden (秋茂園) (Miaoli County, Tongxiao Township)
 - [Google Maps](https://maps.app.goo.gl/scHJGbNT2gwrPKVv9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%A7%8B%E8%8C%82%E5%9C%92)
-- https://spectralcodex.com/tongxiao-qiumao-garden/
+- [Wikidata](https://www.wikidata.org/wiki/Q49547046)
+- [SpectralCodex](https://spectralcodex.com/tongxiao-qiumao-garden/)
 - https://formosajmac.com/2024/06/20/qiu-mao-garden/
 - https://www.juksy.com/article/111101
 - https://www.youtube.com/watch?v=xNRU6w2p3sk
@@ -1673,6 +1716,9 @@
 ## Kaohsiung Martyrs' Shrine (高雄市忠烈祠) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/18TjcVqC2zbFdBHK7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Martyrs%27_Shrine)
+- [Wikidata](https://www.wikidata.org/wiki/Q10566870)
+
+- categories: memorial, shrine
 
 ## Former British Consulate at Takao (打狗英國領事館) (Kaohsiung City, Gushan District)
 - [Google Maps](https://maps.app.goo.gl/foK15XBujYAxmvrA6)
@@ -1681,6 +1727,7 @@
 ## National Science and Technology Museum (國立科學工藝博物館) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/kanGuAYUZxRBatUUA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Science_and_Technology_Museum)
+- [Wikidata](https://www.wikidata.org/wiki/Q10927140)
 - https://www.nstm.gov.tw/english/
 
 - categories: museum
@@ -1690,8 +1737,11 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Sankuaicuo_railway_station)
 - [Josh Ellis](https://www.goteamjosh.com/blog/sankuai)
 
+- categories: train station, historical building
+
 ## Sunfong Temple (高雄三鳳宮) (Kaohsiung City, Sanmin District)
 - [Google Maps](https://maps.app.goo.gl/wyVWJaf8FjAS9tsG7)
+- [Wikidata](https://www.wikidata.org/wiki/Q9383278)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/sanfong-temple-kaohsiung/)
 - https://khh.travel/en/attractions/detail/497/
 - [Girl on a Zebra](https://girlonazebra.com/sunfong-temple-kaohsiung/)
@@ -1708,12 +1758,14 @@
 - aka: Weiwuying
 - [Google Maps](https://maps.app.goo.gl/1zdiH1f3sr6CsekB6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Kaohsiung_Center_for_the_Arts)
+- [Wikidata](https://www.wikidata.org/wiki/Q14779193)
 - https://www.npac-weiwuying.org/
 
 - categories: performing arts theater
 
 ## Suzuka Circuit Park (鈴鹿賽道樂園) (Kaohsiung City, Cianjhen District)
 - [Google Maps](https://maps.app.goo.gl/AJxwaZJWWRFAs2LZ7)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793307)
 - https://www.suzukacircuitpark.com/
 
 - categories: amusement park
@@ -1721,6 +1773,7 @@
 ## Kaohsiung Confucius Temple (左營孔子廟) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/wQ4RcWpk4Ghz7VSM8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Confucius_Temple)
+- [Wikidata](https://www.wikidata.org/wiki/Q1194922)
 - [Josh Ellis](https://www.goteamjosh.com/blog/kaokong)
 
 - categories: temple
@@ -1728,12 +1781,16 @@
 ## Dragon and Tiger Pagodas (龍虎塔) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/vNhS1qzyKZUbmFXs5)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Dragon_and_Tiger_Pagodas)
+- [Wikidata](https://www.wikidata.org/wiki/Q3847247)
 - [Girl on a Zebra](https://girlonazebra.com/dragon-and-tiger-pagodas/)
 - https://www.foreignersintaiwan.com/blog/lotus-pond
+
+- categories: temple
 
 ## Ocean Fantasy Museum (澄清湖海洋奇珍園) (Kaohsiung City, Niaosong District)
 - aka: Cheng Ching Lake Exotic Marine Life Museum
 - [Google Maps](https://maps.app.goo.gl/oqkeVGiNByoawoRG9)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793340)
 - [Atlas Obscura](https://www.atlasobscura.com/places/ocean-fantasy-museum)
 - https://torenatkinson.com/2023/11/05/torens-taiwan-trip-19-ocean-fantasy-museum-at-chengching-lake-niaosong-district-kaohsiung-a-sad-octopus/
 - https://www.facebook.com/cclem7356166/
@@ -1743,9 +1800,17 @@
 
 - categories: museum
 
+## Paul Chiang Art Center (江賢二藝術園區) (Taitung County, Donghe Township)
+- [Google Maps](https://maps.app.goo.gl/Xppde5TgNYFj1yUd6)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793393)
+- https://www.paulchiangartcenter.org/
+
+- categories: modern art, museum, gallery
+
 ## National Museum of Marine Biology and Aquarium (國立海洋生物博物館) (Pingtung County, Checheng Township)
 - [Google Maps](https://maps.app.goo.gl/vCyAggv7Z1wyCczG8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Museum_of_Marine_Biology_and_Aquarium)
+- [Wikidata](https://www.wikidata.org/wiki/Q697507)
 - https://www.nmmba.gov.tw/En/
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002122&id=2242
 

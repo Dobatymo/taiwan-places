@@ -78,7 +78,7 @@
 
 - 2015: almost completely demolished (according to Paul Kemp and Tom Rook)
 
-## Former Xintai Hospital Location (新泰綜合醫院) (New Taipei City, Xinzhuang District)
+## Former Xintai Hospital Site (新泰綜合醫院, 原址) (New Taipei City, Xinzhuang District)
 - [Google Maps](https://maps.app.goo.gl/YQPytHU99CUtikhN9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E6%B3%B0%E7%B6%9C%E5%90%88%E9%86%AB%E9%99%A2)
 - [Instagram (crain67183)](https://www.instagram.com/reel/DP0ISyMCU47/), [Instagram (crain67183)](https://www.instagram.com/crain67183/p/DP5tuQWibwl/), [Threads (crain67183)](https://www.threads.com/@crain67183/post/DP0IuCWCTVS)
@@ -123,6 +123,7 @@
 - [Google Maps](https://maps.app.goo.gl/aT9fEUQkMavLpSRX7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Formosa_Fun_Coast)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%85%AB%E4%BB%99%E6%B5%B7%E5%B2%B8)
+- [Wikidata](https://www.wikidata.org/wiki/Q10891944)
 - [Official](https://web.archive.org/web/20170106110705/http://www.formosafuncoast.com.tw:80/)
 - [Dax Ward Photography](https://www.daxward.com/Formosa-Fun-Water-Park)
 - [YouTube (Dax Ward Photography)](https://www.youtube.com/watch?v=fiN1ljuqHQk)
@@ -133,8 +134,9 @@
 - https://home.gamer.com.tw/creationDetail.php?sn=4516571
 
 ## Bali Mediterranean Club (八里地中海俱樂部) (New Taipei City, Bali District)
-- [Google Maps](https://maps.app.goo.gl/ricruu4XX3xdFJUu9)
-- [Google Maps (old entrance)](https://maps.app.goo.gl/zm4mG4DWVGnmKyfP9)
+- [Google Maps (old entrance)](https://maps.app.goo.gl/ricruu4XX3xdFJUu9)
+- [Google Maps](https://maps.app.goo.gl/zm4mG4DWVGnmKyfP9)
+- [Wikidata](https://www.wikidata.org/wiki/Q136793795)
 - [Josh Ellis](https://www.goteamjosh.com/blog/julebu)
 - [Josh Ellis](https://www.goteamjosh.com/julebu)
 - [SpectralCodex](https://spectralcodex.com/bali-health-club-and-resort/)
