@@ -467,19 +467,24 @@
 - you can bath in the waterfall pools
 
 ## Fuzhou Mountain (福州山) (Taipei City, Da'an District)
-- close by: Fuyang Ecological Park, Zhongpu Mountain
+- aka: Fuzhoushan Park, 福州山公園
+- close by: Fuyang Eco Park, Zhongpu Mountain
 - [Google Maps](https://maps.app.goo.gl/Q2L1e3SmZtn5gAog9)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/fuzhoushan-zhongpushan/
 - https://www.travel.taipei/zh-tw/attraction/details/407
 - https://baxter222sarah.wixsite.com/mysite/single-post/2017/10/12/fuzhoushan-park
+- [Wikidata (Park)](https://www.wikidata.org/wiki/Q112231407)
 
 ## Zhongpu Mountain (中埔山) (Taipei City, Da'an District)
-- close by: Fuyang Ecological Park, Fuzhou Mountain
+- aka: Zhongbu Mountain
+- close by: Fuyang Eco Park, Fuzhou Mountain
+- [Google Maps (peak)](https://maps.app.goo.gl/iBckG5Jusot1AS2q8)
 - [Google Maps (east peak)](https://maps.app.goo.gl/KQ5erDUQMFdDBbU78)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/PffPpbPMuikhhPfw8)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/fuzhoushan-zhongpushan/
 - https://danlantrail.necoast-nsa.gov.tw/Trails-Content.aspx?a=2927&l=2&listid=2867&fromCnt=0
 - [onethingoneweek](https://onethingoneweek.com/zhongpushan/)
+- [Wikidata](https://www.wikidata.org/wiki/Q31392344)
 
 - part of Taipei Grand Trail Section 6
 
@@ -488,6 +493,7 @@
 - https://www.travel.taipei/en/attraction/details/702
 - https://www.travel.taipei/zh-tw/attraction/details/379
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/tiaomi-historic-trail-a-quiet-route-to-mt-thumb)
+- [Wikidata](https://www.wikidata.org/wiki/Q15928319)
 
 ## Nanshijiao Mountain (南勢角山) / Hongludi Trail (烘爐地登山步道) (New Taipei City, Zhonghe District)
 - close by: Hongludi Nanshan Fude Temple
@@ -512,6 +518,8 @@
 ## Yinhe Cave (銀河洞) / Yinhe Cave Hiking Trail (銀河洞越嶺步道) (New Taipei City, Xindian District)
 - [Google Maps (cave)](https://maps.app.goo.gl/hYRbUteySUgyaGZh9)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/zBufH35jpEVUkTYp7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%B4%9E)
+- [Wikidata](https://www.wikidata.org/wiki/Q15910203)
 - https://newtaipei.travel/en/attractions/detail/403028
 - [onethingoneweek](https://onethingoneweek.com/yinhedong-waterfall/)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/5/yinhe-cave-temple)
@@ -523,6 +531,8 @@
 - aka: 羌子寮山
 - [Google Maps (Sanjiaopuding Mountain)](https://maps.app.goo.gl/rVssXMSeKBKnnbiH8)
 - [Google Maps (Datong Mountain peak)](https://maps.app.goo.gl/HpEM9byuP6eLoH2F8)
+- [Wikidata](https://www.wikidata.org/wiki/Q31392280)
+- [Wikidata](https://www.wikidata.org/wiki/Q31392488)
 - [Josh Ellis](https://www.goteamjosh.com/blog/sanjiao)
 - https://hiking.biji.co/index.php?q=trail&act=detail&id=210
 - https://newtaipei.travel/zh-tw/tour/731
@@ -535,8 +545,9 @@
 ## Guanyin Mountain (觀音山) (New Taipei City, Bali District)
 - [Google Maps (peak)](https://maps.app.goo.gl/4GC5q91hwUASYeht7)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/CVCnm2EzNXV4jX9Q6)
-- [Josh Ellis](https://www.goteamjosh.com/blog/guanyinshan)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%B1%B1_%28%E6%96%B0%E5%8C%97%E5%B8%82%29)
+- [Wikidata](https://www.wikidata.org/wiki/Q14657877)
+- [Josh Ellis](https://www.goteamjosh.com/blog/guanyinshan)
 
 - public transport: bus from Luzhou MRT Station
 - #005 of Taiwan's 100 minor peaks (台灣小百岳)
@@ -545,6 +556,7 @@
 - aka: Nan-zih-mian
 - [Google Maps (peak)](https://maps.app.goo.gl/uQ2vHHTg7tyKUSvXA)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/Tz2W9cJ2sKA2Zces6)
+- [Wikidata](https://www.wikidata.org/wiki/Q31392211)
 - https://newtaipei.travel/en/attractions/detail/403532
 - [Josh Ellis](https://www.goteamjosh.com/blog/tag/Nanzilin+Mountain)
 - https://youfuntaiwan.com/en/nanzilin-trail/
@@ -564,6 +576,7 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=R114
 - https://taiwanoutdoors.com/hiking/historic-trail/caoling/
 - https://www.foreignersintaiwan.com/blog/caoling-old-trail
+- [Wikidata](https://www.wikidata.org/wiki/Q10505024)
 
 - public transport: good, between Fulong TRA Station and Dali TRA Station
 
@@ -571,6 +584,7 @@
 - aka: Wuliaojian
 - [Google Maps (peak)](https://maps.app.goo.gl/4r3bRaA8rQC3eD838)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/FGnyk1Tg1eqpKSSW9)
+- [Wikidata](https://www.wikidata.org/wiki/Q31619329)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2016/12/15/wu-liao-jian-%E4%BA%94%E5%AF%AE%E5%B0%96/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/wuliaojian)
 - [Hiking/Cycling in Taiwan](https://bikehiketaipei.wordpress.com/wuliaojian/)
@@ -581,6 +595,7 @@
 
 ## Dadong Mountain (大棟山) (Taoyuan City, Guishan District)
 - [Google Maps](https://maps.app.goo.gl/8PH313tYYByKvH2v9)
+- [Wikidata](https://www.wikidata.org/wiki/Q9920952)
 - https://travel.tycg.gov.tw/en/travel/attraction/1366
 - https://taiwanoutdoors.com/hiking/small-mountains/dadongshan/
 - [Hiking/Cycling in Taiwan](https://bikehiketaipei.wordpress.com/mt-dadong/)
@@ -590,6 +605,7 @@
 ## Lovers Lake (情人湖) (Keelung City, Anle District)
 - aka: Lovers Lake Circular Trail, 情人湖環湖步道, Lovers Lake Park, 情人湖公園
 - [Google Maps](https://maps.app.goo.gl/ZXdgVSiJbqVtzAgB8)
+- [Wikidata](https://www.wikidata.org/wiki/Q11073258)
 - https://bikehiketaipei.wordpress.com/lovers-lake/
 - https://www.northguan-nsa.gov.tw/user/article.aspx?Lang=2&SNo=04005324
 - https://keelung-for-a-walk.com/attraction/keelung-parks-lovers-lake-park/
@@ -885,26 +901,6 @@
 - https://www.travel.taipei/en/fun/tour/details/1198
 - https://www.theguardian.com/world/2023/aug/28/secret-escape-slide-for-taiwans-former-leader-draws-in-the-crowds-just-dont-ask-for-a-go
 - https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=751
-
-## Yuanshan Natural Landscape Park (圓山自然景觀公園) (Taipei City, Zhongshan District)
-- aka: former Taipei Children's Recreation Center, 圓山舊兒童樂園
-- [Google Maps](https://maps.app.goo.gl/MTXgmeiCLPCq7VdR7)
-- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AB%8B%E5%85%92%E7%AB%A5%E6%96%B0%E6%A8%82%E5%9C%92)
-- https://www.travel.taipei/en/attraction/details/2420
-- https://parks.gov.taipei/parks/m2/pkl_parks_m2C.php?sid=839
-- [Taipei Film Commission](https://www.filmcommission.taipei/scenesCT.aspx?id=1370)
-- https://www.foreignersintaiwan.com/blog/former-taipei-child-amusement-park
-- https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=25A36C3FB5E63EF2
-- https://home.gamer.com.tw/creationDetail.php?sn=4384141
-- https://plaza.openmuseum.tw/muse/exhibition/a83ac0508bebc6e34f74fbdd619d0e2b
-- https://www.travelking.com.tw/eng/tourguide/scenery188.html
-- https://english.tct.gov.taipei/News_Content.aspx?n=761F71D7D924CD7B&s=77F94CB1701F6FC0
-- [Medium (Kyle Chu)](https://medium.com/@Kyle_Chu/廢墟攝影-景點-舊台北兒童育樂中心-a-private-photo-site-abandoned-taipei-childrens-recreation-center-95080186dc1d)
-- [Official (Archived)](https://web.archive.org/web/*/http://www.tcrc.gov.tw)
-- https://spectralcodex.com/zhongshan-yuanshan-childrens-amusement-park/
-- [Wikidata](https://www.wikidata.org/wiki/Q114436869)
-
-- categories: park, abandoned amusement park
 
 ## Taipei 101 (台北101) (Taipei City, Xinyi District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_101)
@@ -2003,6 +1999,17 @@
 
 - categories: night market
 
+## Xining Market (西寧大樓) (Taipei City, Wanhua District)
+- also: Xining Public Housing (萬華西寧國宅)
+- [Google Maps](https://maps.app.goo.gl/dnXno6PMLya33JoM7)
+- https://spectralcodex.com/wanhua-xining-public-housing/
+- https://www.taiwannews.com.tw/news/6027674
+- https://english.ftvnews.com.tw/news/2024604W01EA
+- https://taipeiartweek.tw/en/listing/xining-public-housing/
+
+- categories: traditional indoor market, electronics market
+- scheduled for demolition
+
 ## Dalong Market (大龍市場) (Taipei City, Datong District)
 - [Google Maps](https://maps.app.goo.gl/XSsghwXjDKw5PB6v6)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=71413C8D8A5A106F
@@ -2151,6 +2158,35 @@
 
 - categories: park, botanical garden
 
+## Fuyang Eco Park (富陽自然生態公園) (Taipei City, Da'an District)
+- aka: Fuyang Ecological Park
+- [Google Maps](https://maps.app.goo.gl/ieARSVfQEuoaQt1n8)
+- [Wikidata](https://www.wikidata.org/wiki/Q10954899)
+- https://www.travel.taipei/en/attraction/details/618
+- https://taiwantrailsandtales.com/2021/01/09/tamsui-kavalan-trails-fuyang-eco-park-shenkeng/
+
+- categories: ecological park
+
+## Yuanshan Natural Landscape Park (圓山自然景觀公園) (Taipei City, Zhongshan District)
+- aka: former Taipei Children's Recreation Center, 圓山舊兒童樂園
+- [Google Maps](https://maps.app.goo.gl/MTXgmeiCLPCq7VdR7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AB%8B%E5%85%92%E7%AB%A5%E6%96%B0%E6%A8%82%E5%9C%92)
+- https://www.travel.taipei/en/attraction/details/2420
+- https://parks.gov.taipei/parks/m2/pkl_parks_m2C.php?sid=839
+- [Taipei Film Commission](https://www.filmcommission.taipei/scenesCT.aspx?id=1370)
+- https://www.foreignersintaiwan.com/blog/former-taipei-child-amusement-park
+- https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=25A36C3FB5E63EF2
+- https://home.gamer.com.tw/creationDetail.php?sn=4384141
+- https://plaza.openmuseum.tw/muse/exhibition/a83ac0508bebc6e34f74fbdd619d0e2b
+- https://www.travelking.com.tw/eng/tourguide/scenery188.html
+- https://english.tct.gov.taipei/News_Content.aspx?n=761F71D7D924CD7B&s=77F94CB1701F6FC0
+- [Medium (Kyle Chu)](https://medium.com/@Kyle_Chu/廢墟攝影-景點-舊台北兒童育樂中心-a-private-photo-site-abandoned-taipei-childrens-recreation-center-95080186dc1d)
+- [Official (Archived)](https://web.archive.org/web/*/http://www.tcrc.gov.tw)
+- https://spectralcodex.com/zhongshan-yuanshan-childrens-amusement-park/
+- [Wikidata](https://www.wikidata.org/wiki/Q114436869)
+
+- categories: park, abandoned amusement park
+
 ## Rongxing Garden Park (榮星花園公園) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/yk5eyCwkkcPvb5Hu7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Rongxing_Garden_Park)
@@ -2168,7 +2204,7 @@
 - categories: park, playground
 
 ## Lihe Eco Park (黎和生態公園) (Taipei City, Da'an District)
-- close by: Fuyang Ecological Park, Fuzhou Mountain
+- close by: Fuyang Eco Park, Fuzhou Mountain
 - [Google Maps](https://maps.app.goo.gl/PgJARYJPXnhXd6td9)
 - https://www.foreignersintaiwan.com/blog/lihe-eco-park
 - https://www.geo.gov.taipei/News_Content.aspx?n=23285747C0511EC4&sms=72544237BBE4C5F6&s=736B8E240118203A
@@ -2635,15 +2671,16 @@
 
 - categories: community, housing complex, building complex
 
-## Xining Public Housing (萬華西寧國宅) / Xining Market (西寧大樓) (Taipei City, Wanhua District)
+## Xining Public Housing (萬華西寧國宅) (Taipei City, Wanhua District)
 - aka: 西寧國宅
+- also: Xining Market (西寧大樓)
 - [Google Maps](https://maps.app.goo.gl/dnXno6PMLya33JoM7)
 - https://spectralcodex.com/wanhua-xining-public-housing/
 - https://www.taiwannews.com.tw/news/6027674
 - https://english.ftvnews.com.tw/news/2024604W01EA
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 
-- categories: community, abandoned, public housing, market
+- categories: community, abandoned, public housing
 - scheduled for demolition
 
 ## Nanjichang Community (南機場社區) (Taipei City, Zhongzheng District)
