@@ -6,9 +6,9 @@
 
 ## Zhongxiao Market in Wanxiang Building (忠孝市場 in 萬象大樓) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/ucSrxfyJmESbjnAbA)
-- https://thethiefofplaces.wixsite.com/thethiefofplaces/post/03162019
-- https://ritahsieh0606.pixnet.net/blog/post/354006205
-- https://www.veins-of-taipei.com/2022/09/29/r048/
+- [the thief of places](https://thethiefofplaces.wixsite.com/thethiefofplaces/post/03162019)
+- [Pixnet (法拍愛分享)](https://ritahsieh0606.pixnet.net/blog/post/354006205)
+- [Veins of Taipei](https://www.veins-of-taipei.com/2022/09/29/r048/)
 
 ## Stanton Club (飛宏象山國際聯誼中心) (Taipei City, Xinyi District)
 - aka: 飛宏象山聯誼中心
@@ -184,7 +184,7 @@
 - https://www.foreignersintaiwan.com/blog/wanli-ufo-houses
 - [Kathmandu & Beyond](https://www.kathmanduandbeyond.com/abandoned-taiwan-futuro-village-wanli/)
 - https://www.dark-tourism.com/index.php/1553-wanli
-- https://www.remotelands.com/travelogues/the-forsaken-ufo-village-of-wanli/
+- [Remote Lands Travelogues](https://www.remotelands.com/travelogues/the-forsaken-ufo-village-of-wanli/)
 - https://www.rachelenroute.com/wanli-ufo-village-a-supernatural-day-trip-from-taipei/
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
 - [Atlas Obscura](https://www.atlasobscura.com/places/wanli-ufo-village)

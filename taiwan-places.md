@@ -177,11 +177,11 @@
 - aka: Chu-wei Beach
 - close by: Zhuwei Fishing Harbor (竹圍漁港)
 - [Google Maps](https://maps.app.goo.gl/PJnouHt7kATJikNu8)
-- https://travel.tycg.gov.tw/zh-tw/travel/attraction/188
-- https://travel.tycg.gov.tw/en/travel/attraction/739
+- [Wikidata](https://www.wikidata.org/wiki/Q49325388)
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/zh-tw/travel/attraction/188)
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/739)
 - https://natsuphil.com/taoyuan/zhuwei-port/
 - https://ksjourney.life/taoyuansea1/
-- [Wikidata](https://www.wikidata.org/wiki/Q49325388)
 
 - sand beach
 
@@ -415,10 +415,10 @@
 ## Bailusishan Trail (白鷺鷥山步道) (Taipei City, Neihu District)
 - close by: Dahu Park
 - [Google Maps](https://maps.app.goo.gl/8TxpYZc6MPnJvEM98)
-- https://funtaiwankids.com/listing/bailusishan-trail/
-- https://taiwantrailsandtales.com/2019/04/21/egret-hill/
+- [Fun Taiwan Kids](https://funtaiwankids.com/listing/bailusishan-trail/)
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2019/04/21/egret-hill/)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/neihu/
-- https://baxter222sarah.wixsite.com/mysite/single-post/2018/04/04/bailusishan-trail
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2018/04/04/bailusishan-trail)
 
 - short trail suitable for young children
 
@@ -452,7 +452,7 @@
 - [Google Maps (Trailhead)](https://maps.app.goo.gl/QhRM7cEH5J9MaKAcA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Datun_Mountain)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/datunshan)
-- https://taiwantrailsandtales.com/2019/02/14/mount-datun-multi-peak-trail/
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2019/02/14/mount-datun-multi-peak-trail/)
 
 - #001 of Taiwan's 100 minor peaks (台灣小百岳)
 
@@ -470,7 +470,7 @@
 - https://www.travel.taipei/en/attraction/details/564
 - [GuideToTaipei.com](https://guidetotaipei.com/visit/elephant-mountain-%E8%B1%A1%E5%B1%B1-xiangshan)
 - [WordPress (Hiking/Cycling in Taiwan)](https://bikehiketaipei.wordpress.com/elephant-mountain/)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/11/11/elephant-mountain
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/11/11/elephant-mountain)
 
 ## Tianmu Historic Trail (天母古道) (Taipei City, Shilin District)
 - [Google Maps](https://maps.app.goo.gl/XMHZCopGdGxxTEs39)
@@ -482,7 +482,7 @@
 - [Google Maps](https://maps.app.goo.gl/Uj7Po5RGWxBr5oY76)
 - https://www.travel.taipei/en/attraction/details/2483
 - [HopOut](https://hopout.com.tw/location/taipei-yuanjue-waterfall)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/03/yuanjue-waterfall-hike
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/03/yuanjue-waterfall-hike)
 
 - categories: waterfall, mountain trail
 - you can bath in the waterfall pools
@@ -493,7 +493,7 @@
 - [Google Maps](https://maps.app.goo.gl/Q2L1e3SmZtn5gAog9)
 - https://4corners7seas.com/asia/taiwan/hiking-taipei/fuzhoushan-zhongpushan/
 - https://www.travel.taipei/zh-tw/attraction/details/407
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/10/12/fuzhoushan-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/10/12/fuzhoushan-park)
 - [Wikidata (Park)](https://www.wikidata.org/wiki/Q112231407)
 
 ## Zhongpu Mountain (中埔山) (Taipei City, Da'an District)
@@ -617,7 +617,7 @@
 ## Dadong Mountain (大棟山) (Taoyuan City, Guishan District)
 - [Google Maps](https://maps.app.goo.gl/8PH313tYYByKvH2v9)
 - [Wikidata](https://www.wikidata.org/wiki/Q9920952)
-- https://travel.tycg.gov.tw/en/travel/attraction/1366
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1366)
 - https://taiwanoutdoors.com/hiking/small-mountains/dadongshan/
 - [WordPress (Hiking/Cycling in Taiwan)](https://bikehiketaipei.wordpress.com/mt-dadong/)
 
@@ -666,7 +666,7 @@
 - [Google Maps (Peak)](https://maps.app.goo.gl/cehQmgydyC4R5Nj88)
 - https://blog.5164.at/posts/2023-11-11-lidongshan/
 - https://www.taiwanhikes.com/blog-posts/dahun-lidong-mountain.html
-- https://taiwantrailsandtales.com/2017/04/05/lidong-shan-and-tapung-castle-via-dahun-shan/
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/04/05/lidong-shan-and-tapung-castle-via-dahun-shan/)
 - https://taiwanoutdoors.com/hiking/small-mountains/liweishan/
 - https://www.peopo.org/news/807250
 
@@ -687,7 +687,7 @@
 - official (zho): https://www.ntm.gov.tw/
 - official (eng): https://www.ntm.gov.tw/en/
 - [Dribs & Drabs](https://www.dribs-drabs.com/taiwan-museum/)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=523)
 - [Wikidata](https://www.wikidata.org/wiki/Q706692)
 
@@ -708,7 +708,7 @@
 - official: https://www.ntm.gov.tw/
 - https://www.travel.taipei/en/attraction/details/614
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=16a3e677-d90b-4a43-b875-9d5647761229
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum)
 
 - categories: museum
 - public transport: great
@@ -734,7 +734,7 @@
 - [Google Maps](https://maps.app.goo.gl/n11NHtAhSVxAkFNx6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall)
 - https://www.travel.taipei/en/attraction/details/445
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/16/chiang-kai-shek-memorial-hall
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/16/chiang-kai-shek-memorial-hall)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=130)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=8196)
 - [Wikidata](https://www.wikidata.org/wiki/Q540794)
@@ -744,10 +744,10 @@
 ## Evergreen Maritime Museum (長榮海事博物館) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/rr3pCX3yKZJwsNiEA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Evergreen_Maritime_Museum)
-- https://www.evergreenmuseum.org.tw/
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/29/evergreen-maritime-museum
-- [Facebook](https://www.facebook.com/cyffemm)
 - [Wikidata](https://www.wikidata.org/wiki/Q14920625)
+- [Official](https://www.evergreenmuseum.org.tw/)
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/29/evergreen-maritime-museum)
+- [Facebook](https://www.facebook.com/cyffemm)
 
 - categories: museum, ships
 
@@ -757,7 +757,7 @@
 - official: https://waterparken.water.gov.taipei/cp.aspx?n=DF4321208AB15734
 - https://www.travel.taipei/en/media/audio-guide/details/241
 - [Nickkembel Travels](https://www.nickkembel.com/taipei-with-kids/#Taipei_Water_Park_and_other_Spray_Parks)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/07/31/taipei-city-waterpark
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/07/31/taipei-city-waterpark)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1560)
 
 - categories: swimming pool
@@ -793,7 +793,7 @@
 - https://www.travel.taipei/en/attraction/details/613
 - [Coco in Taiwan](https://corissajoy.com/treasure-hill-light-festival/)
 - [SpectralCodex](https://spectralcodex.com/zhongzheng-treasure-hill/)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/05/30/treasure-hill
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/05/30/treasure-hill)
 
 - categories: community
 
@@ -831,7 +831,7 @@
 - [Google Maps](https://maps.app.goo.gl/o5oUmUEKZqXawY44A)
 - official (zho): https://taiwan.insect.tw
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%98%86%E8%9F%B2%E9%A4%A8)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/17/taiwan-insect-museum
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/17/taiwan-insect-museum)
 
 - categories: museum, zoo
 - public transport: great
@@ -869,8 +869,8 @@
 ## Lin An Tai Historical House and Museum (林安泰古厝) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/YUZwd6zARo8J2caF8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lin_An_Tai_Historical_House_and_Museum)
-- https://linantai.taipei/
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/lin-an-tai-ancestral-house
+- [Official](https://linantai.taipei/)
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/lin-an-tai-ancestral-house)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=174)
 - [Wikidata](https://www.wikidata.org/wiki/Q6776837)
 
@@ -954,7 +954,7 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=89
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/sun-yat-sen-memorial-hall)
 - [Atlas Obscura](https://www.atlasobscura.com/places/sun-yat-sen-memorial-hall-taipei-taiwan)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/sun-yat-sen-memorial-hall
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/21/sun-yat-sen-memorial-hall)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=204)
 
 ## Chiang Wei-shui Memorial Plaza (蔣渭水先生紀念廣場) (Taipei City, Xinyi District)
@@ -1069,7 +1069,8 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q591131)
 - official (eng): https://english.zoo.gov.taipei/
 - official (zho): https://www.zoo.gov.taipei/
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/22/taipei-zoo
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/22/taipei-zoo)
+- [Fun Taiwan Kids](https://funtaiwankids.com/listing/taipei-zoo/)
 
 - categories: zoo, aquarium
 - public transport: great
@@ -1080,7 +1081,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q133067699)
 - https://www.travel.taipei/en/attraction/details/450
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/shilin-official-residence)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/16/cks-shilin-residence
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/16/cks-shilin-residence)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1553)
 
 - categories: park
@@ -1102,7 +1103,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q13511804)
 - official (eng): https://en.tam.gov.taipei/
 - https://www.travel.taipei/en/attraction/details/461
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/17/taipei-astronomical-museum
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/17/taipei-astronomical-museum)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=624)
 
 ## National Taiwan Science Education Center (國立臺灣科學教育館) (Taipei City, Shilin District)
@@ -1110,7 +1111,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/National_Taiwan_Science_Education_Center)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=5662
 - https://www.travel.taipei/en/attraction/details/443
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/19/science-education-center
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/19/science-education-center)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=591)
 - https://www.rtaiwanr.com/taipei/taipei-city/national-taiwan-science-education-center
 
@@ -1119,8 +1120,9 @@
 - official: https://english.tcap.taipei/
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Children%27s_Amusement_Park)
 - https://www.travelking.com.tw/eng/tourguide/taipei/taipei-city-childrens-amusement-park.html
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/taipei-childrens-amusement-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/taipei-childrens-amusement-park)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=936)
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/taipei-childrens-amusement-park/)
 
 - categories: amusement park
 - public transport: easy to reach from Taipei. MRT and short walk or bus
@@ -1136,6 +1138,7 @@
 ## Dahu Park Swimming Pool (大湖公園游泳池) (Taipei City, Neihu District)
 - located in: Dahu Park
 - [Google Maps](https://maps.app.goo.gl/RE8TeXdsqtNDwf7m9)
+
 - outdoor and indoor pools
 - categories: swimming pool
 
@@ -1172,7 +1175,7 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=237
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/guandu-temple)
 - [Josh Ellis](https://www.goteamjosh.com/blog/guandugong)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/05/12/guandu-temple
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/05/12/guandu-temple)
 
 - categories: temple
 
@@ -1186,8 +1189,8 @@
 - [Google Maps](https://maps.app.goo.gl/viBzk5FvawJtRwNH8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Museum_of_World_Religions)
 - [Wikidata](https://www.wikidata.org/wiki/Q6941061)
-- https://www.mwr.org.tw/mwr_en
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/08/museum-of-world-religions
+- [Official](https://www.mwr.org.tw/mwr_en)
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/08/museum-of-world-religions)
 - [Facebook](https://www.facebook.com/mwr1109)
 
 - categories: museum
@@ -1240,8 +1243,8 @@
 - [Google Maps](https://maps.app.goo.gl/zYBKtuUGkD83CprRA)
 - [Facebook](https://www.facebook.com/taiwantoymuseum/)
 - [Wikidata](https://www.wikidata.org/wiki/Q61940537)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/11/13/taiwan-toy-museum
-- https://www.taiwantoymuseum.com/
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/11/13/taiwan-toy-museum)
+- [Official](https://www.taiwantoymuseum.com/)
 
 - categories: museum, toys
 
@@ -1268,7 +1271,7 @@
 - [Blogspot (放羊的狼)](https://ivynimay.blogspot.com/2010/10/991031.html)
 - [Vocus (天人之際的沙龍)](https://vocus.cc/article/64a1845bfd8978000174c415)
 - [WordPress (天人之際)](https://tsaicc71.wordpress.com/2023/07/02/%E5%A4%A7%E8%B1%90%E7%85%A4%E7%A4%A6%E9%81%BA%E5%9D%80%E8%88%87%E5%B1%B1%E4%BD%B3%E8%BB%8A%E7%AB%99/)
-- [Taiwan Culture Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=223213)
+- [Taiwan Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=223213)
 - https://cmsdb.culture.tw/place/3041B31F-92D1-4139-A17F-24DFDAD4C815
 
 - categories: coal mine
@@ -1277,7 +1280,7 @@
 - [Google Maps](https://maps.app.goo.gl/bkuVgfTUtE1ftieV9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Ping-Lin_Tea_Museum)
 - [Wikidata](https://www.wikidata.org/wiki/Q7195646)
-- https://www.tea.ntpc.gov.tw/tea_en
+- [Official](https://www.tea.ntpc.gov.tw/tea_en)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/pinglin-bagua-tea-plantation-taipei/)
 - https://newtaipei.travel/en/attractions/detail/111457
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=R81
@@ -1317,7 +1320,7 @@
 - https://recreation.forest.gov.tw/Forest/RA?typ_id=0200002
 - https://recreation.forest.gov.tw/en/Forest/RA?typ_id=0200002
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=R38
-- https://taiwantrailsandtales.com/2025/08/23/neidong-forest-recreation-area-trails/
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2025/08/23/neidong-forest-recreation-area-trails/)
 - https://newtaipei.travel/en/attractions/detail/111505
 - https://taiwanoutdoors.com/hiking/neidong/
 
@@ -1347,7 +1350,7 @@
 - [Google Maps](https://maps.app.goo.gl/e3g8mgNmv8sYueFo6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Yingge_Ceramics_Museum)
 - [Wikidata](https://www.wikidata.org/wiki/Q7012025)
-- https://www.ceramics.ntpc.gov.tw/
+- [Official](https://www.ceramics.ntpc.gov.tw/)
 
 - categories: museum
 
@@ -1356,7 +1359,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/New_Taipei_City_Art_Museum)
 - [Wikidata](https://www.wikidata.org/wiki/Q24831830)
 - [我的旅圖中 during my journey](https://duringmyjourney.com/ntcart-museum/)
-- https://ntcart.museum/EN
+- [Official](https://ntcart.museum/EN)
 
 ## Hobe Fort (滬尾礮臺) (New Taipei City, Tamsui District)
 - aka: Huwei Fort
@@ -1372,7 +1375,7 @@
 ## Sanzhi Seashell Temple (三芝貝殼廟) / Eighteen Arhats Cave (十八羅漢洞) (New Taipei City, Sanzhi District)
 - aka: Fufuding Mountain Temple (富福頂山寺)
 - [Google Maps](https://maps.app.goo.gl/cHzyNsuFHCL3KGh86)
-- https://www.goteamjosh.com/blog/seashell
+- [Josh Ellis](https://www.goteamjosh.com/blog/seashell)
 
 - not to be confused with the abandoned Eighteen Arhats Cave (十八羅漢洞) in Keelung.
 - categories: temple
@@ -1387,7 +1390,7 @@
 - [Google Maps](https://maps.app.goo.gl/1VLEkKyQfo78RHp1A)
 - [Wikidata](https://www.wikidata.org/wiki/Q11112007)
 - https://www.jingfugung.com/
-- https://travel.tycg.gov.tw/en/travel/attraction/1216
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1216)
 - https://wanderlog.com/place/details/5352775/taoyuan-jingfu-temple
 
 - categories: temple
@@ -1396,16 +1399,16 @@
 - [Google Maps](https://maps.app.goo.gl/4EUNzzdUwMRHEGY2A)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Xpark)
 - [Wikidata](https://www.wikidata.org/wiki/Q124514449)
-- https://www.xpark.com.tw/
-- https://travel.tycg.gov.tw/en/travel/attraction/1620
-- https://vivianjourney.tw/xpark-taiwan/
+- [Official](https://www.xpark.com.tw/)
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1620)
+- [V妞的旅行](https://vivianjourney.tw/xpark-taiwan/)
 
 - categories: aquarium
 
 ## Xiaowulai Skywalk (小烏來天空步道) (Taoyuan City, Fuxing District)
 - [Google Maps](https://maps.app.goo.gl/2ags5Si5XWwNgmgM9)
 - [Wikidata](https://www.wikidata.org/wiki/Q10959632)
-- https://travel.tycg.gov.tw/en/travel/attraction/723
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/723)
 - [Josh Ellis](https://www.goteamjosh.com/blog/xiaowulai)
 
 ## Longtan Martial Arts Hall (龍潭武德殿) (Taoyuan City, Longtan District)
@@ -1415,19 +1418,31 @@
 - [SpectralCodex](https://spectralcodex.com/longtan-martial-arts-hall/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/longwude)
 
+## Window on World Theme Park (小人國主題樂園) (Taoyuan City, Longtan District)
+- aka: Window on China Theme Park
+- [Google Maps](https://maps.app.goo.gl/u52DyGyxX1bQjB99A)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Window_on_World_Theme_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q10957726)
+- [Official](https://www.wow.com.tw/en/)
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/window-on-china/)
+
+- categories: theme park
+
 ## Daxi Old Street (大溪老街) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/R3YDMUpbKmqM9WoQ7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Daxi_Old_Street)
 - [Wikidata](https://www.wikidata.org/wiki/Q10936578)
-- https://travel.tycg.gov.tw/en/travel/attraction/1151
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1151)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/daxi-old-street)
 - [Josh Ellis](https://www.goteamjosh.com/blog/daxioldstreet)
+
+- categories: old street
 
 ## Daxi Tea Factory (大溪老茶廠) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/AWakLxaw36z8B5F4A)
 - [Wikidata](https://www.wikidata.org/wiki/Q136793717)
 - [Josh Ellis](https://www.goteamjosh.com/blog/daxitea)
-- https://travel.tycg.gov.tw/en/travel/attraction/1369
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1369)
 
 - categories: museum, cultural heritage
 
@@ -1436,8 +1451,8 @@
 - [Google Maps (Cih-hu Memorial Statue Park)](https://maps.app.goo.gl/fBbpF9eq1D7r1JX57)
 - [Google Maps (Cihu Mausoleum)](https://maps.app.goo.gl/Lr69KrK5pffSyavw8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Cihu_Mausoleum)
-- https://travel.tycg.gov.tw/en/travel/attraction/718
-- https://travel.tycg.gov.tw/en/travel/attraction/1153
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/718)
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1153)
 - [Josh Ellis](https://www.goteamjosh.com/blog/cihu)
 
 ## Zhuwei Fishing Harbor (竹圍漁港) (Taoyuan City, Dayuan District)
@@ -1445,7 +1460,7 @@
 - [Google Maps](https://maps.app.goo.gl/qSWXt6vLFb3FHbMs6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Zhuwei_Fish_Harbor)
 - [Wikidata](https://www.wikidata.org/wiki/Q15925262)
-- https://travel.tycg.gov.tw/en/travel/attraction/739
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/739)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/zhuwei-fishing-harbor)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002107&id=A12-00158
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001107&id=A12-00265
@@ -1453,7 +1468,7 @@
 ## Lalashan Giant Trees (拉拉山巨木區) (Taoyuan City, Fuxing District)
 - aka: Lalashan National Forest Recreation Area, 拉拉山
 - [Google Maps](https://maps.app.goo.gl/EzEssgaeuz4XC2t59)
-- https://travel.tycg.gov.tw/en/travel/attraction/731
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/731)
 - https://recreation.forest.gov.tw/forest/RA?typ_id=0200005
 - https://recreation.forest.gov.tw/en/Forest/RA?typ_id=0200005
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002016&id=A12-00389
@@ -1520,7 +1535,7 @@
 - [Google Maps (Station)](https://maps.app.goo.gl/WkW31P5MemonBoR97)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A0%B5%E8%BB%8A%E7%AB%99)
 - [SpectralCodex](https://spectralcodex.com/qidu-railway-station/)
-- https://www.goteamjosh.com/blog/qidu
+- [Josh Ellis](https://www.goteamjosh.com/blog/qidu)
 
 - categories: park, historical building, train station
 
@@ -1550,9 +1565,9 @@
 - official: https://www.leofoovillage.com.tw/
 - https://www.themepark.net.tw/web_en/ParkDetail/5f3ed53336c84dcabdc3e07d580914b2
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=R40
-- https://rollercoastertraveller.com/leofoo-village-theme-park/
-- categories: zoo, amusement park
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/leofoo-village-theme-park/)
 
+- categories: zoo, amusement park
 - easy to reach by public transport. direct bus from Taipei.
 
 ## Little Ding-Dong Science Theme Park (小叮噹科學主題樂園) (Hsinchu County, Xinfeng Township)
@@ -1575,6 +1590,14 @@
 
 - biggest Hakka religious center in Taiwan
 
+## Weiweijia Persimmon Farm (味衛佳柿餅教育農園) (Hsinchu County, Xinpu Township)
+- aka: 味衛佳柿餅觀光農場 (呂理鑑)
+- [Google Maps](https://maps.app.goo.gl/jLHCQPJ86zNuvzme9)
+- https://www.taiwanfarm.org.tw/zh-TW/Front/Farm/Detail/72
+- [Facebook](https://www.facebook.com/Pro.Persimmon/)
+
+- categories: farm
+
 ## Green World Ecological Farm (綠世界生態農場) (Hsinchu County, Beipu Township)
 - aka: Green World Ecological Park
 - [Google Maps](https://maps.app.goo.gl/oij2cb6Cqc7JcXP18)
@@ -1590,7 +1613,7 @@
 - aka: Jianshi Giant Trees
 - [Google Maps](https://maps.app.goo.gl/TWykSKTb3EGcmgKYA)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=6880
-- https://taiwantrailsandtales.com/2025/05/10/smangus-giant-tree/
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2025/05/10/smangus-giant-tree/)
 - https://www.taiwanhikes.com/blog-posts/smangus-giant-tree-trail.html
 
 ## Neiwan Theater (內灣戲院) (Hsinchu County, Hengshan Township)
@@ -1645,7 +1668,7 @@
 - [Google Maps](https://maps.app.goo.gl/5NHkTDsdidzNdV168)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Hsinchu_Zoo)
 - [Wikidata](https://www.wikidata.org/wiki/Q11084009)
-- https://zoo-info.hccg.gov.tw/
+- [Official](https://zoo-info.hccg.gov.tw/)
 
 - categories: zoo
 - Taiwan's oldest zoo
@@ -1663,7 +1686,7 @@
 - [Google Maps](https://maps.app.goo.gl/4t6BgZViTQxoqaMQ6)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8)
 - [Wikidata](https://www.wikidata.org/wiki/Q17164638)
-- https://culture.hccg.gov.tw/en/home.jsp?id=21&parentpath=0,3
+- [Cultural Affairs Bureau, Hsinchu City](https://culture.hccg.gov.tw/en/home.jsp?id=21&parentpath=0,3)
 
 - categories: gallery, historical building
 
@@ -1689,6 +1712,8 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lihpao_Land)
 - [Wikidata](https://www.wikidata.org/wiki/Q11175218)
 - official: https://www.lihpaoresort.com
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/discovery-world/)
+- [Fun Taiwan Kids](https://funtaiwankids.com/listing/lih-pao-land/)
 
 - categories: amusement park, swimming pool
 - public transport: from Taipei not great (generally more than 3 hours, by car it's more like 2 hours)
@@ -1698,9 +1723,20 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Janfusun_Fancyworld)
 - [Wikidata](https://www.wikidata.org/wiki/Q3161941)
 - official: https://www.janfusun.com.tw/
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/janfusun-fancyworld/)
 
 - categories: amusement park, swimming pool
 - public transport: from Taipei: ok, but takes forever (close to 4 hours, but by car it's still 3 hours). from Taichung good: local train and shuttle bus
+
+## Wunian Qiansui Park (五年千歲公園) (Yunlin County, Baozhong Township)
+- [Google Maps](https://maps.app.goo.gl/DUBuhDBauMsGQCu36)
+- [Wikidata](https://www.wikidata.org/wiki/Q131787156)
+- [Facebook](https://www.facebook.com/profile.php?id=100066170413339)
+- [Taiwan Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=147909)
+- [小兔小安*旅遊札記](https://bunnyann.tw/goblog-pos-9/)
+- https://cmsdb.culture.tw/place/BF03C684-AE8B-47AF-9F0A-BB316DB49CD0
+
+- categories: park, religion, folklore
 
 ## Qingjing Farm (清境農場) (Nantou County, Ren'ai Township)
 - aka: Cingjing Farm
@@ -1718,6 +1754,13 @@
 - https://www.trimt-nsa.gov.tw/en/attraction/514/
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2022/07/29/baguashan/)
 - [Atlas Obscura](https://www.atlasobscura.com/places/baguashan-skywalk)
+
+## E-DA Theme Park (義大遊樂世界) (Kaohsiung City, Dashu District)
+- [Google Maps](https://maps.app.goo.gl/4QYJKNAUbAW7yFZL6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/E-DA_Theme_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q14657732)
+- [Official](https://www.edathemepark.com.tw/)
+- [Roller Coaster Traveller](https://rollercoastertraveller.com/e-da-world/)
 
 ## Kaohsiung Museum of History (高雄市立歷史博物館) (Kaohsiung City, Yancheng District)
 - [Google Maps](https://maps.app.goo.gl/1jPese7PrnzVPZyc7)
@@ -2139,7 +2182,7 @@
 ## Zhongli Tourist Night Market (中壢觀光夜市) (Taoyuan City, Zhongli District)
 - aka: Zhongli Night Market, 中壢區觀光夜市
 - [Google Maps](https://maps.app.goo.gl/277sbMUqNyfmcRF87)
-- https://travel.tycg.gov.tw/en/travel/attraction/1027
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1027)
 - [Guide to Taipei.com](https://guidetotaipei.com/visit/zhongli-jhongli-chungli-xinming-night-market-%E4%B8%AD%E5%A3%A2%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82-%E6%96%B0%E6%98%8E%E5%A4%9C%E5%B8%82)
 
 - categories: night market
@@ -2147,7 +2190,7 @@
 ## Taoyuan Tourist Night Market (桃園觀光夜市) (Taoyuan City, Taoyuan District)
 - aka: Taoyuan Night Market
 - [Google Maps](https://maps.app.goo.gl/GbTEqwhL7iku99SP9)
-- https://travel.tycg.gov.tw/en/travel/attraction/1028
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1028)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taoyuan-night-market)
 
 - categories: night market
@@ -2187,7 +2230,7 @@
 ## Green Grass Lake Night Market (青草湖夜市) (Hsinchu City, East District)
 - [Google Maps](https://maps.app.goo.gl/umsZxv6RFWqubgVE7)
 - [Orphaned Nation](https://www.orphanednation.com/green-grass-lake-night-market-%e9%9d%92%e8%8d%89%e6%b9%96%e5%a4%9c%e5%b8%82/)
-- https://ahuilife2020.pixnet.net/blog/post/54962014
+- [Pixnet (鄭宏輝的美食生活)](https://ahuilife2020.pixnet.net/blog/post/54962014)
 - [Instagram](https://www.instagram.com/reel/DP1ZyZhEmei/)
 
 - categories: night market
@@ -2198,7 +2241,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q81692009)
 - [Breezing Hsinchu](https://www.kcis.hc.edu.tw/gsh2024/gsh8748/08.htm)
 - [Facebook](https://www.facebook.com/TumgmenMarket/)
-- https://eyesonplace.net/2021/11/12/19055/
+- [眼底城事 eyes on place](https://eyesonplace.net/2021/11/12/19055/)
 
 - categories: traditional indoor market
 
@@ -2228,7 +2271,7 @@
 - [Google Maps](https://maps.app.goo.gl/PfpqqjiyQzemXDGcA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/228_Peace_Memorial_Park)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=R3
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/11/03/228-peace-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/11/03/228-peace-park)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1407)
 - [Wikidata](https://www.wikidata.org/wiki/Q697177)
 
@@ -2236,7 +2279,7 @@
 - [Google Maps](https://maps.app.goo.gl/AN4DoeTEXwCJsUsa6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Botanical_Garden)
 - https://www.travel.taipei/en/attraction/details/617
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/22/taipei-botanical-garden
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/22/taipei-botanical-garden)
 
 - categories: park, botanical garden
 
@@ -2245,7 +2288,7 @@
 - [Google Maps](https://maps.app.goo.gl/ieARSVfQEuoaQt1n8)
 - [Wikidata](https://www.wikidata.org/wiki/Q10954899)
 - https://www.travel.taipei/en/attraction/details/618
-- https://taiwantrailsandtales.com/2021/01/09/tamsui-kavalan-trails-fuyang-eco-park-shenkeng/
+- [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2021/01/09/tamsui-kavalan-trails-fuyang-eco-park-shenkeng/)
 
 - categories: ecological park
 
@@ -2279,6 +2322,7 @@
 ## Xinsheng Park (新生公園) (Taipei City, Zhongshan District)
 - includes: Rose Garden, Maze
 - [Google Maps](https://maps.app.goo.gl/AKmL2FNK5T1e6iya7)
+- [Wikidata](https://www.wikidata.org/wiki/Q11083358)
 - https://www.travel.taipei/en/attraction/details/585
 - https://parks.gov.taipei/parks/en/en_parks.php?pmsid=691
 - https://www.travel.taipei/zh-tw/attraction/details/228
@@ -2288,6 +2332,7 @@
 ## Lihe Eco Park (黎和生態公園) (Taipei City, Da'an District)
 - close by: Fuyang Eco Park, Fuzhou Mountain
 - [Google Maps](https://maps.app.goo.gl/PgJARYJPXnhXd6td9)
+- [Wikidata](https://www.wikidata.org/wiki/Q113657461)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/lihe-eco-park)
 - https://www.geo.gov.taipei/News_Content.aspx?n=23285747C0511EC4&sms=72544237BBE4C5F6&s=736B8E240118203A
 
@@ -2296,6 +2341,7 @@
 ## Xiangshan Park (象山公園) (Taipei City, Xinyi District)
 - close by: Elephant Mountain
 - [Google Maps](https://maps.app.goo.gl/GET5DpPvLJu2TnK38)
+- [Wikidata](https://www.wikidata.org/wiki/Q10875523)
 - https://www.travel.taipei/en/attraction/details/703
 
 - categories: city park, playground
@@ -2304,18 +2350,21 @@
 - aka: Zhongshan Memorial Park
 - has: Sun Yat-sen Memorial Hall
 - [Google Maps](https://maps.app.goo.gl/SohVde77TsUdGUeX9)
+- [Wikidata](https://www.wikidata.org/wiki/Q9384448)
 - https://www.yatsen.gov.tw/cp.aspx?n=6532
 
 ## Shanshuilu Eco Park (山水綠生態公園) (Taipei City, Nangang District)
 - [Google Maps](https://maps.app.goo.gl/Axw7oszY4XJKQhrt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanshuilu_Eco_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q11047333)
 - https://www.travel.taipei/en/attraction/details/705
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/shanshuilu-eco-park)
-- https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/shanshuilu-eco-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2016/10/23/shanshuilu-eco-park)
 
 ## Nangang Park (南港公園) (Taipei City, Nangang District)
 - [Google Maps](https://maps.app.goo.gl/vQpvR16tGb2yPQWZ8)
 - https://www.travel.taipei/en/attraction/details/631
+- [Wikidata](https://www.wikidata.org/wiki/Q16926403)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/nangang-park)
 - https://parks.gov.taipei/parks/en/en_parks.php?pmsid=297
 
@@ -2345,13 +2394,13 @@
 - [Google Maps](https://maps.app.goo.gl/ztGks7jVAuiWDnCs8)
 - https://www.travel.taipei/en/attraction/details/2481
 - https://www.travel.taipei/zh-tw/attraction/details/2269
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/06/30/dagouxi-riverside-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/06/30/dagouxi-riverside-park)
 
 ## Dahu Park (大湖公園) (Taipei City, Neihu District)
 - [Google Maps](https://maps.app.goo.gl/UUe1V1F9N125BbpJA)
 - [Wikidata](https://www.wikidata.org/wiki/Q10936501)
 - https://parks.gov.taipei/parks/en/en_parks.php?pmsid=301
-- https://www.goteamjosh.com/blog/tag/Dahu+Park
+- [Josh Ellis](https://www.goteamjosh.com/blog/tag/Dahu+Park)
 - https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&s=9E4FD946F708BFC3
 
 ## Sulfur Valley Recreation Area (硫磺谷遊憩區) (Taipei City, Beitou District)
@@ -2366,7 +2415,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Guandu_Nature_Park)
 - [Wikidata](https://www.wikidata.org/wiki/Q15896195)
 - official (eng): https://gd-park.org.tw/en/frontpage
-- https://baxter222sarah.wixsite.com/mysite/single-post/2017/04/05/guandu-nature-park
+- [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/04/05/guandu-nature-park)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1393)
 
 - admission fee: 60 NTD (general), 30 NTD (discount)
@@ -2784,7 +2833,7 @@
 - [Google Maps (南機場公寓國民住宅)](https://maps.app.goo.gl/UJwbJ6ENNkSB1v4W8)
 - [Google Maps (南機場：第3期)](https://maps.app.goo.gl/Cz5SmND3kLrDfiTR9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A9%9F%E5%A0%B4%E5%9C%8B%E6%B0%91%E4%BD%8F%E5%AE%85)
-- https://www.goteamjosh.com/blog/nanjichang
+- [Josh Ellis](https://www.goteamjosh.com/blog/nanjichang)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2018/5/2/lanzhou-street-and-taiwans-2nd-generation-market-buildings)
 - https://nookcity.tw/South-Airport-Apartments_history.html
 
@@ -2877,6 +2926,7 @@
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001091&id=290
 - [Dribs & Drabs](https://www.dribs-drabs.com/%e6%97%85%e8%a1%8c-%e4%b9%9d%e4%bb%bd%e3%80%81%e8%80%81%e8%a1%97-%e5%a4%9c%e7%9a%84%e7%be%8e/)
 - [Girl on a Zebra](https://girlonazebra.com/is-jiufen-worth-visiting/)
+- [Remote Lands Travelogues](https://www.remotelands.com/travelogues/golden-oldie/)
 
 - Historic hillside mining village
 
@@ -2885,7 +2935,7 @@
 ## Old Baiji Tunnel (舊百吉隧道) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/VNJSPaaPpDnwipk79)
 - [Dribs & Drabs](https://www.dribs-drabs.com/old-baiji/)
-- https://travel.tycg.gov.tw/en/travel/attraction/1258
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1258)
 
 # Villages (里)
 
@@ -2923,3 +2973,11 @@
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/pingxi-old-street)
 
 - Old railway town
+
+# Mysteries
+
+## Weird Butterfly Sculpture (詭異蝴蝶雕塑) (Hsinchu County, Xinpu Township)
+- [Google Maps](https://maps.app.goo.gl/CcvDrfdAuSarooXTA)
+- [Taiwan Travel Map](https://www.taiwantravelmap.com/taiwantravelmap/travel-1873)
+- [ShihTrip／施旅行](https://yingtingshih.com/2020-01-11-2030/)
+- [WordPress (Heresy's Space)](https://kheresy.wordpress.com/2024/12/08/butterfly-with-human-head/)
