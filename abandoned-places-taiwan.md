@@ -16,7 +16,7 @@
 - [WordPress (G'day Taiwan)](https://gdaytaiwan.wordpress.com/2016/03/14/stanton-club/)
 - [WordPress (G'day Taiwan)](https://gdaytaiwan.wordpress.com/portfolio/taiwans-abandoned-the-once-luxurious-stanton-club/)
 - [SpectralCodex](https://spectralcodex.com/xinyi-stanton-club/)
-- https://ivynimay.blogspot.com/2014/10/1031018.html
+- [Blogspot (放羊的狼)](https://ivynimay.blogspot.com/2014/10/1031018.html)
 - [Official](https://web.archive.org/web/20010218000423fw_/http://www.stanton-club.com.tw/index2.htm)
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=IKCBtfkDrKY)
 
@@ -24,7 +24,7 @@
 - aka: 傳家居華廈
 - [Google Maps](https://maps.app.goo.gl/156btUY9nF7ko7dLA)
 - [SpectralCodex](https://spectralcodex.com/shilin-tianmu-chuanjiaju/)
-- https://news.ltn.com.tw/news/life/breakingnews/2519779
+- [自由時報 Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2519779)
 - [ETtoday](https://house.ettoday.net/news/1691932)
 - [Pixnet (熱血流成河)](https://davidli.pixnet.net/blog/post/49183287)
 
@@ -32,7 +32,7 @@
 
 ## Youya Road Abandoned Clinic (幽雅路廢棄診所, 北投幽雅路診所) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/b5tFQM6ZH7rwA3sa7)
-- https://taiwansruinadventure.weebly.com/212712523724290226873267624290268203538625152.html
+- [Taiwan+HK ruin adventure](https://taiwansruinadventure.weebly.com/212712523724290226873267624290268203538625152.html)
 - [Juksy](https://www.juksy.com/article/122891)
 - [SpectralCodex](https://spectralcodex.com/beitou-youya-road-clinic/)
 - [YouTube (Everyday Wanderings 不平凡小旅行)](https://www.youtube.com/watch?v=JtakqwzoeRg)
@@ -42,10 +42,10 @@
 
 ## Beitou Wenquan Road Hotel (北投溫泉路大飯店) (Taipei City, Beitou District)
 - [SpectralCodex](https://spectralcodex.com/beitou-wenquan-road-hotel/)
-- https://formosajmac.com/2023/04/28/beitou/
+- [Formosa>Ex](https://formosajmac.com/2023/04/28/beitou/)
 - [Flickr (csdido)](https://www.flickr.com/photos/csdido/albums/72157662219566893/)
 - https://www.instagram.com/reel/C5dXS2spG6X/
-- https://www.youtube.com/watch?v=PMYhlJ-9dIk
+- [YouTube (丑時頻道)](https://www.youtube.com/watch?v=PMYhlJ-9dIk)
 
 - this address is mentioned in some places, but it's a different place? 台北北投區溫泉路170號
 
@@ -57,12 +57,13 @@
 ## Taipei Military Sanatorium, Beitou Branch (前日軍衛戍醫院北投分院) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/xrvRswyHM3aYeER17)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%BB%8D%E7%B8%BD%E9%86%AB%E9%99%A2%E5%8C%97%E6%8A%95%E5%88%86%E9%99%A2)
-- https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=2254%3Aventuring-into-the-ruins--taipei-military-sanatorium-beitou-branch&catid=160%3Amaps-and-architectures&Itemid=210
-- https://english.culture.gov.taipei/News_Content.aspx?n=546DBBFFD75F4602&s=BB70B48E56D8D5C3
+- [Wikidata](https://www.wikidata.org/wiki/Q113799820)
+- [TELDAP](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=2254%3Aventuring-into-the-ruins--taipei-military-sanatorium-beitou-branch&catid=160%3Amaps-and-architectures&Itemid=210)
+- [Taipei Department of Cultural Affairs](https://english.culture.gov.taipei/News_Content.aspx?n=546DBBFFD75F4602&s=BB70B48E56D8D5C3)
 - [SpectralCodex](https://spectralcodex.com/beitou-japanese-army-garrison-hospital/)
-- https://formosajmac.com/2023/04/28/beitou/
+- [Formosa>Ex](https://formosajmac.com/2023/04/28/beitou/)
 
-- restored and museum now
+- 2025: restored and museum now
 
 ## Jinmajiang Theater (金馬獎戲院) (Taipei City, Beitou District)
 - aka: Golden Horse Award Theatre, 金馬獎大戲院
@@ -70,7 +71,7 @@
 - [Google Maps](https://maps.app.goo.gl/MGGfohdf3QFHK9m56)
 - [SpectralCodex](https://spectralcodex.com/beitou-jinmajiang-theater/)
 - [Pixnet (genie's Blog)](https://snowbunny.pixnet.net/blog/post/42053194)
-- https://formosajmac.com/2023/04/28/beitou/
+- [Formosa>Ex](https://formosajmac.com/2023/04/28/beitou/)
 
 - note: the location on the SpectralCodex website is slightly off, the above one is correct
 
@@ -98,15 +99,16 @@
 ## Losheng Sanatorium (樂生療養院) (New Taipei City, Xinzhuang District)
 - [Google Maps](https://maps.app.goo.gl/JYmhGJh5n16ZspK67)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Losheng_Sanatorium)
+- [Wikidata](https://www.wikidata.org/wiki/Q708962)
 - [Josh Ellis (2016)](https://www.goteamjosh.com/blog/losheng)
 - [Josh Ellis (2018)](https://www.goteamjosh.com/blog/lesheng)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/24/losheng-sanitorium)
 - [SpectralCodex](https://spectralcodex.com/xinzhuang-losheng-sanatorium/)
 - [WordPress (Half a day away)](https://halfadayawaycom.wordpress.com/2018/09/15/taipeis-ultimate-urban-exploring-site-the-losheng-sanatorium/)
 - https://gimsgims.tnua.edu.tw/activity/%E3%80%90%E8%AA%B2%E7%A8%8B%E6%B4%BB%E5%8B%95-%E6%A0%A1%E5%A4%96%E5%8F%83%E8%A8%AA%E3%80%91%E6%A8%82%E7%94%9F%E6%96%87%E7%89%A9%E6%95%85%E4%BA%8B%E9%A4%A8%E3%80%8A%E7%97%85%E8%A1%8C%EF%BC%9A%E9%86%AB/
-- https://www.e-flux.com/journal/81/125145/dissenting-voices-of-the-unwashed-disobedient-noncitizens-and-exiles-in-their-own-homes
+- [e-flux Journal](https://www.e-flux.com/journal/81/125145/dissenting-voices-of-the-unwashed-disobedient-noncitizens-and-exiles-in-their-own-homes)
 - https://www.dcard.tw/f/marvel/p/230605632
-- https://news.ltn.com.tw/news/society/paper/1368838
+- [自由時報 Liberty Times](https://news.ltn.com.tw/news/society/paper/1368838)
 
 - 2025: there are guided tours through the community, many buildings have been renovated or restored
 
@@ -115,11 +117,12 @@
 - [Google Maps](https://maps.app.goo.gl/yCQSHY3JqqF8d2t26)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Remains_of_the_13_Levels)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B4%E6%B9%B3%E6%B4%9E%E9%81%B8%E7%85%89%E5%BB%A0%E9%81%BA%E5%9D%80)
+- [Wikidata](https://www.wikidata.org/wiki/Q61969017)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/3/15/shuinandong-smelter)
-- https://polishgirlintaiwan.blogspot.com/2017/08/the-remains-of-13-levels-jinguashi.html
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2017/08/the-remains-of-13-levels-jinguashi.html)
 - [WordPress (G'day Taiwan)](https://gdaytaiwan.wordpress.com/2016/07/15/taiwans-abandoned-the-thirteen-levels/)
 - [Reddit (r/AbandonedPorn)](https://www.reddit.com/r/AbandonedPorn/comments/10uwld9/abandoned_remains_of_the_13_levels_taiwan/)
-- https://www.dribs-drabs.com/%e5%8d%81%e4%b8%89%e5%b1%a4%e9%81%ba%e5%9d%80%e5%9b%9b%e5%80%8b%e6%9c%80%e4%bd%b3%e6%8b%8d%e6%94%9d%e9%bb%9e-%e6%b0%b4%e6%b9%b3%e6%b4%9e%e5%a4%9c%e6%99%9a%e6%9c%80%e9%96%83%e4%ba%ae%e7%9a%84%e4%b8%80/
+- [Dribs & Drabs](https://www.dribs-drabs.com/%e5%8d%81%e4%b8%89%e5%b1%a4%e9%81%ba%e5%9d%80%e5%9b%9b%e5%80%8b%e6%9c%80%e4%bd%b3%e6%8b%8d%e6%94%9d%e9%bb%9e-%e6%b0%b4%e6%b9%b3%e6%b4%9e%e5%a4%9c%e6%99%9a%e6%9c%80%e9%96%83%e4%ba%ae%e7%9a%84%e4%b8%80/)
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.643952795657465)
 
 - dangerous, guards, need to climb fences
@@ -133,7 +136,7 @@
 - [Official](https://web.archive.org/web/20170106110705/http://www.formosafuncoast.com.tw:80/)
 - [Dax Ward Photography](https://www.daxward.com/Formosa-Fun-Water-Park)
 - [YouTube (Dax Ward Photography)](https://www.youtube.com/watch?v=fiN1ljuqHQk)
-- https://en.wikipedia.org/wiki/2015_New_Taipei_water_park_fire
+- [Wikipedia (English, 2015 New Taipei water park fire)](https://en.wikipedia.org/wiki/2015_New_Taipei_water_park_fire)
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=RDMSDAZdRVE)
 - [Lost Places](https://lostplaces.tw/formosa-fun-coast/)
 - [SpectralCodex](https://spectralcodex.com/bali-formosa-fun-coast/)
@@ -185,8 +188,9 @@
 - https://www.rachelenroute.com/wanli-ufo-village-a-supernatural-day-trip-from-taipei/
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
 - [Atlas Obscura](https://www.atlasobscura.com/places/wanli-ufo-village)
-- https://www.youtube.com/watch?v=_cvGmcHW0Yo
-- https://www.taipeitimes.com/News/feat/archives/2025/03/07/2003833010
+- [YouTube (丑時頻道)](https://www.youtube.com/watch?v=_cvGmcHW0Yo)
+- [Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/03/07/2003833010)
+- [Formosa>Ex](https://formosajmac.com/2023/04/18/wanli-ufo-village/))
 
 ## Sanzhi Beihai Resort Center (三芝北海度假中心) (New Taipei City, Sanzhi District)
 - [Google Maps](https://maps.app.goo.gl/p6iXWVv4eUZrcHcX6)
@@ -313,8 +317,8 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%AB%A5%E8%A9%B1%E4%B8%96%E7%95%8C_(%E9%81%8A%E6%A8%82%E5%9C%92))
 - [Josh Ellis](https://www.goteamjosh.com/blog/foshijie)
 - [SpectralCodex](https://spectralcodex.com/guanxi-buddha-world/)
-- https://www.taipeitimes.com/News/taiwan/archives/2016/12/28/2003662065
-- https://polishgirlintaiwan.blogspot.com/2018/07/buddha-world-abandoned-theme-park.html
+- [Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2016/12/28/2003662065)
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2018/07/buddha-world-abandoned-theme-park.html)
 - https://www.opendharma.com/buddha-world-fo-tuo-shi-jie/
 - https://www.youtube.com/watch?v=i2h-qKWHGSc
 
@@ -473,7 +477,7 @@
 - [Kathmandu & Beyond](https://www.kathmanduandbeyond.com/abandoned-taiwan-old-liu-family-mansion-minxiong/)
 - https://www.foreignersintaiwan.com/blog/minxiong-haunted-house
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=sOKfeb5MoMg)
-- https://formosajmac.com/2019/10/25/minxiong-ghost-house-%e6%b0%91%e9%9b%84%e9%ac%bc%e5%b1%8b/
+- [Formosa>Ex](https://formosajmac.com/2019/10/25/minxiong-ghost-house-%e6%b0%91%e9%9b%84%e9%ac%bc%e5%b1%8b/)
 - [Lost Places](https://lostplaces.tw/liu-family-old-mansion/)
 - https://commons.wikimedia.org/wiki/Category:Liu_Mansion_(Minsyong,_Taiwan)
 - https://tbocc.cyhg.gov.tw/en/Sight_Content.aspx?n=100778&s=514803
@@ -535,7 +539,7 @@
 - [Google Maps](https://maps.app.goo.gl/GuHadg7F5QSCJXbWA)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%82%9F%E6%99%BA%E6%A8%82%E5%9C%92)
 - [SpectralCodex](https://spectralcodex.com/annan-wuzhi-theme-park/)
-- https://taiwansruinadventure.weebly.com/214882133524735262342713822290.html
+- [Taiwan+HK ruin adventure](https://taiwansruinadventure.weebly.com/214882133524735262342713822290.html)
 
 - demolished in the late 2000s (according to SpectralCodex)
 
@@ -609,14 +613,17 @@
 
 ## Taitung Miramar Resort (美麗灣渡假村) (Taitung County, Beinan Township)
 - aka: Meiliwan Resort, Miramar Resort
-- https://en.wikipedia.org/wiki/Taitung_Miramar_Resort
-- https://www.google.com/maps?ll=22.831222,121.185361&q=22.831222,121.185361&hl=en&t=m&z=15
-- https://newbloommag.net/2021/09/06/taitung-miramar-resort/
+- [Google Maps](https://maps.app.goo.gl/9nGRN1q3nKbBFb158)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taitung_Miramar_Resort)
+- [Wikidata](https://www.wikidata.org/wiki/Q15895767)
+- [New Bloom 破土](https://newbloommag.net/2021/09/06/taitung-miramar-resort/)
+
+- it's being partially renovated in 2025
 
 ## Taitung Castle (台東城堡) (Taitung County, Taitung City)
 - [Google Maps](https://maps.app.goo.gl/T342Nq4pzg3djTNp6)
 - [SpectralCodex](https://spectralcodex.com/taitung-castle/)
-- [Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5228645)
+- [自由時報 Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5228645)
 
 ## The White Plain House (白色陋屋) (Taitung County, Taitung City)
 - aka: Moving Castle
@@ -628,8 +635,8 @@
 ## Fuyou Building (富有大樓) (Taitung County, Taitung City)
 - [Google Maps](https://maps.app.goo.gl/KE1Zt5jydRSWSqJv9)
 - [SpectralCodex](https://spectralcodex.com/taitung-fuyou-building/)
-- https://www.ctee.com.tw/news/20250520701523-431401
-- https://www.youtube.com/watch?v=zsmvttd03Ts
+- [工商時報 Commercial Times](https://www.ctee.com.tw/news/20250520701523-431401)
+- [YouTube (星樂媒體整合行銷)](https://www.youtube.com/watch?v=zsmvttd03Ts)
 
 ## Dashun General Hospital (大順綜合醫院) (Pingtung County, Chaozhou Township)
 - aka: 大順醫院
@@ -662,8 +669,8 @@
 ## Kinmen underground Hospital (南雄醫院, 坑道醫院 南雄軍醫院) (Kinmen, Lieyu)
 - [Pixnet (留在金門忘了飛 Visit Kinmen)](https://visitkinmen.pixnet.net/blog/post/40893473)
 - [YouTube (Exploring the Unbeaten Path)](https://www.youtube.com/watch?v=14SZzj5CVYw)
-- https://ttt0920.pixnet.net/blog/post/99711327
-- should be close to or connected to "Kinmen Guesthouse 金門國家公園 迎賓館" by tunnel or 南雄育樂中心 nanxiong recreation center
+- [Pixnet (金門戰地史蹟論壇)](https://ttt0920.pixnet.net/blog/post/99711327)
+- should be close to or connected to "Kinmen Guesthouse 金門國家公園 迎賓館" by tunnel or 南雄育樂中心 Nanxiong recreation center
 
 ## Jinsha Theater (金沙戲院) (Kinmen County, Jinsha Township)
 - [Google Maps](https://maps.app.goo.gl/4aJi6u847jfCzJYSA)
@@ -673,13 +680,13 @@
 
 ## Kinmen Armed Forces Hospital (花崗石醫院) (Kinmen County, Jinhu Township)
 - [Google Maps](https://maps.app.goo.gl/rj6KsNLG2CB7GryV9)
+- [Wikidata](https://www.wikidata.org/wiki/Q65659226)
 - [Pixnet (留在金門忘了飛 Visit Kinmen)](https://visitkinmen.pixnet.net/blog/post/9079464)
-- https://www.wikidata.org/wiki/Q65659226
 - [YouTube (Walking Owl)](https://www.youtube.com/watch?v=kBVBgrjoCMk)
 - [YouTube (Kayla Cosmos)](https://www.youtube.com/watch?v=uwKdtag3QzQ)
 - [YouTube (安頭金門 Eurasian otter in Kinmen island)](https://www.youtube.com/watch?v=exy6Ybpt7ts)
 - [YouTube (Exploring the Unbeaten Path)](https://www.youtube.com/watch?v=14SZzj5CVYw)
-- https://whoyotravel.com.tw/km-story/underground-hospital-in-kinmen/
+- [忽悠旅社WhoyoTravel](https://whoyotravel.com.tw/km-story/underground-hospital-in-kinmen/)
 - https://imgchest.com/p/lqyegq82z7d
 
 ## 134 Highland (134高地) / Granite Park (花崗岩公園, 花崗石園區) (Kinmen County, Jinhu Township)
@@ -687,7 +694,7 @@
 - also: 坑南祖墳, 夏興山
 - [Google Maps](https://maps.app.goo.gl/uJnTGWsCzJcNyPnx5)
 - [YouTube (Kayla Cosmos)](https://www.youtube.com/watch?v=tv1yNX2CCGo)
-- https://886.news/archives/107997
+- [886 News](https://886.news/archives/107997)
 - https://kinmen.travel/zh-tw/travel/attraction/1962
 - https://kinmen.travel/en/travel/attraction/1963
 
@@ -698,6 +705,7 @@
 ## Shilin Sanyi Market (士林三益市場) (Taipei City, Shilin District)
 - aka: Hualing Market (華齡市場)
 - [SpectralCodex](https://spectralcodex.com/shilin-sanyi-market/)
+- [Threads (synapticx)](https://www.threads.com/@synapticx/post/DC62P5oT4l4)
 
 - demolished around 2020 according to "SpectralCodex"
 
@@ -711,10 +719,18 @@
 - [Google Maps](https://maps.app.goo.gl/QQstq1weug4hNHTUA)
 - [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/post/346171052)
 - [SpectralCodex](https://spectralcodex.com/linkou-lightning-building/)
-- [Flickr (csdido)](https://www.flickr.com/photos/csdido/sets/72157647888791817)
+- [Flickr (csdido)](https://www.flickr.com/photos/csdido/sets/72157647888791817/)
 - [HouseFun News](https://news.housefun.com.tw/news/article/128289312155.html)
 
 - demolished in 2022 according to "SpectralCodex" and "HouseFun News"
+
+## Guobin Commercial Building (國賓商業大樓) (Taoyuan City, Zhongli District)
+- [Google Maps](https://maps.app.goo.gl/4TzC264RyDrWD4MT6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E5%9C%8B%E8%B3%93%E5%95%86%E6%A5%AD%E5%A4%A7%E6%A8%93)
+- [SpectralCodex](https://spectralcodex.com/zhongli-guobin-commercial-building/)
+- [Flickr (csdido)](https://www.flickr.com/photos/csdido/sets/72157676987572026/)
+
+- demolished according to [Threads (synapticx)](https://www.threads.com/@synapticx/post/DIfwIBdvEz2)
 
 ## Abandoned building complex () (Keelung City, Zhongzheng District)
 - [Blogspot (Deserted Places)](https://desertedplaces.blogspot.com/2013/05/abandoned-building-complex-in-taiwan.html)
@@ -734,34 +750,33 @@
 
 ## Jinxin Building (錦新大樓) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/8Z6b3hX5XV16WJkU7)
-- https://tp105.com/archives/11152/%E5%92%8C%E7%9B%8A%E9%87%91%E9%8A%80%E5%A4%A7%E6%A8%93%E7%9C%8B%E6%88%BF%E7%AD%86%E8%A8%98%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8F%B0%E5%8C%97%E5%B8%82
-- https://www.reddit.com/r/Taipei/comments/1bieq5w/are_there_any_haunted_places_in_taiwan_i_would/
-- https://www.taipeitimes.com/News/feat/archives/2020/01/08/2003728886
-- https://www.youtube.com/watch?v=2ZX8rUmkoik
-- https://pavilion.taicca.tw/portfolio-item/mystery-writers/
-- https://www.mirrormedia.mg/story/20240916pol002
-- https://www.taipeitimes.com/News/feat/archives/2020/01/08/2003728886?utm_source=chatgpt.com
+- [吳冠軍業務專欄](https://tp105.com/archives/11152/%E5%92%8C%E7%9B%8A%E9%87%91%E9%8A%80%E5%A4%A7%E6%A8%93%E7%9C%8B%E6%88%BF%E7%AD%86%E8%A8%98%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8F%B0%E5%8C%97%E5%B8%82)
+- [Reddit (r/Taipei)](https://www.reddit.com/r/Taipei/comments/1bieq5w/are_there_any_haunted_places_in_taiwan_i_would/)
+- [Taipei Times](https://www.taipeitimes.com/News/feat/archives/2020/01/08/2003728886)
+- [YouTube (Taiwan Critical Time)](https://www.youtube.com/watch?v=2ZX8rUmkoik)
+- [Mirror Media](https://www.mirrormedia.mg/story/20240916pol002)
 - [Wikipedia (Chinese, Hotel fire)](https://zh.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E5%A4%A7%E9%A3%AF%E5%BA%97%E5%A4%A7%E7%81%AB)
-- [Facebook](https://www.facebook.com/twdramalocation01/posts/pfbid0MUM9fn2aqjbtJqs21b91MZzHpRA67B5zmHKVeSNL7mQ1rvxJwxSTCCi1mZrVCVrCl)
+- [Facebook (臺灣戲劇取景地點 Taiwan Drama Location)](https://www.facebook.com/twdramalocation01/posts/pfbid0MUM9fn2aqjbtJqs21b91MZzHpRA67B5zmHKVeSNL7mQ1rvxJwxSTCCi1mZrVCVrCl)
 - [Blogspot (Taiwan Drama Location)](https://twdramaloc.blogspot.com/2025/10/104JinxinBuilding.html)
-- https://www.etwarm.com.tw/news/1797
+- [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
 - filming location for: A Heroic Fight (勇闖江湖) (1986) and Gatao 2: Rise of the King (角頭2：王者再起) (2018) according to "Blogspot (Taiwan Drama Location)"
+- filming location for: Mystery Writers (鬼天廈) [Taiwan Pavilion](https://pavilion.taicca.tw/portfolio-item/mystery-writers/)
 
 ## Linsen Tourist Building (林森觀光大樓) (Taipei City, Zhongshan District)
 - aka: 林森觀光大廈
 - [Google Maps](https://maps.app.goo.gl/S4UmCtfNf3H16MGa8)
-- https://www.mirrormedia.mg/story/20240916pol002
-- https://www.etwarm.com.tw/news/1797
+- [Mirror Media](https://www.mirrormedia.mg/story/20240916pol002)
+- [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
 - site of: suicide incident involving roasted pork rice dumplings (燒肉粽自殺事件)
 
 ## Heyi Gold and Silver Building (和益金銀大樓) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/abgR7QyLQbDD4NNh7)
-- https://tw.forumosa.com/t/has-anybody-ever-heard-of-a-building-called/231943
-- https://tp105.com/archives/11152/%E5%92%8C%E7%9B%8A%E9%87%91%E9%8A%80%E5%A4%A7%E6%A8%93%E7%9C%8B%E6%88%BF%E7%AD%86%E8%A8%98%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8F%B0%E5%8C%97%E5%B8%82
-- https://twdramaloc.blogspot.com/2025/09/104HeyiGoldSilverBuilding.html
-- https://www.etwarm.com.tw/news/1797
+- [Forumosa](https://tw.forumosa.com/t/has-anybody-ever-heard-of-a-building-called/231943)
+- [吳冠軍業務專欄](https://tp105.com/archives/11152/%E5%92%8C%E7%9B%8A%E9%87%91%E9%8A%80%E5%A4%A7%E6%A8%93%E7%9C%8B%E6%88%BF%E7%AD%86%E8%A8%98%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8F%B0%E5%8C%97%E5%B8%82)
+- [Blogspot (Taiwan Drama Location)](https://twdramaloc.blogspot.com/2025/09/104HeyiGoldSilverBuilding.html)
+- [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
 - apartment complex with a central courtyard
 
@@ -769,19 +784,22 @@
 - aka: Golden Horse Award Building (金馬獎大樓)
 - contains: Jinmajiang Theater (金馬獎戲院)
 - [Google Maps](https://maps.app.goo.gl/9GpsEx1s5qXufPhb7)
+- [Wikidata](https://www.wikidata.org/wiki/Q136969948)
 - [Pixnet (genie's Blog)](https://snowbunny.pixnet.net/blog/post/42053194)
 - [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/pfbid028CdkC9krGDbRuuKBdcfxhgsP1aiaPXtqVzreyYdami2WK5M5qtkvHFz5xgbjox57l)
 - [YouTube (aiden fu)](https://www.youtube.com/watch?v=3BZHwA5HkHg)
-- https://www.etwarm.com.tw/news/1797
+- [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
 ## Lingxiao Apartment Building (凌霄大樓) (Taipei City, Beitou District)
 - aka: 圓柱狀集合住宅
 - [Google Maps](https://maps.app.goo.gl/PKwLGQ5FmmFFiUH98)
+- [Wikidata](https://www.wikidata.org/wiki/Q136970845)
 - [SpectralCodex](https://spectralcodex.com/beitou-lingxiao-building/)
-- https://www.etwarm.com.tw/news/1797
+- [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
 ## Guomao Community (果貿社區) (Kaohsiung City, Zuoying District)
 - [Google Maps](https://maps.app.goo.gl/2hEK7RTjk23HqAz19)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Guomao_Community)
-- https://formosajmac.com/2025/01/23/explore-guomao-community-kaohsiungs-little-hong-kong/
+- [Wikidata](https://www.wikidata.org/wiki/Q11107433)
+- [Formosa>Ex](https://formosajmac.com/2025/01/23/explore-guomao-community-kaohsiungs-little-hong-kong/)
 - [Atlas Obscura](https://www.atlasobscura.com/places/guomao-community)

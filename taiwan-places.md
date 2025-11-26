@@ -164,7 +164,7 @@
 
 ## Laomei Green Reef (老梅綠石槽) (New Taipei City, Shimen District)
 - [Google Maps](https://maps.app.goo.gl/jbyMasckzrRYUMTn6)
-- https://www.dribs-drabs.com/%e6%97%85%e8%a1%8c-%e5%8c%97%e6%b5%b7%e5%b2%b8%e4%b9%8b%e6%97%85-%e8%80%81%e6%a2%85%e7%b6%a0%e7%9f%b3%e6%a7%bd%e6%b5%b7%e9%a2%a8%e6%b2%99%e4%ba%a4%e9%9f%bf%e6%a8%82/
+- [Dribs & Drabs](https://www.dribs-drabs.com/%e6%97%85%e8%a1%8c-%e5%8c%97%e6%b5%b7%e5%b2%b8%e4%b9%8b%e6%97%85-%e8%80%81%e6%a2%85%e7%b6%a0%e7%9f%b3%e6%a7%bd%e6%b5%b7%e9%a2%a8%e6%b2%99%e4%ba%a4%e9%9f%bf%e6%a8%82/)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/laomei-green-reef)
 - [Josh Ellis](https://www.goteamjosh.com/blog/laomei)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002016&id=A12-00180
@@ -848,7 +848,7 @@
 - [Google Maps (Toad Mountain)](https://maps.app.goo.gl/WjH3VwPmdVKKCw4K6)
 - https://www.travel.taipei/en/attraction/details/3690
 - https://huanminvillage.taipei/
-- https://english.culture.gov.taipei/News_Content.aspx?n=1720A1EC75EF55C2&s=C293CDAA7CF4B133
+- [Taipei Department of Cultural Affairs](https://english.culture.gov.taipei/News_Content.aspx?n=1720A1EC75EF55C2&s=C293CDAA7CF4B133)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/10/toad-mountain)
 - [SpectralCodex](https://spectralcodex.com/daan-toad-mountain/)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%9F%BE%E8%9C%8D%E5%B1%B1)
@@ -927,11 +927,11 @@
 ## Grand Hotel Tunnels (圓山大飯店秘道) (Taipei City, Zhongshan District)
 - [Google Maps (Grand Hotel)](https://maps.app.goo.gl/Q76T1rpQYCSt8eKu5)
 - [Google Maps (East Tunnel)](https://maps.app.goo.gl/WrGez7YVXAxnUwq19)
-- https://english.culture.gov.taipei/News_Content.aspx?n=8F944957712BA2B8&s=8893108EC55936B8
+- [Taipei Department of Cultural Affairs](https://english.culture.gov.taipei/News_Content.aspx?n=8F944957712BA2B8&s=8893108EC55936B8)
 - [Atlas Obscura](https://www.atlasobscura.com/places/grand-hotel-tunnel-taipei)
 - https://www.travel.taipei/en/fun/tour/details/1198
-- https://www.theguardian.com/world/2023/aug/28/secret-escape-slide-for-taiwans-former-leader-draws-in-the-crowds-just-dont-ask-for-a-go
-- https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=751
+- [The Guardian](https://www.theguardian.com/world/2023/aug/28/secret-escape-slide-for-taiwans-former-leader-draws-in-the-crowds-just-dont-ask-for-a-go)
+- [Official](https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=751)
 
 ## Taipei 101 (台北101) (Taipei City, Xinyi District)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_101)
@@ -1260,6 +1260,18 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q11466294)
 
 - categories: train station, historical building
+
+## Shenghe Coal Mine, Dafeng No. 1 Mine (勝和煤礦一號坑) (New Taipei City, Shulin District)
+- aka: 山佳煤礦遺址（大豐一號坑）
+- [Google Maps](https://maps.app.goo.gl/xWaZpJyh1L6QQVuw8)
+- [SpectralCodex](https://spectralcodex.com/shulin-shenghe-coal-mine/)
+- [Blogspot (放羊的狼)](https://ivynimay.blogspot.com/2010/10/991031.html)
+- [Vocus (天人之際的沙龍)](https://vocus.cc/article/64a1845bfd8978000174c415)
+- [WordPress (天人之際)](https://tsaicc71.wordpress.com/2023/07/02/%E5%A4%A7%E8%B1%90%E7%85%A4%E7%A4%A6%E9%81%BA%E5%9D%80%E8%88%87%E5%B1%B1%E4%BD%B3%E8%BB%8A%E7%AB%99/)
+- [Taiwan Culture Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=223213)
+- https://cmsdb.culture.tw/place/3041B31F-92D1-4139-A17F-24DFDAD4C815
+
+- categories: coal mine
 
 ## Pinglin Tea Museum (坪林茶業博物館) (New Taipei City, Pinglin District)
 - [Google Maps](https://maps.app.goo.gl/bkuVgfTUtE1ftieV9)
@@ -1666,7 +1678,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%A7%8B%E8%8C%82%E5%9C%92)
 - [Wikidata](https://www.wikidata.org/wiki/Q49547046)
 - [SpectralCodex](https://spectralcodex.com/tongxiao-qiumao-garden/)
-- https://formosajmac.com/2024/06/20/qiu-mao-garden/
+- [Formosa>Ex](https://formosajmac.com/2024/06/20/qiu-mao-garden/)
 - [Juksy](https://www.juksy.com/article/111101)
 - [YouTube (Taiwan Wanderer 台灣亂流散步)](https://www.youtube.com/watch?v=xNRU6w2p3sk)
 
@@ -2872,7 +2884,7 @@
 
 ## Old Baiji Tunnel (舊百吉隧道) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/VNJSPaaPpDnwipk79)
-- https://www.dribs-drabs.com/old-baiji/
+- [Dribs & Drabs](https://www.dribs-drabs.com/old-baiji/)
 - https://travel.tycg.gov.tw/en/travel/attraction/1258
 
 # Villages (里)
