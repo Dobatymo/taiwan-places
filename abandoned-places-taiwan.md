@@ -1,8 +1,12 @@
 # Abandoned
 
 ## Da'an Zhima Building (芝麻大廈) (Taipei City, Da'an District)
+- aka: Sesame Hotel (芝麻酒店)
 - [Google Maps](https://maps.app.goo.gl/rE4MySxUq6Tc3t4t6)
 - [SpectralCodex](https://spectralcodex.com/daan-zhima-building/)
+- [ETtoday (2021, Chinese)](https://house.ettoday.net/news/2148263)
+
+- 2025: there seems to be construction
 
 ## Zhongxiao Market in Wanxiang Building (忠孝市場 in 萬象大樓) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/ucSrxfyJmESbjnAbA)
@@ -25,7 +29,7 @@
 - [Google Maps](https://maps.app.goo.gl/156btUY9nF7ko7dLA)
 - [SpectralCodex](https://spectralcodex.com/shilin-tianmu-chuanjiaju/)
 - [自由時報 Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2519779)
-- [ETtoday](https://house.ettoday.net/news/1691932)
+- [ETtoday (2020, Chinese)](https://house.ettoday.net/news/1691932)
 - [Pixnet (熱血流成河)](https://davidli.pixnet.net/blog/post/49183287)
 
 - 2020: first floor windows and doors are boarded up to prevent homeless people from entering according to ETtoday
@@ -186,8 +190,9 @@
 - https://www.dark-tourism.com/index.php/1553-wanli
 - [Remote Lands Travelogues](https://www.remotelands.com/travelogues/the-forsaken-ufo-village-of-wanli/)
 - https://www.rachelenroute.com/wanli-ufo-village-a-supernatural-day-trip-from-taipei/
-- [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
 - [Atlas Obscura](https://www.atlasobscura.com/places/wanli-ufo-village)
+- [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=vATojGHEUhM)
+- [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=NuwjYSHVeEM)
 - [YouTube (丑時頻道)](https://www.youtube.com/watch?v=_cvGmcHW0Yo)
 - [Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/03/07/2003833010)
 - [Formosa>Ex](https://formosajmac.com/2023/04/18/wanli-ufo-village/))
@@ -257,7 +262,7 @@
 
 ## Daoxiangcun Hotel (稻香村大酒店) (Taoyuan City, Longtan District)
 - aka: Shimen Daoxiangcun Hotel, Longtan Daoxiangcun Hotel, 桃園稻香村飯店, 石門稻香村大酒店
-- [Google Maps](https://maps.app.goo.gl/8xN36TnxMuyEwEo79)
+- [Google Maps](https://maps.app.goo.gl/MCu9hg1Yy4KP5hTb7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%A8%BB%E9%A6%99%E6%9D%91%E5%A4%A7%E9%85%92%E5%BA%97)
 - [SpectralCodex](https://spectralcodex.com/longtan-shimen-daoxiangcun-hotel/)
 - [Instagram (crain67183)](https://www.instagram.com/p/DCTcSC8JxZG/)
@@ -265,6 +270,17 @@
 - [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/post/353882330)
 - https://home.gamer.com.tw/creationDetail.php?sn=4695425
 - [Facebook (Steve Ronin)](https://www.facebook.com/reel/1359612039216264), [Facebook (Steve Ronin)](https://www.facebook.com/reel/1159670508925277)
+
+## Sesame Hotel (芝麻大酒店) (Taoyuan City, Longtan District)
+- aka: 石門芝麻大酒店
+- [Google Maps](https://maps.app.goo.gl/YwMXFcxbtKin46qw8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%9F%B3%E9%96%80%E8%8A%9D%E9%BA%BB%E5%A4%A7%E9%85%92%E5%BA%97)
+- [Josh Ellis](https://www.goteamjosh.com/blog/sesame)
+- [Round Taiwan Round](https://www.rtaiwanr.com/zh-TW/taoyuan/taoyuan/sesame-hotel)
+- https://classic-blog.udn.com/hanklin1018/16809223
+- [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=pKu6DrDe0uA), [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/pfbid0PYhfsU9EJTuRnwuhwDotfZ3CBwb96t8m2jziK8BwmDAX7gSiWDhnhDgVA74hy5pnl)
+- http://www.renegadewritings.com/2018/11/11/abandoned-hotels-around-shimen-reservoir-part-1/
+- https://www.elledecor.com/life-culture/travel/g45549773/abandoned-hotels/
 
 ## Yunxiao Hotel (雲霄大飯店) (Taoyuan City, Daxi District)
 - [Google Maps](https://maps.app.goo.gl/6xD8GuWCWJdcDMp49)

@@ -9,7 +9,7 @@
 
 ## Like Tea (老賴茶棧)
 - https://zh.wikipedia.org/wiki/%E8%80%81%E8%B3%B4%E8%8C%B6%E6%A3%A7
-- https://www.liketeashop.com/ 
+- https://www.liketeashop.com/
 - https://www.facebook.com/liketeashop
 - founded 1980
 

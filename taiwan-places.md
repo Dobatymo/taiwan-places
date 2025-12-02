@@ -939,8 +939,8 @@
 - [Official](https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=751)
 
 ## Taipei 101 (台北101) (Taipei City, Xinyi District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_101)
 - [Google Maps](https://maps.app.goo.gl/RA3TPtpMmP5yKQ5J9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_101)
 - [Wikidata](https://www.wikidata.org/wiki/Q83101)
 - [Josh Ellis](https://www.goteamjosh.com/blog/cityscape)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/taipei-101/)
@@ -2110,7 +2110,7 @@
 
 - categories: traditional indoor market
 
-## Changchun Market (長春市場) (Taipei City, Zhongshan District) 
+## Changchun Market (長春市場) (Taipei City, Zhongshan District)
 - [Google Maps](https://maps.app.goo.gl/YoiWbAvXu2JDXU93A)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=689BFAF0564C88F0
 - https://www.cto.moea.gov.tw/Market/web/market/detail.php?mid=306
@@ -3051,3 +3051,10 @@
 - [Taiwan Travel Map](https://www.taiwantravelmap.com/taiwantravelmap/travel-1873)
 - [ShihTrip／施旅行](https://yingtingshih.com/2020-01-11-2030/)
 - [WordPress (Heresy's Space)](https://kheresy.wordpress.com/2024/12/08/butterfly-with-human-head/)
+
+## Yeshan Building (葉山樓) (Taoyuan City, Longtan District)
+- aka: Yefabao Strange House (葉發苞怪屋)
+- [Google Maps](https://maps.app.goo.gl/KEcx2KJyaz3kkwTu8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%91%89%E5%B1%B1%E6%A8%93)
+- [Wikidata](https://www.wikidata.org/wiki/Q17033660)
+- [SpectralCodex](https://spectralcodex.com/longtan-yeshan-building/)
