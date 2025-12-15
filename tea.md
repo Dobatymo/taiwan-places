@@ -395,6 +395,14 @@ https://www.teapro.com.tw/
 - aka: Monkey Tea
 - location: https://maps.app.goo.gl/wC7rdq15QQYoAc4i7
 
+## Shangyulin (上宇林)
+- aka: 上宇林連鎖茶飲
+- https://www.shangyulin.com.tw/en/
+
+## Mutucha (沐荼寺)
+- https://www.mutucha.com/
+- https://www.facebook.com/Mutucha/
+
 ## Mita Tea (米塔黑糖)
 - https://www.instagram.com/mitateashop/
 - https://www.facebook.com/mitateashop/

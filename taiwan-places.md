@@ -201,8 +201,8 @@
 - price: 120 NTD (for entry, showers and not included)
 - showers yes, changing rooms no, lifeguards yes
 - artificial pools with sea water
-- not so convenient by public transport since the T99 bus from keelung is not very regular
-  - otherwise there is the 1579 bus from taipei (to National Taiwan Ocean University) if you don't mind walking
+- not so convenient by public transport since the T99 bus from Keelung is not very regular
+  - otherwise there is the 1579 bus from Taipei (to National Taiwan Ocean University) if you don't mind walking
 
 ## Dawulun Beach (大武崙) (Keelung City, Anle District)
 - [Google Maps](https://maps.app.goo.gl/BqnjDzvMCaCgCL7C7)
@@ -625,6 +625,15 @@
 - [WordPress (Hiking/Cycling in Taiwan)](https://bikehiketaipei.wordpress.com/mt-dadong/)
 
 - #015 of Taiwan's 100 minor peaks (台灣小百岳)
+
+## Lala Mountain (拉拉山) (Taoyuan City, Fuxing District)
+- aka: Daguan Mountain (達觀山)
+- also: Lalashan Giant Trees (拉拉山巨木區)
+- [Google Maps](https://maps.app.goo.gl/2Du8eQFXcJhVuxKT6)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002107&id=R147
+- https://en.wikipedia.org/wiki/Lala_Mountain
+
+- one of Taiwan's "natural protection zones"
 
 ## Lovers Lake (情人湖) (Keelung City, Anle District)
 - aka: Lovers Lake Circular Trail, 情人湖環湖步道, Lovers Lake Park, 情人湖公園
@@ -1062,6 +1071,12 @@
 
 - categories: temple
 
+## Period Museum (小紅厝月經博物館) (Taipei City, Datong District)
+- [Google Maps](https://maps.app.goo.gl/j2hm1G4KMw5mAYMk7)
+- [Facebook](https://www.facebook.com/theredhouse.tw/)
+- [Official (English)](https://withred.org/english#periodmuseum)
+- [Instagram](https://www.instagram.com/periodmuseum.tw/)
+
 ## Yucheng Park Swimming Pool (玉成公園游泳池) (Taipei City, Nangang District)
 - [Google Maps](https://maps.app.goo.gl/LFRFmB9aAwvyxX1i6)
 - [Wikidata](https://www.wikidata.org/wiki/Q137049238)
@@ -1490,6 +1505,14 @@
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/zhuwei-fishing-harbor)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002107&id=A12-00158
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001107&id=A12-00265
+
+## Hengshan Calligraphy Art Center (橫山書法藝術館) (Taoyuan City, Dayuan District)
+- [Google Maps](https://maps.app.goo.gl/NHL9mofWjfQuifaJ8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Hengshan_Calligraphy_Art_Center)
+- [Wikidata](https://www.wikidata.org/wiki/Q109256963)
+- https://tmofa.tycg.gov.tw/en/visit/information/hengshan
+
+- categories: art museum
 
 ## Lalashan Giant Trees (拉拉山巨木區) (Taoyuan City, Fuxing District)
 - aka: Lalashan National Forest Recreation Area, 拉拉山
@@ -1952,6 +1975,18 @@
 
 - categories: museum
 
+## Qiaotou Sugar Factory / Sugar Industry Museum (橋頭糖廠 / 糖業博物館) (Kaohsiung City, Qiaotou District)
+- aka: Ciaotou Sugar Refinery
+- [Google Maps](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
+- https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html
+- [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taiwan-sugar-museum)
+- https://filmkh.org/en/scene_detail?sc_sn=106
+- https://www.rtaiwanr.com/zh-TW/kaohsiung/kaohsiung-city/taiwan-sugar-museum
+- https://www.rtaiwanr.com/kaohsiung/kaohsiung-city/taiwan-sugar-museum
+- [Facebook](https://www.facebook.com/cctsr)
+
+- categories: museum, factory
+
 ## Paul Chiang Art Center (江賢二藝術園區) (Taitung County, Donghe Township)
 - [Google Maps](https://maps.app.goo.gl/Xppde5TgNYFj1yUd6)
 - [Wikidata](https://www.wikidata.org/wiki/Q136793393)
@@ -2182,7 +2217,7 @@
 - [Google Maps](https://maps.app.goo.gl/dnXno6PMLya33JoM7)
 - [Wikidata](https://www.wikidata.org/wiki/Q137049739)
 - [SpectralCodex](https://spectralcodex.com/wanhua-xining-public-housing/)
-- https://www.taiwannews.com.tw/news/6027674
+- [Taiwan News](https://www.taiwannews.com.tw/news/6027674)
 - https://english.ftvnews.com.tw/news/2024604W01EA
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=FD2D89D197A67FA2
@@ -2240,8 +2275,9 @@
 - categories: traditional indoor market
 
 ## Zhongli Tourist Night Market (中壢觀光夜市) (Taoyuan City, Zhongli District)
-- aka: Zhongli Night Market, 中壢區觀光夜市
+- aka: Zhongli Night Market, 中壢區觀光夜市, Zhongli Xinming Night Market
 - [Google Maps](https://maps.app.goo.gl/277sbMUqNyfmcRF87)
+- [Wikidata](https://www.wikidata.org/wiki/Q10874943)
 - [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1027)
 - [Guide to Taipei.com](https://guidetotaipei.com/visit/zhongli-jhongli-chungli-xinming-night-market-%E4%B8%AD%E5%A3%A2%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82-%E6%96%B0%E6%98%8E%E5%A4%9C%E5%B8%82)
 
@@ -2590,6 +2626,19 @@
 
 - categories: lake
 
+## Green Grass Lake (青草湖) (Hsinchu City, East District)
+- aka: Qingcao Lake
+- [Google Maps](https://maps.app.goo.gl/c4cUAhFKyMwPEFKN9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%9D%92%E8%8D%89%E6%B9%96_(%E5%8F%B0%E7%81%A3%E6%B9%96%E6%B3%8A))
+- [Wikidata](https://www.wikidata.org/wiki/Q15899691)
+- https://greengrasslake.com.tw/
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002109&id=5958
+- https://www.orphanednation.com/green-grass-lake-%E9%9D%92%E8%8D%89%E6%B9%96/
+- [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/green-grass-lake)
+
+- activities: pedal boats, electric boats, SUP
+- categories: reservoir, lake
+
 ## Liyu Lake (鯉魚潭) (Hualien County, Shoufeng Township)
 - aka: Carp Lake
 - [Google Maps](https://maps.app.goo.gl/o2YkvXfwT98iNAmp9)
@@ -2611,6 +2660,15 @@
 - public transport: direct bus from Taipei (3.5 to 4 hours)
 
 - #012 of National Scenic Areas (國家風景區)
+
+## Chiaming Lake (嘉明湖) (Taitung County, Haiduan Township)
+- aka: Jiamíng Lake, Angel's teardrop
+- [Google Maps](https://maps.app.goo.gl/yXqwvFGqR2zBcVcv9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Chiaming_Lake)
+- [Wikidata](https://www.wikidata.org/wiki/Q10924029)
+- https://jmlnt-en.forest.gov.tw/
+- https://hikingtaiwan.wordpress.com/2009/02/01/jiaming-lake-%E5%98%89%E6%98%8E%E6%B9%96/
+- https://recreation.forest.gov.tw/EN/Trail/RT?tr_id=139
 
 # National Parks
 
@@ -2880,7 +2938,7 @@
 - also: Xining Market (西寧大樓)
 - [Google Maps](https://maps.app.goo.gl/dnXno6PMLya33JoM7)
 - [SpectralCodex](https://spectralcodex.com/wanhua-xining-public-housing/)
-- https://www.taiwannews.com.tw/news/6027674
+- [Taiwan News](https://www.taiwannews.com.tw/news/6027674)
 - https://english.ftvnews.com.tw/news/2024604W01EA
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://cott6226.pixnet.net/blog/post/353616316
@@ -2998,6 +3056,15 @@
 - [Dribs & Drabs](https://www.dribs-drabs.com/old-baiji/)
 - [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/1258)
 - [小兔小安*旅遊札記](https://bunnyann.tw/bagel2025/)
+
+## Shimen Reservoir (石門水庫) (Taoyuan City, Daxi District)
+- aka: Shimen Reservoir Scenic Area (石門水庫風景區), Shihmen Reservoir
+- [Google Maps (Scenic Area)](https://maps.app.goo.gl/usbLUDMPoCpfaEHE7)
+- [Google Maps (Reservoir)](https://maps.app.goo.gl/h8zZ74hQXfyT5q9c6)
+- https://en.wikipedia.org/wiki/Shihmen_Dam
+- [Wikidata](https://www.wikidata.org/wiki/Q101230894)
+- https://travel.tycg.gov.tw/en/travel/attraction/664
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002107&id=R67
 
 ## Jiangmayuan Lookout (薑麻園瞭望台) (Miaoli County, Dahu Township/Sanyi Township/Tongluo Township)
 - [Google Maps](https://maps.app.goo.gl/BnbMb9e98FUuZ5NR8)
