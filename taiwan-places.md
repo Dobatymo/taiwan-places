@@ -778,13 +778,22 @@
 - categories: swimming pool
 - only open in July and August...
 
+## Museum of Drinking Water (臺北水道水源地) (Taipei City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/Sqg4Je2p98nx76YK6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Museum_of_Drinking_Water)
+- [Wikidata](https://www.wikidata.org/wiki/Q13499289)
+- [Explore Taiwan](https://exploringbeautifultaiwan.blogspot.com/2022/10/taipei-museum-of-drinking-water.html)
+
+- categories: museum
+
 ## Guanyinshan Reservoir (觀音山蓄水池) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/GSA6fqyu5Q91yMpt9)
+- [Wikidata](https://www.wikidata.org/wiki/Q137825578)
 - https://www.travel.taipei/en/attraction/details/3797
 - https://watermysteries.water.gov.taipei/commodity/index_P/726
 - https://culture.gov.taipei/cp.aspx?n=B11D042F39B10F2E
 - https://waterparken.water.gov.taipei/cp.aspx?n=516187666E31C372
-- https://www.opentaipei.org/house/2025GuanyinshanReservoir
+- [Open House Taipei](https://www.opentaipei.org/house/2025GuanyinshanReservoir)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=10710)
 
 - categories: water reservoir
@@ -946,6 +955,7 @@
 - https://www.travel.taipei/en/fun/tour/details/1198
 - [The Guardian](https://www.theguardian.com/world/2023/aug/28/secret-escape-slide-for-taiwans-former-leader-draws-in-the-crowds-just-dont-ask-for-a-go)
 - [Official](https://www.grand-hotel.org/TW/official/news-detail.aspx?gh=TP&id=751)
+- [Explore Taiwan](https://exploringbeautifultaiwan.blogspot.com/2021/11/exploring-grand-hotels-secret-west.html)
 
 ## Taipei 101 (台北101) (Taipei City, Xinyi District)
 - [Google Maps](https://maps.app.goo.gl/RA3TPtpMmP5yKQ5J9)
@@ -1415,6 +1425,7 @@
 - aka: Fufuding Mountain Temple (富福頂山寺)
 - [Google Maps](https://maps.app.goo.gl/cHzyNsuFHCL3KGh86)
 - [Josh Ellis](https://www.goteamjosh.com/blog/seashell)
+- [Explore Taiwan](https://exploringbeautifultaiwan.blogspot.com/2022/11/sanzhi-seashell-temple.html)
 
 - not to be confused with the abandoned Eighteen Arhats Cave (十八羅漢洞) in Keelung.
 - categories: temple
@@ -1527,7 +1538,7 @@
 ## Huilong Temple (龜山迴龍寺) (Taoyuan City, Guishan District)
 - [Google Maps](https://maps.app.goo.gl/nVXHzjfUDPFadbi57)
 - [Wikidata](https://www.wikidata.org/wiki/Q136793703)
-- https://nchdb.boch.gov.tw/city/Taoyuan/assets/overview/historicalBuilding/20230103000001
+- [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/city/Taoyuan/assets/overview/historicalBuilding/20230103000001)
 - https://taiwanc.com/2023/09/17/%E9%BE%9C%E5%B1%B1%E8%BF%B4%E9%BE%8D%E5%AF%BA/
 
 - categories: temple
@@ -1697,7 +1708,7 @@
 - [Josh Ellis](https://www.goteamjosh.com/blog/shaonian)
 - [Orphaned Nation](https://www.orphanednation.com/hsinchu-prison-martial-arts-hall-%E6%96%B0%E7%AB%B9%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80%E6%BC%94%E6%AD%A6%E5%A0%B4/)
 - [SpectralCodex](https://spectralcodex.com/hsinchu-juvenile-prison-martial-arts-hall/)
-- https://nchdb.boch.gov.tw/assets/overview/monument/20120727000001
+- [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/assets/overview/monument/20120727000001)
 
 - categories: martial arts hall
 
@@ -1855,7 +1866,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kaohsiung_Wude_Hall)
 - [Wikidata](https://www.wikidata.org/wiki/Q15921908)
 - [Josh Ellis](https://www.goteamjosh.com/blog/takaohall)
-- https://nchdb.boch.gov.tw/assets/overview/monument/20201118000004
+- [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/assets/overview/monument/20201118000004)
 
 - categories: martial arts hall
 
@@ -2016,7 +2027,7 @@
 - [Google Maps](https://maps.app.goo.gl/GfizwDFYeFu8f4HaA)
 - [Wikidata](https://www.wikidata.org/wiki/Q137049697)
 - [YouTube (Kayla Cosmos)](https://www.youtube.com/watch?v=4SlYbi71vrw)
-- https://nchdb.boch.gov.tw/assets/overview/monument/20150211000004
+- [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/assets/overview/monument/20150211000004)
 - [Instagram (formosajmac)](https://www.instagram.com/p/CeJA8gjP-oF/)
 
 - categories: monument
@@ -2157,11 +2168,11 @@
 - also: Xinxin Social Housing (新興公宅)
 - [Google Maps (Market)](https://maps.app.goo.gl/zkULkHkqXQeM2Fxj7)
 - [Wikidata](https://www.wikidata.org/wiki/Q137049716)
-- https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing
+- [Open House Taipei](https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing)
 - https://taipeiwalker.walkerland.com.tw/articles/view/4026
 - https://rent.thurc.org.taipei/Rental/Site/emerging-markets
 - [Facebook](https://www.facebook.com/profile.php?id=61553231890315)
-- https://www.opentaipei.org/house/2024XinxinMarket
+- [Open House Taipei](https://www.opentaipei.org/house/2024XinxinMarket)
 
 ## Yongchun Market (永春市場) (Taipei City, Xinyi District)
 - [Google Maps](https://maps.app.goo.gl/oGPEfVzzyeR5WALD6)
@@ -2405,6 +2416,9 @@
 - [Medium (Kyle Chu)](https://medium.com/@Kyle_Chu/廢墟攝影-景點-舊台北兒童育樂中心-a-private-photo-site-abandoned-taipei-childrens-recreation-center-95080186dc1d)
 - [Official (Archived)](https://web.archive.org/web/*/http://www.tcrc.gov.tw)
 - [SpectralCodex](https://spectralcodex.com/zhongshan-yuanshan-childrens-amusement-park/)
+- https://www.hk01.com/%E6%97%85%E9%81%8A/342681/%E5%8F%B0%E5%8C%97%E9%81%8A%E6%A8%82%E5%A0%B4%E8%8D%92%E5%BB%A25%E5%B9%B4%E9%87%8D%E9%96%8B-%E4%B8%83%E5%BD%A9%E6%91%A9%E5%A4%A9%E8%BC%AA-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC%E5%8D%B3%E6%88%90ig%E6%89%93%E5%8D%A1%E7%86%B1%E9%BB%9E
+- [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/posts/13292816216)
+- [Taiwan Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=online_metadata&id=2271546)
 
 - categories: park, abandoned amusement park
 
@@ -2607,6 +2621,14 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q7262010)
 
 - categories: city park
+
+## Lion King Waterfall (獅王瀑布) (Pingtung County, Majia Township)
+- [Google Maps](https://maps.app.goo.gl/KfqaXCigfK7zqwNy5)
+- [HopOut](https://hopout.com.tw/location/pingtung-lion-king-waterfall)
+- https://hikingbook.net/trails/%E7%8D%85%E7%8E%8B%E7%80%91%E5%B8%83
+- https://www.instagram.com/reels/DOaI3KaE_Wr/
+
+- categories: waterfall, pool, swimming
 
 # Rivers and Lakes
 
@@ -2910,7 +2932,7 @@
 ## Xinxin Social Housing (新興市場/公宅) (Taipei City, Zhongshan District)
 - also: Xinxing Market
 - [Google Maps (Public Housing)](https://maps.app.goo.gl/GiLN2Ad43iasaWj5A)
-- https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing
+- [Open House Taipei](https://www.opentaipei.org/house/2025TaipeiXinxinMarketandSocialHousing)
 
 ## Ximen (西門町) (Taipei City, Wanhua District)
 - aka: Ximending
