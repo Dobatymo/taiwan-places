@@ -717,7 +717,7 @@
 
 ## Land Bank Exhibition Hall of National Taiwan Museum (國立臺灣博物館 古生物館) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/FpHjsVywNAdEuDru7)
-- official: https://www.ntm.gov.tw/
+- [Official](https://www.ntm.gov.tw/)
 - https://www.travel.taipei/en/attraction/details/614
 - https://museums.moc.gov.tw/EN/MusData/Detail?museumsId=16a3e677-d90b-4a43-b875-9d5647761229
 - [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/08/09/national-taiwan-museum)
@@ -766,7 +766,7 @@
 ## Taipei Water Park (自來水園區) (Taipei City, Zhongzheng District)
 - aka: Water Country Park
 - [Google Maps](https://maps.app.goo.gl/F3rWVthb8FGQALXs5)
-- official: https://waterparken.water.gov.taipei/cp.aspx?n=DF4321208AB15734
+- [Official](https://waterparken.water.gov.taipei/cp.aspx?n=DF4321208AB15734)
 - https://www.travel.taipei/en/media/audio-guide/details/241
 - [Nickkembel Travels](https://www.nickkembel.com/taipei-with-kids/#Taipei_Water_Park_and_other_Spray_Parks)
 - [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/07/31/taipei-city-waterpark)
@@ -1176,6 +1176,17 @@
 - categories: performing arts theater
 - public transport: next to Jiantan MRT Station
 
+## Kuo Yuan Ye Museum of Cake and Pastry (郭元益糕餅博物館) (Taipei City, Shilin District)
+- [Google Maps](https://maps.app.goo.gl/9QmoG6K8ZjumvADLA)
+- [Wikidata](https://www.wikidata.org/wiki/Q14920284)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Kuo_Yuan_Ye_Museum_of_Cake_and_Pastry)
+- [Official](https://www.kuos.com/)
+- [Facebook](https://www.facebook.com/KuoYuanYeMuseum)
+- https://www.travel.taipei/en/attraction/details/582
+- [TaiwanObsessed](https://www.taiwanobsessed.com/diy-pineapple-cake-making-taipei/)
+
+- categories: museum
+
 ## Dahu Park Swimming Pool (大湖公園游泳池) (Taipei City, Neihu District)
 - located in: Dahu Park
 - [Google Maps](https://maps.app.goo.gl/RE8TeXdsqtNDwf7m9)
@@ -1189,7 +1200,7 @@
 - [Google Maps](https://maps.app.goo.gl/wW3DZJwJveXnvArTA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Beitou_Hot_Spring_Museum)
 - https://www.lonelyplanet.com/taiwan/taipei/beitou/attractions/beitou-hot-spring-museum/a/poi-sig/1358571/357553
-- https://hotspringmuseum.taipei/en/
+- [Official](https://hotspringmuseum.taipei/en/)
 - [Dribs & Drabs](https://www.dribs-drabs.com/beitou-spring-museum/)
 - [Valerie's Travel Blog](https://valerieblog.tw/beitou/#%E5%8C%97%E6%8A%95%E6%BA%AB%E6%B3%89%E5%8D%9A%E7%89%A9%E9%A4%A8)
 
@@ -1226,8 +1237,8 @@
 
 ## MRT Evacuation Experience Center (捷運北投會館逃生體驗營) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/mmVXscuYdqVip6kAA)
-- https://btresort-en.metro.taipei/Content_List.aspx?n=FD299D48413B7AF8
-- https://btresort.metro.taipei/Content_List.aspx?n=76C6FF1C6D62DB96
+- [Official (English)](https://btresort-en.metro.taipei/Content_List.aspx?n=FD299D48413B7AF8)
+- [Official (Chinese)](https://btresort.metro.taipei/Content_List.aspx?n=76C6FF1C6D62DB96)
 - [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/09/14/mrt-emergency-evacuation-exhibition-center)
 
 ## Museum of World Religions (世界宗教博物館) (New Taipei City, Yonghe District)
@@ -1350,7 +1361,7 @@
 - [Google Maps](https://maps.app.goo.gl/1FZgQbdn8vSd3JCE6)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Yun_Hsien_Resort)
 - [Wikidata](https://www.wikidata.org/wiki/Q19841101)
-- official: https://www.yun-hsien.com.tw/
+- [Official](https://www.yun-hsien.com.tw/)
 - https://newtaipei.travel/en/attractions/detail/111504
 
 - categories: amusement park, nature park
@@ -1445,6 +1456,16 @@
 
 - categories: temple
 
+## Kuo Yuan Ye Museum of Cake and Pastry (郭元益糕餅博物館) (Taoyuan City, Yangmei District)
+- [Google Maps](https://maps.app.goo.gl/yMi4VLE9fNM6ByrHA)
+- [Wikidata](https://www.wikidata.org/wiki/Q14920284)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Kuo_Yuan_Ye_Museum_of_Cake_and_Pastry)
+- [Official](https://www.kuos.com/)
+- [Facebook](https://www.facebook.com/KuoYuanYeMuseum)
+- https://travel.tycg.gov.tw/en/travel/attraction/677
+
+- categories: museum
+
 ## Xpark (Xpark) (Taoyuan City, Zhongli District)
 - [Google Maps](https://maps.app.goo.gl/4EUNzzdUwMRHEGY2A)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Xpark)
@@ -1454,12 +1475,6 @@
 - [V妞的旅行](https://vivianjourney.tw/xpark-taiwan/)
 
 - categories: aquarium
-
-## Xiaowulai Skywalk (小烏來天空步道) (Taoyuan City, Fuxing District)
-- [Google Maps](https://maps.app.goo.gl/2ags5Si5XWwNgmgM9)
-- [Wikidata](https://www.wikidata.org/wiki/Q10959632)
-- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/723)
-- [Josh Ellis](https://www.goteamjosh.com/blog/xiaowulai)
 
 ## Longtan Martial Arts Hall (龍潭武德殿) (Taoyuan City, Longtan District)
 - [Google Maps](https://maps.app.goo.gl/fRn7Zvx8WumkLgft7)
@@ -1524,6 +1539,12 @@
 - https://tmofa.tycg.gov.tw/en/visit/information/hengshan
 
 - categories: art museum
+
+## Xiaowulai Skywalk (小烏來天空步道) (Taoyuan City, Fuxing District)
+- [Google Maps](https://maps.app.goo.gl/2ags5Si5XWwNgmgM9)
+- [Wikidata](https://www.wikidata.org/wiki/Q10959632)
+- [Taoyuan: First Stop in Taiwan](https://travel.tycg.gov.tw/en/travel/attraction/723)
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiaowulai)
 
 ## Lalashan Giant Trees (拉拉山巨木區) (Taoyuan City, Fuxing District)
 - aka: Lalashan National Forest Recreation Area, 拉拉山
@@ -1622,7 +1643,7 @@
 - [Google Maps](https://maps.app.goo.gl/o57HSFrecq238FmT7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Leofoo_Village_Theme_Park)
 - [Wikidata](https://www.wikidata.org/wiki/Q3229621)
-- official: https://www.leofoovillage.com.tw/
+- [Official](https://www.leofoovillage.com.tw/)
 - https://www.themepark.net.tw/web_en/ParkDetail/5f3ed53336c84dcabdc3e07d580914b2
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=R40
 - [Roller Coaster Traveller](https://rollercoastertraveller.com/leofoo-village-theme-park/)
@@ -1634,7 +1655,7 @@
 - [Google Maps](https://maps.app.goo.gl/63xR7zXzXZ9s5iGt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Little_Ding-Dong_Science_Theme_Park)
 - [Wikidata](https://www.wikidata.org/wiki/Q10958042)
-- official: https://www.ding-dong.com.tw/
+- [Official](https://www.ding-dong.com.tw/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=2098
 
 - categories: amusement park, museum
@@ -1773,7 +1794,7 @@
 - [Google Maps](https://maps.app.goo.gl/rzL8BkyiZUVyXhDm7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lihpao_Land)
 - [Wikidata](https://www.wikidata.org/wiki/Q11175218)
-- official: https://www.lihpaoresort.com
+- [Official](https://www.lihpaoresort.com)
 - [Roller Coaster Traveller](https://rollercoastertraveller.com/discovery-world/)
 - [Fun Taiwan Kids](https://funtaiwankids.com/listing/lih-pao-land/)
 
@@ -1784,7 +1805,7 @@
 - [Google Maps](https://maps.app.goo.gl/d1pxXn3fLtXiH1L19)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Janfusun_Fancyworld)
 - [Wikidata](https://www.wikidata.org/wiki/Q3161941)
-- official: https://www.janfusun.com.tw/
+- [Official](https://www.janfusun.com.tw/)
 - [Roller Coaster Traveller](https://rollercoastertraveller.com/janfusun-fancyworld/)
 
 - categories: amusement park, swimming pool
@@ -1819,6 +1840,24 @@
 - [Atlas Obscura](https://www.atlasobscura.com/places/baguashan-skywalk)
 - [可大王愛旅行](https://myjourney.tw/baguashan-sky-trail/)
 - [Changhua Travel](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=486&chk=27881324-5d97-4180-bd2d-1e13aacf73b6)
+
+## Chimei Museum (奇美博物館) (Tainan City, Rende District)
+- [Google Maps](https://maps.app.goo.gl/CLkVWR64kcdiVCCTA)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8)
+- [Wikidata](https://www.wikidata.org/wiki/Q5095087)
+- [Official](https://www.chimeimuseum.org/)
+- [TaiwanObsessed](https://www.taiwanobsessed.com/chimei-museum-tainan/)
+
+- categories: museum
+
+## Taiwan Salt Museum (七股遊客中心-成功鹽體驗館) (Tainan City, Qigu District)
+- [Google Maps](https://maps.app.goo.gl/W7Yik8e4EDEdiCsi9)
+- [Wikidata](https://www.wikidata.org/wiki/Q13598825)
+- [Facebook](https://www.facebook.com/taiwansaltmuseum)
+- https://www.tnshio.com/pages/taiwansaltmuseum
+- [Instagram](https://www.instagram.com/experience_hall)
+
+- categories: museum
 
 ## E-DA Theme Park (義大遊樂世界) (Kaohsiung City, Dashu District)
 - [Google Maps](https://maps.app.goo.gl/4QYJKNAUbAW7yFZL6)
@@ -2540,7 +2579,7 @@
 ## 823 Memorial Park (八二三紀念公園) (New Taipei City, Zhonghe District)
 - aka: No. 4 Park, 四號公園
 - [Google Maps](https://maps.app.goo.gl/aid1gD6x3UDV4VXh6)
-- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E4%BA%8C%E4%B8%89%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%85%AB%E4%BA%8C%E4%B8%89%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92)
 - https://newtaipei.travel/en/attractions/detail/112292
 
 - categories: park, playground
@@ -2610,7 +2649,7 @@
 ## Kaohsiung 228 Peace Memorial Park (高雄市二二八和平公園) (Kaohsiung City, Yancheng District)
 - aka: 二二八和平公園, 二二八和平紀念公園
 - [Google Maps](https://maps.app.goo.gl/btXj51uZ5nk98ZMh8)
-- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84%E5%B8%82%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%92%8C%E5%B9%B3%E5%85%AC%E5%9C%92)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E5%B8%82%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%92%8C%E5%B9%B3%E5%85%AC%E5%9C%92)
 - [Wikidata](https://www.wikidata.org/wiki/Q117663088)
 
 - categories: city park

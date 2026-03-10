@@ -453,6 +453,14 @@
 - [Facebook](https://www.facebook.com/taipeicycle/)
 - type: trade show
 
+## ADULTOPIA (大人國) (Taoyuan City, Zhongli District)
+- 2026-03-27 to 2026-03-29
+- Location: Messe Taoyuan (桃園會展中心)
+- https://adultopiataiwan.com/
+- https://www.instagram.com/adultopia_taiwan/
+- [Facebook](https://www.facebook.com/profile.php?id=61583355324651)
+- Organizer: 璽璽文創工作室;白金之星國際娛樂股份有限公司
+
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
 - 2026-04-21 to 2026-05-17
 - Location: Taipei Performing Arts Center
