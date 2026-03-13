@@ -105,7 +105,7 @@
 - [Google Maps](https://maps.app.goo.gl/YQPytHU99CUtikhN9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E6%B3%B0%E7%B6%9C%E5%90%88%E9%86%AB%E9%99%A2)
 - [Instagram (crain67183)](https://www.instagram.com/reel/DP0ISyMCU47/), [Instagram (crain67183)](https://www.instagram.com/crain67183/p/DP5tuQWibwl/), [Threads (crain67183)](https://www.threads.com/@crain67183/post/DP0IuCWCTVS)
-- [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/pfbid02tPgR9GgAQr9h2z6pAN1Yu8kZsV6idXsiciFxYWbRsmCSEAG5mYGUTaKR72TbAtxxl), [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=PqRYrSKLBkQ)
+- [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/1069509411212284), [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=PqRYrSKLBkQ)
 - [TVBS News](https://news.tvbs.com.tw/life/879989)
 - https://www.ptt.cc/bbs/HsinChuang/M.1571766496.A.DA4.html
 
@@ -321,7 +321,7 @@
 - [Josh Ellis](https://www.goteamjosh.com/blog/sesame)
 - [Round Taiwan Round](https://www.rtaiwanr.com/zh-TW/taoyuan/taoyuan/sesame-hotel)
 - https://classic-blog.udn.com/hanklin1018/16809223
-- [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=pKu6DrDe0uA), [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/pfbid0PYhfsU9EJTuRnwuhwDotfZ3CBwb96t8m2jziK8BwmDAX7gSiWDhnhDgVA74hy5pnl)
+- [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=pKu6DrDe0uA), [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/1074024257427466)
 - http://www.renegadewritings.com/2018/11/11/abandoned-hotels-around-shimen-reservoir-part-1/
 - https://www.elledecor.com/life-culture/travel/g45549773/abandoned-hotels/
 - [Lost Places](https://lostplaces.tw/shimen-sesame-grand-hotel-%e8%8a%9d%e9%ba%bb%e5%a4%a7%e9%85%92%e5%ba%97/)
@@ -782,7 +782,7 @@
 - [SpectralCodex](https://spectralcodex.com/namaxia-xianshan-tunnel/)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2024/08/20230610.html)
 - https://rdwrertaiwan.blogspot.com/2013/01/21.html
-- https://www.facebook.com/explorer.kingspy/posts/pfbid0g5E9zwBQvzmFEn5Z2WVwbbpxeNqvxvEWiZRLkpzJy2aTsJBC3oyfkQui7su63BoZl
+- [Facebook Post](https://www.facebook.com/explorer.kingspy/posts/1083394503829675)
 
 ## Taitung Miramar Resort (美麗灣渡假村) (Taitung County, Beinan Township)
 - aka: Meiliwan Resort, Miramar Resort
@@ -894,7 +894,7 @@
 - aka: Rome Holiday Audiovisual Music City (羅馬假期視聽歌城)
 - address: 澎湖縣馬公市新生路18號, 澎湖縣馬公市光復里新生路１８號１至２樓
 - [Google Maps](https://maps.app.goo.gl/tWqFLB5F32KeJ2hU8)
-- [Facebook (老高漫談臉書專頁)](https://www.facebook.com/followpenghunews/posts/pfbid0MNu5qkvUFYkeLfszrqaEodhx3d6jySvDNXMBnFDn8mYf6ZiqUC6rusvAqiHuGXJCl)
+- [Facebook (老高漫談臉書專頁)](https://www.facebook.com/followpenghunews/posts/1213302057310089)
 - https://www.mirrormedia.mg/external/ebc_401380
 - https://penghudaily.blogspot.com/2024/12/ktv.html
 - [自由時報 Liberty Times](https://news.ltn.com.tw/news/Penghu/breakingnews/4895200)
@@ -1007,7 +1007,7 @@
 - [YouTube (Taiwan Critical Time)](https://www.youtube.com/watch?v=2ZX8rUmkoik)
 - [Mirror Media](https://www.mirrormedia.mg/story/20240916pol002)
 - [Wikipedia (Chinese, Hotel fire)](https://zh.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E5%A4%A7%E9%A3%AF%E5%BA%97%E5%A4%A7%E7%81%AB)
-- [Facebook (臺灣戲劇取景地點 Taiwan Drama Location)](https://www.facebook.com/twdramalocation01/posts/pfbid0MUM9fn2aqjbtJqs21b91MZzHpRA67B5zmHKVeSNL7mQ1rvxJwxSTCCi1mZrVCVrCl)
+- [Facebook (臺灣戲劇取景地點 Taiwan Drama Location)](https://www.facebook.com/twdramalocation01/posts/749845564780987)
 - [Blogspot (Taiwan Drama Location)](https://twdramaloc.blogspot.com/2025/10/104JinxinBuilding.html)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
@@ -1037,7 +1037,7 @@
 - [Google Maps](https://maps.app.goo.gl/9GpsEx1s5qXufPhb7)
 - [Wikidata](https://www.wikidata.org/wiki/Q136969948)
 - [Pixnet (genie's Blog)](https://snowbunny.pixnet.net/blog/post/42053194)
-- [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/pfbid028CdkC9krGDbRuuKBdcfxhgsP1aiaPXtqVzreyYdami2WK5M5qtkvHFz5xgbjox57l)
+- [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/1865841960260755)
 - [YouTube (aiden fu)](https://www.youtube.com/watch?v=3BZHwA5HkHg)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
 
