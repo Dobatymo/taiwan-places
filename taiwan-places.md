@@ -1009,6 +1009,21 @@
 - categories: museum
 - public transport: great
 
+## National Railway Museum (國家鐵道博物館) (Taipei City, Xinyi District)
+- aka: Taipei Railway Workshop (臺北機廠), Preparatory Office of National Railway Museum
+- [Google Maps](https://maps.app.goo.gl/V8uGjiWJuqVSHM226)
+- [Official (Chinese)](https://www.nrm.gov.tw/)
+- [Official (English)](https://www.nrm.gov.tw/en/)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Railway_Workshop)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AE%B6%E9%90%B5%E9%81%93%E5%8D%9A%E7%89%A9%E9%A4%A8)
+- [Wikidata](https://www.wikidata.org/wiki/Q97167858)
+- https://www.moc.gov.tw/en/News_Content2.aspx?n=509&s=18497
+- [Josh Ellis](https://www.goteamjosh.com/blog/tprail)
+- https://catherinelee234.com/2025/09/16/taiwans-new-national-railway-museum-%E5%9C%8B%E5%AE%B6%E9%90%B5%E9%81%93%E5%8D%9A%E7%89%A9%E9%A4%A8-%F0%9F%9A%82%F0%9F%9A%83%F0%9F%9A%83%F0%9F%9A%83%F0%9F%9A%83%F0%9F%9A%86must-visit/
+- https://www.taiwan-panorama.com/en/Articles/Details?Guid=2322ab2b-614b-4772-be33-db823ad7b9be&CatId=9&postname=A%20%22Living%22%20Museum%20of%20Trains-The%20Transformation%20of%20an%20Industrial%20Relic
+
+- categories: museum
+
 ## Hexing Coal Mine (和興炭坑) (Taipei City, Xinyi District)
 - [Google Maps](https://maps.app.goo.gl/eejcEn5cLXD7jTjW7)
 - [Wikidata](https://www.wikidata.org/wiki/Q136929879)
