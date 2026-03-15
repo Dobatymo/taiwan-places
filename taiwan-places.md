@@ -2025,7 +2025,7 @@
 
 - categories: museum
 
-## Qiaotou Sugar Factory / Sugar Industry Museum (橋頭糖廠 / 糖業博物館) (Kaohsiung City, Qiaotou District)
+## Qiaotou Sugar Factory | Sugar Industry Museum (橋頭糖廠 | 糖業博物館) (Kaohsiung City, Qiaotou District)
 - aka: Ciaotou Sugar Refinery
 - [Google Maps](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
 - https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html

@@ -597,7 +597,7 @@
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/01/120240707.html)
 
 ## Sun Yield Motel (SUN YIELD汽車旅館) (Yunlin County, Gukeng Township)
-- [Google Maps](https://maps.app.goo.gl/RHfvhMUJYwxSrN2f8)
+- [Google Maps](https://maps.app.goo.gl/ChjK1Q8NbvMAPbMX6)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/02/120240908-sun-yield.html)
 - [SpectralCodex](https://spectralcodex.com/gukeng-caoling-sun-yield-motel/)
 
@@ -755,7 +755,7 @@
 
 - recommended to go in winter when snakes are less active
 
-## Fengguijian Tunnel(鳳桂尖坑道) (Kaohsiung City, Siaogang District)
+## Fengguijian Tunnel (鳳桂尖坑道) (Kaohsiung City, Siaogang District)
 - [Google Maps](https://maps.app.goo.gl/BFN6xfjSrJrqDuro9)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2025/10/20250329.html)
 - [Blogspot (雨林老爬)](https://panyulin.blogspot.com/2022/12/1111217.html)

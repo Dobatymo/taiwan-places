@@ -134,9 +134,11 @@
 - https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=131&control_type=page&MA_Id=4AC35837-F906-43F0-BD15-37C0CBFBB4C7
 - type: exhibition
 
-## 2025 Taiwan International Festival of Arts () (Taipei City, Zhongzheng District)
+## 2025 Taiwan International Festival of Arts (2025台灣國際藝術節) (Taipei City, Zhongzheng District)
+- aka: TIFA
 - 2025-02-21 to 2025-05-18
-- Location: National Theater & Concert Hall
+- Location: National Theater & Concert Hall (國家戲劇院)
+- [Official](https://npac-ntch.org/programs/series/tifa/2025)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081449
 
 ## 2025 19th Taipei Photography Awards (2025第十九屆台北攝影獎) (Taipei City, Zhongzheng District)
@@ -380,6 +382,23 @@
 - style: sculptures, paintings
 - Artists: Kappao (갑빠오), Clasutta
 
+## ONE PIECE EMOTION (航海王動畫25週年紀念特展) (Taipei City, Shilin District)
+- 2026-01-10 to 2026-04-06
+- Location: National Taiwan Science Education Center, 7th Floor
+- [Official](https://www.mediasphere.com.tw/exhibitions/117)
+- [Facebook](https://www.facebook.com/opem25/)
+- [Instagram](https://www.instagram.com/opem25_taipei)
+
+## Dinosaurs Resurrected: Guandu Adventure Park (恐龍大復活 關渡探險樂園) (Taipei City, Beitou District)
+- 2026-01-17 to 2026-02-21
+- Location: Guandu Wharf Container Market (關渡碼頭貨櫃市集)
+- Organizer: Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
+- [Official](https://www.mediasphere.com.tw/exhibitions/119)
+- [Instagram](https://www.instagram.com/dinosaurscometolife)
+- [Facebook](https://www.facebook.com/dinosaurscometolife/)
+- https://dina.tw/jurassic-world/
+- https://www.klook.com/activity/188369-dinosaur-resurrection-guandu-adventure-park/
+
 ## Echoes of the Shophouses: Stories of Dadaocheng () (Taipei City, Datong District)
 - 2026-01-17 to 2026-03-29
 - Location: Sin Hong Choon Tea Museum
@@ -451,6 +470,13 @@
 - 2026-02-25 to 2026-03-15
 - Location: Taipei Expo Park Area, Ximen Area
 - https://2026lanternfestival.travel.taipei/en/index
+
+## 2026 Taiwan Lantern Festival in Chiayi (2026台灣燈會在嘉義) (Chiayi County, Taibao City)
+- 2026-03-03 to 2026-03-15
+- Location: 嘉義縣政府前廣場
+- [Official](https://2026taiwanlanternfestival.org/)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081739
+- https://taiwanderers.com/taiwan-lantern-festival-guide-photos/
 
 ## Minae KAWADA: Dreaming Planet (《夢幻星空》河田 美奈枝 攝影個展) (Taipei City, Da'an District)
 - 2026-03-06 to 2026-03-22
@@ -524,6 +550,12 @@
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A6%8B%E9%8F%A1%E9%9D%9E%E9%8F%A1)
 - type: exhibition
 
+## Hsu Yen-ling ✕ Lee Pin-yao: The Fairy Trio (徐堰鈴 ✕ 李屏瑤《仙女三重奏》) (Taipei City, Zhongzheng District)
+- 2026-03-13 to 2026-03-15
+- Location: National Theater & Concert Hall (國家戲劇院)
+- [Official](https://npac-ntch.org/programs/27584-2026TIFA%20%E5%BE%90%E5%A0%B0%E9%88%B4%20%E2%9C%95%20%E6%9D%8E%E5%B1%8F%E7%91%A4%E3%80%8A%E4%BB%99%E5%A5%B3%E4%B8%89%E9%87%8D%E5%A5%8F%E3%80%8B)
+- type: theatre
+
 ## Keelung Braised Pork Rice Festival 2026 (2026基隆滷肉飯節) (Keelung City)
 - 2026-03-13 to 2026-04-26
 - Location: Keelung City
@@ -565,12 +597,32 @@
 - [Official (Chinese)](https://www.tkgplus.com/exhibitions/147-aerosolic-forms-enrico-isamu-oyama-solo-exhibiition/)
 - type: exhibition
 
+## 2026 Ten Line Annual Musical Performance (2026天籟之音年度發表會) (Taipei City, Zhongzheng District)
+- 2026-03-15 to 2026-03-22
+- Location: National Taiwan Arts Education Center, Nanhai Theater
+- [Official (English)](https://www.arte.gov.tw/eng/pro1_perf_now.asp?KeyID=4535)
+- [Official (Chinese)](https://www.arte.gov.tw/pro1_perf_now.asp?KeyID=4535)
+- type: concert
+
+## The 2026 Guo Guang Theatre: Eternal．Vernal Equinox (國光劇團2026《永恆時尚：春分》演出) (Taipei City, Shilin District)
+- 2026-03-20 to 2026-03-22
+- Location: Taiwan Traditional Theatre Center (臺灣戲曲中心)
+- Organizer: National Center for Traditional Arts
+- [Official (English)](https://tttc.ncfta.gov.tw/home/en-us/activities/13566)
+- [Official (Chinese)](https://tttc.ncfta.gov.tw/home/zh-tw/activities/13565)
+
 ## The Grand Exhibition of New Taipei City Artists (2026新北市美術家聯展) (New Taipei City, Banqiao District)
 - 2026-03-20 to 2026-04-19
 - Location: New Taipei City Arts Center (新北市藝文中心)
 - https://www.artcenter.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G269627753462801602&sid=0Q061362238051045498
 - https://www.ceramics.ntpc.gov.tw/xmdoc/cont?xsmsid=0J148497613881029302&sid=0Q016526177163884959
 - [Facebook Post](https://www.facebook.com/e7summer/posts/1374476301378423)
+
+## 2025 Academic Year High School Basketball League Finals (114學年度高中籃球甲級聯賽總決賽) (Taipei City, Songshan District)
+- 2026-03-21 to 2026-03-22
+- Location: Taipei Arena
+- https://www.arena.taipei/News_Content.aspx?n=2E1489AFE4B1BEA1&sms=F9A95D3F5A5C2C68&s=81105B1581CC9C94
+- type: sports
 
 ## "Passing on the Artistic Legacy: Three Generations Together"—A Joint Exhibition of Three Artists (《藝脈相承‧三代同行》—三人聯展) (New Taipei City, Banqiao District)
 - 2026-03-21 to 2026-04-06
@@ -596,6 +648,28 @@
 - [Official](https://www.taipeicycle.com.tw/en/index.html)
 - [Facebook](https://www.facebook.com/taipeicycle/)
 - type: trade show
+
+## Taipei Fashion Week AW26 (AW26 臺北時裝週) (Taipei City, Xinyi District)
+- 2026-03-26 to 2026-03-29
+- Location: Songshan Cultural and Creative Park, Warehouse No. 2-5
+- [Official (Chinese)](https://tpefw.com/zh-TW)
+- [Official (English)](https://tpefw.com/en)
+- [Instagram](https://www.instagram.com/tpe.fashionweek/)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081741
+- type: fashion show
+
+## approaching theatre: Ghostopia (窮劇場《暗夜．腹語．鬼托邦》) (Taipei City, Shilin District)
+- 2026-03-27 to 2026-03-29
+- Location: Taipei Performing Arts Center, Blue Box
+- [Official (English)](https://tpac.org.taipei/en/program/1387)
+- [Official (Chinese)](https://tpac.org.taipei/program/1387)
+- type: theater
+
+## Taipei Chamber Singers: Forty-four Fortunes of Formosa (台北室內合唱團《島嶼上沒有四十四隻石獅子》) (Taipei City, Zhongzheng District)
+- 2026-03-27 to 2026-03-29
+- Location: National Theater & Concert Hall (國家戲劇院)
+- [Official](https://npac-ntch.org/programs/27611-2026TIFA%20%E5%8F%B0%E5%8C%97%E5%AE%A4%E5%85%A7%E5%90%88%E5%94%B1%E5%9C%98%E3%80%8A%E5%B3%B6%E5%B6%BC%E4%B8%8A%E6%B2%92%E6%9C%89%E5%9B%9B%E5%8D%81%E5%9B%9B%E9%9A%BB%E7%9F%B3%E7%8D%85%E5%AD%90%E3%80%8B)
+- type: concert
 
 ## ADULTOPIA (大人國) (Taoyuan City, Zhongli District)
 - 2026-03-27 to 2026-03-29
@@ -641,6 +715,13 @@
 - 2026-05-22 to 2026-06-04
 - Location: Spot Taipei Cinema (光點台北電影院), Spot Huashan Cinema (光點華山電影館)
 - https://literature.festival.taipei/film-festival.html
+
+## The Threepenny Opera (柏林劇團《三便士歌劇》) (Taipei City, Shilin District)
+- 2026-05-29 to 2026-05-31
+- Location: Taipei Performing Arts Center, Grand Theater
+- [Official (English)](https://tpac.org.taipei/en/program/1383)
+- [Official (Chinese)](https://tpac.org.taipei/program/1383)
+- type: musical
 
 ## COMPUTEX TAIPEI (台北國際電腦展) (Taipei City, Nangang District)
 - 2026-06-02 to 2026-06-05
