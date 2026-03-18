@@ -1,4 +1,4 @@
-# Rock climbing
+# Rock climbing and bouldering
 
 ## Rehai (熱海岩場) (Taipei City, Beitou District)
 - [Wikidata](https://www.wikidata.org/wiki/Q137047467)
@@ -6,12 +6,22 @@
 - https://taiwanrocks.net/rehai-%E7%86%B1%E6%B5%B7/
 - https://www.shawatw.com/en/activity/rehairockclimbing/
 
+- activities: lead climbing
+
 ## Long Dong (龍洞) (New Taipei City, Gongliao District)
 - https://www.shawatw.com/en/activity/longdongrockclimbing/
 - [the Crag](https://www.thecrag.com/en/climbing/taiwan/longdong)
 - https://www.taiwanese-secrets.com/rock-climbing-long-dong-taiwan/
 - http://climbstone.com/
 - [Wikidata](https://www.wikidata.org/wiki/Q11180562)
+
+- activities: lead climbing
+
+## Chunri bouldering (春日戶外抱石) (Pingtung County, Chunri Township)
+- [Google Maps](https://maps.app.goo.gl/p5GC3tvQsvRgy6nM7)
+- [Instagram](https://www.instagram.com/nanbu.rock/)
+
+- activities: bouldering
 
 # Beaches and Shores
 
@@ -307,11 +317,15 @@
 - activities: hiking, swimming
 
 ## New Moon Beach (新月沙灣) (Hsinchu County, Zhubei City)
-- aka: 新月沙灘
+- aka: Xinyue Beach, 新月沙灘
 - [Google Maps](https://maps.app.goo.gl/gvK4pNVewPQVpp5X9)
 - [Wikidata](https://www.wikidata.org/wiki/Q101430146)
 - https://alex13wei.pixnet.net/blog/post/119858076
 - https://travel.hsinchu.gov.tw/En/attraction/content/eR6yPpEWLwYJ
+
+## New Tile House Hakka Cultural District (新瓦屋客家文化保存區) (Hsinchu County, Zhubei City)
+- [Google Maps](https://maps.app.goo.gl/ZQ7b2HfPzVziQQGB7)
+- https://www.hchcc.gov.tw/Tw/ArtMuseum/Detail?filter=ebc0a96c-8c36-4a9c-a922-1cebed00f385&id=311848cc-0e44-4bb2-9c59-186ad9510d34
 
 ## Niushan Huting (牛山呼庭) (Hualien County, Shoufeng Township)
 - [Google Maps](https://maps.app.goo.gl/GyRshXewAcqvqVLy5)
@@ -1666,6 +1680,16 @@
 - categories: zoo, amusement park
 - easy to reach by public transport. direct bus from Taipei.
 
+## Hukou Old Street (湖口老街) (Hsinchu County, Hukou Township)
+- [Google Maps](https://maps.app.goo.gl/iciX6MgdyChx3br69)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97)
+- [Wikidata](https://www.wikidata.org/wiki/Q15905668)
+- http://www.hukou.gov.tw/content_edit.php?menu=2521&typeid=2641
+- https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00276
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=A12-00186
+
+- categories: old street
+
 ## Little Ding-Dong Science Theme Park (小叮噹科學主題樂園) (Hsinchu County, Xinfeng Township)
 - [Google Maps](https://maps.app.goo.gl/63xR7zXzXZ9s5iGt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Little_Ding-Dong_Science_Theme_Park)
@@ -2390,6 +2414,7 @@
 
 ## Green Grass Lake Night Market (青草湖夜市) (Hsinchu City, East District)
 - [Google Maps](https://maps.app.goo.gl/umsZxv6RFWqubgVE7)
+- [Wikidata](https://www.wikidata.org/wiki/Q138715748)
 - [Orphaned Nation](https://www.orphanednation.com/green-grass-lake-night-market-%e9%9d%92%e8%8d%89%e6%b9%96%e5%a4%9c%e5%b8%82/)
 - [Pixnet (鄭宏輝的美食生活)](https://ahuilife2020.pixnet.net/blog/post/54962014)
 - [Instagram](https://www.instagram.com/reel/DP1ZyZhEmei/)
@@ -2405,6 +2430,22 @@
 - [眼底城事 eyes on place](https://eyesonplace.net/2021/11/12/19055/)
 
 - categories: traditional indoor market
+
+## Zhubei Night Market (竹北夜市) (Hsinchu County, Zhubei City)
+- [Google Maps](https://maps.app.goo.gl/UesCVi3Bc1kfYpZG9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%AB%B9%E5%8C%97%E5%A4%9C%E5%B8%82)
+- [Wikidata](https://www.wikidata.org/wiki/Q15933328)
+- [Facebook](https://www.facebook.com/zhubeiyesih/)
+
+- categories: night market
+
+## Zhudong Night Market (竹東觀光夜市) (Hsinchu County, Zhudong Township)
+- [Google Maps](https://maps.app.goo.gl/M75d8149sy5ztjBn8)
+- [Facebook](https://www.facebook.com/profile.php?id=61556914331068)
+- [Wikidata](https://www.wikidata.org/wiki/Q138715698)
+- https://zhudong.hsinchu.gov.tw/en/News_Content.aspx?n=2137&s=84801
+
+- categories: night market
 
 ## Liuhe Night Market (六合觀光夜市) (Kaohsiung City, Sinsing District)
 - [Google Maps](https://maps.app.goo.gl/ePvx68xccizmCC13A)

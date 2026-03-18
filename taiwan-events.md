@@ -162,6 +162,14 @@
 - [Facebook](https://www.facebook.com/TaipeiToyShow/)
 - type: trade show
 
+## The Discovery of Rhinoceroses in Taiwan (臺灣有犀 特展) (Taipei City, Zhongzheng District)
+- 2025-06-17 to 2026-05-31
+- Location: National Taiwan Museum (國立臺灣博物館)
+- Organizer: National Taiwan Museum (國立臺灣博物館)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50111)
+- [Culture Express](https://cultureexpress.taipei/English/Event/E000003?ID=ac4ec0b3-93cb-46ea-bfb7-32b82bca677e&PageIndex=3&PageType=1)
+- type: exhibition
+
 ## Vanités Modernes (虛空之境：當代攝影中的領土與都市凝視) (Taipei City, Zhongzheng District)
 - 2025-06-24 to 2025-11-23
 - Location: National Center of Photography and Images (國家攝影文化中心)
@@ -371,16 +379,28 @@
 - Location: National Taiwan Science Education Center, 7th Floor East Exhibition Hall
 - [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/118)
 - https://www.twdreamlife.com/frieren-beyond-journeys-end-special-exhibition/
-- https://www.facebook.com/frierentp25
-- https://www.klook.com/activity/184474-frieren/
+- [Facebook](https://www.facebook.com/frierentp25)
+- [klook](https://www.klook.com/activity/184474-frieren/)
+- https://www.momokids.com.tw/activity-view.php?infoid=343&qpmid=0&page=3&pgname=&lmenuid=3&smenuid=0&tmenuid=0
+
+## Dragon Ball: Heroes Rise (七龍珠 英雄崛起) (Taipei City, Zhongzheng District)
+- 2026-01-08 to 2026-04-04
+- Location: Huashan 1914 Creative Park, Red Brick Courtyard (華山紅磚六合院)
+- Organizers: 瀛海文化有限公司, INCUBASE Studio Ltd
+- Co-Organizer: 天順上創 Sky Express Creations Ltd
+- [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25120517035086574)
+- https://www.incubasestudio.com/dragon-ball-heroes-rise-asia-tour/
+- [klook](https://www.klook.com/activity/182506-dragonball-heroes-rise/)
+- [Instagram](https://www.instagram.com/dragonball.heroesrise.taipei/)
+- [Facebook](https://www.facebook.com/profile.php?id=61581703277366)
 
 ## Little Theatre: KAPPAO, CLASUTTA (日常小劇場：卡帕奧, 克拉蘇塔) (Taipei City, Neihu District)
 - 2026-01-10 to 2026-03-04
 - Location: Whitestone Gallery (白石畫廊)
 - [Official](https://www.whitestone-gallery.com/blogs/gallery-exhibitions/tw-kappao-clasutta-012026)
-- type: exhibition
 - style: sculptures, paintings
 - Artists: Kappao (갑빠오), Clasutta
+- type: exhibition
 
 ## ONE PIECE EMOTION (航海王動畫25週年紀念特展) (Taipei City, Shilin District)
 - 2026-01-10 to 2026-04-06
@@ -388,22 +408,32 @@
 - [Official](https://www.mediasphere.com.tw/exhibitions/117)
 - [Facebook](https://www.facebook.com/opem25/)
 - [Instagram](https://www.instagram.com/opem25_taipei)
-
-## Dinosaurs Resurrected: Guandu Adventure Park (恐龍大復活 關渡探險樂園) (Taipei City, Beitou District)
-- 2026-01-17 to 2026-02-21
-- Location: Guandu Wharf Container Market (關渡碼頭貨櫃市集)
-- Organizer: Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
-- [Official](https://www.mediasphere.com.tw/exhibitions/119)
-- [Instagram](https://www.instagram.com/dinosaurscometolife)
-- [Facebook](https://www.facebook.com/dinosaurscometolife/)
-- https://dina.tw/jurassic-world/
-- https://www.klook.com/activity/188369-dinosaur-resurrection-guandu-adventure-park/
+- https://www.momokids.com.tw/activity-view.php?infoid=346&qpmid=0&page=3&pgname=&lmenuid=3&smenuid=0&tmenuid=0
 
 ## Echoes of the Shophouses: Stories of Dadaocheng () (Taipei City, Datong District)
 - 2026-01-17 to 2026-03-29
 - Location: Sin Hong Choon Tea Museum
 - [Culture Express](https://cultureexpress.taipei/English/Event/E000003?ID=0ce90a3b-753f-4c71-bf31-5028c139597e&PageIndex=2&PageType=1)
 - type: museum
+
+## Mika Ninagawa Exhibition with EiM: Light of the Other Shore, Shadow of This Shore (蜷川實花展with EiM：彼岸之光，此岸之影) (Taipei City, Zhongzheng District)
+- 2026-01-17 to 2026-04-19
+- Location: Huashan 1914 Creative Park
+- [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25121018071945425)
+- [Culture Express](https://cultureexpress.taipei/English/Event/E000003?ID=332077a0-de35-4f5f-9ba9-2ee9edd8d7c3&PageIndex=1&PageType=1)
+- [klook](https://www.klook.com/activity/181678-mika-ninagawa-with-eim-lights-of-the-beyond-shadows-of-this-world/)
+- type: exhibition
+
+## Dinosaurs Resurrected: Guandu Adventure Park (恐龍大復活 關渡探險樂園) (Taipei City, Beitou District)
+- 2026-01-17 to 2027-02-21
+- Location: Guandu Wharf Container Market (關渡碼頭貨櫃市集)
+- Organizer: Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
+- [Official](https://www.mediasphere.com.tw/exhibitions/119)
+- [Instagram](https://www.instagram.com/dinosaurscometolife)
+- [Facebook](https://www.facebook.com/dinosaurscometolife/)
+- https://dina.tw/jurassic-world/
+- [klook](https://www.klook.com/activity/188369-dinosaur-resurrection-guandu-adventure-park/)
+- https://www.momokids.com.tw/activity-view.php?infoid=337&qpmid=0&page=2&pgname=&lmenuid=3&smenuid=0&tmenuid=0
 
 ## Taipei Game Show 2026 (台北國際電玩展2026) (Taipei City, Nangang District)
 - 2026-01-29 to 2026-02-01
@@ -589,7 +619,7 @@
 - [Official (Chinese)](https://blueriderart.com/tw/latestnews/forma-futura-2026/)
 - type: exhibition
 
-## Aerosolic Forms: Enrico Isamu Oyama Solo Exhibiition (於霧氣中懸浮的指引: 大山．恩利科義薩姆 個展) (Taipei City, Neihu District)
+## Aerosolic Forms: Enrico Isamu Oyama Solo Exhibition (於霧氣中懸浮的指引: 大山．恩利科義薩姆 個展) (Taipei City, Neihu District)
 - 2026-03-14 to 2026-05-16
 - Location: TKG+
 - Artist: Enrico Isamu OYAMA (大山 エンリコ イサム)
