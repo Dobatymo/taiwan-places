@@ -5,8 +5,11 @@
 - [Google Maps](https://maps.app.goo.gl/rE4MySxUq6Tc3t4t6)
 - [SpectralCodex](https://spectralcodex.com/daan-zhima-building/)
 - [ETtoday (2021, Chinese)](https://house.ettoday.net/news/2148263)
+- https://tw.news.yahoo.com/%E5%85%A8%E6%96%87-%E8%8A%9D%E9%BA%BB%E9%85%92%E5%BA%97%E7%99%BE%E5%84%84%E9%83%BD%E6%9B%B4%E6%A1%88%E7%A0%B4%E5%B1%80-%E6%9D%8E%E5%A9%89%E9%88%BA%E7%88%B6%E7%8B%80%E5%91%8A%E5%90%89%E7%BE%8E%E5%BB%BA%E8%A8%AD-215859273.html
+- https://udn.com/news/story/120910/8956764
 
 - 2025: there seems to be construction
+- 2026: no construction, accessible
 
 ## Zhongxiao Market in Wanxiang Building (忠孝市場 in 萬象大樓) (Taipei City, Da'an District)
 - [Google Maps](https://maps.app.goo.gl/ucSrxfyJmESbjnAbA)
@@ -228,6 +231,7 @@
 - [Flickr (csdido)](https://www.flickr.com/photos/csdido/albums/72157665582211220/)
 - [SpectralCodex](https://spectralcodex.com/sanzhi-beihai-resort-center/)
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.805711559481587)
+- [YouTube (Corey Wong)](https://www.youtube.com/watch?v=F2T4RwK7eSU)
 
 ## Haiwan Xincheng (海灣新城) (New Taipei City, Shimen District)
 - [Google Maps](https://maps.app.goo.gl/qaX9HxGVvoTgBJ9XA)

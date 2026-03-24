@@ -374,6 +374,13 @@
 - https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X00895NY
 - type: art exhibition
 
+## Eternal Picasso: Art, Muses, and Companions (「永恆畢卡索」 光影藝術展：藝術、繆思與知己) (Taipei City, Zhongzheng District)
+- 2026-01-01 to 2026-04-06
+- Location: Chiang Kai-shek Memorial Hall, Exhibition Hall 1
+- [Official (Chinese)](https://www.firenzecx.com/eternal_picasso/)
+- https://www.opentix.life/event/1979028205481283585
+- https://www.klook.com/activity/181064-picasso-exhibition/
+
 ## Frieren: Beyond Journey's End Special Exhibition (葬送的芙莉蓮特展) (Taipei City, Shilin District)
 - 2026-01-03 to 2026-04-06
 - Location: National Taiwan Science Education Center, 7th Floor East Exhibition Hall
@@ -388,8 +395,8 @@
 - Location: Huashan 1914 Creative Park, Red Brick Courtyard (華山紅磚六合院)
 - Organizers: 瀛海文化有限公司, INCUBASE Studio Ltd
 - Co-Organizer: 天順上創 Sky Express Creations Ltd
-- [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25120517035086574)
-- https://www.incubasestudio.com/dragon-ball-heroes-rise-asia-tour/
+- [Official (Chinese)](https://www.incubasestudio.com/dragon-ball-heroes-rise-asia-tour/)
+- https://www.huashan1914.com/w/huashan1914/exhibition_25120517035086574
 - [klook](https://www.klook.com/activity/182506-dragonball-heroes-rise/)
 - [Instagram](https://www.instagram.com/dragonball.heroesrise.taipei/)
 - [Facebook](https://www.facebook.com/profile.php?id=61581703277366)
@@ -410,6 +417,14 @@
 - [Instagram](https://www.instagram.com/opem25_taipei)
 - https://www.momokids.com.tw/activity-view.php?infoid=346&qpmid=0&page=3&pgname=&lmenuid=3&smenuid=0&tmenuid=0
 
+## World Ancient Civilizations Immersive Experience Exhibition (世界古文明 沉浸體驗展) (Taipei City, Zhongzheng District)
+- 2026-01-15 to 2026-04-19
+- Location: Huashan 1914 Creative Park, Building East 2AB
+- [Official (Chinese)](https://www.firenzecx.com/exhibitions-ancient-world-immersive/)
+- https://www.huashan1914.com/w/huashan1914/exhibition_25122618002428715
+- [klook](https://www.klook.com/activity/187273-world-ancient-civilization-immersive-experience-exhibition/)
+- https://www.opentix.life/event/1995405399010816001
+
 ## Echoes of the Shophouses: Stories of Dadaocheng () (Taipei City, Datong District)
 - 2026-01-17 to 2026-03-29
 - Location: Sin Hong Choon Tea Museum
@@ -422,6 +437,7 @@
 - [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25121018071945425)
 - [Culture Express](https://cultureexpress.taipei/English/Event/E000003?ID=332077a0-de35-4f5f-9ba9-2ee9edd8d7c3&PageIndex=1&PageType=1)
 - [klook](https://www.klook.com/activity/181678-mika-ninagawa-with-eim-lights-of-the-beyond-shadows-of-this-world/)
+- https://www.taiwannews.com.tw/news/6285057
 - type: exhibition
 
 ## Dinosaurs Resurrected: Guandu Adventure Park (恐龍大復活 關渡探險樂園) (Taipei City, Beitou District)
@@ -434,6 +450,12 @@
 - https://dina.tw/jurassic-world/
 - [klook](https://www.klook.com/activity/188369-dinosaur-resurrection-guandu-adventure-park/)
 - https://www.momokids.com.tw/activity-view.php?infoid=337&qpmid=0&page=2&pgname=&lmenuid=3&smenuid=0&tmenuid=0
+
+## Enduring Fragrance: The Eastern Gouache Painting (Nihonga) Collection Exhibition of CHEN Shir-Juh (雋永的芬芳　陳石柱膠彩典藏展) (Hsinchu City, North District)
+- 2026-01-28 to 2026-05-08
+- Location: SOKA Art Museum, Hsinchu Branch (台灣創價學會 創價美術館 新竹館)
+- Artist: CHEN Shir-Juh
+- https://www.sokaculture.org.tw/exhibition/%E9%9B%8B%E6%B0%B8%E7%9A%84%E8%8A%AC%E8%8A%B3-%E9%99%B3%E7%9F%B3%E6%9F%B1%E8%86%A0%E5%BD%A9%E5%85%B8%E8%97%8F%E5%B1%95
 
 ## Taipei Game Show 2026 (台北國際電玩展2026) (Taipei City, Nangang District)
 - 2026-01-29 to 2026-02-01
@@ -489,6 +511,12 @@
 - [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/Macho*Mystic*Meltdown;*Chapter*2:*Monster;*She*Wrote%60)
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%99%BD%E5%89%9B%E7%A5%9E%E7%A7%98%E5%B4%A9%E8%A7%A3%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E5%A5%B9%E7%AD%86%E4%B8%8B%E7%9A%84%E6%80%AA%E7%89%A9%E3%80%82)
 - type: exhibition
+
+## 2026 Hsinchu New Year Lantern Festival (2026新竹過好年－Rody跳跳迎新年) (Hsinchu City, East District)
+- 2026-02-14 to 2026-03-08
+- Location: East Gate (東門城), Moat (護城河)
+- https://www.hccg.gov.tw/enhccg/app/data/view?module=municipalnews&id=17&serno=202602130015
+- https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=612591a7-263f-4338-bd3d-5cfe1710e231
 
 ## Disney on Ice: Find Your Hero (2025 冰上迪士尼：Find Your Hero) (Taipei City, Songshan District)
 - 2026-02-19 to 2026-02-22
@@ -580,11 +608,30 @@
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A6%8B%E9%8F%A1%E9%9D%9E%E9%8F%A1)
 - type: exhibition
 
+## A Conversation Between Ashes and a Pebble: Jess LAU Ching-wa's Solo Exhibition (灰燼與一顆卵石的對談：劉清華 個展) (Hsinchu City, East District)
+- 2026-03-07 to 2026-05-30
+- Location: UP Gallery (絕版影像館)
+- Artist: Jess LAU Ching-Wa
+- [Official (English)](https://uniquephoto.com.tw/en/portfolio-item/a-conversation-between-ashes-and-a-pebble-jess-lau-ching-was-solo-exhibition/)
+- [Official (Chinese)](https://uniquephoto.com.tw/portfolio-item/%e7%81%b0%e7%87%bc%e8%88%87%e4%b8%80%e9%a1%86%e5%8d%b5%e7%9f%b3%e7%9a%84%e5%b0%8d%e8%ab%87%ef%bc%9a%e5%8a%89%e6%b8%85%e8%8f%af-%e5%80%8b%e5%b1%95/)
+- type: exhibition
+
 ## Hsu Yen-ling ✕ Lee Pin-yao: The Fairy Trio (徐堰鈴 ✕ 李屏瑤《仙女三重奏》) (Taipei City, Zhongzheng District)
 - 2026-03-13 to 2026-03-15
 - Location: National Theater & Concert Hall (國家戲劇院)
 - [Official](https://npac-ntch.org/programs/27584-2026TIFA%20%E5%BE%90%E5%A0%B0%E9%88%B4%20%E2%9C%95%20%E6%9D%8E%E5%B1%8F%E7%91%A4%E3%80%8A%E4%BB%99%E5%A5%B3%E4%B8%89%E9%87%8D%E5%A5%8F%E3%80%8B)
 - type: theatre
+
+## SOMEWHERE, SOME FRIENDS by KABEKUI (KABEKUI 個人展覽) (Taipei City, Da'an District)
+- 2026-03-13 to 2026-03-22
+- Location: Whimsy Works
+- Artist: KABEKUI
+- https://www.instagram.com/p/DVpg6K1k5qG/
+- https://www.instagram.com/p/DWLVtnelEmy/
+- https://www.facebook.com/whimsyworksgallery/posts/1233407055629977
+- https://kismetw.com/kabekui-somewhere-some-friends-exhibition/
+- https://500times.udn.com/wtimes/story/12672/9385278
+- type: exhibition
 
 ## Keelung Braised Pork Rice Festival 2026 (2026基隆滷肉飯節) (Keelung City)
 - 2026-03-13 to 2026-04-26
@@ -596,10 +643,18 @@
 ## WU Shuang: A Nomad's Canvas (吳霜：旅人的畫布) (Taipei City, Neihu District)
 - 2026-03-14 to 2026-04-18
 - Location: Whitestone Gallery (白石畫廊)
-- Artist: WU Shuang
+- Artist: WU Shuang (吳霜)
 - [Official](https://www.whitestone-gallery.com/blogs/gallery-exhibitions/tw-wu-shuang-032026)
 - type: exhibition
 - style: abstract expressionism, acrylic painting
+
+## LOW VOICE OUT LOUD (朱晨維個展《低聲外放》) (Taipei City, Da'an District)
+- 2026-03-14 to 2026-04-19
+- Location: 333 GALLERY
+- Artist: ZHU Chen-Wei (朱晨維)
+- [Facebook](https://www.facebook.com/333gallery/posts/1442817327523901)
+- [Instagram](https://www.instagram.com/p/DVvd1ZzkmGu/)
+- type: exhibition
 
 ## Woven Perception—Aya KAWATO Solo Exhibition (織覺——川人綾個展) (Taipei City, Zhongshan District)
 - 2026-03-14 to 2026-04-26
@@ -669,6 +724,12 @@
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19553)
 - Co-curated by Nobuo Takamori and Jut Art Museum team
 - type: exhibition
+
+## TAIWAN × KOREA CROSSOVER LIVE () (New Taipei City, Banqiao District)
+- 2026-03-25
+- Location: National Taiwan University of Arts, Fuzhou Performance Hall (國立臺灣藝術大學 福舟表演廳)
+- [Instagram](https://www.instagram.com/p/DV0gh8RkU5w/)
+- https://www.facebook.com/stephanie.hs.chen/posts/1964306521145389
 
 ## Taipei Cycle 2026 (台北國際自行車展) (Taipei City, Nangang District)
 - 2026-03-25 to 2026-03-28
@@ -740,6 +801,13 @@
 - Location: PLAYground南村劇場
 - https://www.playgrounddrama.com.tw/drama-info-1/2026ssycnoodles
 - type: musical
+
+## HMWO Annual Concert <The Lord of the Rings> (新竹市立管樂團年度音樂會《魔戒-交響與配樂》) (Hsinchu City, North District)
+- 2026-05-09
+- Location: Hsinchu Performing Arts Center (新竹市文化局演藝廳音樂廳)
+- Organizer: HsinChu Municipal Wind Orchestra (新竹市立管樂團)
+- https://www.opentix.life/event/2028398749182115841
+- https://eventgo.widm.csie.ncu.edu.tw/event/e6a51339-fffa-42c3-a457-bbb1289b9bc8
 
 ## Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
 - 2026-05-22 to 2026-06-04

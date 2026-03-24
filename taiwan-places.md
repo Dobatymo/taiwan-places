@@ -18,7 +18,7 @@
 - activities: lead climbing
 
 ## Chunri bouldering (春日戶外抱石) (Pingtung County, Chunri Township)
-- [Google Maps](https://maps.app.goo.gl/p5GC3tvQsvRgy6nM7)
+- [Google Maps](https://maps.app.goo.gl/qGdw9QJK318T8BwBA)
 - [Instagram](https://www.instagram.com/nanbu.rock/)
 
 - activities: bouldering
