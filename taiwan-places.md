@@ -1341,6 +1341,16 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002091&id=4028
 - [Nickkembel Travels](https://www.nickkembel.com/tamsui-taiwan-fishermens-wharf-old-street/)
 
+## Liuli Glass Studio (琉璃工房) (New Taipei City, Tamsui District)
+- aka: 淡金工作室
+- [Google Maps](https://maps.app.goo.gl/4cYGBaexf3WcNZqY8)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Liuli_Gongfang)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%90%89%E7%92%83%E5%B7%A5%E6%88%BF)
+- [SpectralCodex](https://spectralcodex.com/tamsui-liuli-workshop/)
+- [Instagram](https://www.instagram.com/liuligongfang/)
+
+- categories: brutalism
+
 ## Shanjia railway station (山佳車站) (New Taipei City, Shulin District)
 - [Google Maps](https://maps.app.goo.gl/9fuRZArFas6BXLjR8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanjia_railway_station)
@@ -2417,7 +2427,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q138715748)
 - [Orphaned Nation](https://www.orphanednation.com/green-grass-lake-night-market-%e9%9d%92%e8%8d%89%e6%b9%96%e5%a4%9c%e5%b8%82/)
 - [Pixnet (鄭宏輝的美食生活)](https://ahuilife2020.pixnet.net/blog/post/54962014)
-- [Instagram](https://www.instagram.com/reel/DP1ZyZhEmei/)
+- [Instagram (anne_z928)](https://www.instagram.com/reel/DP1ZyZhEmei/)
 
 - categories: night market
 
@@ -2721,7 +2731,7 @@
 - [Google Maps](https://maps.app.goo.gl/KfqaXCigfK7zqwNy5)
 - [HopOut](https://hopout.com.tw/location/pingtung-lion-king-waterfall)
 - https://hikingbook.net/trails/%E7%8D%85%E7%8E%8B%E7%80%91%E5%B8%83
-- https://www.instagram.com/reels/DOaI3KaE_Wr/
+- [Instagram (alex_a.ni__)](https://www.instagram.com/reels/DOaI3KaE_Wr/)
 
 - categories: waterfall, pool, swimming
 
