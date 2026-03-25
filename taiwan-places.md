@@ -1179,7 +1179,7 @@
 - https://www.travel.taipei/en/attraction/details/443
 - [A Toddler in Taipei](https://baxter222sarah.wixsite.com/mysite/single-post/2017/03/19/science-education-center)
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=591)
-- https://www.rtaiwanr.com/taipei/taipei-city/national-taiwan-science-education-center
+- [Round Taiwan Round](https://www.rtaiwanr.com/taipei/taipei-city/national-taiwan-science-education-center)
 
 - categories: museum
 
@@ -2080,8 +2080,7 @@
 - https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taiwan-sugar-museum)
 - https://filmkh.org/en/scene_detail?sc_sn=106
-- https://www.rtaiwanr.com/zh-TW/kaohsiung/kaohsiung-city/taiwan-sugar-museum
-- https://www.rtaiwanr.com/kaohsiung/kaohsiung-city/taiwan-sugar-museum
+- [Round Taiwan Round](https://www.rtaiwanr.com/kaohsiung/kaohsiung-city/taiwan-sugar-museum)
 - [Facebook](https://www.facebook.com/cctsr)
 
 - categories: museum, factory
@@ -2144,7 +2143,7 @@
 - [Google Maps](https://maps.app.goo.gl/8S2HyAap38k4R5NG9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Jiugong_Tunnel)
 - [Wikidata](https://www.wikidata.org/wiki/Q56600575)
-- https://www.rtaiwanr.com/kinmen/kinmen/jiugong-tunnels
+- [Round Taiwan Round](https://www.rtaiwanr.com/kinmen/kinmen/jiugong-tunnels)
 - https://kinmen.travel/en/travel/attraction/44
 - https://lieyu.kinmen.gov.tw/travel_en/cp.aspx?n=E9F14A5122D9323E
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/jiugong-tunnels)
@@ -2872,6 +2871,17 @@
 
 - categories: camping, hot spring
 
+## Wenshan Hot Spring (文山溫泉) (Hualien County, Xiulin Township)
+- aka: 文山野溪溫泉
+- [Google Maps](https://maps.app.goo.gl/di9H6FZ3M3HGhJsm7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%87%E5%B1%B1%E6%BA%AB%E6%B3%89)
+- [Round Taiwan Round](https://www.rtaiwanr.com/hualien/taroko-gorge/wenshan-hot-spring)
+- [Instagram (jerryunique)](https://www.instagram.com/p/CU2DrcghARJ/)
+- [Instagram (tangxboss)](https://www.instagram.com/reels/DTVJI9Lku8l/)
+- [HopOut](https://hopout.com.tw/location/hualien-wenshan-hot-spring)
+
+- categories: camping, hot spring
+
 ## Lisong Hot Springs (栗松溫泉) (Taitung County, Haiduan Township)
 - [Google Maps](https://maps.app.goo.gl/k28pJCS49YHQ6Wgw8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lisong_Hot_Spring)
@@ -3122,7 +3132,7 @@
 - https://www.travel.taipei/zh-tw/attraction/details/1541
 - [Nickkembel Travels](https://www.nickkembel.com/dadaocheng-dihua-street-walking-tour/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002090&id=418
-- https://www.rtaiwanr.com/taipei/taipei-city/dihua-street
+- [Round Taiwan Round](https://www.rtaiwanr.com/taipei/taipei-city/dihua-street)
 
 - categories: commercial area, old street
 

@@ -265,7 +265,7 @@
 - aka: Tongyi Tile Factory (同一陶業瓷磚工廠)
 - [Google Maps](https://maps.app.goo.gl/a8KLZcdbPBS8ttFd6)
 - [SpectralCodex](https://spectralcodex.com/sanzhi-tongyi-ceramics-factory/)
-- https://www.rtaiwanr.com/taipei/yangmingshan/tongyi-tile-factory
+- [Round Taiwan Round](https://www.rtaiwanr.com/taipei/yangmingshan/tongyi-tile-factory)
 
 ## Haiwan Xincheng (海灣新城) (New Taipei City, Shimen District)
 - [Google Maps](https://maps.app.goo.gl/qaX9HxGVvoTgBJ9XA)
@@ -363,7 +363,7 @@
 - [Google Maps](https://maps.app.goo.gl/YwMXFcxbtKin46qw8)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%9F%B3%E9%96%80%E8%8A%9D%E9%BA%BB%E5%A4%A7%E9%85%92%E5%BA%97)
 - [Josh Ellis](https://www.goteamjosh.com/blog/sesame)
-- [Round Taiwan Round](https://www.rtaiwanr.com/zh-TW/taoyuan/taoyuan/sesame-hotel)
+- [Round Taiwan Round](https://www.rtaiwanr.com/taoyuan/taoyuan/sesame-hotel)
 - [United Daily News Blog](https://classic-blog.udn.com/hanklin1018/16809223)
 - [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=pKu6DrDe0uA), [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/1074024257427466)
 - http://www.renegadewritings.com/2018/11/11/abandoned-hotels-around-shimen-reservoir-part-1/
