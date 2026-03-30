@@ -20,12 +20,13 @@
 ## Yuanshan Tunnel (圓山坑道) (Taipei City, Zhongshan District)
 - aka: former Taipei Children's Recreation Center, 圓山舊兒童樂園
 - aka: former Taipei Civil Defense Command Center (台北市民防指揮中心)
-- https://cwhung.blogspot.com/2014/03/blog-post_26.html
+- [飛行場の測候所](https://cwhung.blogspot.com/2014/03/blog-post_26.html)
 - [Open House Taipei](https://www.opentaipei.org/house.html?id=54)
 - [Reddit (r/taiwan)](https://www.reddit.com/r/taiwan/comments/1q34mv5/exploring_a_bunker_system_beneath_the_old/)
 - [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20140415000001)
-- https://www.nuitblanche.taipei/ohsir-guide/
-- https://www.instagram.com/p/DQUUx1dgel6/
+- [白晝之夜 Nuit Blanche](https://www.nuitblanche.taipei/ohsir-guide/)
+- [白晝之夜 Nuit Blanche](https://www.nuitblanche.taipei/%ef%bc%bb%e8%a1%8c%e5%89%8d%e9%a0%88%e7%9f%a5%ef%bc%bd%e3%80%8a%e5%a4%a2%e7%9a%84%e8%9f%b2%e6%b4%9e%e3%80%8b%e7%92%b0%e5%a2%83%e5%8a%87%e5%a0%b4/)
+- [Instagram (nuitblanchetaipei)](https://www.instagram.com/p/DQUUx1dgel6/)
 
 - categories: tunnel, bunker
 
@@ -58,13 +59,13 @@
 - [Flickr (Vincent Liu)](https://www.flickr.com/photos/brotherliu/sets/72157632209231879/)
 - [YouTube (丑時頻道)](https://www.youtube.com/watch?v=8e9Tm54an3U)
 - [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/1186808196959519)
-- https://www.instagram.com/reel/C5dXS2spG6X/
+- [Instagram (k.c_0123)](https://www.instagram.com/reel/C5dXS2spG6X/)
 
 ## Beitou Wenquan Road Hotel (北投溫泉路大飯店) (Taipei City, Beitou District)
 - [SpectralCodex](https://spectralcodex.com/beitou-wenquan-road-hotel/)
 - [Formosa>Ex](https://formosajmac.com/2023/04/28/beitou/)
 - [Flickr (csdido)](https://www.flickr.com/photos/csdido/albums/72157662219566893/)
-- https://www.instagram.com/reel/C5dXS2spG6X/
+- [Instagram (k.c_0123)](https://www.instagram.com/reel/C5dXS2spG6X/)
 - [YouTube (丑時頻道)](https://www.youtube.com/watch?v=PMYhlJ-9dIk)
 
 - this address is mentioned in some places, but it's a different place? 台北北投區溫泉路170號
@@ -78,7 +79,7 @@
 - [Flickr (Yahan ‧ Ryu)](https://www.flickr.com/photos/tmr0218/9597308738/in/dateposted/)
 - [YouTube (別拖!出門吧)](https://www.youtube.com/watch?v=xhGDHK0Jbv4)
 - [YouTube (別拖!出門吧)](https://www.youtube.com/watch?v=2a5Fwimv9vE)
-- https://funnews.tw/n/serv/art/efe64b3bc53042be8e386dd78573e469
+- [花花日報](https://funnews.tw/n/serv/art/efe64b3bc53042be8e386dd78573e469)
 
 ## Asia Pacific Resort / South China Hotel / Jiaotong Hotel (亞太溫泉生活館 / 華南大飯店 / 交通大飯店) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/x8v3QPg625tyNhWN9)
@@ -112,10 +113,10 @@
 - [SpectralCodex](https://spectralcodex.com/wenshan-guangming-theater/)
 - [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720325418571/)
 - https://www.28dayslater.co.uk/threads/various-sites-taiwan-april-2025.139911/
-- https://wenshan.org.tw/wss/index.php/%E6%96%87%E5%8F%B2/item/2044-%E6%96%87%E5%B1%B1%E5%8D%80%E6%9C%A8%E6%9F%B5-%E3%80%8C%E5%85%89%E6%98%8E%E6%88%B2%E9%99%A2%E3%80%8D%E4%B9%8B%E7%BE%8E%E9%BA%97%E8%88%87%E5%93%80%E6%84%81
-- https://www.fountain.org.tw/article/local-movie-theater
-- https://www.facebook.com/pages/%E6%9C%A8%E6%9F%B5%E5%85%89%E6%98%8E%E6%88%B2%E9%99%A2/140711575990680/
-- https://www.facebook.com/GuangMingXiYuan/
+- [Wenshan Community College 文山社區大學](https://wenshan.org.tw/wss/index.php/%E6%96%87%E5%8F%B2/item/2044-%E6%96%87%E5%B1%B1%E5%8D%80%E6%9C%A8%E6%9F%B5-%E3%80%8C%E5%85%89%E6%98%8E%E6%88%B2%E9%99%A2%E3%80%8D%E4%B9%8B%E7%BE%8E%E9%BA%97%E8%88%87%E5%93%80%E6%84%81)
+- [新活水 Fountain](https://www.fountain.org.tw/article/local-movie-theater)
+- [Facebook Page](https://www.facebook.com/pages/%E6%9C%A8%E6%9F%B5%E5%85%89%E6%98%8E%E6%88%B2%E9%99%A2/140711575990680/)
+- [Facebook](https://www.facebook.com/GuangMingXiYuan/)
 
 ## Green Mansion (汐止豪宅廢墟) (New Taipei City, Xizhi District)
 - aka: Liu Jiachang Mansion, 劉家昌別墅, 劉家昌豪宅
@@ -126,8 +127,8 @@
 - http://pireze.org/2013/location-scout-urban-exploration-of-taiwans-green-mansion/
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=8lvg2hMmaLU)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/1/6/abandoned-hotel-xizhi)
-- https://gpx2000.blogspot.com/2012/04/blog-post_30.html
-- https://www.ettoday.net/news/20191103/1571204.htm
+- [GPX2000](https://gpx2000.blogspot.com/2012/04/blog-post_30.html)
+- [ETtoday (2019, Chinese)](https://www.ettoday.net/news/20191103/1571204.htm)
 
 - 2015: almost completely demolished (according to Paul Kemp and "Tom Rook")
 - sold and demolished by 2019. It has since been rebuilt into a high-tech factory according to "SpectralCodex"
@@ -138,7 +139,7 @@
 - [Instagram (crain67183)](https://www.instagram.com/reel/DP0ISyMCU47/), [Instagram (crain67183)](https://www.instagram.com/crain67183/p/DP5tuQWibwl/), [Threads (crain67183)](https://www.threads.com/@crain67183/post/DP0IuCWCTVS)
 - [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/1069509411212284), [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=PqRYrSKLBkQ)
 - [TVBS News](https://news.tvbs.com.tw/life/879989)
-- https://www.ptt.cc/bbs/HsinChuang/M.1571766496.A.DA4.html
+- [PTT](https://www.ptt.cc/bbs/HsinChuang/M.1571766496.A.DA4.html)
 
 - old location: No. 157, Xintai Rd, Xinzhuang District, New Taipei City
 - current location: No. 176, Xinshu Rd, Xinzhuang District, New Taipei City
@@ -172,7 +173,7 @@
 - [Dribs & Drabs](https://www.dribs-drabs.com/%e5%8d%81%e4%b8%89%e5%b1%a4%e9%81%ba%e5%9d%80%e5%9b%9b%e5%80%8b%e6%9c%80%e4%bd%b3%e6%8b%8d%e6%94%9d%e9%bb%9e-%e6%b0%b4%e6%b9%b3%e6%b4%9e%e5%a4%9c%e6%99%9a%e6%9c%80%e9%96%83%e4%ba%ae%e7%9a%84%e4%b8%80/)
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.643952795657465)
 - [FoodBaby](https://foodbabytw.com/2019/07/16/thirteen-levels-abandoned-smelter/)
-- https://www.facebook.com/groups/urbeximage/permalink/2066156407507027/
+- [Facebook (Taiwan Urbex Image)](https://www.facebook.com/groups/urbeximage/permalink/2066156407507027/)
 
 - dangerous, guards, need to climb fences
 
@@ -189,7 +190,7 @@
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=RDMSDAZdRVE)
 - [Lost Places](https://lostplaces.tw/formosa-fun-coast/)
 - [SpectralCodex](https://spectralcodex.com/bali-formosa-fun-coast/)
-- https://home.gamer.com.tw/creationDetail.php?sn=4516571
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/creationDetail.php?sn=4516571)
 
 ## Bali Mediterranean Club (八里地中海俱樂部) (New Taipei City, Bali District)
 - [Google Maps (old entrance)](https://maps.app.goo.gl/ricruu4XX3xdFJUu9)
@@ -201,7 +202,7 @@
 - [Reddit (r/AbandonedPorn)](https://www.reddit.com/r/AbandonedPorn/comments/1c4g4li/a_13000_abandoned_health_club_in_taiwan_closed/)
 - [Dax Ward Photography](https://www.daxward.com/The-Health-Club-and-Resort)
 - [YouTube (Dax Ward Photography)](https://www.youtube.com/watch?v=26x8miaD4Ws)
-- [Instagram (crain67183)](https://www.instagram.com/p/DAQr37hBI9-/)
+- [Instagram (crain67183)](https://www.instagram.com/p/DAQr37hBI9-/), [Instagram (crain67183)](https://www.instagram.com/reel/DADNtomhvGf/), [Instagram (crain67183)](https://www.instagram.com/reel/DAArecpBsoe/)
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=taokgGQRXk8)
 - [Instagram (chaotic.hk.urbexer)](https://www.instagram.com/reel/C9FDcgzvfF0/)
 - [YouTube (Zarckaroo Vlogs)](https://www.youtube.com/watch?v=RmErX9AoyEc)
@@ -219,8 +220,8 @@
 - [SpectralCodex](https://spectralcodex.com/tucheng-nantianmu-forest-park/)
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.655367261182685)
 - [Juksy](https://www.juksy.com/article/122891)
-- https://forum.gamer.com.tw/C.php?bsn=60201&snA=16912
-- https://home.gamer.com.tw/creationDetail.php?sn=3268193
+- [巴哈姆特 (crain83756)](https://forum.gamer.com.tw/C.php?bsn=60201&snA=16912)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/creationDetail.php?sn=3268193)
 - [YouTube (Mr.希爾)](https://www.youtube.com/watch?v=1mzAZWvTQUU)
 
 ## Wanli UFO Village (萬里飛碟屋) (New Taipei City, Wanli District)
@@ -242,6 +243,7 @@
 - [Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/03/07/2003833010)
 - [Formosa>Ex](https://formosajmac.com/2023/04/18/wanli-ufo-village/))
 - [FoodBaby](https://foodbabytw.com/2018/10/15/abandoned-ufo-houses-sanzhi-pods-wanli-taipei/)
+- [廃墟検索地図](https://haikyo.info/s/14450.html)
 
 ## Pacific Green Bay (太平洋翡翠灣) (New Taipei City, Wanli District)
 - aka: Pacific Emerald Bay, 翡翠灣福華渡假飯店, 翡翠灣城堡(?)
@@ -353,7 +355,8 @@
 - [Instagram (crain67183)](https://www.instagram.com/p/DCTcSC8JxZG/)
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.655392841180127)
 - [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/post/353882330)
-- https://home.gamer.com.tw/creationDetail.php?sn=4695425
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/creationDetail.php?sn=4695425)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=5267226)
 - [Facebook (Steve Ronin)](https://www.facebook.com/reel/1359612039216264), [Facebook (Steve Ronin)](https://www.facebook.com/reel/1159670508925277)
 
 - categories: hotel
@@ -367,7 +370,7 @@
 - [United Daily News Blog](https://classic-blog.udn.com/hanklin1018/16809223)
 - [YouTube (Steve Ronin)](https://www.youtube.com/watch?v=pKu6DrDe0uA), [Facebook (Steve Ronin)](https://www.facebook.com/steveroninofficial/posts/1074024257427466)
 - http://www.renegadewritings.com/2018/11/11/abandoned-hotels-around-shimen-reservoir-part-1/
-- https://www.elledecor.com/life-culture/travel/g45549773/abandoned-hotels/
+- [ELLE Decor](https://www.elledecor.com/life-culture/travel/g45549773/abandoned-hotels/)
 - [Lost Places](https://lostplaces.tw/shimen-sesame-grand-hotel-%e8%8a%9d%e9%ba%bb%e5%a4%a7%e9%85%92%e5%ba%97/)
 
 - categories: hotel
@@ -375,7 +378,7 @@
 ## Lakeside Hotel (湖濱飯店) (Taoyuan City, Daxi District)
 - aka: Amuping Lakeside Hotel (阿姆坪湖濱飯店), 湖濱大飯店
 - [Google Maps](https://maps.app.goo.gl/rEJbHzVX1NTBQpWv8)
-- https://cowperc.blogspot.com/2010/08/blog-post_08.html
+- [未來之書](https://cowperc.blogspot.com/2010/08/blog-post_08.html)
 - [Lost Places](https://lostplaces.tw/lakeside-hotel-%e6%b9%96%e6%bf%b1%e5%a4%a7%e9%a3%af%e5%ba%97/)
 - [FAM TALK](https://forgemind.net/phpbb/viewtopic.php?t=47076)
 - [YouTube (蘋果新聞網)](https://www.youtube.com/watch?v=jPbCn5pfXvc)
@@ -387,8 +390,8 @@
 - [SpectralCodex](https://spectralcodex.com/daxi-yunxiao-hotel/)
 - [Instagram (crain67183)](https://www.instagram.com/p/DIa0KKipI9z/)
 - [Facebook Group (秘境美景/廢墟遺址-旅遊地圖)](https://www.facebook.com/groups/387825485830122/permalink/477956490150354/)
-- https://forum.gamer.com.tw/C.php?bsn=60201&snA=18481
-- https://home.gamer.com.tw/creationDetail.php?sn=4018295
+- [巴哈姆特 (crain83756)](https://forum.gamer.com.tw/C.php?bsn=60201&snA=18481)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/creationDetail.php?sn=4018295)
 
 - categories: hotel
 
@@ -420,7 +423,7 @@
 - [Google Maps](https://maps.app.goo.gl/RvjJfHiWK9YRE4269)
 - [Josh Ellis](https://www.goteamjosh.com/blog/agenna)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%B9%E7%B4%8D%E9%80%A0%E8%88%B9%E5%BB%A0%E9%81%BA%E6%A7%8B)
-- https://keelunghihi.com.tw/84160
+- [基隆海嗨 Keelung Hi Hi](https://keelunghihi.com.tw/84160)
 - [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
 
 ## Khóo Tsú-song old house (許梓桑古厝) (Keelung City, Ren'ai District)
@@ -429,16 +432,17 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%A2%93%E6%A1%91%E5%8F%A4%E5%8E%9D)
 - [Josh Ellis](https://www.goteamjosh.com/blog/koozhai)
 - [SpectralCodex](https://spectralcodex.com/keelung-khoo-tsu-song-old-house/)
-- https://www.nickkembel.com/things-to-do-keelung-taiwan/#Khoo_Tsu-song_Old_Mansion
-- https://keelung-for-a-walk.com/culture/keelungs-abandoned-mansion/
+- [Nickkembel Travels](https://www.nickkembel.com/things-to-do-keelung-taiwan/#Khoo_Tsu-song_Old_Mansion)
+- [Keelung For A Walk 雨都漫步](https://keelung-for-a-walk.com/culture/keelungs-abandoned-mansion/)
 - [Instagram (Tom Rook)](https://www.instagram.com/p/CVm5uz1Pl7D/)
 
 ## Eighteen Arhats Cave (十八羅漢洞) (Keelung City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/E3bqeQ92RveMxUcr7)
-- https://forum.gamer.com.tw/C.php?bsn=60201&snA=19935
-- https://keelunghihi.com.tw/77016
-- https://www.youtube.com/watch?v=_QN9ol259bU
-- https://www.taiwantravelmap.com/taiwantravelmap/travel-10179
+- [巴哈姆特 (crain83756)](https://forum.gamer.com.tw/C.php?bsn=60201&snA=19935)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=5541866)
+- [基隆海嗨 Keelung Hi Hi](https://keelunghihi.com.tw/77016)
+- [YouTube (中嘉新聞)](https://www.youtube.com/watch?v=_QN9ol259bU)
+- [Taiwan Travel Map](https://www.taiwantravelmap.com/taiwantravelmap/travel-10179)
 - https://chihome1125.wixsite.com/disappearing
 - https://www.28dayslater.co.uk/threads/shi-ba-luo-han-dong-eighteen-arhats-cave-taiwan-2025.150013/
 - http://www.tonyhuang39.com/tony0119.html (other place ???)
@@ -459,7 +463,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%A5%87%E5%B3%B0%E8%82%B2%E6%A8%82%E5%9C%92)
 - [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720330102627/)
 - https://www.28dayslater.co.uk/threads/gu-qi-feng-yu-le-yuan-guqifeng-museum-taiwan-2025.150016/
-- https://park.org/Taiwan/Culture/museum/twnmsu/sec046.htm
+- [Internet 1996 World Exposition](https://park.org/Taiwan/Culture/museum/twnmsu/sec046.htm)
 
 ## Buddha's World (佛陀世界) (Hsinchu County, Guanxi Township)
 - aka: Fairy Tale Land, 童話世界
@@ -470,7 +474,7 @@
 - [Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2016/12/28/2003662065)
 - [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2018/07/buddha-world-abandoned-theme-park.html)
 - [Lost Places](https://lostplaces.tw/lost-place-in-longtan/)
-- https://www.opendharma.com/buddha-world-fo-tuo-shi-jie/
+- [open dharma](https://www.opendharma.com/buddha-world-fo-tuo-shi-jie/)
 - [YouTube (Skyline Vision Studio.Aerial Films Of Taiwan)](https://www.youtube.com/watch?v=i2h-qKWHGSc)
 
 - categories: theme park
@@ -489,7 +493,7 @@
 ## Xinxing Theater (新興戲院) (Hsinchu County, Xinpu Township)
 - [Google Maps](https://maps.app.goo.gl/GABwen4SBvGHemaj6)
 - [SpectralCodex](https://spectralcodex.com/xinpu-xinxing-theater/)
-- https://www.tomrookart.com/hiddentaiwan/cycling-through-the-xinpu-valley-to-hsinchu-relaxed-round-taiwan-trip-part-seven
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/cycling-through-the-xinpu-valley-to-hsinchu-relaxed-round-taiwan-trip-part-seven)
 - [Josh Ellis](https://www.goteamjosh.com/blog/xinxing)
 
 - categories: cinema
@@ -522,6 +526,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-hk/%E5%8D%A1%E5%A4%9A%E9%87%8C%E9%81%8A%E6%A8%82%E5%9C%92)
 - [SpectralCodex](https://spectralcodex.com/beitun-katolis-world/)
 - [Juksy](https://www.juksy.com/article/111101)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=3142856)
 
 - "One is Katoli's but that place is torn down, except for the abandoned housing community"
 - categories: amusement park
@@ -543,20 +548,20 @@
 - [Kathmandu & Beyond](https://www.kathmanduandbeyond.com/abandoned-taiwan-encore-garden-taichung/)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2015/02/20141206.html)
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=WDDliwI_hd8)
-- https://www.explore.com/adventure/20-creepiest-abandoned-theme-parks-around-world/
+- [Explore.com](https://www.explore.com/adventure/20-creepiest-abandoned-theme-parks-around-world/)
 - [Juksy](https://www.juksy.com/article/111101)
 - [FoodBaby](https://foodbabytw.com/2018/12/23/abandoned-amusement-park-encore-garden-explore-taichung/)
 - [GuanXi](https://guanxi.com.tw/en-US/videos/encore-gardens-urb-x-taiwan-3), [YouTube (GuanXi Taiwan 關係台灣)](https://www.youtube.com/watch?v=6eXk3bGU9yw)
-- https://haikyo.info/s/14924.html
+- [廃墟検索地図](https://haikyo.info/s/14924.html)
 
 - categories: amusement park
 
 ## Stone Park (石頭公園) (Taichung City, Waipu District)
 - aka: 石頭公園生態休閒農場
 - [Google Maps](https://maps.app.goo.gl/yPoWQYM5ZiSDv8kH8)
-- https://stone-park.com.tw/
-- https://www.facebook.com/StonePark2018/
-- https://www.instagram.com/stonepark_ig/
+- [Official](https://stone-park.com.tw/)
+- [Facebook](https://www.facebook.com/StonePark2018/)
+- [Instagram](https://www.instagram.com/stonepark_ig/)
 - [Juksy](https://www.juksy.com/article/111101)
 - [小兔小安*旅遊札記](https://bunnyann.tw/stone-park/)
 - https://petsyoyo.tw/%E3%80%90%E9%81%8A%E3%80%82%E5%8F%B0%E4%B8%AD%E3%80%91%E7%9F%B3%E9%A0%AD%E5%85%AC%E5%9C%92%E7%94%9F%E6%85%8B%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4%E3%80%9C%E5%BB%A2%E5%A2%9F%E9%A2%A8%E4%BA%BA%E6%B0%A3/
@@ -578,6 +583,12 @@
 - [SpectralCodex](https://spectralcodex.com/heping-guguan-power-plant/)
 - [GuanXi](https://guanxi.com.tw/en-US/videos/the-secret-power-plant-in-guguan-taiwan-urb-x-taiwan-xtra), [YouTube (GuanXi Street 關係街頭)](https://www.youtube.com/watch?v=HyAJhvYcK_g)
 - http://map.net.tw/taipower/item/050/
+
+## Taiping Kaitian Temple (太平開天宮) (Taichung City, Taiping District)
+- [Google Maps](https://maps.app.goo.gl/pCZF7RLYuVeazeTW8)
+- [SpectralCodex](https://spectralcodex.com/taiping-kaitian-temple/)
+- [廃墟検索地図](https://haikyo.info/s/17422.html)
+- [Threads (yj_0426_)](https://www.threads.com/@yj_0426_/post/DBLq9tJyrUJ)
 
 ## The Refuge () (Taichung)
 - ?
@@ -629,6 +640,15 @@
 - [Google Maps](https://maps.app.goo.gl/Y2mig7TNhrYFLcJx6)
 - [SpectralCodex](https://spectralcodex.com/pitou-township-livestock-farm/)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/01/120240707.html)
+
+## Taiwan Folk Village (台灣民俗村) (Changhua County, Huatan Township)
+- [Google Maps](https://maps.app.goo.gl/VB1JJT72xjB4GAHy9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%BF%97%E6%9D%91)
+- [SpectralCodex](https://spectralcodex.com/huatan-taiwan-folk-village/)
+- [Instagram (crain67183)](https://www.instagram.com/p/DCD96ugBLIa/)
+- [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/posts/13346291295)
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72157707526152274)
+- [Flickr (venus.dilys)](https://flickr.com/photos/99388471@N02/albums/72157703451618581/)
 
 ## Yixin Vocational High School (益新工商職業學校) (Yunlin County, Linnei Township)
 - [Google Maps](https://maps.app.goo.gl/hnB9VNf2XUaC6LDQ6)
@@ -703,7 +723,7 @@
 ## Chiayi Tobacco Factory (嘉義菸葉廠) (Chiayi City, West District)
 - [Google Maps](https://maps.app.goo.gl/b1VN8oa35UvWD6Z46)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%98%89%E7%BE%A9%E8%8F%B8%E8%91%89%E5%BB%A0)
-- https://www.tomrookart.com/hiddentaiwan/2016/12/23/chaiyi-tobacco-factory
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2016/12/23/chaiyi-tobacco-factory)
 - [SpectralCodex](https://spectralcodex.com/chiayi-tobacco-factory/)
 - [Lost Places](https://lostplaces.tw/chiayi-tobacco-factory/)
 
@@ -768,7 +788,7 @@
 - [Round Taiwan Round](https://www.rtaiwanr.com/tainan/tainan/xinglin-hospital)
 - [YouTube (Taiwan Foreigner)](https://www.youtube.com/watch?v=quUmyd9YDG0)
 - [Facebook Group (Abandoned Sickness)](https://www.facebook.com/groups/1763925093888181/permalink/1843983249215698/)
-- https://www.flickr.com/photos/truebritishmetal/albums/72157703215728272
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72157703215728272)
 
 - referenced in film: https://en.wikipedia.org/wiki/Strange_Frequencies:_Taiwan_Killer_Hospital
 
@@ -903,11 +923,11 @@
 - aka: Yongda University of Science and Technology
 - [Google Maps](https://maps.app.goo.gl/3DYZDmvCmU3PdSPt7)
 - [SpectralCodex](https://spectralcodex.com/linluo-yongda-technical-college/)
-- https://en.wikipedia.org/wiki/Yung_Ta_Institute_of_Technology_and_Commerce
-- https://zh.wikipedia.org/wiki/%E6%B0%B8%E9%81%94%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Yung_Ta_Institute_of_Technology_and_Commerce)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%B0%B8%E9%81%94%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2)
 - https://fakeliteraryyouth.blogspot.com/2024/05/20230219.html
 - https://fakeliteraryyouth.blogspot.com/2024/06/20230311.html
-- https://www.flickr.com/photos/truebritishmetal/albums/72177720308358648
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720308358648)
 - https://www.28dayslater.co.uk/threads/yong-da-ji-shu-xue-yuan-yongda-university-of-science-and-technology-may-2023.135366/
 - [YouTube (GuanXi Taiwan 關係台灣)](https://www.youtube.com/watch?v=RbErp7azEig)
 
@@ -928,7 +948,7 @@
 - [SpectralCodex](https://spectralcodex.com/jinsha-theater/)
 - [Bureau of Cultural Heritage](https://nchdb.boch.gov.tw/city/cabkc.kinmen/assets/overview/historicalBuilding/20200409000003)
 - [Instagram (kohteahawk)](https://www.instagram.com/p/DO6RQvQksXA/)
-- https://www.flickr.com/photos/truebritishmetal/albums/72177720310808023
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720310808023)
 
 ## Kinmen Armed Forces Hospital (花崗石醫院) (Kinmen County, Jinhu Township)
 - [Google Maps](https://maps.app.goo.gl/rj6KsNLG2CB7GryV9)
@@ -941,7 +961,7 @@
 - [YouTube (Exploring the Unbeaten Path)](https://www.youtube.com/watch?v=14SZzj5CVYw)
 - [忽悠旅社WhoyoTravel](https://whoyotravel.com.tw/km-story/underground-hospital-in-kinmen/)
 - https://imgchest.com/p/lqyegq82z7d
-- https://www.flickr.com/photos/truebritishmetal/albums/72177720310808028/
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720310808028/)
 - https://www.gokinmentour.com/revitalized-granite-hospital-members-hope-to-become-universal-studios-and-world-haunted-house/
 - [YouTube (Lijia Lai(Asian boy from Taiwan))](https://www.youtube.com/watch?v=mZZzBfgcCAw)
 
@@ -970,8 +990,8 @@
 - address: 澎湖縣馬公市新生路18號, 澎湖縣馬公市光復里新生路１８號１至２樓
 - [Google Maps](https://maps.app.goo.gl/tWqFLB5F32KeJ2hU8)
 - [Facebook (老高漫談臉書專頁)](https://www.facebook.com/followpenghunews/posts/1213302057310089)
-- https://www.mirrormedia.mg/external/ebc_401380
-- https://penghudaily.blogspot.com/2024/12/ktv.html
+- [Mirror Media](https://www.mirrormedia.mg/external/ebc_401380)
+- [Penghu Daily 澎湖日報](https://penghudaily.blogspot.com/2024/12/ktv.html)
 - [自由時報 Liberty Times](https://news.ltn.com.tw/news/Penghu/breakingnews/4895200)
 - https://spot.line.me/detail/486259219658448665
 
@@ -983,7 +1003,7 @@
 
 ## Xiji Island (西吉嶼) (Penghu County, Wang'an Township)
 - [Penghu NSA](https://www.penghu-nsa.gov.tw/English/TravelInformationSceneryDetailC001200.aspx?Cond=3c29b12c-038e-4191-b779-dc588ee34390&SortType=1&SearchAdvanced=False&Language=1033)
-- https://thediplomat.com/2018/01/the-abandoned-island-of-xiji/
+- [The Diplomat](https://thediplomat.com/2018/01/the-abandoned-island-of-xiji/)
 - [YouTube (GuanXi Street 關係街頭)](https://www.youtube.com/watch?v=4UjuZ0nYEyI)
 - [YouTube (GuanXi Taiwan 關係台灣)](https://www.youtube.com/watch?v=AElu77LqMZI)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/the-ultimate-guide-to-penghu)
@@ -1038,6 +1058,15 @@
 - [Threads (synapticx)](https://www.threads.com/@synapticx/post/DIfwIBdvEz2)
 
 - demolished (according to "Threads (synapticx)")
+
+## Taoyuan Airbase Hospital (桃園空軍基地醫院) (Taoyuan City, Dayuan District)
+- [Google Maps](https://maps.app.goo.gl/Q771kyR6AcKXGKHK7)
+- [SpectralCodex](https://spectralcodex.com/dayuan-taoyuan-airbase-hospital/)
+- [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=4710638), [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=5373747)
+- [Instagram (crain67183)](https://www.instagram.com/p/DBBveLhhK8P/)
+- https://batan.pixnet.net/blog/posts/2034674929
+
+- demolished 2024 (according to "SpectralCodex")
 
 ## Donghai 696 (東海696) (Kaohsiung City, Mituo District)
 - location: off the coast of Changhua's Shengang Township (according to "Taiwan News")
@@ -1141,7 +1170,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q137394485)
 - [Lost Places](https://lostplaces.tw/ghost-house-in-zhongli/)
 - [United Daily News](https://udn.com/news/story/7324/9063883)
-- https://www.ettoday.net/news/20211216/2147016.htm
+- [ETtoday (2021, Chinese)](https://www.ettoday.net/news/20211216/2147016.htm)
 - https://tybca.com.tw/ty-urbanrenewal/2729/%E4%B8%AD%E5%A3%A2%E8%BB%8A%E7%AB%99%E5%89%8D%E6%8C%87%E6%A8%99%E5%A4%A7%E6%A8%93-%E9%83%BD%E6%9B%B4%E7%B7%A9%E6%85%A2%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89/
 
 - as of 2025 still partially inhabited (according to "Lost Places")
