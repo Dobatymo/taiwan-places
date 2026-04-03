@@ -382,14 +382,23 @@ https://www.teapro.com.tw/
 - locations: https://soma-drinks.com/store.html
 
 ## UNOCHA (烏弄原茶)
+- aka: 烏弄原生茶飲
 - https://unocha.com.tw/
 - https://www.instagram.com/unocha_tw/
+- location: [Google Maps (Xinyi Wuxing Store 信義吳興店)](https://maps.app.goo.gl/ZegbHUufDG2oVtba7)
 
 ## UG (UG Tea)
 - aka: Unique Green
 - https://www.facebook.com/uniquegreentea/
 - https://www.instagram.com/ugtea_official/
-- location: https://maps.app.goo.gl/qmC1nubYurHz3MUt6
+- location: [Google Maps (Taipei Da'an Shop 台北大安店)](https://maps.app.goo.gl/qmC1nubYurHz3MUt6)
+- location: [Google Maps (Zhongxiao Dunhua Store 忠孝敦化店)](https://maps.app.goo.gl/jS9r6wFj5Bj7k1Pc6)
+- location: [Google Maps (Xinyi Tonghua Store 信義通化店)](https://maps.app.goo.gl/y9v68F7J4wz3EWvv7)
+
+## Teascription (一帖茶方)
+- https://www.instagram.com/teascription_official/
+- https://www.facebook.com/teascription.tw/
+- location: [Google Maps (Taipei Bade Store 台北八德店)](https://maps.app.goo.gl/F6RTmDvvmqtZTV3n9)
 
 ## Yuanming (猿茗)
 - aka: Monkey Tea
