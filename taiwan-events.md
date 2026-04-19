@@ -225,6 +225,13 @@
 - [ACCUPASS](https://www.accupass.com/event/2510190436041294210170)
 - [Instagram](https://www.instagram.com/beitouartfestival/)
 
+## Endless Life Cycles (無盡的生命循環) (Taipei City, Neihu District)
+- 2025-10-22 to 2026-02-07
+- Location: TAO ART (https://maps.app.goo.gl/PySD9L74z4MvC1vF9)
+- Artist: Tatsuo Miyajima (宮島達男)
+- [Official](https://taoartspace.com/endlesslifecycles-tatsuomiyajima/)
+- https://www.elle.com/tw/life/style/g69070064/tatsuo-miyajima-taiwan/
+
 ## Digimon 25th Anniversary Exhibit (數碼寶貝動畫25週年紀念展) (Taipei City, Zhongzheng District)
 - 2025-10-25 to 2025-11-30
 - Location: [Syntrend Creative Park](https://maps.app.goo.gl/znjQNGqP9c5ahSkV6)
@@ -252,7 +259,7 @@
 - Location: [Huashan 1914 Creative Park, Building East 2](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - [Facebook](https://www.facebook.com/IsHands.asia/)
 - [klook](https://www.klook.com/activity/87261-ishands-international-craft-design-festival/)
-- https://www.huashan1914.com/w/huashan1914/exhibition_25101014580704580
+- [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25101014580704580)
 
 ## Pinkoi Design Fest (Pinkoi 瘋設祭) (Taipei City, Zhongshan District)
 - 2025-11-07 to 2025-11-09
@@ -639,6 +646,14 @@
 - [Instagram](https://www.instagram.com/p/DWF5XnGkl-1/)
 - type: exhibition
 
+## Echoes of Dissonance () (Taipei City, Neihu District)
+- 2026-03-07 to 2026-05-02
+- Location: TAO ART (https://maps.app.goo.gl/PySD9L74z4MvC1vF9)
+- Artist: Alex Prager (艾莉克絲．普拉格)
+- [Official](https://taoartspace.com/echoesofdissonance-alexprager/)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19594)
+- type: solo exhibition
+
 ## Through the Glass Darkly (見鏡非鏡) (Taipei City, Datong District)
 - 2026-03-07 to 2026-05-03
 - Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
@@ -658,13 +673,13 @@
 - [Official (Chinese)](https://uniquephoto.com.tw/portfolio-item/%e7%81%b0%e7%87%bc%e8%88%87%e4%b8%80%e9%a1%86%e5%8d%b5%e7%9f%b3%e7%9a%84%e5%b0%8d%e8%ab%87%ef%bc%9a%e5%8a%89%e6%b8%85%e8%8f%af-%e5%80%8b%e5%b1%95/)
 - type: solo exhibition
 
-## Fibers of Witness - Ya-Chu KANG Solo Exhibition (纖維的見證－康雅筑個展) (Taipei City, Beitou District)
+## Fibers of Witness (纖維的見證) (Taipei City, Beitou District)
 - 2026-03-07 to 2026-05-31
 - Location: [Hong-Gah Museum Second Gallery (鳳甲美術館 二展區)](https://maps.app.goo.gl/5bfJVKZC769Agazm7)
 - Artist: Ya-Chu KANG (康雅筑)
 - [Official (English)](https://hong-gah.org.tw/en/hong-gah/fibers-of-witness-en)
 - [Official (Chinese)](https://hong-gah.org.tw/hong-gah/fibers-of-witness-ch)
-- type: exhibition
+- type: solo exhibition
 
 ## Tidal Weavers: Islands Exchange (織浪者：浮遊相聚) (Taipei City, Beitou District)
 - 2026-03-07 to 2026-05-31
@@ -834,6 +849,14 @@
 - Co-curated by Nobuo Takamori and Jut Art Museum team
 - type: exhibition
 
+## Interwoven (共織宇宙) (New Taipei City, Yingge District)
+- 2026-03-21 to 2026-09-06
+- Location: [New Taipei City Art Museum (新北市美術館)](https://maps.app.goo.gl/ckRd9FQxHSpBWSw26)
+- Artist: Tomás Saraceno (托馬斯．薩拉切諾)
+- [Official (English)](https://ntcart.museum/EN/exhibition_content.aspx?id=H2601002)
+- [Official (Chinese)](https://ntcart.museum/exhibition_content.aspx?id=H2601002)
+- type: solo exhibition
+
 ## TAIWAN × KOREA CROSSOVER LIVE (T-Music x K-Jazz｜臺韓跨國共演音樂會暨座談工坊) (New Taipei City, Banqiao District)
 - 2026-03-25
 - Location: [National Taiwan University of Arts, Fuzhou Performance Hall (國立臺灣藝術大學 福舟表演廳)](https://maps.app.goo.gl/gZFtXie4uWTU8PM26)
@@ -924,11 +947,26 @@
 - [Threads](https://www.threads.com/@yu_hsing_shan/post/DWfkgfdAYRX)
 - type: exhibition
 
+## Painting Rules (繪畫規則) (Taipei City, Zhongzheng District)
+- 2026-04-11 to 2026-06-06
+- Location: [NUNU FINE ART](https://maps.app.goo.gl/pQSmbAcVH7P1VTXT7)
+- Artist: Peter Zimmermann (彼得．辛默曼)
+- [Official (English)](https://www.nunufineart.com/peter-zimmermann-painting-rules)
+- [Official (Chinese)](https://www.cn.nunufineart.com/peter-zimmermann-painting-rules)
+- type: solo exhibition
+
 ## Solitude (小孤獨，處) (Taipei City, Songshan District)
 - 2026-04-11 to 2026-06-20
 - Location: [Michael Ku Gallery (谷公館)](https://maps.app.goo.gl/88S3zsUEB4hKuPeT7)
 - Artist: JIAN Yi-Hong (簡翊洪)
 - [Official](https://michaelkugallery.com/exhibitions/136)
+- type: solo exhibition
+
+## LOST & FOUND in THE CITY (城市失物招領所) (Taipei City, Zhongzheng District)
+- 2026-04-18 to 2026-05-10
+- Location: [Huashan 1914 Creative Park, Building 4B, 1F & 2F (華山1914文創園區 中4B館 1F & 2F)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_26041115185523232)
+- [ACCUPASS](https://www.accupass.com/event/2601260226381089036551)
 - type: solo exhibition
 
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
@@ -1023,6 +1061,16 @@
 - https://www.travel.taipei/en/event-calendar/details/66765
 - https://www.travel.taipei/zh-tw/event-calendar/details/66373
 - type: sports
+
+## 2026 Taipei Red Expo (2026TRE台北國際紅人展) (Taipei City, Nangang District)
+- aka: 台北國際成人展
+- 2026-07-03 to 2026-07-05
+- [Official](https://adultexpo.com.tw/)
+- https://jkface.net/redexpo/2026
+- [Instagram](https://www.instagram.com/tre_taipei/)
+- [Facebook](https://www.facebook.com/adultexpo.com.tw/)
+- [Threads](https://www.threads.com/@tretaipei)
+- type: trade show
 
 ## Taiwan International Interior Design Expo 2026 (2026台灣國際室內設計博覽會) (Taipei City, Nangang District)
 - 2026-07-09 to 2026-07-12

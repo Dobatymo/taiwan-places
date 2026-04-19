@@ -593,6 +593,13 @@
 ## The Refuge () (Taichung)
 - ?
 
+## Lanshan Workstation (嵐山工作站) (Hualien County, Xiulin Township)
+- [Google Maps](https://maps.app.goo.gl/vzNsVHWiahTeZviD7)
+- [SpectralCodex](https://spectralcodex.com/xiulin-lanshan-workstation/)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%B5%90%E5%B1%B1%E6%A3%AE%E6%9E%97%E9%90%B5%E8%B7%AF)
+- [Flickr (cock_a_doodle_do)](https://www.flickr.com/photos/21180236@N03/albums/72157718961946298/)
+- [Wilhelm Chang](https://www.wilhelmchang.com/zh/lanshan-station/)
+
 ## Changhua County Yuanlin Hospital (彰化縣立 員林醫院) (Changhua County, Yuanlin City)
 - [Google Maps](https://maps.app.goo.gl/1zuSciA6nZJGobaH6)
 - [SpectralCodex](https://spectralcodex.com/changhua-county-yuanlin-hospital/)
