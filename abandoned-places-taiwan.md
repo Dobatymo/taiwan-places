@@ -91,12 +91,14 @@
 - [Google Maps](https://maps.app.goo.gl/xrvRswyHM3aYeER17)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%BB%8D%E7%B8%BD%E9%86%AB%E9%99%A2%E5%8C%97%E6%8A%95%E5%88%86%E9%99%A2)
 - [Wikidata](https://www.wikidata.org/wiki/Q113799820)
-- [TELDAP](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=2254%3Aventuring-into-the-ruins--taipei-military-sanatorium-beitou-branch&catid=160%3Amaps-and-architectures&Itemid=210)
+- [TELDAP](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=2254:venturing-into-the-ruins--taipei-military-sanatorium-beitou-branch&catid=160:maps-and-architectures)
 - [Taipei Department of Cultural Affairs](https://english.culture.gov.taipei/News_Content.aspx?n=546DBBFFD75F4602&s=BB70B48E56D8D5C3)
-- [SpectralCodex](https://spectralcodex.com/beitou-japanese-army-garrison-hospital/)
+- [SpectralCodex](https://spectralcodex.com/beitou-ija-garrison-hospital/)
+- [SpectralCodex (gone)](https://spectralcodex.com/beitou-japanese-army-garrison-hospital/)
 - [Formosa>Ex](https://formosajmac.com/2023/04/28/beitou/)
 
 - 2025: restored and museum now
+- categories: museum
 
 ## Jinmajiang Theater (金馬獎戲院) (Taipei City, Beitou District)
 - aka: Golden Horse Award Theatre, 金馬獎大戲院
@@ -157,6 +159,7 @@
 - [e-flux Journal](https://www.e-flux.com/journal/81/125145/dissenting-voices-of-the-unwashed-disobedient-noncitizens-and-exiles-in-their-own-homes)
 - [Dcard](https://www.dcard.tw/f/marvel/p/230605632)
 - [自由時報 Liberty Times](https://news.ltn.com.tw/news/society/paper/1368838)
+- https://www.flickr.com/photos/truebritishmetal/albums/72157686478117072/
 
 - 2025: there are guided tours through the community, many buildings have been renovated or restored
 
@@ -198,7 +201,8 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q136793795)
 - [Josh Ellis](https://www.goteamjosh.com/blog/julebu)
 - [Josh Ellis](https://www.goteamjosh.com/julebu)
-- [SpectralCodex](https://spectralcodex.com/bali-health-club-and-resort/)
+- [SpectralCodex](https://spectralcodex.com/bali-mediterranean-club/)
+- [SpectralCodex (gone)](https://spectralcodex.com/bali-health-club-and-resort/)
 - [Reddit (r/AbandonedPorn)](https://www.reddit.com/r/AbandonedPorn/comments/1c4g4li/a_13000_abandoned_health_club_in_taiwan_closed/)
 - [Dax Ward Photography](https://www.daxward.com/The-Health-Club-and-Resort)
 - [YouTube (Dax Ward Photography)](https://www.youtube.com/watch?v=26x8miaD4Ws)
@@ -244,17 +248,7 @@
 - [Formosa>Ex](https://formosajmac.com/2023/04/18/wanli-ufo-village/))
 - [FoodBaby](https://foodbabytw.com/2018/10/15/abandoned-ufo-houses-sanzhi-pods-wanli-taipei/)
 - [廃墟検索地図](https://haikyo.info/s/14450.html)
-
-## Pacific Green Bay (太平洋翡翠灣) (New Taipei City, Wanli District)
-- aka: Pacific Emerald Bay, 翡翠灣福華渡假飯店, 翡翠灣城堡(?)
-- different from: Forte Green Bay Resort (福泰翡翠灣渡假飯店)
-- [Google Maps](https://maps.app.goo.gl/9AEVf8V6RYKjibx48)
-- [FoodBaby](https://foodbabytw.com/2020/11/26/abandoned-center-wanli/)
-- https://www.pacificgreenbay.com/
-- [Pixnet (Clare的生活品味)](https://l50740.pixnet.net/blog/posts/3040982257)
-- [Reddit (r/taiwan)](https://www.reddit.com/r/taiwan/comments/k18bkv/explored_this_abandoned_center_in_wanli_beach_the/)
-
-- categories: hotel
+- [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157705106840514/)
 
 ## Sanzhi Beihai Resort Center (三芝北海度假中心) (New Taipei City, Sanzhi District)
 - [Google Maps](https://maps.app.goo.gl/p6iXWVv4eUZrcHcX6)
@@ -508,7 +502,9 @@
 
 ## Lidong Lodge (李棟山莊) (Hsinchu County, Jianshi Township)
 - [Google Maps](https://maps.app.goo.gl/G2z9biu9SQBjCPAU7)
+- [SpectralCodex](https://spectralcodex.com/jianshi-lidong-lodge/)
 - [Hiking Note](https://hiking.biji.co/index.php?q=review&act=info&review_id=24182)
+- [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157705106974354/)
 
 - Taiwanese 2022 movie Incantation (咒) was filmed there
 
@@ -519,6 +515,18 @@
 - [Reddit (r/taiwan)](https://www.reddit.com/r/taiwan/comments/ter2c6/abandoned_building_in_taichung/)
 - [Kathmandu & Beyond](https://www.kathmanduandbeyond.com/abandoned-taiwan-qianyue-building-taichung/)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2014/07/20140614.html)
+
+## Nanye Dance Hall (南夜大舞廳) (Taichung City, Central District)
+- aka: 南夜舞廳, Honolulu Club
+- [Google Maps](https://maps.app.goo.gl/C8TPv1ZwYKGk4DYe9)
+- [SpectralCodex](https://spectralcodex.com/taichung-nanye-dance-hall/)
+- [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157661272005440/)
+- https://www.flickr.com/photos/csdido/albums/72157650279945541/
+- [Flickr (Steven Yang, 2010)](https://www.flickr.com/photos/stevyang/albums/72157623601502283/)
+- https://taichung.culture.tw/taichung/zh-tw/others/661025
+- https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=661025
+- https://www.fbs168.com/news/8600
+- renovated and up for sale as of 2026
 
 ## Katoris World (卡多里遊樂園) (Taichung City, Beitun District)
 - aka: Katoli's World
@@ -883,11 +891,13 @@
 - [自由時報 Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5228645)
 
 ## The White Plain House (白色陋屋) (Taitung County, Taitung City)
-- aka: Moving Castle
+- aka: Moving Castle, 白房子
 - [Google Maps](https://maps.app.goo.gl/NaFsXYwUoPU9hMGQA)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2%E9%99%8B%E5%B1%8B)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Moving_Castle)
 - [SpectralCodex](https://spectralcodex.com/taitung-white-house/)
+- https://www.zztaitung.com/9927/whitehouse
+- https://www.flickr.com/photos/greenset/albums/72157655094960471/
 
 ## Fuyou Building (富有大樓) (Taitung County, Taitung City)
 - [Google Maps](https://maps.app.goo.gl/KE1Zt5jydRSWSqJv9)
@@ -1056,6 +1066,20 @@
 - [HouseFun News](https://news.housefun.com.tw/news/article/128289312155.html)
 
 - demolished in 2022 (according to "SpectralCodex" and "HouseFun News")
+
+## Pacific Green Bay (太平洋翡翠灣) (New Taipei City, Wanli District)
+- aka: Pacific Emerald Bay, 翡翠灣福華渡假飯店, 翡翠灣城堡(?)
+- different from: Forte Green Bay Resort (福泰翡翠灣渡假飯店)
+- [Google Maps](https://maps.app.goo.gl/9AEVf8V6RYKjibx48)
+- [FoodBaby](https://foodbabytw.com/2020/11/26/abandoned-center-wanli/)
+- https://www.pacificgreenbay.com/
+- [Pixnet (Clare的生活品味)](https://l50740.pixnet.net/blog/posts/3040982257)
+- [Reddit (r/taiwan)](https://www.reddit.com/r/taiwan/comments/k18bkv/explored_this_abandoned_center_in_wanli_beach_the/)
+- [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157674943885707/)
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720305615388/)
+
+- categories: hotel
+- demolished in 2025
 
 ## Guobin Commercial Building (國賓商業大樓) (Taoyuan City, Zhongli District)
 - [Google Maps](https://maps.app.goo.gl/4TzC264RyDrWD4MT6)
