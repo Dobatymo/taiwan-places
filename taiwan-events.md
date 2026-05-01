@@ -1177,7 +1177,8 @@
 ## Junji Ito Exhibition: Enchantment (伊藤潤二展: 誘惑) (Taipei City, Xinyi District)
 - aka: Junji Ito Exhibition: Temptation
 - 2026-06-19 to 2026-09-28
-- Location: [Songshan Cultural and Creative Park, Warehouse No. 4 (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- Location: [Songshan Cultural and Creative Park, Warehouse No. 4 (松山文創園區 四號倉庫)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- [Official](https://www.mediasphere.com.tw/exhibitions/122)
 - [kkday (English)](https://www.kkday.com/en/product/579222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/579222)
 - Organizers: Kapok International, Shiki Multimedia, Asahi Shimbun (木棉花國際, 時藝多媒體, 朝日新聞社)

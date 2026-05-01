@@ -70,8 +70,9 @@
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Longdong)
 - https://blog.mrhost.com.tw/8005/top-8-taipei-beaches-you-cant-miss/#12-taipei-beach-recommendation-7%EF%BD%9Clongdong-bay
 - [onethingoneweek](https://onethingoneweek.com/longdong/)
+- [HopOut](https://hopout.com.tw/location/taipei-dragon-cave-cliffs)
 
-- activities: swimming, snorkeling, rock climbing
+- activities: swimming, snorkeling, rock climbing, cliff jumping
 - sand beach no, rocks and corals yes, bring diving shoes
 - diving equipment can be rented
 - walk from Hemei Elementary School
@@ -710,6 +711,27 @@
 
 - #028 of Taiwan's 100 minor peaks (台灣小百岳)
 - public transport: nothing
+
+## Wuzhi Mountain (五指山) (Hsinchu County, Zhudong Township)
+- aka: Five Finger Mountain
+- [Google Maps](https://maps.app.goo.gl/au4vCvrqCHcp4wEb6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%8C%87%E5%B1%B1_(%E6%96%B0%E7%AB%B9%E7%B8%A3))
+- [Wikidata](https://www.wikidata.org/wiki/Q10881803)
+- [The Map Room](https://www.maproomexplorers.com/post/five-finger-mountain)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=243)
+
+- #030 of Taiwan's 100 minor peaks (台灣小百岳)
+
+## Huoyan Mountain (火炎山) (Miaoli County, Yuanli Township)
+- aka: Fire Mountain
+- [Google Maps](https://maps.app.goo.gl/hNyLw6ZSQE2XENDf6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Huoyan_Mountain)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%81%AB%E7%82%8E%E5%B1%B1_(%E8%8B%97%E6%A0%97%E7%B8%A3))
+- [Wikidata](https://www.wikidata.org/wiki/Q15919747)
+- [The Map Room](https://www.maproomexplorers.com/post/fire-mountain)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=387)
+
+- #035 of Taiwan's 100 minor peaks (台灣小百岳)
 
 ## Shoushan (壽山) (Kaohsiung City, Gushan District)
 - aka: Monkey Mountain, Chaishan (柴山)
@@ -1505,7 +1527,7 @@
 ## Star Cave (星洞) (New Taipei City, Ruifang District)
 - aka: 神秘星星洞穴, 寶敬献
 - located on: Teapot Mountain (茶壺山)
-- [Google Maps](https://maps.app.goo.gl/TJC6BzTcWK9svaNY8)
+- [Google Maps](https://maps.app.goo.gl/LTuBSt1WTKHhgu8u6)
 - [Instagram](https://www.instagram.com/reels/DWu_SZVk8l4/)
 - [Instagram](https://www.instagram.com/reels/DXT3nzYkSpS/)
 - https://www.facebook.com/watch/?v=1731787728232590
@@ -2766,6 +2788,21 @@
 - https://www.taiwan.net.tw/m1.aspx?sNo=0001106&id=9828
 - https://renshan.e-land.gov.tw/
 
+## Jinyue Waterfall (金岳瀑布) (Yilan County, Nan'ao Township)
+- aka: 鹿皮溪大瀑布
+- [Google Maps](https://maps.app.goo.gl/Mj3B5QzjvGyzQUdv7)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/FxSnHPF52CtuVNA88)
+- [Wikidata](https://www.wikidata.org/wiki/Q139596104)
+- [The Map Room](https://www.maproomexplorers.com/post/jinyue)
+- [My Room Abroad](https://myroomabroad.com/blog/river-tracing-to-jinyue-waterfall/)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=745)
+- [HopOut](https://hopout.com.tw/location/yilan-jinyue-waterfall)
+- [Nan'ao Township Office](https://www.nanao.e-land.gov.tw/News_Content.aspx?n=13381&s=187947)
+- [狂人出動](https://www.outdoormaniac.com.tw/itinerary_detail_15.htm)
+- https://bimeci.pixnet.net/blog/posts/8234306840
+
+- categories: waterfall, river tracing, natural pool, waterslide
+
 ## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
 - [Google Maps](https://maps.app.goo.gl/UgYuANtaqwsSv3a2A)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%A6%99%E5%B1%B1%E6%BF%95%E5%9C%B0)
@@ -2872,14 +2909,27 @@
 
 # Wild Hot Springs
 
+## Xiaqigu Hot Spring (下七股溫泉) (Taipei City, Shilin District)
+- aka: 下七股野溪溫泉
+- [Google Maps](https://maps.app.goo.gl/jsbnMPFbfrxxqaRS7)
+- [HopOut](https://hopout.com.tw/location/taipei-xiaqigu-hot-spring)
+- [小兔小安*旅遊札記](https://bunnyann.tw/chigu-hot-spring/)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=gpx_detail&id=69900)
+- [Outdoor Gene](https://outdoorgene.com/%E3%80%90%E4%B8%8B%E4%B8%83%E8%82%A1%E9%87%8E%E6%BA%AA%E6%BA%AB%E6%B3%89%E3%80%91%EF%BD%9C%E8%B7%AF%E7%B7%9A%E3%80%81%E4%BA%A4%E9%80%9A%E3%80%81%E8%A1%8C%E7%A8%8B%E5%AE%89%E6%8E%92/)
+- [Alma Life](https://almablog.tw/blog/post/194374)
+- [時空旅人](https://apextraveller.com/%E9%99%BD%E6%98%8E%E5%B1%B1-%E4%B8%8B%E4%B8%83%E8%82%A1%E9%87%8E%E6%BA%AA%E6%BA%AB%E6%B3%89/)
+- [Hikingbook](https://hikingbook.net/trails/%E4%B8%8B%E4%B8%83%E8%82%A1%E9%87%8E%E6%BA%AA%E6%BA%AB%E6%B3%89)
+- [瑪姬幸福過日子](https://maggieblog.tw/chigu-hot-spring/)
+- [Instagram (kaihsu_)](https://www.instagram.com/p/DWWGQ1OE9le/)
+
 ## Bayan Hot Springs (八煙溫泉) (New Taipei City, Jinshan District)
 - [Google Maps](https://maps.app.goo.gl/E4LfXaS4XA1TVo3D8)
-- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/2/17/bayan-hot-springs)
 - [Wikidata](https://www.wikidata.org/wiki/Q10892293)
-- https://explore.myroomabroad.com.tw/bayan-hot-springs/
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2015/2/17/bayan-hot-springs)
+- [My Room Abroad](https://myroomabroad.com/blog/bayan-hot-spring/)
 - [Flickr (Taiwan Adventures)](https://www.flickr.com/photos/taiwanadventures/albums/72157626458081013/)
 - [Nickkembel Travels](https://www.nickkembel.com/taiwan-hot-springs/#Bayan_Ye_Xi_Hot_Spring_%E5%85%AB%E7%85%99%E9%87%8E%E6%BA%AA%E6%BA%AB%E6%B3%89_CLOSED)
-- https://www.instagram.com/p/C7tgG8FOV82/
+- [Instagram (taiwan_outdoors)](https://www.instagram.com/p/C7tgG8FOV82/)
 
 - categories: hot spring
 
@@ -2897,9 +2947,13 @@
 ## Galahe Hot Springs (嘎拉賀溫泉) (Taoyuan City, Fuxing District)
 - aka: Qrahu Hot Springs, 嘠拉賀溫泉
 - [Google Maps](https://maps.app.goo.gl/UBH84FHpr4hLpbRy9)
+- [Wikidata](https://www.wikidata.org/wiki/Q139596830)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2020/5/29/the-giant-trees-and-wild-springs-of-qrahu)
 - [HopOut](https://hopout.com.tw/location/taoyuan-galahe-rainbow-waterfall)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/01/04/qrahu-natural-hotspring-%E5%98%8E%E6%8B%89%E8%B3%80%E6%BA%AB%E6%B3%89/)
+- [The Map Room](https://www.maproomexplorers.com/post/sanguang-map)
+
+- categories: hot spring
 
 ## Sileng Hot Springs (四稜溫泉) (Taoyuan City, Fuxing District)
 - aka: 四陵溫泉, 四棱溫泉
@@ -2911,60 +2965,82 @@
 - [wanderlog](https://wanderlog.com/place/details/1375552/sileng-hot-springs)
 - [YouTube (Paul Kemp)](https://www.youtube.com/watch?v=g1lu4wpwA8k)
 
+- categories: hot spring
+
 ## Taigang Hot Springs (泰崗溫泉) (Hsinchu County, Jianshi Township)
 - aka: 泰崗野溪溫泉
 - [Google Maps](https://maps.app.goo.gl/K2sAgnawouQYT7Gw7)
+- [Wikidata](https://www.wikidata.org/wiki/Q139596046)
 - [Hikingbook](https://hikingbook.net/trails/%E6%B3%B0%E5%B4%97%E6%BA%AB%E6%B3%89%E6%AD%A5%E9%81%93)
+- [HopOut](https://hopout.com.tw/location/hsinchu-taigang-hot-spring)
 - https://www.storm.mg/article/4042211
-- https://hopout.com.tw/location/hsinchu-taigang-hot-spring
 
 - categories: camping, hot spring
 
-## Fan Fan Hot Springs (芃芃溫泉) (Yilan County, Datong Township)
-- aka: Peng Peng Hot Springs
+## Fanfan Hot Springs (芃芃溫泉) (Yilan County, Datong Township)
+- aka: Pengpeng Hot Springs
 - [Google Maps](https://maps.app.goo.gl/9WaDW33kUQrhGyBb7)
+- [Wikidata](https://www.wikidata.org/wiki/Q136669312)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2020/1/22/fanfan-wild-hot-spring-yilan)
 - [HopOut](https://hopout.com.tw/location/yilan-fanfan-hot-spring)
 - [Nickkembel Travels](https://www.nickkembel.com/taiwan-hot-springs/#Paigu_Fan_Fan_Hot_Springs_%E6%8E%92%E9%AA%A8_%E6%A2%B5%E6%A2%B5%E6%BA%AB%E6%B3%89)
-- [Wikidata](https://www.wikidata.org/wiki/Q136669312)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/fanfan-hot-spring)
 
 - categories: camping, hot spring, river tracing
 
-## Qingshui Hot Spring (清水野溪溫泉) (Yilan County, Datong Township)
+## Qingshui Hot Spring (清水溫泉) (Yilan County, Datong Township)
+- aka: 清水野溪溫泉
 - [Google Maps](https://maps.app.goo.gl/mTdWk7mfUeq345XZ7)
+- [Wikidata](https://www.wikidata.org/wiki/Q49741970)
 - https://bimeci.pixnet.net/blog/post/234605568
 - [HopOut](https://hopout.com.tw/location/yilan-qinsghui-hot-spring)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=gpx_detail&id=1994051)
 
 - categories: camping, hot spring
+
+## Maling Hot Springs (馬陵 溫泉) (Taichung City, Heping District)
+- aka: 馬陵野溪溫泉
+- [Google Maps](https://maps.app.goo.gl/G6mNsEW7tNmm7jFF7)
+- [Wikidata](https://www.wikidata.org/wiki/Q139596032)
+- [HopOut](https://hopout.com.tw/location/taichung-maling-hot-spring)
+- [Hikingbook](https://hikingbook.net/trails/%E9%A6%AC%E9%99%B5%E6%BA%AB%E6%B3%89)
+- [The Map Room](https://www.maproomexplorers.com/post/maling)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=972)
 
 ## Wenshan Hot Spring (文山溫泉) (Hualien County, Xiulin Township)
 - aka: 文山野溪溫泉
 - [Google Maps](https://maps.app.goo.gl/di9H6FZ3M3HGhJsm7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%87%E5%B1%B1%E6%BA%AB%E6%B3%89)
+- [Wikidata](https://www.wikidata.org/wiki/Q11079742)
 - [Round Taiwan Round](https://www.rtaiwanr.com/hualien/taroko-gorge/wenshan-hot-spring)
 - [Instagram (jerryunique)](https://www.instagram.com/p/CU2DrcghARJ/)
 - [Instagram (tangxboss)](https://www.instagram.com/reels/DTVJI9Lku8l/)
 - [HopOut](https://hopout.com.tw/location/hualien-wenshan-hot-spring)
+- https://trail.tacp.gov.tw/en/Keyword/542
 
 - categories: camping, hot spring
 
 ## Wanrong Hot Springs (萬榮溫泉) (Hualien County, Wanrong Township)
 - aka: 萬榮野溪溫泉, Molishaka Hot Spring, Malishaka Cave Hot Spring, 摩里沙卡洞穴溫泉
 - [Google Maps](https://maps.app.goo.gl/LzgiTYJrdmFVcK9t8)
+- [Wikidata](https://www.wikidata.org/wiki/Q139596022)
 - [HopOut](https://hopout.com.tw/location/hualien-malishaka-cave-hot-spring)
-- https://hiking.biji.co/index.php?q=trail&act=gpx_detail&id=2884120
-- https://www.maproomexplorers.com/post/molishaka
-- https://zh.maproomexplorers.com/post/molishaka-zh
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=gpx_detail&id=2884120)
+- [The Map Room (English)](https://www.maproomexplorers.com/post/molishaka)
+- [The Map Room (Chinese)](https://zh.maproomexplorers.com/post/molishaka-zh)
 - https://www.youtube.com/watch?v=SKSR-peXhIg
+
+- categories: hot spring
 
 ## Lisong Hot Springs (栗松溫泉) (Taitung County, Haiduan Township)
 - [Google Maps](https://maps.app.goo.gl/k28pJCS49YHQ6Wgw8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lisong_Hot_Spring)
 - [Wikidata](https://www.wikidata.org/wiki/Q11110687)
-- https://www.tomrookart.com/hiddentaiwan/lisong-wild-hot-springs-taitung
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/lisong-wild-hot-springs-taitung)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/lisong-hot-spring/)
 - [HopOut](https://hopout.com.tw/location/taitung-lisong-hot-spring)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=725)
+- [Instagram (salt.and.charcoal)](https://www.instagram.com/reels/DWWh90jj8lu/)
 
 - categories: hot spring
 
@@ -2974,9 +3050,11 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q17041557)
 - [HopOut](https://hopout.com.tw/location/taitung-lulu-hot-spring)
 - https://justanotherlondoner.substack.com/p/taiwans-hidden-gem-for-the-adventurous
-- https://en-us.hikingbook.net/trails/%E8%BD%86%E8%BD%86%E6%BA%AB%E6%B3%89
-- https://www.maproomexplorers.com/post/luluhotspring
-- https://www.instagram.com/p/C4FsjPhPeho/
+- [Hikingbook](https://hikingbook.net/trails/%E8%BD%86%E8%BD%86%E6%BA%AB%E6%B3%89)
+- [The Map Room](https://www.maproomexplorers.com/post/luluhotspring)
+- [Instagram (qwert8081)](https://www.instagram.com/p/C4FsjPhPeho/)
+
+- categories: hot spring
 
 # Districts (區)
 
@@ -3167,6 +3245,7 @@
 - https://english.ftvnews.com.tw/news/2024604W01EA
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://cott6226.pixnet.net/blog/post/353616316
+- https://www.instagram.com/p/DXO2zH7lD3o/
 
 - categories: community, abandoned, public housing
 - scheduled for demolition

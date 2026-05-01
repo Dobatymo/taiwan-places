@@ -81,7 +81,7 @@
 - [YouTube (別拖!出門吧)](https://www.youtube.com/watch?v=2a5Fwimv9vE)
 - [花花日報](https://funnews.tw/n/serv/art/efe64b3bc53042be8e386dd78573e469)
 
-## Asia Pacific Resort / South China Hotel / Jiaotong Hotel (亞太溫泉生活館 / 華南大飯店 / 交通大飯店) (Taipei City, Beitou District)
+## Asia Pacific Resort (亞太溫泉生活館) / South China Hotel (華南大飯店) / Jiaotong Hotel (交通大飯店) (Taipei City, Beitou District)
 - [Google Maps](https://maps.app.goo.gl/x8v3QPg625tyNhWN9)
 - [SpectralCodex](https://spectralcodex.com/beitou-asia-pacific-resort/)
 - [Pixnet (Beitou Walker)](https://babbitwang.pixnet.net/blog/posts/7042645314)
@@ -1145,6 +1145,7 @@
 - [Facebook (臺灣戲劇取景地點 Taiwan Drama Location)](https://www.facebook.com/twdramalocation01/posts/749845564780987)
 - [Blogspot (Taiwan Drama Location)](https://twdramaloc.blogspot.com/2025/10/104JinxinBuilding.html)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
+- https://www.instagram.com/p/DXO2zH7lD3o/
 
 - filming location for: A Heroic Fight (勇闖江湖) (1986) and Gatao 2: Rise of the King (角頭2：王者再起) (2018) according to "Blogspot (Taiwan Drama Location)"
 - filming location for: Mystery Writers (鬼天廈) [Taiwan Pavilion](https://pavilion.taicca.tw/portfolio-item/mystery-writers/)
@@ -1166,6 +1167,17 @@
 
 - apartment complex with a central courtyard
 
+## Lions' Plaza Commercial Building (獅子林新光商業大樓) (Taipei City, Wanhua District)
+- aka: Lion Forest Building, 獅子林商業大樓
+- [Google Maps](https://maps.app.goo.gl/xVT9inrR1o9YgWNc7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%8D%85%E5%AD%90%E6%9E%97%E6%96%B0%E5%85%89%E5%95%86%E6%A5%AD%E5%A4%A7%E6%A8%93)
+- [Wikidata](https://www.wikidata.org/wiki/Q15940647)
+- https://www.youtube.com/watch?v=j9F3BZ9gh1o
+- https://www.instagram.com/p/DXO2zH7lD3o/
+
+- department store
+- originally the site of Higashi Honganji Temple (東本願寺), then a KMT detention site
+
 ## Fanhua Green Park Building (汎華綠園大廈) (Taipei City, Beitou District)
 - aka: Golden Horse Award Building (金馬獎大樓)
 - contains: Jinmajiang Theater (金馬獎戲院)
@@ -1175,6 +1187,7 @@
 - [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/1865841960260755)
 - [YouTube (aiden fu)](https://www.youtube.com/watch?v=3BZHwA5HkHg)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
+- https://www.instagram.com/p/DXO2zH7lD3o/
 
 ## Lingxiao Apartment Building (凌霄大樓) (Taipei City, Beitou District)
 - aka: 圓柱狀集合住宅
@@ -1182,6 +1195,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q136970845)
 - [SpectralCodex](https://spectralcodex.com/beitou-lingxiao-building/)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
+- https://www.instagram.com/p/DXO2zH7lD3o/
 
 ## Former Ankeng Execution Grounds (安坑刑場) (New Taipei City, Xindian District)
 - now: Xindian District Third Public Cemetery
