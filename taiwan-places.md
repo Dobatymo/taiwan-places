@@ -327,10 +327,6 @@
 - https://alex13wei.pixnet.net/blog/post/119858076
 - https://travel.hsinchu.gov.tw/En/attraction/content/eR6yPpEWLwYJ
 
-## New Tile House Hakka Cultural District (新瓦屋客家文化保存區) (Hsinchu County, Zhubei City)
-- [Google Maps](https://maps.app.goo.gl/ZQ7b2HfPzVziQQGB7)
-- https://www.hchcc.gov.tw/Tw/ArtMuseum/Detail?filter=ebc0a96c-8c36-4a9c-a922-1cebed00f385&id=311848cc-0e44-4bb2-9c59-186ad9510d34
-
 ## Niushan Huting (牛山呼庭) (Hualien County, Shoufeng Township)
 - [Google Maps](https://maps.app.goo.gl/GyRshXewAcqvqVLy5)
 - https://niou-shan.com/
@@ -1895,6 +1891,14 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q15228442)
 - [Facebook](https://www.facebook.com/ImageMuseumofHsinchuCity)
 - [Orphaned Nation](https://www.orphanednation.com/hsinchu-image-museum-%e6%96%b0%e7%ab%b9%e5%b8%82%e6%96%87%e5%8c%96%e5%b1%80%e5%bd%b1%e5%83%8f%e5%8d%9a%e7%89%a9%e9%a4%a8/)
+
+## New Tile House Hakka Cultural District (新瓦屋客家文化保存區) (Hsinchu County, Zhubei City)
+- aka: Hsinwawu Hakka Culture Conservation Area
+- [Google Maps](https://maps.app.goo.gl/ZQ7b2HfPzVziQQGB7)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%93%A6%E5%B1%8B%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E4%BF%9D%E5%AD%98%E5%8D%80)
+- [Wikidata](https://www.wikidata.org/wiki/Q120499232)
+- [SpectralCodex](https://spectralcodex.com/zhubei-xinwawu-hakka-cultural-district/)
+- https://www.hchcc.gov.tw/Tw/ArtMuseum/Detail?filter=ebc0a96c-8c36-4a9c-a922-1cebed00f385&id=311848cc-0e44-4bb2-9c59-186ad9510d34
 
 ## Qiumao Garden (秋茂園) (Miaoli County, Tongxiao Township)
 - [Google Maps](https://maps.app.goo.gl/scHJGbNT2gwrPKVv9)
