@@ -391,7 +391,7 @@
 - 2025-12-19 to 2026-10-26
 - Location: National Taiwan Museum-Railway Department Park
 - [Official (English)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50154&request_locale=en&useLanguage=en)
-- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50154)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50154&request_locale=tw&useLanguage=tw)
 - https://www.taiwan-museum.org.tw/achievement/%E3%80%8C%E6%B0%9B%E5%9C%8D%E5%9C%B0-%E5%BD%B1%E5%83%8F%E5%BB%BA%E7%AF%89%E3%80%8Datmospheric-filming-architecture/
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=23a4e9ad-1abc-4ae3-a587-8d6d197092e8&PageType=1)
 - type: exhibition
@@ -987,6 +987,16 @@
 - [Art Emperor 非池中](https://artemperor.tw/focus/7062)
 - type: photography exhibition
 
+## Beautiful Work: Czech Crafts Exhibition (絕美造物：捷克工藝與設計展) (Taipei City, Zhongzheng District)
+- 2026-04-02 to 2026-08-23
+- Location: [National Taiwan Craft Research and Development Institute Taipei Branch, 3F (國立臺灣工藝研究發展中心臺北當代工藝設計分館, 3樓)](https://maps.app.goo.gl/V9PGqRTv5TdDMDJT9)
+- Curator: Klára Hegerová
+- [Official (English)](https://www.ntcri.gov.tw/home/en-us/exhibition/7501973)
+- [Official (Chinese)](https://www.ntcri.gov.tw/home/zh-tw/exhibition/7501936)
+- [Ministry of Culture (Chinese)](https://www.moc.gov.tw/News_Content.aspx?n=105&s=253246)
+- [Ministry of Culture (English)](https://www.moc.gov.tw/en/News_Content2.aspx?n=468&s=253384)
+- type: craft and design exhibition
+
 ## 《Memoirs of Sakura》 A Jukebox Musical (音樂劇 《櫻子媽媽與她的三個男人》) (Taipei City, Shilin District)
 - 2026-04-03 to 2026-04-12
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
@@ -1031,6 +1041,38 @@
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=9ef16d50-fb35-4e66-bc60-de64a6c1dfaa&PageType=1)
 - type: photography solo exhibition
 
+## Thrust: Convergence and Expansion of the São Paulo Art Biennial through the NMH Collection (推力─巴西聖保羅雙年展的輻輳與擴散) (Taipei City, Zhongzheng District)
+- 2026-04-10 to 2026-05-31
+- Location: [National Museum of History, 1F (國立歷史博物館, 1樓)](https://maps.app.goo.gl/c6dubusRnCcMCDGG6)
+- [Official (English)](https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60032&request_locale=en&useLanguage=en)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60032&request_locale=tw&useLanguage=tw)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=33f4468a-a909-483c-994d-472989f28894&PageType=1)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=686faf5c-0438-411e-a4d9-9a7fe7cbdbbb&PageIndex=1&PageType=1)
+- [Ministry of Culture (Chinese)](https://www.moc.gov.tw/News_Content.aspx?n=105&s=253639)
+- [Art Emperor 非池中](https://artemperor.tw/focus/7081)
+- type: exhibition
+
+## Galloping: The Multifaceted Images of the Horse (馳騁─馬的多重形象) (Taipei City, Zhongzheng District)
+- 2026-04-10 to 2026-05-31
+- Location: [National Museum of History, 2F (國立歷史博物館, 2樓)](https://maps.app.goo.gl/c6dubusRnCcMCDGG6)
+- [Official (English)](https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60033&request_locale=en&useLanguage=en)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60033&request_locale=tw&useLanguage=tw)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=05befba4-0b3b-4f14-8820-8906e08ee3cd&PageType=1)
+- [Ministry of Culture (Chinese)](https://www.moc.gov.tw/News_Content.aspx?n=105&s=253639)
+- [Taipei Travel (English)](https://www.travel.taipei/en/activity/details/67106)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/activity/details/67105)
+- type: exhibition
+
+## "Still Thought. Living in the Present" Still Thought x Mark Lee Ping-Bing (「靜思・此刻」靜思語 × 李屏賓) (Taipei City, Zhongzheng District)
+- 2026-04-10 to 2026-06-14
+- Location: [Chiang Kai-shek Memorial Hall, Central Corridor (國立中正紀念堂, 中央通廊)](https://maps.app.goo.gl/TaUYd5nB6J6HeW93A)
+- Artist: Mark Lee Ping-Bing (李屏賓)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60727)
+- [Official venue news (Chinese)](https://www.cksmh.gov.tw/News_Content.aspx?n=6217&s=253943)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=fd736123-4a75-445d-b27f-0d449664cce1&PageType=1)
+- Organizer: 互愛人文志業股份有限公司
+- type: photography exhibition
+
 ## Imbued, Between Flower and Wind (沁風・花間) (Taipei City, Neihu District)
 - 2026-04-11 to 2026-05-16
 - Location: [Whitestone Gallery (白石畫廊)](https://maps.app.goo.gl/287M1ifd3Ha4xcSW6)
@@ -1045,6 +1087,17 @@
 - Artist: Peter Zimmermann (彼得．辛默曼)
 - [Official (English)](https://www.nunufineart.com/peter-zimmermann-painting-rules)
 - [Official (Chinese)](https://www.cn.nunufineart.com/peter-zimmermann-painting-rules)
+- type: solo exhibition
+
+## Shida KUO's Solo Exhibition (郭旭達個展) (Taipei City, Xinyi District)
+- 2026-04-11 to 2026-06-06
+- Location: [Eslite Gallery (誠品畫廊)](https://maps.app.goo.gl/nexh9Hm7FW7JsTLS6)
+- Artist: Shida KUO (郭旭達)
+- [Official (English)](https://viewingroom.eslitegallery.com/en/viewing-room/74-shida-kuos-solo-exhibition/)
+- [Official (Chinese)](https://viewingroom.eslitegallery.com/2026-shida-kuo/)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=cb93eb82-1b5f-415d-a20a-b3151747f1db&PageType=1)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19779)
+- style: clay, acrylic paint
 - type: solo exhibition
 
 ## Solitude (小孤獨，處) (Taipei City, Songshan District)
@@ -1102,6 +1155,16 @@
 - [Instagram Post](https://www.instagram.com/p/DWiAHkAD73v/)
 - Organizer: GIN HUANG Gallery (田奈藝術)
 - type: solo exhibition
+
+## Remote Viewing (遙視) (Taipei City, Da'an District)
+- 2026-04-18 to 2026-06-28
+- Location: [Museum of National Taipei University of Education (北師美術館)](https://maps.app.goo.gl/c1BwMibtLKHsZxaA9)
+- Curator: Alice Nien-pu KO (柯念璞)
+- [Official (English)](https://montue.ntue.edu.tw/en/remote-viewing/)
+- [Official (Chinese)](https://montue.ntue.edu.tw/%e9%81%99%e8%a6%96/)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=49f41e5e-ad84-465c-a6f2-414020394520&PageType=1)
+- [經濟日報 (Chinese)](https://money.udn.com/money/story/122328/9448756)
+- type: exhibition
 
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
 - 2026-04-21 to 2026-05-17
@@ -1172,6 +1235,25 @@
 - Artists: DAZHI (大志), Ding Hongdan (丁鴻丹), Jing Ao (經傲), Liang Yuanwei (梁遠葦), Wenjue (文爵), Xu Qu (徐渠)
 - [Official](https://eachmodern.com/exhibitions/90-intellectual-structures-trigger-judgment-and-decision/overview/)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19796)
+- type: exhibition
+
+## In the Course of Seven Days (七日談) (Taipei City, Datong District)
+- 2026-04-25 to 2026-07-05
+- Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
+- Artist: Tsai Pou-Ching (蔡咅璟)
+- [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/In%2Athe%2ACourse%2Aof%2ASeven%2ADays%EF%BC%8DTsai%2APou-Ching%2ASolo%2AExhibition)
+- [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E4%B8%83%E6%97%A5%E8%AB%87%E2%80%94%E8%94%A1%E5%92%85%E7%92%9F%E5%80%8B%E5%B1%95)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=5d934da8-2660-425f-b84d-fe25929d1a82&PageType=1)
+- type: solo exhibition
+
+## Surrealism: Worlds in Dialogue (超現實主義：對話中的世界) (Taipei City, Zhongshan District)
+- 2026-04-25 to 2026-08-30
+- Location: [Taipei Fine Arts Museum (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
+- [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=806&ddlLang=en-us)
+- [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=806&ddlLang=zh-tw)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d0cb0f52-edb6-41c8-a243-f1667fae1e4b&PageType=1)
+- [Taipei Travel (English)](https://www.travel.taipei/en/activity/details/67222)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/activity/details/67221)
 - type: exhibition
 
 ## Rukudo Nether Gate (六道鬼門) (Kaohsiung City, Yancheng District)
@@ -1304,6 +1386,23 @@
 - Location: [Taipei City Arts Promotion Office (臺北市藝文推廣處城市舞台)](https://maps.app.goo.gl/nPWpT9wzwUJEzHKM9)
 - [OPENTIX](https://www.opentix.life/event/2026937853279350784)
 - https://english.tapo.gov.taipei/News_Content.aspx?n=620B9FE39F9E3A6B&s=5CA32BBEE8FBA734
+
+## Young Folks: The World as an Aesthetic Membrane (Young Folks：世界是一片感知的膜) (Taipei City, Datong District)
+- 2026-05-23 to 2026-08-30
+- Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
+- [Official (English)](https://www.moca.taipei/en/ExhibitionAndEvent/Info/Young*Folks:*The*World*as*an*Aesthetic*Membrane)
+- [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Topic/C000004?ID=917dce8d-8bdb-49ed-bde2-7141d9198144&PageType=1)
+- Curator: CHU Feng-Yi (朱峯誼)
+- type: exhibition
+
+## The Prisoner's Dilemma of Memory (記憶的囚徒困境) (Taipei City, Datong District)
+- 2026-05-23 to 2026-08-30
+- Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
+- [Official (English)](https://www.moca.taipei/en/ExhibitionAndEvent/Info/The*Prisoner%E2%80%99s*Dilemma*of*Memory)
+- [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
+- Curator: WANG Rui-Xu (王叡栩)
+- type: exhibition
 
 ## Yuja Wang Piano Recital (王羽佳鋼琴獨奏會) (Kaohsiung City, Fengshan District)
 - 2026-05-27
