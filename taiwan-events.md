@@ -224,7 +224,7 @@
 
 ## 2025 Taipei Red Expo (2025台北國際成人展) (Taipei City, Nangang District)
 - 2025-08-08 to 2025-08-10
-- Location: Taipei Nangang Exhibition Center
+- Location: [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
 - [Official](https://www.adultexpo.com.tw/)
 - [Instagram](https://www.instagram.com/tretaipei/)
 - [Facebook](https://www.facebook.com/adultexpo.com.tw)
@@ -249,6 +249,7 @@
 
 ## 2025 Taipei Arts Festival (2025臺北藝術節) (Taipei City)
 - 2025-09-11 to 2025-09-28
+- Location: Taipei City
 - https://www.travel.taipei/en/event-calendar/details/63732
 - https://tpac.org.taipei/en/festival-taipei
 
@@ -260,6 +261,7 @@
 
 ## 2025 Beitou Art Festival (2025北投小戲節活動) (Taipei City, Beitou District)
 - 2025-10-20 to 2025-11-30
+- Location: Beitou District
 - https://linktr.ee/beitouartfestival
 - [Facebook](https://www.facebook.com/beitouartfestival/)
 - [ACCUPASS](https://www.accupass.com/event/2510190436041294210170)
@@ -324,6 +326,7 @@
 
 ## Taiwan Science Festival 2025 (臺灣科學節) (Taiwan)
 - 2025-11-08 to 2025-11-09, 2025-11-15 to 2025-11-16
+- Location: Taiwan
 - [Official](https://tsf.moe.edu.tw/)
 
 ## Mathew Lai: Concrete Drifter (黎國輝: 混凝土的人) (Taipei City, Da'an District)
@@ -364,7 +367,7 @@
 
 ## Open House Taipei 2025 (2025打開台北) (Taipei City & New Taipei City)
 - 2025-11-22 to 2025-11-23
-- Locations: Taipei & New Taipei
+- Location: Taipei City, New Taipei City
 - [Official](https://www.opentaipei.org/)
 - [Facebook](https://www.facebook.com/OpenHouseTaipei/)
 
@@ -569,7 +572,7 @@
 - type: exhibition
 
 ## Divine Doors, Hundred Faces - Hsia Yan's 70-Year Ton-Fan Legend (神門百顏－夏陽東方傳奇70載) (Taipei City, Xinyi District)
-- 2026-02-07 to to 2026-04-04
+- 2026-02-07 to 2026-04-04
 - Location: [Eslite Gallery (誠品畫廊)](https://maps.app.goo.gl/nexh9Hm7FW7JsTLS6)
 - Artist: HSIA Yan (夏陽)
 - [Official (English)](https://viewingroom.eslitegallery.com/en/viewing-room/73-divine-doors-hundred-faces-hsia-yans-70-year/)
@@ -1328,7 +1331,7 @@
 - Organizer: SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
 - type: trade show
 
-## 長榮大學書畫藝術學系第13屆畢業展「與時同釀」 (Kaohsiung City, Lingya District)
+## (長榮大學書畫藝術學系第13屆畢業展「與時同釀」) (Kaohsiung City, Lingya District)
 - 2026-05-01 to 2026-05-12
 - Location: [Kaohsiung Cultural Center, Jhih-Gao Gallery (高雄市文化中心, 至高館)](https://maps.app.goo.gl/PrZxV1BpuXNiFk3Y9)
 - https://event.moc.gov.tw/sp.asp?xdurl=ccEvent2016/ccEvent_cp.asp&cuItem=2854141&ctNode=676&mp=1
@@ -1602,8 +1605,10 @@
 ## 2026 Taipei Red Expo (2026TRE台北國際紅人展) (Taipei City, Nangang District)
 - aka: 台北國際成人展
 - 2026-07-03 to 2026-07-05
+- Location: [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
 - [Official](https://adultexpo.com.tw/)
 - https://jkface.net/redexpo/2026
+- [Instagram](https://www.instagram.com/tretaipei/)
 - [Instagram](https://www.instagram.com/tre_taipei/)
 - [Facebook](https://www.facebook.com/adultexpo.com.tw/)
 - [Threads](https://www.threads.com/@tretaipei)
