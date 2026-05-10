@@ -28,7 +28,7 @@
 ## Tadao Ando - Endeavors (挑戰—安藤忠雄展) (Taipei City, Xinyi District)
 - 2022-06-03 to 2022-09-13
 - Location: [Songshan Cultural and Creative Park, Warehouse No. 1 (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
-- [Official (English)](https://jam.jutfoundation.org.tw/en/exhibition/107/3547), [archive.today](https://archive.ph/Z3gIH)
+- [Official (English)](https://jam.jutfoundation.org.tw/en/exhibition/107/3547), [archive.today](https://archive.ph/Z3gIH), [Wayback Machine](https://web.archive.org/web/20220628174755/https://jam.jutfoundation.org.tw/en/exhibition/107/3547)
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/3500)
 - Organizers: Jut Art Museum, Tadao Ando Exhibition Committee
 - Co-Organizer: Tadao Ando Architect & Associates
@@ -189,6 +189,14 @@
 - [Facebook](https://www.facebook.com/TaipeiToyShow/)
 - type: trade show
 
+## Spirit of a Bronze Caster: Techniques from the Shang and Zhou Dynasties (鑄匠入魂──殷周青銅器的鑄造技術展) (Taipei City, Nangang District)
+- 2025-06-07 to 2026-06-07
+- Location: [Museum of the Institute of History and Philology, 1F (歷史文物陳列館, 一樓)](https://maps.app.goo.gl/jc2tsVHn4YuG15bp9)
+- [Official (English)](https://museum.sinica.edu.tw/en/exhibitions/167/), [archive.today](https://archive.ph/1g4Er)
+- [Official (Chinese)](https://museum.sinica.edu.tw/exhibitions/167/)
+- [GPI 政府出版品資訊網 (Chinese)](https://gpi.culture.tw/books/1011400510)
+- type: exhibition
+
 ## The Discovery of Rhinoceroses in Taiwan (臺灣有犀 特展) (Taipei City, Zhongzheng District)
 - 2025-06-17 to 2026-05-31
 - Location: [National Taiwan Museum (國立臺灣博物館)](https://maps.app.goo.gl/qsjiHY15FEBzG5L27)
@@ -205,6 +213,14 @@
 - [Official (English)](https://ncpi.ntmofa.gov.tw/en/News_Content_OnlineExhibitionPic.aspx?n=8102&s=238417)
 - [Official (Chinese)](https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8007&s=238381)
 - type: photography exhibition
+
+## Speak for ITself: Object Theatre Special Exhibition (「耍物仔Sńg mih-á 」物件劇場特展) (Taipei City, Songshan District)
+- 2025-07-25 to 2026-06-28
+- Location: [Puppetry Art Center of Taipei (台北偶戲館)](https://maps.app.goo.gl/GYffi4XzW4SeFwct8)
+- [Official (Chinese)](https://www.pact.taipei/exhibitionCT.aspx?id=1826), [archive.today](https://archive.md/9xifh)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=dd629306-2b30-43c9-83a2-0cb695a6b9ad&PageType=1)
+- Curator (策展人): Tsai Yi-Wei (蔡易衛)
+- type: exhibition
 
 ## 2025 Taipei Red Expo (2025台北國際成人展) (Taipei City, Nangang District)
 - 2025-08-08 to 2025-08-10
@@ -326,7 +342,7 @@
 
 ## 2025 Meet Taipei (創新創業嘉年華) (Taipei City, Zhongshan District)
 - 2025-11-20 to 2025-11-22
-- Location: [Taipei Expo Dome](https://maps.app.goo.gl/2Xyy5SrWhcoi5Nsa9)
+- Location: [Taipei Expo Park, EXPO Dome (花博公園, 爭艷館)](https://maps.app.goo.gl/2Xyy5SrWhcoi5Nsa9)
 - [Official](https://meettaipei.tw/en)
 - https://startup.taipei/2025-startup-taipei-pavilion/
 
@@ -447,10 +463,17 @@
 ## ONE PIECE EMOTION (航海王動畫25週年紀念特展) (Taipei City, Shilin District)
 - 2026-01-10 to 2026-04-06
 - Location: [National Taiwan Science Education Center, 7th Floor South (國立臺灣科學教育館 7樓南側特展室)](https://maps.app.goo.gl/Rsk5wvxmLh1nUjFQ6)
-- [Official](https://www.mediasphere.com.tw/exhibitions/117)
+- [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/117)
 - [Facebook](https://www.facebook.com/opem25/)
 - [Instagram](https://www.instagram.com/opem25_taipei)
 - https://www.momokids.com.tw/activity-view.php?infoid=346&qpmid=0&page=3&pgname=&lmenuid=3&smenuid=0&tmenuid=0
+
+## Approaching National Treasures: Small Marble Sculpture of a Standing Owl (親近國寶──大理石梟形小立雕) (Taipei City, Nangang District)
+- 2026-01-10 to 2026-07-12
+- Location: [Museum of the Institute of History and Philology, 1F (歷史文物陳列館, 一樓)](https://maps.app.goo.gl/jc2tsVHn4YuG15bp9)
+- [Official (English)](https://museum.sinica.edu.tw/en/exhibitions/185/), [archive.today](https://archive.ph/aQ2uv)
+- [Official (Chinese)](https://museum.sinica.edu.tw/exhibitions/185/)
+- type: exhibition
 
 ## World Ancient Civilizations Immersive Experience Exhibition (世界古文明 沉浸體驗展) (Taipei City, Zhongzheng District)
 - 2026-01-15 to 2026-04-19
@@ -481,7 +504,7 @@
 - 2026-01-17 to 2027-02-21
 - Location: [Guandu Wharf Container Market (關渡碼頭貨櫃市集)](https://maps.app.goo.gl/U2SvXv2sc1gCifJn9)
 - Organizer: Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
-- [Official](https://www.mediasphere.com.tw/exhibitions/119)
+- [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/119)
 - [Instagram](https://www.instagram.com/dinosaurscometolife)
 - [Facebook](https://www.facebook.com/dinosaurscometolife/)
 - https://dina.tw/jurassic-world/
@@ -504,6 +527,16 @@
 - [Instagram](https://www.instagram.com/taipeigameshow/)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Game_Show)
 - type: trade show
+
+## The Lost Pharaohs: The Great Pyramid of Giza VR Immersive Experience (消失的法老 古夫金字塔 VR 沉浸體驗) (Taipei City, Xinyi District)
+- 2026-01-29 to 2026-09-28
+- Location: [Songshan Cultural and Creative Park (松山文創園區, 東向製菸工廠二樓)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- [Official (Chinese)](https://www.mediasphere.com.tw/events/271), [archive.today](https://archive.ph/au0ox)
+- [Songshan Cultural and Creative Park (Chinese)](https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2), [archive.today](https://archive.ph/j3cLv)
+- [kkday (English)](https://www.kkday.com/en/product/549777)
+- [kkday (Chinese)](https://www.kkday.com/zh-tw/product/549777)
+- [Instagram Post (xrplayhouse)](https://www.instagram.com/p/DViDINPjEk0/)
+- type: vr experience
 
 ## Much Ado About Nothing (威廉·赫曼個展) (Taipei City, Zhongshan District)
 - 2026-01-31 to 2026-03-14
@@ -999,7 +1032,7 @@
 
 ## 《Memoirs of Sakura》 A Jukebox Musical (音樂劇 《櫻子媽媽與她的三個男人》) (Taipei City, Shilin District)
 - 2026-04-03 to 2026-04-12
-- Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1409)
 - [Official (Chinese)](https://tpac.org.taipei/program/1409)
 - [OPENTIX](https://www.opentix.life/event/2010918648857628673)
@@ -1189,11 +1222,13 @@
 - Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
 - [Official (English)](https://www.tage.com.tw/en)
 - [Official (Chinese)](https://www.tage.com.tw/)
+- [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=27943)
+- [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=27943)
 - https://www.agisgame.com.tw/news_info.asp?id=2831&lang=en
 - https://www.agisgame.com.tw/news_info.asp?id=2831&lang=tw
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taiwan_Amusement_and_Gaming_Expo)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E6%A9%9F%E5%9C%8B%E9%9A%9B%E7%94%A2%E6%A5%AD%E5%B1%95)
-- Organizer: Taiwan Amusement Machine Association, Taiwan Digital Entertainment Association
+- Organizer: Taiwan Amusement Machine Association (中華民國台灣商用電子遊戲機產業協會), Taiwan Digital Entertainment Association (台灣數位休閒娛樂產業協會)
 - Co-organizer: Hot Games Magazine
 - type: trade show
 
@@ -1276,10 +1311,21 @@
 - https://www.ncfta.gov.tw/News_Content3.aspx?n=2802&s=247685
 
 ## Taiwan International Architecture & Design Exhibition 2026 (2026台北建材展) (Taipei City, Xinyi District)
-- aka: TAD
+- aka: TAD, 31st Taipei Int'l Furniture Expo (第31屆台北國際優良家具暨家設計用品展), 2026 Taiwan Int'l Architecture & Design & Building Material Expo (2026台灣國際建築、建材、廚具空間設計展)
 - 2026-05-01 to 2026-05-04
-- Location: [Taipei World Trade Center (台北世貿)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- Location: [Taipei World Trade Center (台北世貿, 一館1F)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - [Official (Chinese)](https://house-fair.top-link.com.tw/)
+- [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28186)
+- [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28186)
+- Organizer: Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
+- type: trade show
+
+## 2026 Taipei International Food and Catering Expo (2026台北食品暨特色美食國際博覽會) (Taipei City, Xinyi District)
+- 2026-05-01 to 2026-05-04
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 世貿一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- [TWTC (English)](https://www.twtc.com.tw/en/exhibition_More.aspx?id=28191&p=home)
+- [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_More.aspx?id=28191&p=home)
+- Organizer: SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
 - type: trade show
 
 ## 長榮大學書畫藝術學系第13屆畢業展「與時同釀」 (Kaohsiung City, Lingya District)
@@ -1321,6 +1367,14 @@
 - [Official (Chinese)](https://www.whitestone-gallery.com/zh-hant/blogs/gallery-exhibitions/tw-li-manjin-meng-yangyang-misha-052026)
 - type: exhibition
 
+## CYBERSEC 2026 (臺灣資安大會) (Taipei City, Nangang District)
+- 2026-05-05 to 2026-05-07
+- Location: [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
+- [Official (English)](https://cybersec.ithome.com.tw/en/2026)
+- [Official (Chinese)](https://cybersec.ithome.com.tw/2026/)
+- https://www.taipeitimes.com/News/taiwan/archives/2026/05/06/2003856839
+- type: cybersecurity conference, trade show
+
 ## Temple Taipei Presents: Vendex () (Taipei City, Xinyi District)
 - 2026-05-08
 - Location: [La Fin Taipei](https://maps.app.goo.gl/kVJUQMhuUs7GhMF66)
@@ -1332,10 +1386,26 @@
 - style: hard techno
 - type: DJ
 
+## DRT SHOW Taiwan 2026 (2026 台灣國際潛水暨度假觀光展) (Taipei City, Zhongshan District)
+- aka: Diving Resort Travel Expo Taiwan
+- 2026-05-08 to 2026-05-10
+- Location: [Taipei Expo Park, EXPO Dome (花博公園, 爭艷館)](https://maps.app.goo.gl/2Xyy5SrWhcoi5Nsa9)
+- [Official (English)](https://www.drtexpo.com/taiwan?lang=english)
+- [Official (Chinese)](https://www.drtexpo.com/taiwan?lang=traditional-chinese)
+- [Official news](https://www.drtexpo.com/news/2026-04-16)
+- [Taipei Expo Park (Chinese)](https://www.expopark.taipei/News_Photo_Content.aspx?n=247&s=4150), [archive.today](https://archive.ph/eVjKB)
+- Organizer: 易潛企業有限公司
+- type: trade show
+
 ## Boss, a bowl of plain noodles, please! (老闆～來碗陽春麵！) (Taipei City, Xinyi District)
+- aka: Boss, give me a bowl of plain noodles!
 - 2026-05-08 to 2026-05-24
 - Location: [PLAYground南村劇場](https://maps.app.goo.gl/1n7TAJU9kSzGsA3U8)
+- [Official (Chinese)](https://spring-river.com.tw/2026-noodle/), [archive.today](https://archive.ph/MgIDH)
 - https://www.playgrounddrama.com.tw/drama-info-1/2026ssycnoodles
+- [klook](https://www.klook.com/activity/152929-boss-one-bowl-of-plain-noodles-please/)
+- [kkday (English)](https://www.kkday.com/en/product/284572)
+- [kkday (Chinese)](https://www.kkday.com/zh-tw/product/284572)
 - type: musical
 
 ## HMWO Annual Concert <The Lord of the Rings> (新竹市立管樂團年度音樂會《魔戒-交響與配樂》) (Hsinchu City, North District)
@@ -1354,6 +1424,14 @@
 - [Official (Chinese)](https://www.tco.gov.taipei/News_Content.aspx?n=0D9B6F778A90E631&s=347ACF6C426ECB22), [archive.today](https://archive.ph/pL0uD)
 - [OPENTIX](https://www.opentix.life/event/1993271833349877761)
 - type: concert
+
+## 2026 CTBC Taipei 101 Run Up (2026 中國信託-台北101公益垂直馬拉松) (Taipei City, Xinyi District)
+- 2026-05-09
+- Location: [Taipei 101 (台北101)](https://maps.app.goo.gl/xL3AkfBMpWjUcoKS8)
+- [Official (English)](https://www.taipei101-runup.com.tw/en/)
+- [Official (Chinese)](https://www.taipei101-runup.com.tw/index.html)
+- [Towerrunning World Association](https://www.towerrunning.com/?post_type=race&p=40741)
+- type: sports, charity event
 
 ## Theatre of Dreams (潛夢劇場) (Kaohsiung City, Fengshan District)
 - 2026-05-09, 2026-05-10
@@ -1376,10 +1454,53 @@
 - Series: 動畫楽ノ祭
 - type: concert
 
-## Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
+## "Attack on Titan" Pop Up Shop (《進擊的巨人》快閃店) (Taipei City, Xinyi District)
+- 2026-05-12 to 2026-05-25
+- Location: [Songshan Cultural and Creative Park (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- [Songshan Cultural and Creative Park (Chinese)](https://www.songshanculturalpark.org/exhibition/activity/5d4cbe44-de4a-4480-ae12-5f7b4599598b)
+- [Instagram (anique.tw)](https://www.instagram.com/p/DYCBmTZjV7w/)
+- [Instagram (anique.tw)](https://www.instagram.com/p/DYD9ND2mb9h/)
+- type: pop-up store
+
+## ATLife 2026 Taiwan: Assistive Technology for Life (2026臺灣輔具暨長期照護大展) (Taipei City, Nangang District)
+- 2026-05-14 to 2026-05-17
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
+- [Official (English)](https://www.chanchao.com.tw/ATLife/en/)
+- [Official (Chinese)](https://www.chanchao.com.tw/ATLife/)
+- [Facebook](https://www.facebook.com/taiwan.atlife/)
+- [New Taipei City Assistive Technology Resources Center](https://atrc.aihsin.ntpc.gov.tw/NewsInfo/96), [archive.today](https://archive.ph/OgKfN)
+- Organizers: Taiwan Assistive Technology and Long-term Care Foundation, Chan Chao International Co., Ltd.
+- type: trade show
+
+## ΔDesignArt 2026: Crafting Asia (ΔDesignArt 2026 設計藝術展會) (Taipei City, Nangang District)
+- 2026-05-15 to 2026-05-17
+- Location: [The Place Taipei, 12F (南港老爺行旅, 12樓)](https://maps.app.goo.gl/TVZtmHeh842P8BpP8)
+- [Official (Chinese)](https://www.hotelroyal.com.tw/zh-tw/nangang/Exhibition/5440)
+- [Facebook Post (The Place Taipei 南港老爺行旅)](https://www.facebook.com/theplacetaipei/posts/1571106841690637)
+- https://www.instagram.com/p/DX8i3rPAOYd/
+- Organizer: The Place Taipei (南港老爺行旅)
+- Curators: Designsurfing (設計發浪), minari Brand & Culture Co., Ltd. (敏睿創意統合有限公司)
+- type: exhibition
+
+## 2026 Taipei Tourism Expo (2026台北國際觀光博覽會) (Taipei City, Xinyi District)
+- aka: TTE, The 20th Taipei Tourism Expo (第20屆台北國際觀光博覽會), 2026 Taipei Cross-Strait Tourism Expo, 2026 Taiwan Souvenir & Food Expo (2026台灣觀光特產暨美食展), 2026韓國旅遊博覽會
+- 2026-05-22 to 2026-05-25
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- [Official (English)](https://www.tte.tw/en)
+- [Official (Chinese)](https://www.tte.tw/)
+- [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28389)
+- [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28389)
+- Organizers: Taipei Association of Travel Agents, Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
+- type: trade show
+
+## 2026 Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
+- aka: 閱影展 - 2026台北文學季
 - 2026-05-22 to 2026-06-04
 - Location: Spot Taipei Cinema (光點台北電影院), Spot Huashan Cinema (光點華山電影館)
 - https://literature.festival.taipei/film-festival.html
+- https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AA68ED6A824B0459
+- https://giloo.ist/topics/67513
+- type: film festival, literature festival
 
 ## AIDA the Peking Opera (新編京劇《阿依達的愛》) (Taipei City, Songshan District)
 - 2026-05-23 to 2026-05-24
@@ -1429,6 +1550,29 @@
 - https://www.redhouse.taipei/newsCT.aspx?id=270
 - type: sketch comedy
 
+## HUNG DANCE Three Dance Works by Lai Hung-chung: Feline, Push and Pull, See You (賴翃中三舞作｜全新長篇 × 兩首獲國際肯定之作) (Taipei City, Shilin District)
+- 2026-05-30 to 2026-05-31
+- Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (English)](https://tpac.org.taipei/en/program/1563)
+- [Official (Chinese)](https://tpac.org.taipei/program/1563)
+- [Instagram (hungdancetaiwan)](https://www.instagram.com/p/DUUmLvIiS2P/)
+- [OPENTIX](https://www.opentix.life/event/2011030912341991424)
+- Choreographer: Lai Hung-chung (賴翃中)
+- Organizer: Hung Dance (翃舞製作)
+- type: dance
+
+## Valkyrie: Requiem{ut} (瓦爾基麗・安魂頌歌) (Taichung City, South District)
+- 2026-05-30 to 2026-05-31
+- Location: [Bureau of Cultural Heritage, Ministry of Culture (文化部文化資產局, 舞蹈排練室)](https://maps.app.goo.gl/YritJYEyK9GMkrTh9)
+- Performance: Open Theater Group (大開劇團)
+- [OPENTIX](https://www.opentix.life/event/2026237517079277569)
+- [Facebook Post (大開劇團 Open Theater Group)](https://www.facebook.com/opentheater/posts/1369855148507873)
+- [Facebook Post (大開劇團 Open Theater Group)](https://www.facebook.com/opentheater/posts/1415876550572399)
+- [Instagram Post (open_theater)](https://www.instagram.com/p/DX3mFkjgAP0/)
+- Organizer: Open Theater Group (大開劇團)
+- Sponsor: Ministry of Culture (文化部)
+- type: theatre
+
 ## COMPUTEX TAIPEI (台北國際電腦展) (Taipei City, Nangang District)
 - 2026-06-02 to 2026-06-05
 - Location: Taipei Nangang Exhibition Center Hall 1, Taipei Nangang Exhibition Center Hall 2
@@ -1448,7 +1592,7 @@
 - aka: Junji Ito Exhibition: Temptation
 - 2026-06-19 to 2026-09-28
 - Location: [Songshan Cultural and Creative Park, Warehouse No. 4 (松山文創園區 四號倉庫)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
-- [Official](https://www.mediasphere.com.tw/exhibitions/122)
+- [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/122)
 - [kkday (English)](https://www.kkday.com/en/product/579222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/579222)
 - Organizers: Kapok International, Shiki Multimedia, Asahi Shimbun (木棉花國際, 時藝多媒體, 朝日新聞社)

@@ -1524,6 +1524,7 @@
 - aka: 神秘星星洞穴, 寶敬献
 - located on: Teapot Mountain (茶壺山)
 - [Google Maps](https://maps.app.goo.gl/LTuBSt1WTKHhgu8u6)
+- [Wikidata](https://www.wikidata.org/wiki/Q139678772)
 - [Instagram](https://www.instagram.com/reels/DWu_SZVk8l4/)
 - [Instagram](https://www.instagram.com/reels/DXT3nzYkSpS/)
 - https://www.facebook.com/watch/?v=1731787728232590
@@ -1533,6 +1534,7 @@
 
 ## Guangwu Tunnel (光武坑道) (New Taipei City, Jinshan District)
 - [Google Maps](https://maps.app.goo.gl/vgaEbLMBqQamfxVQ9)
+- [Wikidata](https://www.wikidata.org/wiki/Q139678720)
 - https://taiwantour.net/jinshan-mystery/
 - https://home.gamer.com.tw/artwork.php?sn=6241486
 
@@ -1709,6 +1711,7 @@
 - [Google Maps (Park)](https://maps.app.goo.gl/9Sb1qs2heH1GttqW8)
 - [Google Maps (Station)](https://maps.app.goo.gl/WkW31P5MemonBoR97)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A0%B5%E8%BB%8A%E7%AB%99)
+- [Wikidata (current modern station)](https://www.wikidata.org/wiki/Q3334919)
 - [SpectralCodex](https://spectralcodex.com/qidu-railway-station/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/qidu)
 
@@ -2148,8 +2151,10 @@
 - categories: museum
 
 ## Qiaotou Sugar Factory | Sugar Industry Museum (橋頭糖廠 | 糖業博物館) (Kaohsiung City, Qiaotou District)
-- aka: Ciaotou Sugar Refinery
+- aka: Ciaotou Sugar Factory, Ciaotou Sugar Refinery, Taiwan Sugar Museum (台灣糖業博物館)
 - [Google Maps](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
+- [Wikidata (Ciaotou Sugar Factory)](https://www.wikidata.org/wiki/Q11121917)
+- [Wikidata (Taiwan Sugar Museum)](https://www.wikidata.org/wiki/Q101181344)
 - https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taiwan-sugar-museum)
 - https://filmkh.org/en/scene_detail?sc_sn=106
@@ -2254,6 +2259,7 @@
 
 ## Shuiyuan Market (水源市場) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/TbSYC4oEw8YARadv9)
+- [Wikidata](https://www.wikidata.org/wiki/Q139678674)
 - [SpectralCodex](https://spectralcodex.com/zhongzheng-shuiyuan-market/)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=5EED5B101DBC4834
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=610)
@@ -2282,6 +2288,7 @@
 
 ## Nanjichang Night Market (南機場夜市) (Taipei City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/NMk5kg4kxQ8BxMZo9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Nanjichang_Night_Market)
 - [Wikidata](https://www.wikidata.org/wiki/Q10908241)
 - https://eatingintaipei.com/nanjichang-night-market/
 - [TaiwanObsessed](https://www.taiwanobsessed.com/nanjichang-night-market-taipei/)
@@ -3255,10 +3262,11 @@
 - scheduled for demolition
 
 ## Nanjichang Community (南機場社區) (Taipei City, Zhongzheng District)
-- aka: 南機場國民住宅
+- aka: Nanjichang Public Housing (南機場國民住宅)
 - [Google Maps (南機場公寓國民住宅)](https://maps.app.goo.gl/UJwbJ6ENNkSB1v4W8)
 - [Google Maps (南機場：第3期)](https://maps.app.goo.gl/Cz5SmND3kLrDfiTR9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A9%9F%E5%A0%B4%E5%9C%8B%E6%B0%91%E4%BD%8F%E5%AE%85)
+- [Wikidata](https://www.wikidata.org/wiki/Q19852010)
 - [Josh Ellis](https://www.goteamjosh.com/blog/nanjichang)
 - [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2018/5/2/lanzhou-street-and-taiwans-2nd-generation-market-buildings)
 - https://nookcity.tw/South-Airport-Apartments_history.html
@@ -3266,13 +3274,17 @@
 - categories: community, condominium complex
 
 ## Gongguan (公館) (Taipei City, Zhongzheng District)
-- [Wikipedia (English)](https://en.wikipedia.org/wiki/Gongguan,_Taipei)
 - [Google Maps](https://maps.app.goo.gl/fgvfTUno1fHaAfrG9)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Gongguan,_Taipei)
+- [Wikidata](https://www.wikidata.org/wiki/Q5364039)
 
 - categories: commercial area
 
 ## Xinwei Market Building (信維整宅) (Taipei City, Da'an District)
-- aka: Xinwei Market, 信維市場, 信維大樓
+- aka: 信維大樓
+- contains: Xinwei Market (信維市場)
+- [Google Maps (Xinwei Market)](https://maps.app.goo.gl/HD6f7KJNQimmp6gSA)
+- [Wikidata (Xinwei Market)](https://www.wikidata.org/wiki/Q139678619)
 - [SpectralCodex](https://spectralcodex.com/daan-xinwei-public-housing/)
 - https://english.cw.com.tw/article/article.action?id=3419
 - https://www.twreporter.org/a/taipei-older-multi-family-dwelling
