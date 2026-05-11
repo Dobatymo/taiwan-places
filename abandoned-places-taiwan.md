@@ -120,6 +120,40 @@
 - [Facebook Page](https://www.facebook.com/pages/%E6%9C%A8%E6%9F%B5%E5%85%89%E6%98%8E%E6%88%B2%E9%99%A2/140711575990680/)
 - [Facebook](https://www.facebook.com/GuangMingXiYuan/)
 
+## Miramar Theater (美麗華戲院) (New Taipei City, Yonghe District)
+- aka: 永和美麗華, Melihua Cinema
+- located in: Yongli Market (永利市場)
+- [Google Maps](https://maps.app.goo.gl/uY2cLhfxEUzdxoBZ7)
+- [SpectralCodex](https://spectralcodex.com/yonghe-miramar-theater/)
+- https://www.threads.com/@freyamom/post/DYHfrnkCUh1
+- [WordPress (wuyidr)](https://wuyidr.wordpress.com/2007/09/12/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1%E6%88%B2%E9%99%A2%E5%A4%A7%E4%BA%A8-%E5%BB%96%E6%B2%BB%E5%BE%B7/), [archive.today](https://archive.md/s4FEu)
+- https://www.facebook.com/groups/2840746989582243/permalink/4179562465700682/
+- https://www.ptt.cc/bbs/ShuangHe/M.1568205977.A.2A7.html
+- https://www.ptt.cc/man/ShuangHe/D674/DBD3/D305/M.1267805104.A.9E2.html
+- http://bbs.atmovies.com.tw/bbs//bbs.cfm?action=view&c=104&s=73170&sa=t02f21&page=1
+- https://web.archive.org/web/20100126093356/http://udn.com/NEWS/DOMESTIC/DOM2/5382867.shtml
+
+- closed 2010
+
+## Fuhe Theater (福和大戲院) (New Taipei City, Yonghe District)
+- aka: 福和戲院
+- located in: Yonghe Chenggong Market (永和成功市場)
+- [Google Maps](https://maps.app.goo.gl/vk7wVUwwKh9z4naP7)
+- [SpectralCodex](https://spectralcodex.com/yonghe-fuhe-theater/)
+- https://taiwantravelforever.blogspot.com/2025/08/goodbyedragoninn.html
+- https://suling213.blogspot.com/2008/06/blog-post.html
+- https://suling213.blogspot.com/2008/12/blog-post.html
+- [Instagram (crain67183)](https://www.instagram.com/p/DEUIpqqp83G/)
+- https://twdramaloc.blogspot.com/2025/05/234FuheTheater.html
+- [WordPress (Pepology)](https://lenpep.wordpress.com/2018/02/01/fuhe-grand-theatre-%E7%A6%8F%E5%92%8C%E5%A4%A7%E6%88%B2%E9%99%A2/)
+- https://www.flickr.com/photos/csdido/albums/72157649760208762/
+- https://www.flickr.com/photos/truebritishmetal/albums/72177720330116918/
+- https://film-pilgrimage.com/2017/05/17/%E7%A6%8F%E5%92%8C%E5%A4%A7%E6%88%B2%E9%99%A2-%E4%B8%8D%E6%95%A3%E7%9A%84%E6%83%85%E6%87%B7/
+- https://www.ptt.cc/bbs/ShuangHe/M.1266144400.A.173.html
+- https://www.mnews.tw/story/20211115sot18014
+
+- closed in 2002 (according to "Pepology")
+
 ## Green Mansion (汐止豪宅廢墟) (New Taipei City, Xizhi District)
 - aka: Liu Jiachang Mansion, 劉家昌別墅, 劉家昌豪宅
 - [Google Maps](https://maps.app.goo.gl/DugNcduLfJGPvSiZ8)
@@ -249,6 +283,7 @@
 - [FoodBaby](https://foodbabytw.com/2018/10/15/abandoned-ufo-houses-sanzhi-pods-wanli-taipei/)
 - [廃墟検索地図](https://haikyo.info/s/14450.html)
 - [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157705106840514/)
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2019/01/abandoned-places-ufo-village.html)
 
 ## Sanzhi Beihai Resort Center (三芝北海度假中心) (New Taipei City, Sanzhi District)
 - [Google Maps](https://maps.app.goo.gl/p6iXWVv4eUZrcHcX6)

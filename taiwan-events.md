@@ -182,6 +182,15 @@
 - [Official](https://taiwanadultexpo.com)
 - type: trade show
 
+## How Many Tildes Is Just Right? (幾個波浪號才對～？) (Taipei City, Wanhua District)
+- 2025-04-19 to 2025-05-18
+- Location: [Bopiliao Historical Block (剝皮寮歷史街區)](https://maps.app.goo.gl/aFBusztCe1urrBHy8)
+- Organizer: 臺北市政府文化局
+- https://www.bopiliao.taipei/Event_News/Detail/646
+- https://www.instagram.com/p/DHyL8MEtLkK/
+- https://www.playdesignlab.com/works/tildes
+- Series: 2025臺北文學季特展
+
 ## TAIPEI TOY SHOW (台北國際潮流玩具、授權展) (Taipei City, Xinyi District)
 - 2025-05-30 to 2025-06-02
 - Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
@@ -646,6 +655,7 @@
 - 2026-03-06 to 2026-06-28
 - Location: [PLAYground南村劇場](https://maps.app.goo.gl/1n7TAJU9kSzGsA3U8)
 - [Official (Chinese)](https://www.playgrounddrama.com.tw/drama-info-1/2026lpc)
+- Production (出品製作): Activa Productions (活性界面製作)
 - Language: English
 - Subtitles: Mandarin
 - type: musical
@@ -731,7 +741,7 @@
 - Location: [UP Gallery (絕版影像館)](https://maps.app.goo.gl/kQEMwuLaoAymWkHd9)
 - Artist: Jess LAU Ching-Wa (劉清華)
 - [Official (English)](https://uniquephoto.com.tw/en/portfolio-item/a-conversation-between-ashes-and-a-pebble-jess-lau-ching-was-solo-exhibition/)
-- [Official (Chinese)](https://uniquephoto.com.tw/portfolio-item/%e7%81%b0%e7%87%bc%e8%88%87%e4%b8%80%e9%a1%86%e5%8d%b5%e7%9f%b3%e7%9a%84%e5%b0%8d%e8%ab%87%ef%bc%9a%e5%8a%89%e6%b8%85%e8%8f%af-%e5%80%8b%e5%b1%95/)
+- [Official (Chinese)](https://uniquephoto.com.tw/portfolio-item/%E7%81%B0%E7%87%BC%E8%88%87%E4%B8%80%E9%A1%86%E5%8D%B5%E7%9F%B3%E7%9A%84%E5%B0%8D%E8%AB%87%EF%BC%9A%E5%8A%89%E6%B8%85%E8%8F%AF-%E5%80%8B%E5%B1%95/)
 - type: solo exhibition
 
 ## Fibers of Witness (纖維的見證) (Taipei City, Beitou District)
@@ -929,6 +939,7 @@
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/5428)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19553)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=3467a023-7f0a-4b17-b978-20925a891df8&PageType=1)
+- https://artemperor.tw/focus/7042
 - Co-curated by Nobuo Takamori and Jut Art Museum team
 - type: exhibition
 
@@ -957,6 +968,15 @@
 - [Official](https://www.taipeicycle.com.tw/en/index.html)
 - [Facebook](https://www.facebook.com/taipeicycle/)
 - type: trade show
+
+## Sachiket () (Taipei City, Xinyi District)
+- 2026-03-25 to 2026-05-25
+- Location: [Contemporary by U](https://maps.app.goo.gl/6fTnwHARWhzxtXLEA)
+- Artist: Haydonna
+- https://contemporarybyu.com/pages/sachiket
+- https://www.accupass.com/event/2603120722103532059370
+- https://www.instagram.com/p/DWGMf3gCdiR/
+- type: solo exhibition
 
 ## Taipei Fashion Week AW26 (AW26 臺北時裝週) (Taipei City, Xinyi District)
 - 2026-03-26 to 2026-03-29
@@ -1123,6 +1143,7 @@
 - Artist: Peter Zimmermann (彼得．辛默曼)
 - [Official (English)](https://www.nunufineart.com/peter-zimmermann-painting-rules)
 - [Official (Chinese)](https://www.cn.nunufineart.com/peter-zimmermann-painting-rules)
+- https://artemperor.tw/tidbits/19661
 - type: solo exhibition
 
 ## Shida KUO's Solo Exhibition (郭旭達個展) (Taipei City, Xinyi District)
@@ -1192,14 +1213,37 @@
 - Organizer: GIN HUANG Gallery (田奈藝術)
 - type: solo exhibition
 
+## Walking the Soil — What memories do you have of earth?{ut} (土步行——你有關土的記憶是？) (Taipei City, Wanhua District)
+- 2026-04-18 to 2026-05-17
+- Location: [Bopiliao Historical Block (剝皮寮歷史街區)](https://maps.app.goo.gl/aFBusztCe1urrBHy8)
+- Organizer: 臺北市政府文化局
+- https://www.bopiliao.taipei/Event_News/Detail/739
+- https://www.eslite.com/exhibitions/CU202604-00069
+- https://www.instagram.com/p/DWlmGOiDa0o/
+- Series: 2026臺北文學季特展
+- type: exhibition
+
+## FUTURE VISION LAB 2026 () (Taipei City, Da'an District)
+- 2026-04-18 to 2026-06-07
+- Location: [C-LAB FVL DOME, East Lawn (C-LAB 穹頂劇場, 東草坪)](https://maps.app.goo.gl/JAGf7N9XSh4rQHKdA)
+- https://fvl.clab.org.tw/festival/2026
+- https://clab.org.tw/events/fvl2026/
+- https://www.accupass.com/event/2603271003184551632480
+- https://www.shoppingdesign.com.tw/post/view/13389
+- https://www.instagram.com/p/DXMSM7EglcS/
+- https://artemperor.tw/focus/7085
+- style: digital art, experimental
+- type: exhibition, performance
+
 ## Remote Viewing (遙視) (Taipei City, Da'an District)
 - 2026-04-18 to 2026-06-28
 - Location: [Museum of National Taipei University of Education (北師美術館)](https://maps.app.goo.gl/c1BwMibtLKHsZxaA9)
 - Curator: Alice Nien-pu KO (柯念璞)
 - [Official (English)](https://montue.ntue.edu.tw/en/remote-viewing/)
-- [Official (Chinese)](https://montue.ntue.edu.tw/%e9%81%99%e8%a6%96/)
+- [Official (Chinese)](https://montue.ntue.edu.tw/%E9%81%99%E8%A6%96/)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=49f41e5e-ad84-465c-a6f2-414020394520&PageType=1)
 - [經濟日報 (Chinese)](https://money.udn.com/money/story/122328/9448756)
+- https://artemperor.tw/focus/7087
 - type: exhibition
 
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
@@ -1234,6 +1278,16 @@
 - Organizer: Taiwan Amusement Machine Association (中華民國台灣商用電子遊戲機產業協會), Taiwan Digital Entertainment Association (台灣數位休閒娛樂產業協會)
 - Co-organizer: Hot Games Magazine
 - type: trade show
+
+## Sesame Street Magical Art World (芝麻街・奇妙藝境) (Taipei City, Neihu District)
+- 2026-04-23 to 2026-06-07
+- Location: [Maison JE Taipei](https://maps.app.goo.gl/AzN5QPgUwa5Eqvnj8)
+- https://www.instagram.com/p/DWwFPlugWlD/
+- https://www.facebook.com/61564571597326/posts/122203649726485719/
+- https://www.shoppingdesign.com.tw/post/view/13385
+- https://www.marieclaire.com.tw/lifestyle/art/93053
+- Co-organizers: COEXIST 共凝文化, Sesame Street
+- type: exhibition
 
 ## Interwoven Landscapes (交織的風景) (Taoyuan City, Zhongli District)
 - 2026-04-24 to 2026-06-13
@@ -1292,6 +1346,7 @@
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d0cb0f52-edb6-41c8-a243-f1667fae1e4b&PageType=1)
 - [Taipei Travel (English)](https://www.travel.taipei/en/activity/details/67222)
 - [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/activity/details/67221)
+- https://artemperor.tw/focus/7098
 - type: exhibition
 
 ## Rukudo Nether Gate (六道鬼門) (Kaohsiung City, Yancheng District)
@@ -1338,6 +1393,16 @@
 - https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4282
 - https://www.instagram.com/p/DX0qXB0ifEZ/
 - Series: 2026青春美展
+
+## A Chair in the Room: Finn JUHL Early Collection (椅子的獨白：Finn JUHL 早期作品收藏展) (Taipei City, Da'an District)
+- 2026-05-01 to 2026-05-31
+- Location: [Light on Shining Town (光在錦町)](https://maps.app.goo.gl/hpXSBHHCtS5trMGG6)
+- Artist: Finn JUHL
+- Curator: ERIC H.
+- https://www.accupass.com/event/2603300222169856392440
+- https://www.instagram.com/p/DXJzvlwD1J3/
+- https://www.vogue.com.tw/article/a-chair-in-the-room-%E6%A4%85%E5%AD%90%E7%9A%84%E7%8D%A8%E7%99%BD-finn-juhl-%E5%85%89%E5%9C%A8%E9%8C%A6%E7%94%BA
+- https://www.mottimes.com/article/detail/6785
 
 ## Rukudo Nether Gate (六道鬼門) (Taipei City, Songshan District)
 - 2026-05-02
@@ -1434,6 +1499,7 @@
 - [Official (English)](https://www.taipei101-runup.com.tw/en/)
 - [Official (Chinese)](https://www.taipei101-runup.com.tw/index.html)
 - [Towerrunning World Association](https://www.towerrunning.com/?post_type=race&p=40741)
+- [Instagram (taipei_times)](https://www.instagram.com/reels/DYHglyTy24r/)
 - type: sports, charity event
 
 ## Theatre of Dreams (潛夢劇場) (Kaohsiung City, Fengshan District)
@@ -1444,6 +1510,13 @@
 - [Official (Chinese)](https://www.npac-weiwuying.org/programs/68e5fea51263250008babd80?lang=zh)
 - [OPENTIX](https://www.opentix.life/event/1986008100527099905)
 - [YouTube (Official Trailer)](https://www.youtube.com/watch?v=B4N0tAbDxPY)
+
+## Melted Memory, Fluid Form (融化的記憶，流動的形態) (Kaohsiung City, Sinsing District)
+- 2026-05-09 to 2026-05-16
+- Location: [Boxday gallery](https://maps.app.goo.gl/P5hoyU2Behj5yNWRA)
+- Artist: mon
+- https://www.instagram.com/p/DXQ7LRMkkIC/
+- type: solo exhibition
 
 ## Japanese Anime Symphonic Concert 3 (日本動漫交響音樂會3) (Kaohsiung City, Fengshan District)
 - 2026-05-09, 2026-05-10, 2026-08-01
@@ -1550,17 +1623,17 @@
 - [OPENTIX](https://www.opentix.life/event/2033756332093878273)
 - [Instagram Post (1911comedyforever)](https://www.instagram.com/p/DXjO_nNDScg/)
 - [Facebook Post (1911comedyforever)](https://www.facebook.com/1911comedyforever/posts/122211204578305587)
-- https://www.redhouse.taipei/newsCT.aspx?id=270
+- [西門紅樓 The Red House](https://www.redhouse.taipei/newsCT.aspx?id=270), [Wayback Machine](https://web.archive.org/web/20260511155655/https://www.redhouse.taipei/newsCT.aspx?id=270)
 - type: sketch comedy
 
-## HUNG DANCE Three Dance Works by Lai Hung-chung: Feline, Push and Pull, See You (賴翃中三舞作｜全新長篇 × 兩首獲國際肯定之作) (Taipei City, Shilin District)
+## Three Dance Works by LAI Hung-chung: Feline, Push and Pull, See You (賴翃中三舞作｜全新長篇 × 兩首獲國際肯定之作) (Taipei City, Shilin District)
 - 2026-05-30 to 2026-05-31
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1563)
 - [Official (Chinese)](https://tpac.org.taipei/program/1563)
 - [Instagram (hungdancetaiwan)](https://www.instagram.com/p/DUUmLvIiS2P/)
 - [OPENTIX](https://www.opentix.life/event/2011030912341991424)
-- Choreographer: Lai Hung-chung (賴翃中)
+- Choreographer: LAI Hung-chung (賴翃中)
 - Organizer: Hung Dance (翃舞製作)
 - type: dance
 
@@ -1582,6 +1655,17 @@
 - https://www.computextaipei.com.tw/en/index.html
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Computex)
 - type: trade show
+
+## Cosplay Universe 03 Expo (角色扮演宇宙: 獸) (Taipei City, Songshan District)
+- aka: CUE 03
+- 2026-06-13 10:00 to 2026-06-14 18:00
+- Location: [Red space多元商務空間](https://maps.app.goo.gl/M6pwEgFNaor9BYbA7)
+- https://cucu.one/events/cue-03
+- https://www.instagram.com/p/DX6fYSJgJsk/
+- https://www.instagram.com/reels/DW29GkPiLZl/
+- https://x.com/cu_verse/status/2037154109577716116
+- style: cosplay, anime, content creator
+- type: convention
 
 ## 2026 Taipei International Dragon Boat Championship (2026臺北國際龍舟錦標賽) (Taipei City, Zhongshan District)
 - 2026-06-19 to 2026-06-21
@@ -1622,6 +1706,20 @@
 - [Official (Chinese)](https://www.tide.com.tw/)
 - type: trade show
 
+## COMPANY () (Taichung City, Xitun District)
+- 2026-07-10 19:30, 2026-07-11 14:30, 2026-07-11 19:30, 2026-07-12 14:30
+- Location: [National Taichung Theater, Grand Theater (臺中國家歌劇院, 大劇院)](https://maps.app.goo.gl/fCjLrFgMu2naz7tXA)
+- https://www.npac-ntt.org/program/events/c-kboz8xw2UFj
+- https://www.npac-ntt.org/en/program/events/c-LY3fk9epR6F
+- https://www.opentix.life/event/2041405429645697025
+- https://www.instagram.com/p/DXJ9xwigRHk/
+- Co-Production (共同製作): National Taichung Theater (臺中國家歌劇院), Activa Productions (活性界面製作)
+- Language (發音): English (英語)
+- Subtitles (字幕): Chinese (中文)
+- Music and Lyrics (詞曲): Stephen SONDHEIM (史蒂芬．桑坦)
+- Director (導演): Amon MIYAMOTO (宮本亞門)
+- type: musical
+
 ## The Music of SQUARE ENIX - Magic, Memories, and Melodies () (Kaohsiung City, Yancheng District)
 - 2026-07-11
 - Location: [Kaohsiung Music Center (高雄流行音樂中心)](https://maps.app.goo.gl/kGmvE4Sd9nLf2m9n8)
@@ -1638,3 +1736,14 @@
 - Language: Mandarin
 - Subtitle: Mandarin
 - type: circus
+
+## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
+- 2026-09-16
+- Location: [廣藝廳](https://maps.app.goo.gl/9RNwgceRxiQATyzn7)
+- https://www.qaf.org.tw/news.php?act=view&id=278
+- https://www.qaf.org.tw/news.php?act=view&id=279
+- https://www.accupass.com/event/2604240700261872308455
+- https://docs.google.com/forms/d/e/1FAIpQLSdJEhHsvwgROYXXhZNNlS8Vw_4_rksUrMo3mmGV6MIDFrYwNQ/viewform
+- https://www.instagram.com/p/DX9AGXYjIAT/
+- https://music.thu.edu.tw/web/news/detail.php?id=2062
+- Organizer: Quanta Arts Foundation (廣藝基金會)

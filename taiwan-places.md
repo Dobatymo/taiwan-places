@@ -1707,6 +1707,34 @@
 
 - categories: historic site, fort
 
+## Fairy Cave (仙洞巖) / Xiandongyan Zuisheng Temple (仙洞巖最勝寺) (Keelung City, Zhongshan District)
+- aka: Xiandongyan
+- [Google Maps](https://maps.app.goo.gl/4acbjPvd9GfKAaY8A)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BB%99%E6%B4%9E%E5%B7%96)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Xian_Dong_Yan)
+- [Wikidata](https://www.wikidata.org/wiki/Q28416709)
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiandong)
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2018/11/the-fairy-cave-and-buddhas-hand-cave-of.html)
+- [SpectralCodex](https://spectralcodex.com/keelung-xiandongyan-zuisheng-temple/)
+- https://theericel.blogspot.com/2012/06/0463.html
+
+- categories: temple, cave
+
+## Buddha's Hand Cave (佛手洞) (Keelung City, Zhongshan District)
+- aka: Foshou Cave
+- [Google Maps](https://maps.app.goo.gl/Pk4U7X5fhCD4LKJ79)
+- [Google Maps](https://maps.app.goo.gl/shMzqcQBLbV4EqPD9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%89%8B%E6%B4%9E)
+- [Wikidata](https://www.wikidata.org/wiki/Q101419464)
+- [Instagram](https://www.instagram.com/reels/DVTTjEck1sZ/)
+- [Josh Ellis](https://www.goteamjosh.com/blog/xiandong)
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2018/11/the-fairy-cave-and-buddhas-hand-cave-of.html)
+- https://travel.klcg.gov.tw/en/TourContent.aspx?n=8888&s=739
+- [SpectralCodex](https://spectralcodex.com/keelung-buddhas-hand-cave/)
+- https://theericel.blogspot.com/2012/06/0463.html
+
+- categories: sea cave
+
 ## Qidu Railway Memorial Park (七堵鐵道紀念公園) / Old Qidu Train Station (舊七堵車站) (Keelung City, Qidu District)
 - [Google Maps (Park)](https://maps.app.goo.gl/9Sb1qs2heH1GttqW8)
 - [Google Maps (Station)](https://maps.app.goo.gl/WkW31P5MemonBoR97)
@@ -2155,13 +2183,23 @@
 - [Google Maps](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
 - [Wikidata (Ciaotou Sugar Factory)](https://www.wikidata.org/wiki/Q11121917)
 - [Wikidata (Taiwan Sugar Museum)](https://www.wikidata.org/wiki/Q101181344)
-- https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taiwan-sugar-museum)
 - https://filmkh.org/en/scene_detail?sc_sn=106
 - [Round Taiwan Round](https://www.rtaiwanr.com/kaohsiung/kaohsiung-city/taiwan-sugar-museum)
 - [Facebook](https://www.facebook.com/cctsr)
 
 - categories: museum, factory
+
+## Stone Temple (石頭廟) (Kaohsiung City, Tianliao District)
+- aka: 田寮慈玄聖天宮
+- [Google Maps](https://maps.app.goo.gl/dxHdFtV1fCacn1k69)
+- [Google Maps](https://maps.app.goo.gl/mDoSnTU2Mgiaz5RK8)
+- [Wikidata](https://www.wikidata.org/wiki/Q139741603)
+- [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2019/07/unusual-temple-of-kaohsiung-stone-temple.html)
+- https://khh.travel/zh-tw/attractions/detail/145/
+- [SpectralCodex](https://spectralcodex.com/tianliao-stone-temple/)
+- https://qwer6361154.webnode.tw/
 
 ## Paul Chiang Art Center (江賢二藝術園區) (Taitung County, Donghe Township)
 - [Google Maps](https://maps.app.goo.gl/Xppde5TgNYFj1yUd6)
@@ -2784,6 +2822,37 @@
 - [New Taipei City Travel (English)](https://newtaipei.travel/en/attractions/detail/112907)
 - [New Taipei City Travel (Chinese)](https://newtaipei.travel/zh-tw/attractions/detail/111421)
 - [踏青小攝手J.L.Do](https://youfuntaiwan.com/en/jinguashi-geopark/)
+
+## Zhucaotan Falls (豬槽潭瀑布) (New Taipei City, Shimen District)
+- located in: Laomei river (老梅溪)
+- [Google Maps](https://maps.app.goo.gl/mbm3j13B3yxsHCAC6)
+- [Wikidata](https://www.wikidata.org/wiki/Q139744416)
+- https://www.instagram.com/reels/DYB1ZUOS25-/
+- https://www.tonyhuang39.com/tony0178.html
+- https://iflipoutdoor.com/zh-tw/cart/27
+- https://www.klook.com/activity/45978-shimen-laomei-stream-river-tracing-experience/
+
+- categories: waterfall, natural pool
+
+## Qingshan Falls (青山瀑布) (New Taipei City, Shimen District)
+- [Google Maps](https://maps.app.goo.gl/iPWdZjrzesUpFpcw7)
+- [Wikidata](https://www.wikidata.org/wiki/Q111449539)
+- https://hikitty.tw/qingshan-waterfall/
+- https://www.northguan-nsa.gov.tw/user/article.aspx?Lang=1&SNo=04002495
+- https://www.shimen.ntpc.gov.tw/home.jsp?id=1746a22a2af02008&act=be4f48068b2b0031&dataserno=46e73bccc684c784af97071d5ddebf47
+- https://www.tonyhuang39.com/tony0178.html
+
+- categories: waterfall
+
+## Laomei Falls (老梅瀑布) (New Taipei City, Sanzhi District)
+- located in: Laomei river (老梅溪)
+- [Google Maps](https://maps.app.goo.gl/wD4k7Hk5dkKs5zdn7)
+- [Wikidata](https://www.wikidata.org/wiki/Q139744629)
+- https://hikitty.tw/qingshan-waterfall/
+- https://hopout.com.tw/location/1686493295539x530997064618475500
+
+- activities: river tracing
+- categories: waterfall
 
 ## Luodong Forestry Culture Park (羅東林業文化園區) (Yilan County, Luodong Township)
 - [Google Maps](https://maps.app.goo.gl/Rh8TobSsK2bR91dXA)
