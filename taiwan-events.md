@@ -10,7 +10,7 @@
 
 ## Taipei Game Show 2017 (台北國際電玩展2017) (Taipei City, Xinyi District)
 - 2017-01-19 to 2017-01-20 (B2B), 2017-01-20 to 2017-01-24 (B2C)
-- Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - https://international.thenewslens.com/article/60064
 - https://www.pocketgamer.biz/sponsored-taipei-game-show-2017-celebrates-15th-anniversary/
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Game_Show)
@@ -23,7 +23,7 @@
 - Curated by: Edward, I-Chien CHIU (邱奕堅)
 - [Official (English)](https://english.1839cg.com/archives/5108), [archive.today](https://archive.ph/PW89d)
 - [Official (Chinese)](https://www.1839cg.com/archives/5982)
-- type: photography solo exhibition
+- type: photography solo exhibition (攝影個展)
 
 ## Tadao Ando - Endeavors (挑戰—安藤忠雄展) (Taipei City, Xinyi District)
 - 2022-06-03 to 2022-09-13
@@ -177,8 +177,8 @@
 
 ## 2025 Taiwan Adult Expo (2025台灣成人展) (Taipei City, Xinyi District)
 - 2025-04-11 to 2025-04-13
-- Location: [TWTC Hall 1, Area C](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
-- Organizer: 博展國際有限公司
+- Location: [Taipei World Trade Center, Hall 1 Area C (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- Organizer: Paul Chan Exhibition Int'l Co., Ltd. (博展國際有限公司)
 - [Official](https://taiwanadultexpo.com)
 - type: trade show
 
@@ -191,9 +191,9 @@
 - https://www.playdesignlab.com/works/tildes
 - Series: 2025臺北文學季特展
 
-## TAIPEI TOY SHOW (台北國際潮流玩具、授權展) (Taipei City, Xinyi District)
+## TAIPEI TOY SHOW 2025 (2025台北國際潮流玩具、授權展) (Taipei City, Xinyi District)
 - 2025-05-30 to 2025-06-02
-- Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - https://tpe-toyshow.kje-event.com.tw/
 - [Facebook](https://www.facebook.com/TaipeiToyShow/)
 - type: trade show
@@ -226,7 +226,7 @@
 ## Speak for ITself: Object Theatre Special Exhibition (「耍物仔Sńg mih-á 」物件劇場特展) (Taipei City, Songshan District)
 - 2025-07-25 to 2026-06-28
 - Location: [Puppetry Art Center of Taipei (台北偶戲館)](https://maps.app.goo.gl/GYffi4XzW4SeFwct8)
-- [Official (Chinese)](https://www.pact.taipei/exhibitionCT.aspx?id=1826), [archive.today](https://archive.md/9xifh)
+- [Official (Chinese)](https://www.pact.taipei/exhibitionCT.aspx?id=1826), [archive.today](https://archive.ph/9xifh)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=dd629306-2b30-43c9-83a2-0cb695a6b9ad&PageType=1)
 - Curator (策展人): Tsai Yi-Wei (蔡易衛)
 - type: exhibition
@@ -238,6 +238,7 @@
 - [Instagram](https://www.instagram.com/tretaipei/)
 - [Facebook](https://www.facebook.com/adultexpo.com.tw)
 - [Facebook Event](https://www.facebook.com/events/700419072780716/)
+- Organizer (主辦單位): Lei Chi Technology Co., Ltd. (雷麒科技有限公司)
 - type: trade show
 
 ## 2025 Taiwan International Photography Festival (2025台灣國際攝影節) (Taipei City, Da'an District)
@@ -319,13 +320,13 @@
 - [Official](https://www.pinkoi.com/topic/pinkoi_designfest)
 - type: market
 
-## "Intimate Distance" by Aki Norton (青之距離, 諾頓·晶 攝影個展) (Taipei City, Da'an District)
+## Intimate Distance (青之距離, 諾頓·晶 ) (Taipei City, Da'an District)
 - 2025-11-07 to 2025-11-23
 - Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
 - Artist: Aki NORTON
 - [Official (English)](https://english.1839cg.com/archives/6105)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=4c8da09f-a7e5-4469-8b3b-72b8941a88fc&PageType=1)
-- type: photography exhibition
+- type: photography solo exhibition (攝影個展)
 
 ## Slow Film Festival - oneshot () (Taipei City, Songshan District)
 - 2025-11-08 19:00 to 21:00
@@ -382,7 +383,7 @@
 
 ## MOA Expo: Taiwan Military/Outdoor/Airsoft Exhibition (台灣國際軍事·戶外·玩具槍用品展) (Taipei City, Xinyi District)
 - 2025-11-28 to 2025-11-30
-- Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - [Official](https://moaexpo.info/)
 - type: trade show
 
@@ -391,6 +392,18 @@
 - Location: [Taipei Expo Park, Corridor Plaza](https://maps.app.goo.gl/dDRSxefeEaEs6DHZ9)
 - https://taiwan.ahk.de/en/events2/german-christmas-markets-2025
 - type: market
+
+## Projection: The Adult Empire Strikes Back (映畫—成人帝國的反擊) (Taipei City, Xinyi District)
+- 2025-12-01 to 2025-12-21
+- Location: [Neverland Gallery](https://maps.app.goo.gl/voFawn9GANMBzaj87)
+- Artist: Pigo LIN (林昭緯)
+- [Official (Chinese)](https://www.neverland.gallery/collections/projection-the-adult-empire-strikes-back-pigo-lin)
+- [Official (English)](https://www.neverland.gallery/en/collections/projection-the-adult-empire-strikes-back-pigo-lin), [Wayback Machine](https://web.archive.org/web/20260512011449/https://www.neverland.gallery/en/collections/projection-the-adult-empire-strikes-back-pigo-lin)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19244)
+- [ACCUPASS](https://www.accupass.com/event/2511291411172085630950)
+- https://www.facebook.com/gallery.neverland/posts/122224982684115811
+- https://www.instagram.com/p/DRhi3imEwTf/
+- type: solo exhibition
 
 ## Alexandre Desplat, Taipei Symphony Orchestra "From Paris to Hollywood" (從巴黎到好萊塢─亞歷山大‧戴斯培與TSO) (Taipei City, Shilin District)
 - 2025-12-05 to 2025-12-06
@@ -522,6 +535,8 @@
 - https://dina.tw/jurassic-world/
 - [klook](https://www.klook.com/activity/188369-dinosaur-resurrection-guandu-adventure-park/)
 - https://www.momokids.com.tw/activity-view.php?infoid=337&qpmid=0&page=2&pgname=&lmenuid=3&smenuid=0&tmenuid=0
+- [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=311)
+- type: theme park
 
 ## Enduring Fragrance: The Eastern Gouache Painting (Nihonga) Collection Exhibition of CHEN Shir-Juh (雋永的芬芳 陳石柱膠彩典藏展) (Hsinchu City, North District)
 - 2026-01-28 to 2026-05-08
@@ -533,7 +548,7 @@
 ## Taipei Game Show 2026 (台北國際電玩展2026) (Taipei City, Nangang District)
 - 2026-01-29 to 2026-02-01
 - Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
-- Organizer: Taipei Computer Association
+- Organizer: Taipei Computer Association (台北市電腦商業同業公會)
 - [Official (English)](https://tgs.tca.org.tw/index_e.php)
 - [Official (Chinese)](https://tgs.tca.org.tw/index_c.php)
 - [Instagram](https://www.instagram.com/taipeigameshow/)
@@ -642,7 +657,7 @@
 - Artist: Minae KAWADA (河田 美奈枝)
 - [Official (English)](https://english.1839cg.com/archives/6151)
 - [Official (Chinese)](https://www.1839cg.com/archives/8420)
-- type: photography solo exhibition
+- type: photography solo exhibition (攝影個展)
 
 ## 2026 Taipei Rose Festival (2026臺北玫瑰展) (Taipei City, Zhongshan District)
 - 2026-03-06 to 2026-04-06
@@ -673,7 +688,7 @@
 - Artist: WONG Wang-Chuen (黃弘川)
 - [Official (English)](https://www.galleryaki.com/en/exhibition/content/311)
 - [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/311)
-- type: photography solo exhibition
+- type: photography solo exhibition (攝影個展)
 
 ## Park Byung-Hoon Solo Exhibition (2026朴炳勳個展) (Taipei City, Beitou District)
 - 2026-03-07 to 2026-03-28
@@ -799,7 +814,7 @@
 - https://kdmofa.tnua.edu.tw/en/mod/exhibition/index.php?REQUEST_ID=e1626ae68798853bcff9a390f902a9dfe91603113e3865a324cf682dda77349b
 - https://kdmofa.tnua.edu.tw/mod/exhibition/index.php?REQUEST_ID=e1626ae68798853bcff9a390f902a9dfa7c8487677306c3f58ae856e6721c19a
 - https://www.ctbcculture.org/w/CTBCpaintingprize/Index
-- https://artemperor.tw/focus/6874
+- [Art Emperor 非池中](https://artemperor.tw/focus/6874)
 - https://w3.tnua.edu.tw/event/%E3%80%90%E5%B1%95%E8%A6%BD%E3%80%91%E7%AC%AC%E4%B8%89%E5%B1%86%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%95%B6%E4%BB%A3%E7%B9%AA%E7%95%AB%E7%8D%8E/
 - type: exhibition
 
@@ -939,7 +954,7 @@
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/5428)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19553)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=3467a023-7f0a-4b17-b978-20925a891df8&PageType=1)
-- https://artemperor.tw/focus/7042
+- [Art Emperor 非池中](https://artemperor.tw/focus/7042)
 - Co-curated by Nobuo Takamori and Jut Art Museum team
 - type: exhibition
 
@@ -962,8 +977,8 @@
 
 ## Taipei Cycle 2026 (台北國際自行車展) (Taipei City, Nangang District)
 - 2026-03-25 to 2026-03-28
-- Location: Taipei Nangang Exhibition Center Hall 1, Taipei Nangang Exhibition Center Hall 2
-- Organizer: Taiwan External Trade Development Council (TAITRA)
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7), [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
+- Organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會)
 - Co-organizer: Taiwan Bicycle Association (TBA)
 - [Official](https://www.taipeicycle.com.tw/en/index.html)
 - [Facebook](https://www.facebook.com/taipeicycle/)
@@ -974,7 +989,7 @@
 - Location: [Contemporary by U](https://maps.app.goo.gl/6fTnwHARWhzxtXLEA)
 - Artist: Haydonna
 - https://contemporarybyu.com/pages/sachiket
-- https://www.accupass.com/event/2603120722103532059370
+- [ACCUPASS](https://www.accupass.com/event/2603120722103532059370)
 - https://www.instagram.com/p/DWGMf3gCdiR/
 - type: solo exhibition
 
@@ -1095,7 +1110,7 @@
 - [Official (Chinese)](https://www.1839cg.com/archives/8441)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19761)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=9ef16d50-fb35-4e66-bc60-de64a6c1dfaa&PageType=1)
-- type: photography solo exhibition
+- type: photography solo exhibition (攝影個展)
 
 ## Thrust: Convergence and Expansion of the São Paulo Art Biennial through the NMH Collection (推力─巴西聖保羅雙年展的輻輳與擴散) (Taipei City, Zhongzheng District)
 - 2026-04-10 to 2026-05-31
@@ -1143,7 +1158,7 @@
 - Artist: Peter Zimmermann (彼得．辛默曼)
 - [Official (English)](https://www.nunufineart.com/peter-zimmermann-painting-rules)
 - [Official (Chinese)](https://www.cn.nunufineart.com/peter-zimmermann-painting-rules)
-- https://artemperor.tw/tidbits/19661
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19661)
 - type: solo exhibition
 
 ## Shida KUO's Solo Exhibition (郭旭達個展) (Taipei City, Xinyi District)
@@ -1171,7 +1186,7 @@
 - [Official (Chinese)](https://www.tco.gov.taipei/News_Content.aspx?n=0D9B6F778A90E631&s=24710EFD1A5B99CA)
 - [Facebook Post](https://www.facebook.com/bravoTCO/posts/1495753241910062?ref=embed_post)
 - [Instagram Post](https://www.instagram.com/p/DV5qZHpEn8b/)
-- https://www.opentix.life/event/1993268152944586753
+- [OPENTIX](https://www.opentix.life/event/1993268152944586753)
 - https://eventgo.tw/event/a39bd6fc-7a08-475d-bef7-27df92c8ad9d
 - Conductor: 黃光佑
 - type: concert
@@ -1228,10 +1243,10 @@
 - Location: [C-LAB FVL DOME, East Lawn (C-LAB 穹頂劇場, 東草坪)](https://maps.app.goo.gl/JAGf7N9XSh4rQHKdA)
 - https://fvl.clab.org.tw/festival/2026
 - https://clab.org.tw/events/fvl2026/
-- https://www.accupass.com/event/2603271003184551632480
+- [ACCUPASS](https://www.accupass.com/event/2603271003184551632480)
 - https://www.shoppingdesign.com.tw/post/view/13389
 - https://www.instagram.com/p/DXMSM7EglcS/
-- https://artemperor.tw/focus/7085
+- [Art Emperor 非池中](https://artemperor.tw/focus/7085)
 - style: digital art, experimental
 - type: exhibition, performance
 
@@ -1243,7 +1258,7 @@
 - [Official (Chinese)](https://montue.ntue.edu.tw/%E9%81%99%E8%A6%96/)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=49f41e5e-ad84-465c-a6f2-414020394520&PageType=1)
 - [經濟日報 (Chinese)](https://money.udn.com/money/story/122328/9448756)
-- https://artemperor.tw/focus/7087
+- [Art Emperor 非池中](https://artemperor.tw/focus/7087)
 - type: exhibition
 
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
@@ -1266,7 +1281,7 @@
 ## 2026 Taiwan Amusement & Gaming Expo (2026台灣電子遊戲機國際產業展) (Taipei City, Xinyi District)
 - aka: TAGE, GTI Asia Taipei Expo, GTI Taipei Show
 - 2026-04-23 to 2026-04-25
-- Location: [TWTC Exhibition Hall 1](https://maps.app.goo.gl/PdX34ED1KSXHG9DGA)
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - [Official (English)](https://www.tage.com.tw/en)
 - [Official (Chinese)](https://www.tage.com.tw/)
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=27943)
@@ -1346,7 +1361,7 @@
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d0cb0f52-edb6-41c8-a243-f1667fae1e4b&PageType=1)
 - [Taipei Travel (English)](https://www.travel.taipei/en/activity/details/67222)
 - [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/activity/details/67221)
-- https://artemperor.tw/focus/7098
+- [Art Emperor 非池中](https://artemperor.tw/focus/7098)
 - type: exhibition
 
 ## Rukudo Nether Gate (六道鬼門) (Kaohsiung City, Yancheng District)
@@ -1399,7 +1414,7 @@
 - Location: [Light on Shining Town (光在錦町)](https://maps.app.goo.gl/hpXSBHHCtS5trMGG6)
 - Artist: Finn JUHL
 - Curator: ERIC H.
-- https://www.accupass.com/event/2603300222169856392440
+- [ACCUPASS](https://www.accupass.com/event/2603300222169856392440)
 - https://www.instagram.com/p/DXJzvlwD1J3/
 - https://www.vogue.com.tw/article/a-chair-in-the-room-%E6%A4%85%E5%AD%90%E7%9A%84%E7%8D%A8%E7%99%BD-finn-juhl-%E5%85%89%E5%9C%A8%E9%8C%A6%E7%94%BA
 - https://www.mottimes.com/article/detail/6785
@@ -1607,7 +1622,7 @@
 - Piano: Yuja WANG (王羽佳)
 - [Official (English)](https://www.npac-weiwuying.org/programs/69aa46489e193900076e1c30?lang=en)
 - [Official (Chinese)](https://www.npac-weiwuying.org/programs/69aa46489e193900076e1c30?lang=zh)
-- https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1840VBT
+- [MNA牛耳藝術](https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1840VBT)
 
 ## The Threepenny Opera (柏林劇團《三便士歌劇》) (Taipei City, Shilin District)
 - 2026-05-29 to 2026-05-31
@@ -1625,6 +1640,18 @@
 - [Facebook Post (1911comedyforever)](https://www.facebook.com/1911comedyforever/posts/122211204578305587)
 - [西門紅樓 The Red House](https://www.redhouse.taipei/newsCT.aspx?id=270), [Wayback Machine](https://web.archive.org/web/20260511155655/https://www.redhouse.taipei/newsCT.aspx?id=270)
 - type: sketch comedy
+
+## Taipei International Toy Show 2026 (2026台北國際潮流玩具、授權展) (Taipei City, Xinyi District)
+- 2026-05-29 to 2026-06-01
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- https://tpe-toyshow.kje-event.com.tw/
+- https://sites.google.com/view/taipe-toyshow-international/
+- https://www.instagram.com/taipeitoyshow/
+- https://www.threads.com/@taipeitoyshow/post/DX6buR8gEvg
+- https://www.facebook.com/TaipeiToyShow/
+- [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=366)
+- Organizer (主辦單位): Kuei Jung Exhibition Co., Ltd. (揆眾展覽事業股份有限公司)
+- type: trade show
 
 ## Three Dance Works by LAI Hung-chung: Feline, Push and Pull, See You (賴翃中三舞作｜全新長篇 × 兩首獲國際肯定之作) (Taipei City, Shilin District)
 - 2026-05-30 to 2026-05-31
@@ -1651,10 +1678,24 @@
 
 ## COMPUTEX TAIPEI (台北國際電腦展) (Taipei City, Nangang District)
 - 2026-06-02 to 2026-06-05
-- Location: Taipei Nangang Exhibition Center Hall 1, Taipei Nangang Exhibition Center Hall 2
-- https://www.computextaipei.com.tw/en/index.html
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7), [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
+- [Official (English)](https://www.computextaipei.com.tw/en/index.html)
+- [Official (Chinese)](https://www.computextaipei.com.tw/zh-tw/index.html)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Computex)
+- Co-organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taipei Computer Association (台北市電腦商業同業公會)
 - type: trade show
+
+## Attack on Titan: Beyond the Walls World Tour (《進擊的巨人》Beyond the Walls世界巡演) (Tainan City, East District)
+- 2026-06-04 to 2026-06-07
+- Location: [Tainan Cultural Center, Performance Hall (臺南文化中心, 演藝廳)](https://maps.app.goo.gl/7vRui1n66zt4ZLAx5)
+- [MNA牛耳藝術](https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P18E9RA8)
+- [Official (English)](https://www.tmcc.gov.tw/En/Event/C020001/fab78049-c09f-42e5-9bb9-ae8437cc3d44), [Wayback Machine](https://web.archive.org/web/20260512020641/https://www.tmcc.gov.tw/En/Event/C020001/fab78049-c09f-42e5-9bb9-ae8437cc3d44)
+- [Official (Chinese)](https://www.tmcc.gov.tw/Event/C000014/fb10aa1d-8b46-4640-ba92-225fd02a9c00)
+- Organizer (主辦): MNA牛耳藝術
+- Producer (監製): Hiroyuki SAWANO (澤野弘之), Kohta YAMAMOTO (山本康太)
+- Director (指導): Kodansha Ltd., PONY CANYON INC., Sound of Faeries
+- Performance (演出): 《進擊的巨人》世界巡演 Live Band
+- type: concert
 
 ## Cosplay Universe 03 Expo (角色扮演宇宙: 獸) (Taipei City, Songshan District)
 - aka: CUE 03
@@ -1663,9 +1704,19 @@
 - https://cucu.one/events/cue-03
 - https://www.instagram.com/p/DX6fYSJgJsk/
 - https://www.instagram.com/reels/DW29GkPiLZl/
-- https://x.com/cu_verse/status/2037154109577716116
+- [X, formerly known as Twitter](https://x.com/cu_verse/status/2037154109577716116)
 - style: cosplay, anime, content creator
 - type: convention
+
+## Top Gun: Maverick in Concert (《捍衛戰士：獨行俠》電影交響音樂會) (Taipei City, Nangang District)
+- 2026-06-18 19:30, 2026-06-21 15:00
+- Location: [Taipei Music Center (臺北流行音樂中心, 表演廳)](https://maps.app.goo.gl/3exDxRgUoaMsawzZ6)
+- [MNA牛耳藝術](https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P184FH5B)
+- https://www.tmc.taipei/tw/blog/show/topgun2026
+- https://www.tmc.taipei/en/blog/show/topgun2026
+- Conductor (指揮): 鄭立彬
+- Organizer (主辦): MNA牛耳藝術
+- type: concert
 
 ## 2026 Taipei International Dragon Boat Championship (2026臺北國際龍舟錦標賽) (Taipei City, Zhongshan District)
 - 2026-06-19 to 2026-06-21
@@ -1686,22 +1737,32 @@
 - Co-organizers: New World Expo International (新世博國際), MOMO Family Channel (MOMO 親子台)
 - type: exhibition
 
+## Taichung International Auto Show 2026 (2026 TAS台中國際新車大展) (Taichung City, Xitun District)
+- 2026-06-26 to 2026-06-29
+- Location: [Taichung International Convention and Exhibition Center (臺中國際會展中心)](https://maps.app.goo.gl/NiUGuv1MnJqKTDqE7)
+- [Official](https://autoxmotoshow.kje-event.com.tw/), [archive.today](https://archive.ph/EeIMO)
+- [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=378), [Wayback Machine](https://web.archive.org/web/20260512003922/https://www.kje.com.tw/exhibition/ins.php?index_id=378)
+- https://www.facebook.com/GoodTCar/posts/1556355349825851
+- Organizer (主辦單位): 台中市汽車商業同業公會, Wei Dain Exhibition Co., Ltd. (威典展覽事業有限公司)
+- type: trade show
+
 ## 2026 Taipei Red Expo (2026TRE台北國際紅人展) (Taipei City, Nangang District)
 - aka: 台北國際成人展
 - 2026-07-03 to 2026-07-05
 - Location: [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
 - [Official](https://adultexpo.com.tw/)
-- https://jkface.net/redexpo/2026
+- [JKFace](https://jkface.net/redexpo/2026), [archive.today](https://archive.ph/99MJq)
 - [Instagram](https://www.instagram.com/tretaipei/)
 - [Instagram](https://www.instagram.com/tre_taipei/)
 - [Facebook](https://www.facebook.com/adultexpo.com.tw/)
 - [Threads](https://www.threads.com/@tretaipei)
+- Organizer (主辦單位): Lei Chi Technology Co., Ltd. (雷麒科技有限公司)
 - type: trade show
 
 ## Taiwan International Interior Design Expo 2026 (2026台灣國際室內設計博覽會) (Taipei City, Nangang District)
 - 2026-07-09 to 2026-07-12
-- Location: [Taipei Nangang Exhibition Center, Hall 1](https://maps.app.goo.gl/RtSXPwC2cwrAD5ue6)
-- Organizers: National Association of Interior Design ROC, Economic Daily News (United Daily News Group), HUNG KUAN SHIH YEH Co., Ltd.
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
+- Organizer: National Association of Interior Design ROC (中華民國室內設計裝修商業同業公會全國聯合會), Economic Daily News (United Daily News Group), Hung Kuan Shih Yeh Co., Ltd. (宏觀視野股份有限公司)
 - [Official (English)](https://www.tide.com.tw/en)
 - [Official (Chinese)](https://www.tide.com.tw/)
 - type: trade show
@@ -1711,7 +1772,7 @@
 - Location: [National Taichung Theater, Grand Theater (臺中國家歌劇院, 大劇院)](https://maps.app.goo.gl/fCjLrFgMu2naz7tXA)
 - https://www.npac-ntt.org/program/events/c-kboz8xw2UFj
 - https://www.npac-ntt.org/en/program/events/c-LY3fk9epR6F
-- https://www.opentix.life/event/2041405429645697025
+- [OPENTIX](https://www.opentix.life/event/2041405429645697025)
 - https://www.instagram.com/p/DXJ9xwigRHk/
 - Co-Production (共同製作): National Taichung Theater (臺中國家歌劇院), Activa Productions (活性界面製作)
 - Language (發音): English (英語)
@@ -1742,8 +1803,8 @@
 - Location: [廣藝廳](https://maps.app.goo.gl/9RNwgceRxiQATyzn7)
 - https://www.qaf.org.tw/news.php?act=view&id=278
 - https://www.qaf.org.tw/news.php?act=view&id=279
-- https://www.accupass.com/event/2604240700261872308455
+- [ACCUPASS](https://www.accupass.com/event/2604240700261872308455)
 - https://docs.google.com/forms/d/e/1FAIpQLSdJEhHsvwgROYXXhZNNlS8Vw_4_rksUrMo3mmGV6MIDFrYwNQ/viewform
 - https://www.instagram.com/p/DX9AGXYjIAT/
-- https://music.thu.edu.tw/web/news/detail.php?id=2062
+- [Tunghai University](https://music.thu.edu.tw/web/news/detail.php?id=2062)
 - Organizer: Quanta Arts Foundation (廣藝基金會)
