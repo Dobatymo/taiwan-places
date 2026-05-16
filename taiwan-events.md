@@ -14,7 +14,7 @@
 - https://international.thenewslens.com/article/60064
 - https://www.pocketgamer.biz/sponsored-taipei-game-show-2017-celebrates-15th-anniversary/
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Game_Show)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Architecture of Density (建築的密度) (Taipei City, Da'an District)
 - 2021-03-12 to 2021-04-25
@@ -96,7 +96,7 @@
 - Location: [Songshan Cultural and Creative Park (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
 - [Official](https://taiwanadultexpo.com)
 - [Facebook](https://www.facebook.com/adultexpo.taiwan/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Love Is In The Bin - Banksy (垃圾桶中的愛－班克斯) (Taipei City, Datong District)
 - 2023-07-01 to 2023-08-13
@@ -180,7 +180,7 @@
 - Location: [Taipei World Trade Center, Hall 1 Area C (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - Organizer: Paul Chan Exhibition Int'l Co., Ltd. (博展國際有限公司)
 - [Official](https://taiwanadultexpo.com)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## How Many Tildes Is Just Right? (幾個波浪號才對～？) (Taipei City, Wanhua District)
 - 2025-04-19 to 2025-05-18
@@ -196,7 +196,7 @@
 - Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - https://tpe-toyshow.kje-event.com.tw/
 - [Facebook](https://www.facebook.com/TaipeiToyShow/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Spirit of a Bronze Caster: Techniques from the Shang and Zhou Dynasties (鑄匠入魂──殷周青銅器的鑄造技術展) (Taipei City, Nangang District)
 - 2025-06-07 to 2026-06-07
@@ -239,7 +239,7 @@
 - [Facebook](https://www.facebook.com/adultexpo.com.tw)
 - [Facebook Event](https://www.facebook.com/events/700419072780716/)
 - Organizer (主辦單位): Lei Chi Technology Co., Ltd. (雷麒科技有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## 2025 Taiwan International Photography Festival (2025台灣國際攝影節) (Taipei City, Da'an District)
 - aka: TIPF
@@ -267,7 +267,7 @@
 - 2025-10-16 to 2025-10-19
 - Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
 - https://www.chanchao.com.tw/digital/
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Poetry on the Wall (牆上的詩) (Taipei City, Da'an District)
 - 2025-10-18 to 2025-12-20
@@ -393,7 +393,7 @@
 - 2025-11-28 to 2025-11-30
 - Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - [Official](https://moaexpo.info/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## German Christmas Markets 2025, Taipei Expo Park (德國商品 X 聖誕市集) (Taipei City, Zhongshan District)
 - 2025-11-28 to 2025-11-30
@@ -561,7 +561,7 @@
 - [Official (Chinese)](https://tgs.tca.org.tw/index_c.php)
 - [Instagram](https://www.instagram.com/taipeigameshow/)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taipei_Game_Show)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## The Lost Pharaohs: The Great Pyramid of Giza VR Immersive Experience (消失的法老 古夫金字塔 VR 沉浸體驗) (Taipei City, Xinyi District)
 - 2026-01-29 to 2026-09-28
@@ -789,6 +789,7 @@
 - [Official (English)](https://hong-gah.org.tw/en/hong-gah/tidal-weavers-en)
 - [Official (Chinese)](https://hong-gah.org.tw/hong-gah/tidal-weavers-ch)
 - https://www.travel.taipei/zh-tw/activity/details/67045
+- https://www.travel.taipei/en/activity/details/67046
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d5a48195-4d43-49c3-a39c-ebc1fa51c359&PageType=1)
 - [Instagram (honggahmuseum.tw)](https://www.instagram.com/p/DUr--bWCATq/)
 - type: exhibition
@@ -997,7 +998,7 @@
 - Co-organizer: Taiwan Bicycle Association (TBA)
 - [Official](https://www.taipeicycle.com.tw/en/index.html)
 - [Facebook](https://www.facebook.com/taipeicycle/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Sachiket () (Taipei City, Xinyi District)
 - 2026-03-25 to 2026-05-25
@@ -1045,6 +1046,16 @@
 - [Official (Chinese)](https://kishuan.org.tw/activity_detail1846.htm)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=c3daaea6-0a09-4b93-a042-e9248feecb7a&PageType=1)
 - https://fanye-art.com/letaoran/
+- type: exhibition
+
+## Inspiring Hope Through Action: Dr. Jane Goodall in Taiwan 1996-2025 (用行動點燃希望：珍古德博士在臺灣1996-2025特展) (Taipei City, Zhongzheng District)
+- 2026-03-27 to 2026-04-12
+- Location: [National Taiwan Museum Nanmen Branch, Little White House (國立臺灣博物館南門館, 小白宮)](https://maps.app.goo.gl/cEjSR3UEAkQ4oqzw7)
+- https://www.facebook.com/reel/2564211730667851
+- [Jane Goodall Institute Taiwan (臺灣珍古德協會)](https://goodall.org.tw/news/20260320-13022/), [archive.today](https://archive.ph/XkU3R)
+- https://artouch.com/artco-kids/content-204485.html
+- https://www.rti.org.tw/en/news?uid=3&pid=199686
+- https://www.rti.org.tw/news?uid=3&pid=199634
 - type: exhibition
 
 ## One Thousand and One Islands (一千零一島) (Taipei City, Zhongzheng District)
@@ -1107,7 +1118,7 @@
 - [Official](https://taiwanadultexpo.com)
 - [Instagram](https://www.instagram.com/taiwanadultexpo/)
 - [Facebook](https://www.facebook.com/adultexpo.taiwan/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Forms Emerging In-Between: Three Gestures of Landscape (形生其間 - 風景的三種姿態) (Taipei City, Da'an District)
 - 2026-04-10 to 2026-05-08
@@ -1307,7 +1318,7 @@
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E6%A9%9F%E5%9C%8B%E9%9A%9B%E7%94%A2%E6%A5%AD%E5%B1%95)
 - Organizer: Taiwan Amusement Machine Association (中華民國台灣商用電子遊戲機產業協會), Taiwan Digital Entertainment Association (台灣數位休閒娛樂產業協會)
 - Co-organizer: Hot Games Magazine
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Sesame Street Magical Art World (芝麻街・奇妙藝境) (Taipei City, Neihu District)
 - 2026-04-23 to 2026-06-07
@@ -1328,6 +1339,13 @@
 - https://www.facebook.com/tmofa10711/posts/1269975511890923
 - https://www.instagram.com/p/DXgQe73k_vO/
 - Curator: HSIEH Chia-Chuan (謝佳娟)
+- type: exhibition
+
+## Inspiring Hope Through Action: Dr. Jane Goodall in Taiwan 1996-2025 (用行動點燃希望：珍古德博士在臺灣1996-2025特展) (Hsinchu City, Xiangshan District)
+- 2026-04-24 to 2026-06-28
+- Location: [Xiangshan Wetland Marine Conservation Education Center (香山濕地海洋保育教育中心)](https://maps.app.goo.gl/vc4jywV7fWpL33SS7)
+- https://news.immigration.gov.tw/NewsSection/Detail/e2a0514a-730a-439e-9716-a98888099c25?lang=EN
+- https://news.immigration.gov.tw/NewsSection/Detail/e2a0514a-730a-439e-9716-a98888099c25?lang=TW
 - type: exhibition
 
 ## Plucking the Strings of the Cosmos A Soirée of Pipa Virtuosi (指上乾坤—琵琶名家之夜) (Taipei City, Zhongzheng District)
@@ -1406,7 +1424,7 @@
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28186)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28186)
 - Organizer: Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## 2026 Taipei International Food and Catering Expo (2026台北食品暨特色美食國際博覽會) (Taipei City, Xinyi District)
 - 2026-05-01 to 2026-05-04
@@ -1414,7 +1432,7 @@
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_More.aspx?id=28191&p=home)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_More.aspx?id=28191&p=home)
 - Organizer: SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## (長榮大學書畫藝術學系第13屆畢業展「與時同釀」) (Kaohsiung City, Lingya District)
 - 2026-05-01 to 2026-05-12
@@ -1483,7 +1501,7 @@
 - Location: [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
 - [Official (English)](https://cybersec.ithome.com.tw/en/2026)
 - [Official (Chinese)](https://cybersec.ithome.com.tw/2026/)
-- https://www.taipeitimes.com/News/taiwan/archives/2026/05/06/2003856839
+- [Taipei Times (English)](https://www.taipeitimes.com/News/taiwan/archives/2026/05/06/2003856839)
 - type: cybersecurity conference, trade show
 
 ## Temple Taipei Presents: Vendex () (Taipei City, Xinyi District)
@@ -1506,7 +1524,7 @@
 - [Official news](https://www.drtexpo.com/news/2026-04-16)
 - [Taipei Expo Park (Chinese)](https://www.expopark.taipei/News_Photo_Content.aspx?n=247&s=4150), [archive.today](https://archive.ph/eVjKB)
 - Organizer: 易潛企業有限公司
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Boss, a bowl of plain noodles, please! (老闆～來碗陽春麵！) (Taipei City, Xinyi District)
 - aka: Boss, give me a bowl of plain noodles!
@@ -1518,6 +1536,21 @@
 - [kkday (English)](https://www.kkday.com/en/product/284572)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/284572)
 - type: musical
+
+## Weavers of the Island (島嶼織者—國土生態綠網主題展) (Taipei City, Xinyi District)
+- aka: Taiwan Ecological Network: Where Nature and Humanity Aligned
+- 2026-05-08 to 2026-06-07
+- Location: [Taiwan Design Research Institute, Rooms 01 and 04 (台灣設計研究院, 01、04展間)](https://maps.app.goo.gl/ySY8761J3ca7qqqVA)
+- [Official (Chinese)](https://www.tdri.org.tw/zh-TW/news/701)
+- https://www.songshanculturalpark.org/exhibition/activity/c656c809-9c64-4c0b-9ed0-f0ea8001e9ee
+- [Taipei Times (English)](https://www.taipeitimes.com/News/taiwan/archives/2026/05/09/2003857035)
+- [Forestry and Nature Conservation Agency (Chinese)](https://www.forest.gov.tw/news/0078345)
+- https://www.instagram.com/p/DXiiQ8GkcGS/
+- https://www.instagram.com/p/DYESsWqEbss/
+- Organizer (主辦單位): Forestry and Nature Conservation Agency, Ministry of Agriculture (農業部林業及自然保育署)
+- Co-organizer (共同主辦單位): Industrial Development Administration, Ministry of Economic Affairs (經濟部產業發展署)
+- Supporting Organization (協辦單位): Taiwan Design Research Institute (台灣設計研究院)
+- type: exhibition
 
 ## HMWO Annual Concert <The Lord of the Rings> (新竹市立管樂團年度音樂會《魔戒-交響與配樂》) (Hsinchu City, North District)
 - 2026-05-09
@@ -1589,7 +1622,7 @@
 - [Facebook](https://www.facebook.com/taiwan.atlife/)
 - [New Taipei City Assistive Technology Resources Center](https://atrc.aihsin.ntpc.gov.tw/NewsInfo/96), [archive.today](https://archive.ph/OgKfN)
 - Organizers: Taiwan Assistive Technology and Long-term Care Foundation, Chan Chao International Co., Ltd.
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## ΔDesignArt 2026: Crafting Asia (ΔDesignArt 2026 設計藝術展會) (Taipei City, Nangang District)
 - 2026-05-15 to 2026-05-17
@@ -1618,7 +1651,7 @@
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28389)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28389)
 - Organizers: Taipei Association of Travel Agents, Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## 2026 Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
 - aka: 閱影展 - 2026台北文學季
@@ -1687,7 +1720,7 @@
 - https://www.facebook.com/TaipeiToyShow/
 - [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=366)
 - Organizer (主辦單位): Kuei Jung Exhibition Co., Ltd. (揆眾展覽事業股份有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Three Dance Works by LAI Hung-chung: Feline, Push and Pull, See You (賴翃中三舞作｜全新長篇 × 兩首獲國際肯定之作) (Taipei City, Shilin District)
 - 2026-05-30 to 2026-05-31
@@ -1730,7 +1763,7 @@
 - [Official (Chinese)](https://www.computextaipei.com.tw/zh-tw/index.html)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Computex)
 - Co-organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taipei Computer Association (台北市電腦商業同業公會)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Attack on Titan: Beyond the Walls World Tour (《進擊的巨人》Beyond the Walls世界巡演) (Tainan City, East District)
 - 2026-06-04 to 2026-06-07
@@ -1742,6 +1775,16 @@
 - Producer (監製): Hiroyuki SAWANO (澤野弘之), Kohta YAMAMOTO (山本康太)
 - Director (指導): Kodansha Ltd., PONY CANYON INC., Sound of Faeries
 - Performance (演出): 《進擊的巨人》世界巡演 Live Band
+- type: concert
+
+## Daniel Caesar - Son of Spergy Tour () (Taoyuan City, Zhongli District)
+- 2026-06-06
+- Location: [Messe Taoyuan (桃園會展中心)](https://maps.app.goo.gl/nDyonkyWbjJ6K2yx8)
+- https://www.livenation.com.tw/en/event/daniel-caesar-son-of-spergy-tour-taoyuan-tickets-edp1664515
+- https://www.livenation.com.tw/event/daniel-caesar-son-of-spergy-tour-taoyuan-tickets-edp1664515
+- https://tixcraft.com/activity/detail/26_dcaesar
+- Artist: Daniel Caesar (丹尼爾·西薩)
+- style: R&B
 - type: concert
 
 ## Cosplay Universe 03 Expo (角色扮演宇宙: 獸) (Taipei City, Songshan District)
@@ -1784,6 +1827,17 @@
 - Co-organizers: New World Expo International (新世博國際), MOMO Family Channel (MOMO 親子台)
 - type: exhibition
 
+## Smart Business & Logistics Asia 2026 (2026亞太智慧商業物流展) (Taoyuan City, Zhongli District)
+- 2026-06-23 to 2026-06-25
+- Location: [Messe Taoyuan (桃園會展中心)](https://maps.app.goo.gl/nDyonkyWbjJ6K2yx8)
+- [Official (English)](https://smartbusinesslogisticsasia.com/en/home/)
+- [Official (Chinese)](https://smartbusinesslogisticsasia.com/)
+- [Facebook](https://www.facebook.com/SmartBusinessLogisticsAsia/)
+- [Instagram Post (messetaoyuan)](https://www.instagram.com/p/DX-5G1qT5Xw/)
+- [Tickets (English)](https://ticket.intercon.com.tw/booking/intercon/event/696f81a48461cf540adde2c2-Smart+Business+%26+Logistics+Asia+2026)
+- [Tickets (Chinese)](https://ticket.intercon.com.tw/booking/intercon/event/696497148461cf540adde29c-2026%E4%BA%9E%E5%A4%AA%E6%99%BA%E6%85%A7%E5%95%86%E6%A5%AD%E7%89%A9%E6%B5%81%E5%B1%95)
+- type: trade show (貿易展覽會)
+
 ## Taichung International Auto Show 2026 (2026 TAS台中國際新車大展) (Taichung City, Xitun District)
 - 2026-06-26 to 2026-06-29
 - Location: [Taichung International Convention and Exhibition Center (臺中國際會展中心)](https://maps.app.goo.gl/NiUGuv1MnJqKTDqE7)
@@ -1791,7 +1845,16 @@
 - [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=378), [Wayback Machine](https://web.archive.org/web/20260512003922/https://www.kje.com.tw/exhibition/ins.php?index_id=378)
 - https://www.facebook.com/GoodTCar/posts/1556355349825851
 - Organizer (主辦單位): 台中市汽車商業同業公會, Wei Dain Exhibition Co., Ltd. (威典展覽事業有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
+
+## Wind Top Fest 3.0 (2026 風神音樂祭3.0) (Hsinchu County, Zhubei City)
+- 2026-06-27 to 2026-06-28
+- Location: [Hsinchu County Stadium (新竹縣立體育場)](https://maps.app.goo.gl/25N6DyAaHxEYhrgX6)
+- [klook](https://www.klook.com/zh-TW/activity/113768-wind-top-fest/)
+- [Instagram](https://www.instagram.com/windtopfest)
+- [Facebook](https://www.facebook.com/profile.php?id=61555819903429)
+- Organizer (主辦單位): Bamboo Crew
+- type: music festival (音樂節)
 
 ## 2026 Taipei Red Expo (2026TRE台北國際紅人展) (Taipei City, Nangang District)
 - aka: 台北國際成人展
@@ -1804,7 +1867,7 @@
 - [Facebook](https://www.facebook.com/adultexpo.com.tw/)
 - [Threads](https://www.threads.com/@tretaipei)
 - Organizer (主辦單位): Lei Chi Technology Co., Ltd. (雷麒科技有限公司)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## Taiwan International Interior Design Expo 2026 (2026台灣國際室內設計博覽會) (Taipei City, Nangang District)
 - 2026-07-09 to 2026-07-12
@@ -1812,7 +1875,7 @@
 - Organizer: National Association of Interior Design ROC (中華民國室內設計裝修商業同業公會全國聯合會), Economic Daily News (United Daily News Group), Hung Kuan Shih Yeh Co., Ltd. (宏觀視野股份有限公司)
 - [Official (English)](https://www.tide.com.tw/en)
 - [Official (Chinese)](https://www.tide.com.tw/)
-- type: trade show
+- type: trade show (貿易展覽會)
 
 ## COMPANY () (Taichung City, Xitun District)
 - 2026-07-10 19:30, 2026-07-11 14:30, 2026-07-11 19:30, 2026-07-12 14:30
