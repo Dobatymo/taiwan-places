@@ -20,7 +20,7 @@
 - 2021-03-12 to 2021-04-25
 - Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
 - Artist: Michael WOLF (米高·吳爾夫)
-- Curated by: Edward, I-Chien CHIU (邱奕堅)
+- Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
 - [Official (English)](https://english.1839cg.com/archives/5108), [archive.today](https://archive.ph/PW89d)
 - [Official (Chinese)](https://www.1839cg.com/archives/5982)
 - type: photography solo exhibition (攝影個展)
@@ -38,7 +38,7 @@
 ## Walking the Crack (在夾縫中行走) (Taipei City, Zhongshan District)
 - 2022-09-08 to 2023-01-08
 - Location: [Taipei Fine Arts Museum (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
-- Curator: Fang-Wei CHANG (張芳薇)
+- Curator (策展人): Fang-Wei CHANG (張芳薇)
 - [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=714&ddlLang=en-us), [archive.today](https://archive.ph/JtoR8)
 - [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=714&ddlLang=zh-tw)
 - type: exhibition
@@ -49,13 +49,13 @@
 - [Official](https://christmasland.ntpc.gov.tw/en/)
 - https://newtaipei.travel/zh-tw/calendar/detail/1755
 
-## HomөPleasure：Yang Teng-Chi ( Manbo Key ) Solo Exhibition (居家娛樂―楊登棋（登曼波）個展) (Taipei City, Zhongshan District)
+## HomөPleasure: Yang Teng-Chi ( Manbo Key ) (居家娛樂―楊登棋（登曼波) (Taipei City, Zhongshan District)
 - 2022-11-19 to 2023-02-12
 - Location: [Taipei Fine Arts Museum (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
 - Artist: YANG Teng-Chi (楊登棋)
 - [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=717&ddlLang=en-us)
 - [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=717&ddlLang=zh-tw)
-- type: exhibition
+- type: solo exhibition (個展)
 
 ## 2022 German Christmas Market () (Taipei City, Zhongshan District)
 - 2022-12-02 to 2022-12-04
@@ -78,7 +78,7 @@
 ## The Wild Eighties: Dawn of a Transdisciplinary Taiwan (狂八〇：跨領域靈光出現的時代) (Taipei City, Zhongshan District)
 - 2022-12-03 to 2023-02-26
 - Location: [Taipei Fine Arts Museum (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
-- Curator: Jun-Jieh WANG (王俊傑), Chien-Hung HUANG (黃建宏)
+- Curator (策展人): Jun-Jieh WANG (王俊傑), Chien-Hung HUANG (黃建宏)
 - [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=718&ddlLang=en-us)
 - [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=718&ddlLang=zh-tw)
 - type: exhibition
@@ -86,7 +86,7 @@
 ## The Eye of Abstraction (抽象之眼) (Taipei City, Zhongzheng District)
 - 2023-03-18 to 2023-07-30
 - Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
-- Curator: CHANG Kuang-Ho
+- Curator (策展人): CHANG Kuang-Ho
 - [Official (English)](https://ncpi.ntmofa.gov.tw/en/News_Content_OnlineExhibitionPic.aspx?n=8102&s=213158)
 - [Official (Chinese)](https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8007&s=210026)
 - type: photography exhibition
@@ -217,7 +217,7 @@
 ## Vanités Modernes (虛空之境：當代攝影中的領土與都市凝視) (Taipei City, Zhongzheng District)
 - 2025-06-24 to 2025-11-23
 - Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
-- Curator: Raphaële BERTHO
+- Curator (策展人): Raphaële BERTHO
 - Co-curator: Hubert KILIAN
 - [Official (English)](https://ncpi.ntmofa.gov.tw/en/News_Content_OnlineExhibitionPic.aspx?n=8102&s=238417)
 - [Official (Chinese)](https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8007&s=238381)
@@ -423,7 +423,7 @@
 ## 2025 NCPI Collection Exhibitions－ The Realm of Narrative: Witnessing and Inner Voice Behind the Lens (2025國家攝影文化中心典藏展－敘事的向度：攝影中的在場與獨白) (Taipei City, Zhongzheng District)
 - 2025-12-09 to 2026-05-24
 - Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
-- Curator: FU Yuan-Cheng
+- Curator (策展人): FU Yuan-Cheng
 - [Official (English)](https://ncpi.ntmofa.gov.tw/en/News_Content_OnlineExhibitionPic.aspx?n=8101&s=247063)
 - [Official (Chinese)](https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8005&s=246237)
 - type: photography exhibition
@@ -451,7 +451,7 @@
 - https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X0088P8G
 - type: art exhibition
 
-## Fubon Collection-Resonance: Symphony of Light, Love & Color (《富邦典藏展-共鳴： 光、愛與色彩的交響》) (Taipei City, Xinyi District)
+## Fubon Collection-Resonance: Symphony of Light, Love & Color (《富邦典藏展-共鳴：光、愛與色彩的交響》) (Taipei City, Xinyi District)
 - 2025-12-24 to 2026-04-20
 - Location: [Fubon Art Museum - 3F Sun Gallery (富邦美術館)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
 - https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X00895NY
@@ -603,7 +603,7 @@
 ## Withdrawal: Our Collective Existence (凹陷：我們的團體生活) (Taipei City, Datong District)
 - 2026-01-31 to 2026-05-03
 - Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
-- Curator: JIAN Tzu-Chieh (簡子傑)
+- Curator (策展人): JIAN Tzu-Chieh (簡子傑)
 - [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/Withdrawal:*Our*Collective*Existence)
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%87%B9%E9%99%B7%EF%BC%9A%E6%88%91%E5%80%91%E7%9A%84%E5%9C%98%E9%AB%94%E7%94%9F%E6%B4%BB)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=315be0d2-d355-4f99-bd6e-4cf76bcfc955&PageType=1)
@@ -735,7 +735,7 @@
 - Artist: Tony WONG (黃榮禧)
 - [Official (English)](https://www.tinakenggallery.com/en/exhibitions/258-19701980/)
 - [Official (Chinese)](https://www.tinakenggallery.com/exhibitions/258-19701980/)
-- Curator: HSU Fong-Ray (許峰瑞)
+- Curator (策展人): HSU Fong-Ray (許峰瑞)
 - Co-curator: LIAO Chuan-Ya (廖釧雅)
 - type: solo exhibition (個展)
 
@@ -955,7 +955,7 @@
 - 2026-03-21 to 2026-05-16
 - Location: [PTT Space](https://maps.app.goo.gl/qfntbdoapuwgRbKA7)
 - Artist: Richard LIN (林壽宇), WANG Yi (王一)
-- Curator: Alfonse CHIU (邱上源)
+- Curator (策展人): Alfonse CHIU (邱上源)
 - [Official](https://www.pttspace.com/xiang-mu/richard-lin-and-wang-yi-graphic-notation)
 - [Instagram](https://www.instagram.com/p/DV3Dl2CgUKW/)
 - [Facebook Post](https://www.facebook.com/pttspace0/posts/1448589370162509)
@@ -1023,7 +1023,7 @@
 - Location: [Taipei Performing Arts Center, Blue Box (臺北表演藝術中心)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1387)
 - [Official (Chinese)](https://tpac.org.taipei/program/1387)
-- type: theater
+- type: theatre
 
 ## Taipei Chamber Singers: Forty-four Fortunes of Formosa (台北室內合唱團《島嶼上沒有四十四隻石獅子》) (Taipei City, Zhongzheng District)
 - 2026-03-27 to 2026-03-29
@@ -1073,7 +1073,7 @@
 - [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=804&ddlLang=en-us)
 - [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=804&ddlLang=zh-tw)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=524f4fda-468d-4c8a-9ac7-dcb0d8d3c22f&PageType=1)
-- Curator: WANG Wei-Ting (王瑋婷)
+- Curator (策展人): WANG Wei-Ting (王瑋婷)
 - type: exhibition
 
 ## Impressions of Shakadang (印象砂卡礑) (Hualien County, Xiulin Township)
@@ -1087,7 +1087,7 @@
 ## Beautiful Work: Czech Crafts Exhibition (絕美造物：捷克工藝與設計展) (Taipei City, Zhongzheng District)
 - 2026-04-02 to 2026-08-23
 - Location: [National Taiwan Craft Research and Development Institute Taipei Branch, 3F (國立臺灣工藝研究發展中心臺北當代工藝設計分館, 3樓)](https://maps.app.goo.gl/V9PGqRTv5TdDMDJT9)
-- Curator: Klára Hegerová
+- Curator (策展人): Klára Hegerová
 - [Official (English)](https://www.ntcri.gov.tw/home/en-us/exhibition/7501973)
 - [Official (Chinese)](https://www.ntcri.gov.tw/home/zh-tw/exhibition/7501936)
 - [Ministry of Culture (Chinese)](https://www.moc.gov.tw/News_Content.aspx?n=105&s=253246)
@@ -1131,7 +1131,7 @@
 - 2026-04-10 to 2026-05-17
 - Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
 - Artist: Kazuyoshi USUI (薄井一議)
-- Curator: Edward, I-Chien CHIU (邱奕堅)
+- Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
 - [Official (English)](https://english.1839cg.com/archives/6168)
 - [Official (Chinese)](https://www.1839cg.com/archives/8441)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19761)
@@ -1279,7 +1279,7 @@
 ## Remote Viewing (遙視) (Taipei City, Da'an District)
 - 2026-04-18 to 2026-06-28
 - Location: [Museum of National Taipei University of Education (北師美術館)](https://maps.app.goo.gl/c1BwMibtLKHsZxaA9)
-- Curator: Alice Nien-pu KO (柯念璞)
+- Curator (策展人): Alice Nien-pu KO (柯念璞)
 - [Official (English)](https://montue.ntue.edu.tw/en/remote-viewing/)
 - [Official (Chinese)](https://montue.ntue.edu.tw/%E9%81%99%E8%A6%96/)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=49f41e5e-ad84-465c-a6f2-414020394520&PageType=1)
@@ -1338,7 +1338,7 @@
 - [House Voice (Chinese)](https://www.housevoice.tw/blog/detail/blog589)
 - https://www.facebook.com/tmofa10711/posts/1269975511890923
 - https://www.instagram.com/p/DXgQe73k_vO/
-- Curator: HSIEH Chia-Chuan (謝佳娟)
+- Curator (策展人): HSIEH Chia-Chuan (謝佳娟)
 - type: exhibition
 
 ## Inspiring Hope Through Action: Dr. Jane Goodall in Taiwan 1996-2025 (用行動點燃希望：珍古德博士在臺灣1996-2025特展) (Hsinchu City, Xiangshan District)
@@ -1446,7 +1446,7 @@
 - 2026-05-01 to 2026-05-31
 - Location: [Light on Shining Town (光在錦町)](https://maps.app.goo.gl/hpXSBHHCtS5trMGG6)
 - Artist: Finn JUHL
-- Curator: ERIC H.
+- Curator (策展人): ERIC H.
 - [ACCUPASS](https://www.accupass.com/event/2603300222169856392440)
 - https://www.instagram.com/p/DXJzvlwD1J3/
 - https://www.vogue.com.tw/article/a-chair-in-the-room-%E6%A4%85%E5%AD%90%E7%9A%84%E7%8D%A8%E7%99%BD-finn-juhl-%E5%85%89%E5%9C%A8%E9%8C%A6%E7%94%BA
@@ -1461,7 +1461,7 @@
 - https://www.instagram.com/p/DW5LSvHFKk3/
 - https://www.facebook.com/BlueriderART/posts/989194626793510
 - https://www.galleriesnow.net/shows/hans-kotter-butterflies-of-light/
-- https://artemperor.tw/tidbits/19868
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19868)
 - Artists: Hans Kotter (漢斯·卡特), ...
 - type: exhibition
 
@@ -1586,6 +1586,7 @@
 - [Official (Chinese)](https://www.npac-weiwuying.org/programs/68e5fea51263250008babd80?lang=zh)
 - [OPENTIX](https://www.opentix.life/event/1986008100527099905)
 - [YouTube (Official Trailer)](https://www.youtube.com/watch?v=B4N0tAbDxPY)
+- type: dance
 
 ## Melted Memory, Fluid Form (融化的記憶，流動的形態) (Kaohsiung City, Sinsing District)
 - 2026-05-09 to 2026-05-16
@@ -1606,6 +1607,16 @@
 - Series: 動畫楽ノ祭
 - type: concert
 
+## Detective Conan TV Anime 30th Anniversary Exhibition (《名偵探柯南》TV動畫播放30週年紀念展) (Taipei City, Xinyi District)
+- 2026-05-09 to 2026-06-21
+- Location: [Shin Kong Mitsukoshi Xinyi Place A11, 6F Xinyi Theater (新光三越台北信義新天地A11, 6F信義劇場)](https://maps.app.goo.gl/ojnnTtoqqWzki6Qg7)
+- [Official (Chinese)](https://www.mightymedia.co.jp/tvconanten-30th.tw/), [archive.today](https://archive.ph/pDqY0)
+- [klook](https://www.klook.com/activity/208109-detective-conan-tv-anime-30th-anniversary-exhibition/)
+- https://www.instagram.com/p/DXsyBtljTL1/
+- https://www.funliday.com/posts/tvconanten-30th/
+- Organizer: Mighty Media (曼迪傳播)
+- type: anime exhibition
+
 ## "Attack on Titan" Pop Up Shop (《進擊的巨人》快閃店) (Taipei City, Xinyi District)
 - 2026-05-12 to 2026-05-25
 - Location: [Songshan Cultural and Creative Park (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
@@ -1624,6 +1635,18 @@
 - Organizers: Taiwan Assistive Technology and Long-term Care Foundation, Chan Chao International Co., Ltd.
 - type: trade show (貿易展覽會)
 
+## Ambush: 2026 Eastern Instrumental Theatre (十面埋伏—2026東方器樂劇場) (Taipei City, Zhongzheng District)
+- 2026-05-15 19:30, 2026-05-16 19:30
+- Location: [Taipei Zhongshan Hall (臺北市中山堂)](https://maps.app.goo.gl/sABRNHjkEkw48aQN7)
+- [OPENTIX](https://www.opentix.life/event/1991776228045451265)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=17f1e870-2dd9-4e10-b5d9-5a64c98b1eaf&PageIndex=1&PageType=1)
+- https://www.tco.gov.taipei/News_Content.aspx?n=0D9B6F778A90E631&sms=778856C209BCE527&s=8962445AB3FD44BE
+- [Facebook Post (TCO)](https://www.facebook.com/bravoTCO/posts/1545140250304694)
+- [Instagram Post (Chai Found Music Workshop)](https://www.instagram.com/p/DYMnovzD_Q_/)
+- Art Director (藝術總監): 黃正銘
+- Director (導演): 張逸軍
+- type: instrumental theatre
+
 ## ΔDesignArt 2026: Crafting Asia (ΔDesignArt 2026 設計藝術展會) (Taipei City, Nangang District)
 - 2026-05-15 to 2026-05-17
 - Location: [The Place Taipei, 12F (南港老爺行旅, 12樓)](https://maps.app.goo.gl/TVZtmHeh842P8BpP8)
@@ -1633,6 +1656,16 @@
 - Organizer: The Place Taipei (南港老爺行旅)
 - Curators: Designsurfing (設計發浪), minari Brand & Culture Co., Ltd. (敏睿創意統合有限公司)
 - type: exhibition
+
+## Almost, Maine (愛在極光下) (Taipei City, Zhongzheng District)
+- 2026-05-16 to 2026-05-31
+- Location: [Wellspring Theater (水源劇場)](https://maps.app.goo.gl/HTrF3qfGtatvPrfE7)
+- [OPENTIX](https://www.opentix.life/event/2026504468403777537), [archive.today](https://archive.ph/hZNnU)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=46a89a16-0ea7-4060-b69b-7b7a63de0bfb&PageIndex=1&PageType=1)
+- Playwright (劇作家): John Cariani
+- Producer (製作人): LEE Weimu (李維睦), 呂柏伸
+- Organizer (主辦): Tainaner Ensemble (台南人劇團)
+- type: theatre, play
 
 ## Undercurrent (伏流) (Taipei City, Da'an District)
 - 2026-05-16 to 2026-06-27
@@ -1662,19 +1695,38 @@
 - https://giloo.ist/topics/67513
 - type: film festival, literature festival
 
+## SCAPE (暗室) (Taipei City, Da'an District)
+- aka: The Darkroom of Portrait Photography
+- 2026-05-22 to 2026-06-28
+- Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
+- Artist: Kyosuke SASAKI (佐々木香輔)
+- [Official (English)](https://english.1839cg.com/archives/6176)
+- [Official (Chinese)](https://www.1839cg.com/archives/8468)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=58a68643-5062-4686-b938-8fa27e96ce88&PageType=1)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d1e0d800-118e-4f56-9e0b-ae21fed34ed4&PageType=1), [archive.today](https://archive.ph/1tCUt)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19914)
+- https://www.ncafroc.org.tw/event_detail.html?sid=6499
+- Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
+- type: photography solo exhibition (攝影個展)
+
 ## AIDA the Peking Opera (新編京劇《阿依達的愛》) (Taipei City, Songshan District)
-- 2026-05-23 to 2026-05-24
+- 2026-05-23 14:30, 2026-05-24 14:30
 - Location: [Taipei City Arts Promotion Office (臺北市藝文推廣處城市舞台)](https://maps.app.goo.gl/nPWpT9wzwUJEzHKM9)
-- [OPENTIX](https://www.opentix.life/event/2026937853279350784)
-- https://english.tapo.gov.taipei/News_Content.aspx?n=620B9FE39F9E3A6B&s=5CA32BBEE8FBA734
+- [OPENTIX](https://www.opentix.life/event/2026937853279350784), [archive.today](https://archive.ph/eoP0K)
+- [Taipei City Arts Promotion Office (English)](https://english.tapo.gov.taipei/News_Content.aspx?n=620B9FE39F9E3A6B&s=5CA32BBEE8FBA734), [archive.today](https://archive.ph/iHXQ9)
+- https://www.koo.org.tw/zh/News/Detail/aida2026
+- Organizer: C.F. Koo Foundation (辜公亮文教基金會), Taipei Li-yuan Peking Opera Theatre (台北新劇團)
+- Adaptation (劇本改編): 李寶春
+- Director (導演): 李寶春
+- type: Peking opera (國劇)
 
 ## Young Folks: The World as an Aesthetic Membrane (Young Folks：世界是一片感知的膜) (Taipei City, Datong District)
 - 2026-05-23 to 2026-08-30
 - Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
 - [Official (English)](https://www.moca.taipei/en/ExhibitionAndEvent/Info/Young*Folks:*The*World*as*an*Aesthetic*Membrane)
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C)
-- [Culture Express (Chinese)](https://cultureexpress.taipei/Topic/C000004?ID=917dce8d-8bdb-49ed-bde2-7141d9198144&PageType=1)
-- Curator: CHU Feng-Yi (朱峯誼)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Topic/C000004?ID=917dce8d-8bdb-49ed-bde2-7141d9198144&PageType=1), [archive.today](https://archive.ph/yXvBc)
+- Curator (策展人): CHU Feng-Yi (朱峯誼)
 - type: exhibition
 
 ## The Prisoner's Dilemma of Memory (記憶的囚徒困境) (Taipei City, Datong District)
@@ -1682,7 +1734,7 @@
 - Location: [Museum of Contemporary Art Taipei (臺北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
 - [Official (English)](https://www.moca.taipei/en/ExhibitionAndEvent/Info/The*Prisoner%E2%80%99s*Dilemma*of*Memory)
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
-- Curator: WANG Rui-Xu (王叡栩)
+- Curator (策展人): WANG Rui-Xu (王叡栩)
 - type: exhibition
 
 ## Yuja Wang Piano Recital (王羽佳鋼琴獨奏會) (Kaohsiung City, Fengshan District)
@@ -1692,6 +1744,17 @@
 - [Official (English)](https://www.npac-weiwuying.org/programs/69aa46489e193900076e1c30?lang=en)
 - [Official (Chinese)](https://www.npac-weiwuying.org/programs/69aa46489e193900076e1c30?lang=zh)
 - [MNA牛耳藝術](https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1840VBT)
+
+## Alice in Wonderland: Down the Rabbit Hole (愛麗絲夢遊仙境:兔子洞的秘密) (Taipei City, Xinyi District)
+- 2026-05-28 to 2026-09-13
+- Location: [Songshan Cultural and Creative Park (松山文創園區, 藝巷空間)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- https://www.songshanculturalpark.org/exhibition/activity/18a71ab7-0063-4b7d-a43c-fe95ca9f8d36
+- [klook](https://www.klook.com/activity/200839-2026-alice-in-wonderland-down-the-rabbit-hole/)
+- https://www.instagram.com/p/DVkc_Ekkfl5/
+- [Trip.com](https://tw.trip.com/events/%E4%BA%9E%E6%B4%B2%E9%A6%96%E7%AB%99%E6%84%9B%E9%BA%97%E7%B5%B2%E5%A4%A2%E9%81%8A%E4%BB%99%E5%A2%83%E5%85%94%E5%AD%90%E6%B4%9E%E7%9A%84%E7%A7%98%E5%AF%86%E6%B2%88%E6%B5%B8%E5%BC%8F%E4%BA%92%E5%8B%95%E6%95%85%E4%BA%8B%E7%89%B9%E5%B1%95-20260316/)
+- https://www.elle.com/tw/life/style/g70894070/2026-taiwan-exhibition-collection/
+- Organizer (主辦單位): WA Co Ltd. (為美學有限公司)
+- type: immersive exhibition
 
 ## The Threepenny Opera (柏林劇團《三便士歌劇》) (Taipei City, Shilin District)
 - 2026-05-29 to 2026-05-31
