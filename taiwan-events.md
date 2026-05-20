@@ -1369,6 +1369,17 @@
 - Organizer: MNA牛耳藝術
 - type: concert
 
+## Magical Refinement of "Juesi" Wang Duo{ut} (魔鍊覺斯) (Taipei City, Da'an District)
+- 2026-04-25 to 2026-05-31
+- Location: [333 GALLERY](https://maps.app.goo.gl/FdzJAvybDhUFfC8Y8)
+- Artist: Evan Hsiao (蕭一凡)
+- https://www.instagram.com/p/DXf9iVwErid/
+- https://www.facebook.com/333gallery/posts/1486265726512394
+- https://artsafari.io/e/333-gallery-d7025c9b
+- [翻爆](https://turnnewsapp.com/ct/eventct/402664.html), [Wayback Machine](https://web.archive.org/web/20260519090927/https://turnnewsapp.com/ct/eventct/402664.html)
+- style: calligraphy
+- type: exhibition
+
 ## Intellectual Structures: Trigger, Judgment, and Decision (智性結構：觸發、判斷與決策) (Taipei City, Da'an District)
 - 2026-04-25 to 2026-06-06
 - Location: [Each Modern 亞紀畫廊](https://maps.app.goo.gl/pMzCbiZYs5HLbieD6)

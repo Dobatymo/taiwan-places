@@ -1787,12 +1787,15 @@
 - categories: old street
 
 ## Little Ding-Dong Science Theme Park (小叮噹科學主題樂園) (Hsinchu County, Xinfeng Township)
+- aka: Doraemon Science Theme Park
 - [Google Maps](https://maps.app.goo.gl/63xR7zXzXZ9s5iGt9)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Little_Ding-Dong_Science_Theme_Park)
 - [Wikidata](https://www.wikidata.org/wiki/Q10958042)
 - [Official](https://www.ding-dong.com.tw/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=2098
 - [台灣好樂園 Amusement Park in Taiwan](https://www.themepark.net.tw/web_en/ParkDetail/054682ed10614af4a24b591083119332)
+- [kkday](https://www.kkday.com/product/101848-little-ding-dong-science-park-ticket-hsinchu-taiwan)
+- [Taiwan Travel Blog](https://taiwantravelblog.com/little-ding-dong-science-theme-park/)
 
 - categories: amusement park, museum
 - average to reach by public transport. direct train to from Taipei to Xinfeng railway station, but then 50min of walking or taxi required.
