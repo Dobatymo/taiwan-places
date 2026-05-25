@@ -911,6 +911,14 @@
 - https://rdwrertaiwan.blogspot.com/2013/01/21.html
 - [Facebook Post](https://www.facebook.com/explorer.kingspy/posts/1083394503829675)
 
+## Huizhi Dragon City (匯智龍城) (Kaohsiung City, Dashe District)
+- [Google Maps](https://maps.app.goo.gl/DaVVq519UyiZ827d6)
+- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2022/03/20210918.html)
+- [Instagram (formosajmac)](https://www.instagram.com/p/DYi3SkeEWkx/)
+- [SpectralCodex](https://spectralcodex.com/dashe-huizhi-dragon-city/)
+- https://house.ettoday.net/news/2902878
+- https://house.ettoday.net/news/3017809
+
 ## Taitung Miramar Resort (美麗灣渡假村) (Taitung County, Beinan Township)
 - aka: Meiliwan Resort, Miramar Resort
 - [Google Maps](https://maps.app.goo.gl/9nGRN1q3nKbBFb158)

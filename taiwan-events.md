@@ -30,8 +30,8 @@
 - Location: [Songshan Cultural and Creative Park, Warehouse No. 1 (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
 - [Official (English)](https://jam.jutfoundation.org.tw/en/exhibition/107/3547), [archive.today](https://archive.ph/Z3gIH), [Wayback Machine](https://web.archive.org/web/20220628174755/https://jam.jutfoundation.org.tw/en/exhibition/107/3547)
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/3500)
-- Organizers: Jut Art Museum, Tadao Ando Exhibition Committee
-- Co-Organizer: Tadao Ando Architect & Associates
+- Organizer (主辦單位): Jut Art Museum, Tadao Ando Exhibition Committee
+- Co-organizer (共同主辦單位): Tadao Ando Architect & Associates
 - Curatorial advisor: Kokuei Ryu
 - type: architecture exhibition
 
@@ -60,7 +60,7 @@
 ## 2022 German Christmas Market () (Taipei City, Zhongshan District)
 - 2022-12-02 to 2022-12-04
 - Location: [Taipei Expo Park](https://maps.app.goo.gl/dDRSxefeEaEs6DHZ9)
-- Organizer: German Trade Office
+- Organizer (主辦單位): German Trade Office
 - https://taiwan.ahk.de/en/events2/german-christmas-markets-2025
 - https://focustaiwan.tw/culture/202212020026
 - type: market
@@ -170,7 +170,7 @@
 ## 2025 19th Taipei Photography Awards (2025第十九屆台北攝影獎) (Taipei City, Zhongzheng District)
 - 2025-02-21 to 2025-03-05
 - Location: [National Taiwan Arts Education Center, Exhibition Room III (國立臺灣藝術教育館 第3展覽廳)](https://maps.app.goo.gl/xeuQJvrgoHHNegDEA)
-- Organizer: The Photographic Society of Taipei (台北攝影學會)
+- Organizer (主辦單位): The Photographic Society of Taipei (台北攝影學會)
 - [Official (English)](https://www.arte.gov.tw/eng/pro1_exh_now.asp?KeyID=4412)
 - [Official (English)](https://www.arte.gov.tw/pro1_exh_past.asp?KeyID=4412)
 - http://www.photo.org.tw/news-1-1.aspx?nid=1564
@@ -178,14 +178,14 @@
 ## 2025 Taiwan Adult Expo (2025台灣成人展) (Taipei City, Xinyi District)
 - 2025-04-11 to 2025-04-13
 - Location: [Taipei World Trade Center, Hall 1 Area C (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
-- Organizer: Paul Chan Exhibition Int'l Co., Ltd. (博展國際有限公司)
+- Organizer (主辦單位): Paul Chan Exhibition Int'l Co., Ltd. (博展國際有限公司)
 - [Official](https://taiwanadultexpo.com)
 - type: trade show (貿易展覽會)
 
 ## How Many Tildes Is Just Right? (幾個波浪號才對～？) (Taipei City, Wanhua District)
 - 2025-04-19 to 2025-05-18
 - Location: [Bopiliao Historical Block (剝皮寮歷史街區)](https://maps.app.goo.gl/aFBusztCe1urrBHy8)
-- Organizer: 臺北市政府文化局
+- Organizer (主辦單位): 臺北市政府文化局
 - https://www.bopiliao.taipei/Event_News/Detail/646
 - https://www.instagram.com/p/DHyL8MEtLkK/
 - https://www.playdesignlab.com/works/tildes
@@ -209,7 +209,7 @@
 ## The Discovery of Rhinoceroses in Taiwan (臺灣有犀 特展) (Taipei City, Zhongzheng District)
 - 2025-06-17 to 2026-05-31
 - Location: [National Taiwan Museum (國立臺灣博物館)](https://maps.app.goo.gl/qsjiHY15FEBzG5L27)
-- Organizer: National Taiwan Museum (國立臺灣博物館)
+- Organizer (主辦單位): National Taiwan Museum (國立臺灣博物館)
 - [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50111)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=ac4ec0b3-93cb-46ea-bfb7-32b82bca677e&PageType=1)
 - type: exhibition
@@ -252,7 +252,7 @@
 ## Ghost In The Shell Stand Alone Complex Art Sales Event in Taipei () (Taipei City, Da'an District)
 - 2025-09-11 to 2025-09-14
 - Location: [Whimsy Works (奇想會)](https://maps.app.goo.gl/xsoPhzZ2raxHQLSD8)
-- Organizer: GAAAT
+- Organizer (主辦單位): GAAAT
 - [Official (English)](https://gallery.gaaat.com/en/pages/ghostintheshell-sac-taipei-en)
 - [Official (Chinese](https://gallery.gaaat.com/en/pages/ghostintheshell-sac-taipei-tw)
 - type: exhibition
@@ -295,7 +295,7 @@
 ## Digimon 25th Anniversary Exhibit (數碼寶貝動畫25週年紀念展) (Taipei City, Zhongzheng District)
 - 2025-10-25 to 2025-11-30
 - Location: [Syntrend Creative Park](https://maps.app.goo.gl/znjQNGqP9c5ahSkV6)
-- Organizer: INCUBASE Studio
+- Organizer (主辦單位): INCUBASE Studio
 - [klook](https://www.klook.com/activity/175410-digimon-anime-25th-anniversary-exhibition/)
 - [Facebook](https://www.facebook.com/digimon.exhibition.tour)
 
@@ -377,7 +377,7 @@
 ## Taiwan Salsa Carnival 2025 (2025台灣騷莎嘉年華) (Taipei City, Da'an District)
 - 2025-11-21 to 2025-11-23
 - Location: [NUZONE Exhibition Center (NUZONE 展演空間)](https://maps.app.goo.gl/SxcjBAB15k5DtguR9)
-- Organizer: Copa Taiwan
+- Organizer (主辦單位): Copa Taiwan
 - https://www.salsavida.com/event/taiwan/taipei/taiwan-salsa-carnival/
 - [Facebook](https://www.facebook.com/TaiwanSalsaCarnival/)
 - [Instagram](https://www.instagram.com/taiwan_salsa_carnival/)
@@ -412,6 +412,16 @@
 - https://www.facebook.com/gallery.neverland/posts/122224982684115811
 - https://www.instagram.com/p/DRhi3imEwTf/
 - type: solo exhibition (個展)
+
+## The Sixth Mass Extinction: Fate or Chance? (第六次大滅絕？命運還是機會) (Taipei City, Zhongzheng District)
+- 2025-12-02 to 2026-11-01
+- Location: [National Taiwan Museum Nanmen Branch (國立臺灣博物館南門館)](https://maps.app.goo.gl/cEjSR3UEAkQ4oqzw7)
+- https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50149
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=f36eee36-3728-40f2-8d30-3d84fb8c8bf4&PageType=1)
+- https://www.ntm.gov.tw/News_Content.aspx?n=5651&s=247746
+- https://www.ntm.gov.tw/News_actives.aspx?n=5474
+- [Focus Taiwan](https://focustaiwan.tw/photos/20251201ENP0002m)
+- type: exhibition
 
 ## Alexandre Desplat, Taipei Symphony Orchestra "From Paris to Hollywood" (從巴黎到好萊塢─亞歷山大‧戴斯培與TSO) (Taipei City, Shilin District)
 - 2025-12-05 to 2025-12-06
@@ -476,8 +486,8 @@
 ## Dragon Ball: Heroes Rise (七龍珠 英雄崛起) (Taipei City, Zhongzheng District)
 - 2026-01-08 to 2026-04-04
 - Location: [Huashan 1914 Creative Park, Red Brick Courtyard (華山紅磚六合院)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
-- Organizers: 瀛海文化有限公司, INCUBASE Studio Ltd
-- Co-Organizer: 天順上創 Sky Express Creations Ltd
+- Organizer (主辦單位): 瀛海文化有限公司, INCUBASE Studio Ltd
+- Co-organizer (共同主辦單位): 天順上創 Sky Express Creations Ltd
 - [Official (Chinese)](https://www.incubasestudio.com/dragon-ball-heroes-rise-asia-tour/)
 - https://www.huashan1914.com/w/huashan1914/exhibition_25120517035086574
 - [klook](https://www.klook.com/activity/182506-dragonball-heroes-rise/)
@@ -536,7 +546,7 @@
 ## Dinosaurs Resurrected: Guandu Adventure Park (恐龍大復活 關渡探險樂園) (Taipei City, Beitou District)
 - 2026-01-17 to 2027-02-21
 - Location: [Guandu Wharf Container Market (關渡碼頭貨櫃市集)](https://maps.app.goo.gl/U2SvXv2sc1gCifJn9)
-- Organizer: Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
+- Organizer (主辦單位): Mediasphere Communications, Kyu C. Exhibition, RE-MENT, Beast Kingdom, MOMO Kids
 - [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/119)
 - [Instagram](https://www.instagram.com/dinosaurscometolife)
 - [Facebook](https://www.facebook.com/dinosaurscometolife/)
@@ -545,6 +555,16 @@
 - https://www.momokids.com.tw/activity-view.php?infoid=337&qpmid=0&page=2&pgname=&lmenuid=3&smenuid=0&tmenuid=0
 - [Kuei Jung Exhibition](https://www.kje.com.tw/exhibition/ins.php?index_id=311)
 - type: theme park
+
+## Gems Across Cultures: Weaving the Fabric of Human Civilization (珠璣—串起文明的珠飾) (Taipei City, Beitou District)
+- 2026-01-24 to 2026-07-26
+- Location: [Beitou Museum (北投文物館)](https://maps.app.goo.gl/pxZimnkSuQDLMF2N9)
+- [Official (Chinese)](https://beitoumuseum.org.tw/exhibition/expo/E2026-1)
+- [Official (English)](https://beitoumuseum.org.tw/exhibition/expo/E2026-1?hl=en-us)
+- [Chinese museum association listing](https://www.tmaroc.org.tw/1150129-2/)
+- https://www.scooptw.com/local_news/440530/%E5%BE%9E%E7%8F%A0%E9%A3%BE%E7%9C%8B%E8%A6%8B%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%99%BC%E5%B1%95%E3%80%80%E3%80%8C%E7%8F%A0%E7%92%A3-%E4%B8%B2%E8%B5%B7%E6%96%87%E6%98%8E%E7%9A%84%E7%8F%A0/
+- Co-curator: WU Pi-Yun (吳碧雲)
+- type: exhibition
 
 ## Enduring Fragrance: The Eastern Gouache Painting (Nihonga) Collection Exhibition of CHEN Shir-Juh (雋永的芬芳 陳石柱膠彩典藏展) (Hsinchu City, North District)
 - 2026-01-28 to 2026-05-08
@@ -556,7 +576,7 @@
 ## Taipei Game Show 2026 (台北國際電玩展2026) (Taipei City, Nangang District)
 - 2026-01-29 to 2026-02-01
 - Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
-- Organizer: Taipei Computer Association (台北市電腦商業同業公會)
+- Organizer (主辦單位): Taipei Computer Association (台北市電腦商業同業公會)
 - [Official (English)](https://tgs.tca.org.tw/index_e.php)
 - [Official (Chinese)](https://tgs.tca.org.tw/index_c.php)
 - [Instagram](https://www.instagram.com/taipeigameshow/)
@@ -677,7 +697,7 @@
 ## 2026 Taipei Rose Festival (2026臺北玫瑰展) (Taipei City, Zhongshan District)
 - 2026-03-06 to 2026-04-06
 - Location: [Xinsheng Park Area of Taipei Expo Park](https://maps.app.goo.gl/KasztUHC62dVHgBU6)
-- Organizer: 工務局公園處
+- Organizer (主辦單位): 工務局公園處
 - https://www.travel.taipei/en/event-calendar/details/66735
 - https://www.travel.taipei/zh-tw/event-calendar/details/66364
 
@@ -895,7 +915,7 @@
 ## The 2026 Guo Guang Theatre: Eternal．Vernal Equinox (國光劇團2026《永恆時尚：春分》演出) (Taipei City, Shilin District)
 - 2026-03-20 to 2026-03-22
 - Location: [Taiwan Traditional Theatre Center (臺灣戲曲中心)](https://maps.app.goo.gl/eu9ewXCCu6up6GyH8)
-- Organizer: National Center for Traditional Arts
+- Organizer (主辦單位): National Center for Traditional Arts
 - [Official (English)](https://tttc.ncfta.gov.tw/home/en-us/activities/13566)
 - [Official (Chinese)](https://tttc.ncfta.gov.tw/home/zh-tw/activities/13565)
 
@@ -965,7 +985,7 @@
 ## Fallenstadt: the Rise and Fall of Cities (燼光之城──文明之後的迴響) (Taipei City, Da'an District)
 - 2026-03-21 to 2026-07-12
 - Location: [Jut Art Museum (忠泰美術館)](https://maps.app.goo.gl/bNnGrw88d4E3QzoEA)
-- Organizer: Jut Art Museum
+- Organizer (主辦單位): Jut Art Museum
 - [Official (English)](https://jam.jutfoundation.org.tw/en/exhibition/107/5429)
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/5428)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19553)
@@ -994,8 +1014,8 @@
 ## Taipei Cycle 2026 (台北國際自行車展) (Taipei City, Nangang District)
 - 2026-03-25 to 2026-03-28
 - Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7), [Taipei Nangang Exhibition Center Hall 2 (台北南港展覽館2館)](https://maps.app.goo.gl/anyHXKTyWkBQCXCc9)
-- Organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會)
-- Co-organizer: Taiwan Bicycle Association (TBA)
+- Organizer (主辦單位): Taiwan External Trade Development Council (中華民國對外貿易發展協會)
+- Co-organizer (共同主辦單位): Taiwan Bicycle Association (TBA)
 - [Official](https://www.taipeicycle.com.tw/en/index.html)
 - [Facebook](https://www.facebook.com/taipeicycle/)
 - type: trade show (貿易展覽會)
@@ -1037,7 +1057,7 @@
 - [Official](https://adultopiataiwan.com/)
 - [Instagram](https://www.instagram.com/adultopia_taiwan/)
 - [Facebook](https://www.facebook.com/profile.php?id=61583355324651)
-- Organizer: 璽璽文創工作室;白金之星國際娛樂股份有限公司
+- Organizer (主辦單位): 璽璽文創工作室;白金之星國際娛樂股份有限公司
 
 ## Joyful Serenity — TAO Xiaoqing: Paper Tear Art Exhibition (樂陶然—陶曉清和紙撕畫展) (Taipei City, Zhongzheng District)
 - 2026-03-27 to 2026-04-12
@@ -1167,7 +1187,7 @@
 - [Official (Chinese)](https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60727)
 - [Official venue news (Chinese)](https://www.cksmh.gov.tw/News_Content.aspx?n=6217&s=253943)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=fd736123-4a75-445d-b27f-0d449664cce1&PageType=1)
-- Organizer: 互愛人文志業股份有限公司
+- Organizer (主辦單位): 互愛人文志業股份有限公司
 - type: photography exhibition
 
 ## Imbued, Between Flower and Wind (沁風・花間) (Taipei City, Neihu District)
@@ -1251,13 +1271,13 @@
 - [Official (Chinese)](https://ginhuanggallery.com/zh-hant/2026-akeru-amano-garden-of-venus)
 - [Facebook Post](https://www.facebook.com/ginhuanggallery/posts/947952130951219)
 - [Instagram Post](https://www.instagram.com/p/DWiAHkAD73v/)
-- Organizer: GIN HUANG Gallery (田奈藝術)
+- Organizer (主辦單位): GIN HUANG Gallery (田奈藝術)
 - type: solo exhibition (個展)
 
 ## Walking the Soil — What memories do you have of earth?{ut} (土步行——你有關土的記憶是？) (Taipei City, Wanhua District)
 - 2026-04-18 to 2026-05-17
 - Location: [Bopiliao Historical Block (剝皮寮歷史街區)](https://maps.app.goo.gl/aFBusztCe1urrBHy8)
-- Organizer: 臺北市政府文化局
+- Organizer (主辦單位): 臺北市政府文化局
 - https://www.bopiliao.taipei/Event_News/Detail/739
 - https://www.eslite.com/exhibitions/CU202604-00069
 - https://www.instagram.com/p/DWlmGOiDa0o/
@@ -1316,8 +1336,8 @@
 - https://www.agisgame.com.tw/news_info.asp?id=2831&lang=tw
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taiwan_Amusement_and_Gaming_Expo)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E6%A9%9F%E5%9C%8B%E9%9A%9B%E7%94%A2%E6%A5%AD%E5%B1%95)
-- Organizer: Taiwan Amusement Machine Association (中華民國台灣商用電子遊戲機產業協會), Taiwan Digital Entertainment Association (台灣數位休閒娛樂產業協會)
-- Co-organizer: Hot Games Magazine
+- Organizer (主辦單位): Taiwan Amusement Machine Association (中華民國台灣商用電子遊戲機產業協會), Taiwan Digital Entertainment Association (台灣數位休閒娛樂產業協會)
+- Co-organizer (共同主辦單位): Hot Games Magazine
 - type: trade show (貿易展覽會)
 
 ## Sesame Street Magical Art World (芝麻街・奇妙藝境) (Taipei City, Neihu District)
@@ -1327,7 +1347,7 @@
 - https://www.facebook.com/61564571597326/posts/122203649726485719/
 - https://www.shoppingdesign.com.tw/post/view/13385
 - https://www.marieclaire.com.tw/lifestyle/art/93053
-- Co-organizers: COEXIST 共凝文化, Sesame Street
+- Co-organizer (共同主辦單位): COEXIST 共凝文化, Sesame Street
 - type: exhibition
 
 ## Interwoven Landscapes (交織的風景) (Taoyuan City, Zhongli District)
@@ -1366,7 +1386,7 @@
 - [Official (Chinese)](https://www.tmc.taipei/tw/blog/show/Marvel)
 - https://mna.tw/2026-Marvel
 - orchestra: National Taiwan Symphony Orchestra
-- Organizer: MNA牛耳藝術
+- Organizer (主辦單位): MNA牛耳藝術
 - type: concert
 
 ## Magical Refinement of "Juesi" Wang Duo{ut} (魔鍊覺斯) (Taipei City, Da'an District)
@@ -1412,7 +1432,7 @@
 - 2026-05-01
 - Location: [LIVE WAREHOUSE 小庫](https://maps.app.goo.gl/Y5o61zTxCqzpjzts5)
 - Performer: KOKESHI、白華 Efflore (特別來賓：Eureka)
-- Organizer: Moshound (墨聲)
+- Organizer (主辦單位): Moshound (墨聲)
 - [Official (Chinese)](https://kpmc.com.tw/program/2026-lwh-0501/)
 - https://www.indievox.com/activity/detail/26_iv03954d8
 - [Instagram Post](https://www.instagram.com/p/DVpodQSAZaX/)
@@ -1434,7 +1454,7 @@
 - [Official (Chinese)](https://house-fair.top-link.com.tw/)
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28186)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28186)
-- Organizer: Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
+- Organizer (主辦單位): Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
 - type: trade show (貿易展覽會)
 
 ## 2026 Taipei International Food and Catering Expo (2026台北食品暨特色美食國際博覽會) (Taipei City, Xinyi District)
@@ -1442,7 +1462,7 @@
 - Location: [Taipei World Trade Center, Hall 1 (台北世貿, 世貿一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_More.aspx?id=28191&p=home)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_More.aspx?id=28191&p=home)
-- Organizer: SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
+- Organizer (主辦單位): SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
 - type: trade show (貿易展覽會)
 
 ## (長榮大學書畫藝術學系第13屆畢業展「與時同釀」) (Kaohsiung City, Lingya District)
@@ -1466,7 +1486,7 @@
 ## Butterflies of Light (光之蝶) (Taipei City, Songshan District)
 - 2026-05-01 to 2026-07-15
 - Location: [Breeze Center (微風廣場)](https://maps.app.goo.gl/puefdADriQNDjukR6)
-- Organizer: Bluerider ART
+- Organizer (主辦單位): Bluerider ART
 - [Official (English)](https://blueriderart.com/en/viewingroom/butterflies-of-light/)
 - [Official (Chinese)](https://blueriderart.com/tw/viewingroom/butterflies-of-light/)
 - https://www.instagram.com/p/DW5LSvHFKk3/
@@ -1480,7 +1500,7 @@
 - 2026-05-02
 - Performer: KOKESHI、白華 Efflore (特別來賓：Eureka)
 - Location: [Cohesion Space (凝聚力展演空間)](https://maps.app.goo.gl/XzVZvjnY424ZzQsU9)
-- Organizer: Moshound (墨聲)
+- Organizer (主辦單位): Moshound (墨聲)
 - [KKTIX (Chinese)](https://cohesionmusic.kktix.cc/events/rukudonethergate?locale=zh-TW)
 - [KKTIX (English)](https://cohesionmusic.kktix.cc/events/rukudonethergate?locale=en)
 - [Instagram Post (moshound)](https://www.instagram.com/p/DVpodQSAZaX/)
@@ -1515,6 +1535,17 @@
 - [Taipei Times (English)](https://www.taipeitimes.com/News/taiwan/archives/2026/05/06/2003856839)
 - type: cybersecurity conference, trade show
 
+## KOLOSSUS () (Taipei City, Zhongshan District)
+- 2026-05-06 to 2026-06-07
+- Location: [BBBBB Gallery](https://maps.app.goo.gl/tf5QWJP64bgenmGw8)
+- Artist: Erik Svetoft
+- https://www.instagram.com/p/DYeTcT4jAAB/
+- https://www.instagram.com/p/DYFoVgzExFD/
+- https://www.facebook.com/permalink.php?story_fbid=122219280836054699&id=61551640995677
+- https://www.facebook.com/permalink.php?story_fbid=122219973554054699&id=61551640995677
+- https://bbbbbgallery.com/product-category/erik-svetoft/
+- type: exhibition
+
 ## Temple Taipei Presents: Vendex () (Taipei City, Xinyi District)
 - 2026-05-08
 - Location: [La Fin Taipei](https://maps.app.goo.gl/kVJUQMhuUs7GhMF66)
@@ -1534,7 +1565,7 @@
 - [Official (Chinese)](https://www.drtexpo.com/taiwan?lang=traditional-chinese)
 - [Official news](https://www.drtexpo.com/news/2026-04-16)
 - [Taipei Expo Park (Chinese)](https://www.expopark.taipei/News_Photo_Content.aspx?n=247&s=4150), [archive.today](https://archive.ph/eVjKB)
-- Organizer: 易潛企業有限公司
+- Organizer (主辦單位): 易潛企業有限公司
 - type: trade show (貿易展覽會)
 
 ## Boss, a bowl of plain noodles, please! (老闆～來碗陽春麵！) (Taipei City, Xinyi District)
@@ -1566,7 +1597,7 @@
 ## HMWO Annual Concert <The Lord of the Rings> (新竹市立管樂團年度音樂會《魔戒-交響與配樂》) (Hsinchu City, North District)
 - 2026-05-09
 - Location: [Hsinchu Performing Arts Center (新竹市文化局演藝廳音樂廳)](https://maps.app.goo.gl/MhjqfMkUfBxkSkuJ8)
-- Organizer: HsinChu Municipal Wind Orchestra (新竹市立管樂團)
+- Organizer (主辦單位): HsinChu Municipal Wind Orchestra (新竹市立管樂團)
 - [OPENTIX](https://www.opentix.life/event/2028398749182115841)
 - https://eventgo.widm.csie.ncu.edu.tw/event/e6a51339-fffa-42c3-a457-bbb1289b9bc8
 
@@ -1625,7 +1656,7 @@
 - [klook](https://www.klook.com/activity/208109-detective-conan-tv-anime-30th-anniversary-exhibition/)
 - https://www.instagram.com/p/DXsyBtljTL1/
 - https://www.funliday.com/posts/tvconanten-30th/
-- Organizer: Mighty Media (曼迪傳播)
+- Organizer (主辦單位): Mighty Media (曼迪傳播)
 - type: anime exhibition
 
 ## "Attack on Titan" Pop Up Shop (《進擊的巨人》快閃店) (Taipei City, Xinyi District)
@@ -1643,7 +1674,7 @@
 - [Official (Chinese)](https://www.chanchao.com.tw/ATLife/)
 - [Facebook](https://www.facebook.com/taiwan.atlife/)
 - [New Taipei City Assistive Technology Resources Center](https://atrc.aihsin.ntpc.gov.tw/NewsInfo/96), [archive.today](https://archive.ph/OgKfN)
-- Organizers: Taiwan Assistive Technology and Long-term Care Foundation, Chan Chao International Co., Ltd.
+- Organizer (主辦單位): Taiwan Assistive Technology and Long-term Care Foundation, Chan Chao International Co., Ltd.
 - type: trade show (貿易展覽會)
 
 ## Ambush: 2026 Eastern Instrumental Theatre (十面埋伏—2026東方器樂劇場) (Taipei City, Zhongzheng District)
@@ -1664,7 +1695,7 @@
 - [Official (Chinese)](https://www.hotelroyal.com.tw/zh-tw/nangang/Exhibition/5440)
 - [Facebook Post (The Place Taipei 南港老爺行旅)](https://www.facebook.com/theplacetaipei/posts/1571106841690637)
 - https://www.instagram.com/p/DX8i3rPAOYd/
-- Organizer: The Place Taipei (南港老爺行旅)
+- Organizer (主辦單位): The Place Taipei (南港老爺行旅)
 - Curators: Designsurfing (設計發浪), minari Brand & Culture Co., Ltd. (敏睿創意統合有限公司)
 - type: exhibition
 
@@ -1694,8 +1725,17 @@
 - [Official (Chinese)](https://www.tte.tw/)
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=menu1&id=28389)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=menu1&id=28389)
-- Organizers: Taipei Association of Travel Agents, Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
+- Organizer (主辦單位): Taipei Association of Travel Agents, Top Link International Exhibition Co., Ltd. (上聯國際展覽有限公司)
 - type: trade show (貿易展覽會)
+
+## INK NOISE () (Taipei City, Xinyi District)
+- 2026-05-22 to 2026-05-31
+- Location: [Neverland Gallery](https://maps.app.goo.gl/voFawn9GANMBzaj87)
+- Artist: CAZUL (カズール)
+- [Instagram (neverland.gallery)](https://www.instagram.com/p/DYfC8XOze3O/)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19942)
+- Co-organizer (共同主辦單位): DÅWN COFFEE
+- type: solo exhibition (個展)
 
 ## 2026 Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
 - aka: 閱影展 - 2026台北文學季
@@ -1726,7 +1766,7 @@
 - [OPENTIX](https://www.opentix.life/event/2026937853279350784), [archive.today](https://archive.ph/eoP0K)
 - [Taipei City Arts Promotion Office (English)](https://english.tapo.gov.taipei/News_Content.aspx?n=620B9FE39F9E3A6B&s=5CA32BBEE8FBA734), [archive.today](https://archive.ph/iHXQ9)
 - https://www.koo.org.tw/zh/News/Detail/aida2026
-- Organizer: C.F. Koo Foundation (辜公亮文教基金會), Taipei Li-yuan Peking Opera Theatre (台北新劇團)
+- Organizer (主辦單位): C.F. Koo Foundation (辜公亮文教基金會), Taipei Li-yuan Peking Opera Theatre (台北新劇團)
 - Adaptation (劇本改編): 李寶春
 - Director (導演): 李寶春
 - type: Peking opera (國劇)
@@ -1804,7 +1844,7 @@
 - [Instagram (hungdancetaiwan)](https://www.instagram.com/p/DUUmLvIiS2P/)
 - [OPENTIX](https://www.opentix.life/event/2011030912341991424)
 - Choreographer: LAI Hung-chung (賴翃中)
-- Organizer: Hung Dance (翃舞製作)
+- Organizer (主辦單位): Hung Dance (翃舞製作)
 - type: dance
 
 ## Valkyrie: Requiem{ut} (瓦爾基麗・安魂頌歌) (Taichung City, South District)
@@ -1815,7 +1855,7 @@
 - [Facebook Post (大開劇團 Open Theater Group)](https://www.facebook.com/opentheater/posts/1369855148507873)
 - [Facebook Post (大開劇團 Open Theater Group)](https://www.facebook.com/opentheater/posts/1415876550572399)
 - [Instagram Post (open_theater)](https://www.instagram.com/p/DX3mFkjgAP0/)
-- Organizer: Open Theater Group (大開劇團)
+- Organizer (主辦單位): Open Theater Group (大開劇團)
 - Sponsor: Ministry of Culture (文化部)
 - type: theatre
 
@@ -1836,7 +1876,7 @@
 - [Official (English)](https://www.computextaipei.com.tw/en/index.html)
 - [Official (Chinese)](https://www.computextaipei.com.tw/zh-tw/index.html)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Computex)
-- Co-organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taipei Computer Association (台北市電腦商業同業公會)
+- Co-organizer (共同主辦單位): Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taipei Computer Association (台北市電腦商業同業公會)
 - type: trade show (貿易展覽會)
 
 ## Attack on Titan: Beyond the Walls World Tour (《進擊的巨人》Beyond the Walls世界巡演) (Tainan City, East District)
@@ -1885,7 +1925,7 @@
 ## 2026 Taipei International Dragon Boat Championship (2026臺北國際龍舟錦標賽) (Taipei City, Zhongshan District)
 - 2026-06-19 to 2026-06-21
 - Location: [Dajia Riverside Park (大佳河濱公園)](https://maps.app.goo.gl/GZThZebB7Mhwczq47)
-- Organizer: 體育局
+- Organizer (主辦單位): 體育局
 - https://www.travel.taipei/en/event-calendar/details/66765
 - https://www.travel.taipei/zh-tw/event-calendar/details/66373
 - type: sports
@@ -1897,8 +1937,8 @@
 - [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/122)
 - [kkday (English)](https://www.kkday.com/en/product/579222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/579222)
-- Organizers: Kapok International, Shiki Multimedia, Asahi Shimbun (木棉花國際, 時藝多媒體, 朝日新聞社)
-- Co-organizers: New World Expo International (新世博國際), MOMO Family Channel (MOMO 親子台)
+- Organizer (主辦單位): Kapok International, Shiki Multimedia, Asahi Shimbun (木棉花國際, 時藝多媒體, 朝日新聞社)
+- Co-organizer (共同主辦單位): New World Expo International (新世博國際), MOMO Family Channel (MOMO 親子台)
 - type: exhibition
 
 ## Smart Business & Logistics Asia 2026 (2026亞太智慧商業物流展) (Taoyuan City, Zhongli District)
@@ -1946,7 +1986,7 @@
 ## Taiwan International Interior Design Expo 2026 (2026台灣國際室內設計博覽會) (Taipei City, Nangang District)
 - 2026-07-09 to 2026-07-12
 - Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
-- Organizer: National Association of Interior Design ROC (中華民國室內設計裝修商業同業公會全國聯合會), Economic Daily News (United Daily News Group), Hung Kuan Shih Yeh Co., Ltd. (宏觀視野股份有限公司)
+- Organizer (主辦單位): National Association of Interior Design ROC (中華民國室內設計裝修商業同業公會全國聯合會), Economic Daily News (United Daily News Group), Hung Kuan Shih Yeh Co., Ltd. (宏觀視野股份有限公司)
 - [Official (English)](https://www.tide.com.tw/en)
 - [Official (Chinese)](https://www.tide.com.tw/)
 - type: trade show (貿易展覽會)
@@ -1982,6 +2022,16 @@
 - Subtitle: Mandarin
 - type: circus
 
+## 2026 Lisa Ono Precious Music Journey Live in Kaohsiung (2026小野麗莎珍愛音樂之旅巡迴演唱會－高雄站) (Kaohsiung City, Gushan District)
+- 2026-07-30 19:30
+- Location: [National Sun Yat-sen University, Sun Yat-sen Hall (國立中山大學, 逸仙館)](https://maps.app.goo.gl/uRYqFPRVZbqzWd3Q9)
+- Artist: Lisa Ono (小野麗莎)
+- https://harmoniemusictw.kktix.cc/events/lejyd
+- [OPENTIX](https://www.opentix.life/event/2038873926101491713)
+- https://www.facebook.com/events/2455429278295833/
+- https://eventgo.tw/event/438fe85b-4b51-4f1b-8dd2-f88d4a977916
+- type: concert
+
 ## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
 - 2026-09-16
 - Location: [廣藝廳](https://maps.app.goo.gl/9RNwgceRxiQATyzn7)
@@ -1991,4 +2041,12 @@
 - https://docs.google.com/forms/d/e/1FAIpQLSdJEhHsvwgROYXXhZNNlS8Vw_4_rksUrMo3mmGV6MIDFrYwNQ/viewform
 - https://www.instagram.com/p/DX9AGXYjIAT/
 - [Tunghai University](https://music.thu.edu.tw/web/news/detail.php?id=2062)
-- Organizer: Quanta Arts Foundation (廣藝基金會)
+- Organizer (主辦單位): Quanta Arts Foundation (廣藝基金會)
+- type: music
+
+## ZEPRO RUN: National Half Marathon (2026 ZEPRO RUN全國半程馬拉松) (Hsinchu County, Zhubei City)
+- 2026-11-08
+- Location: [Hsinchu County Stadium (新竹縣立體育場)](https://maps.app.goo.gl/25N6DyAaHxEYhrgX6)
+- https://www.ctrun.com.tw/Activity?EventMain_ID=324
+- https://www.instagram.com/p/DX9Dj3KgP-Z/
+- type: sports
