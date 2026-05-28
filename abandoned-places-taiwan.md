@@ -486,6 +486,17 @@
 
 - categories: factory
 
+## Baifu Water Wellness Club (百福水漾樂活會館) (Keelung City, Qidu District)
+- aka: 百福水漾會館, Baifu Shuiyang Club, Baifu Water Park
+- [Google Maps](https://maps.app.goo.gl/gfaUWg2JJBTJ7ERW6)
+- [Instagram (phot_ouo)](https://www.instagram.com/p/DYZx4tSmcuW/)
+- [民視新聞網 FTV News](https://www.ftvnews.com.tw/news/detail/2025319N06M1)
+- [工商時報 Commercial Times](https://www.ctee.com.tw/news/20250316700467-431401)
+- http://www.younglohas.com.tw
+
+- opened 2007 according to "ctee.com"
+- only partially abandoned? The facebook page has a current schedule.
+
 ## Guqifeng Museum (古奇峰育樂園) (Hsinchu City, East District)
 - aka: 普天宮民俗文物館, 古奇峰育樂園文物館
 - [Google Maps](https://maps.app.goo.gl/BPtmE6zEWgd6efdq5)
@@ -1230,7 +1241,8 @@
 - [Facebook (北投說書人)](https://www.facebook.com/PatauwStoryteller/posts/1865841960260755)
 - [YouTube (aiden fu)](https://www.youtube.com/watch?v=3BZHwA5HkHg)
 - [東森房屋 ETwarm](https://www.etwarm.com.tw/news/1797)
-- https://www.instagram.com/p/DXO2zH7lD3o/
+- [Instagram (phot_ouo)](https://www.instagram.com/p/DWEUvGaEwaT/)
+- [Instagram (ryshan_home)](https://www.instagram.com/p/DXO2zH7lD3o/)
 
 ## Lingxiao Apartment Building (凌霄大樓) (Taipei City, Beitou District)
 - aka: 圓柱狀集合住宅

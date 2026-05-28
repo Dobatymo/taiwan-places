@@ -1541,6 +1541,17 @@
 - filming location for: Incantation (咒)
 - categories: military, tunnel
 
+## Wudu Railway Tunnel (五堵鐵路隧道) (New Taipei City, Xizhi District)
+- [Google Maps](https://maps.app.goo.gl/2Eh1Uqe4HfSj9NPeA)
+- [Google Maps](https://maps.app.goo.gl/Nn73M2rgZ9oKLWCTA)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BA%94%E5%A0%B5%E9%9A%A7%E9%81%93)
+- [Wikidata](https://www.wikidata.org/wiki/Q113810047)
+- [YouTube (Tony Huang)](https://www.youtube.com/watch?v=fpwn9hSlQfA)
+- [小兔小安*旅遊札記](https://bunnyann.tw/wudu/)
+- https://bobowin.blog/five-tunnel/
+
+- categories: historical, tunnel, bikeway
+
 ## Taoyuan Jingfu Temple (桃園景福宮) (Taoyuan City, Taoyuan District)
 - [Google Maps](https://maps.app.goo.gl/1VLEkKyQfo78RHp1A)
 - [Wikidata](https://www.wikidata.org/wiki/Q11112007)
@@ -2453,9 +2464,11 @@
 - categories: traditional indoor market
 
 ## Yongle Market (永樂市場) (Taipei City, Datong District)
-- aka: Yongle Fabric Market
+- aka: Yongle Fabric Market (永樂布業商場)
 - [Google Maps (Yongle Market)](https://maps.app.goo.gl/EQcU38uW6QqHPZNLA)
+- [Wikidata](https://www.wikidata.org/wiki/Q139959828)
 - [Taipei Travel (English)](https://www.travel.taipei/en/attraction/details/1697)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/attraction/details/1585)
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=B4CEB2924E2AE3D0
 - [Taipei Film Commission](https://www.filmcommission.taipei/en/scenesCT.aspx?id=1626)
 
@@ -2516,7 +2529,9 @@
 ## Taoyuan Tourist Night Market (桃園觀光夜市) (Taoyuan City, Taoyuan District)
 - aka: Taoyuan Night Market
 - [Google Maps](https://maps.app.goo.gl/GbTEqwhL7iku99SP9)
+- [Wikidata](https://www.wikidata.org/wiki/Q11112225)
 - [Taoyuan: First Stop in Taiwan (English)](https://travel.tycg.gov.tw/en/travel/attraction/1028)
+- [Taoyuan: First Stop in Taiwan (Chinese)](https://travel.tycg.gov.tw/zh-tw/travel/attraction/969)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/taoyuan-night-market)
 
 - categories: night market
@@ -2547,7 +2562,9 @@
 - categories: night market
 
 ## Hsinchu Weekend Flower Market (新竹假日花市) (Hsinchu City, East District)
+- aka: 新竹假日市集
 - [Google Maps](https://maps.app.goo.gl/77cxpTp4gZaCSxfD6)
+- [Wikidata](https://www.wikidata.org/wiki/Q139959848)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/hsinchu-weekend-flower-market)
 - [Orphaned Nation](https://www.orphanednation.com/hsinchu-weekend-flower-market-%E6%96%B0%E7%AB%B9%E5%B8%82%E5%81%87%E6%97%A5%E8%8A%B1%E5%B8%82/)
 
