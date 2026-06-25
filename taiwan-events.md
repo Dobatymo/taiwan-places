@@ -131,7 +131,7 @@
 - Location: [Taipei Performing Arts Center, BLUE BOX (臺北表演藝術中心, 藍盒子)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - https://tpac.org.taipei/event/649
 - https://tpac.org.taipei/en/event/649
-- https://www.opentix.life/event/1684840891481104385
+- [OPENTIX](https://www.opentix.life/event/1684840891481104385)
 - Organizer (主辦): 臺北表演藝術中心
 - Director (導演): 曾慧誠
 - type: musical
@@ -1735,7 +1735,7 @@
 ## Theatre of Dreams (潛夢劇場) (Kaohsiung City, Fengshan District)
 - 2026-05-09, 2026-05-10
 - Location: [National Kaohsiung Center for the Arts, Playhouse (衛武營國家藝術文化中心, 戲劇院)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
-- Performance: Hofesh Shechter Company (侯非胥．謝克特現代舞團)
+- Dance troupe: Hofesh Shechter Company (侯非胥．謝克特現代舞團)
 - [Official (English)](https://www.npac-weiwuying.org/programs/68e5fea51263250008babd80?lang=en)
 - [Official (Chinese)](https://www.npac-weiwuying.org/programs/68e5fea51263250008babd80?lang=zh)
 - [OPENTIX](https://www.opentix.life/event/1986008100527099905)
@@ -1770,6 +1770,14 @@
 - https://www.funliday.com/posts/tvconanten-30th/
 - Organizer (主辦單位): Mighty Media (曼迪傳播)
 - type: anime exhibition
+
+## Entanglements: The Rhythm of Being (共感：存在的節奏) (Taipei City, Zhongshan District)
+- 2026-05-09 to 2026-09-20
+- Location: [Taipei Fine Arts Museum, Galleries 1A and 1B (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
+- [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=807&ddlLang=en-us)
+- [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=807&ddlLang=zh-tw)
+- Curator (策展人): Sharleen YU (余思穎)
+- type: exhibition
 
 ## "Attack on Titan" Pop Up Shop (《進擊的巨人》快閃店) (Taipei City, Xinyi District)
 - 2026-05-12 to 2026-05-25
@@ -2003,7 +2011,7 @@
 - 2026-05-29 19:30, 2026-05-30 14:30, 2026-05-30 19:30, 2026-05-31 14:30
 - Location: [Metropolitan Hall (城市舞台)](https://maps.app.goo.gl/2WtVsdopNQ2LFhBeA)
 - https://godot.org.tw/web/curiousdog/
-- https://www.opentix.life/event/2013457114793156609
+- [OPENTIX](https://www.opentix.life/event/2013457114793156609)
 - Organizer (主辦單位): 果陀百娛股份有限公司, Godot Theatre Company (果陀劇場)
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
@@ -2086,15 +2094,47 @@
 - Performance (演出): 《進擊的巨人》世界巡演 Live Band
 - type: concert
 
+## Jaap van Zweden & ESO (靈魂．藍途—梵志登與ESO) (Taipei City, Zhongzheng District)
+- performance_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
+- 2026-06-05 19:30
+- Location: [National Concert Hall (國家音樂廳)](https://maps.app.goo.gl/FdewtNX68r6E5XzUA)
+- [Official (English)](https://www.evergreensymphony.org/en/concert/203)
+- [Official (Chinese)](https://www.evergreensymphony.org/concert/202)
+- [OPENTIX](https://www.opentix.life/event/2031289088681959425)
+- Conductor: Jaap van Zweden (梵志登)
+- Organizer：Evergreen Symphony Orchestra (長榮交響樂團)
+- type: concert
+
+## Jaap van Zweden & ESO (靈魂．藍途—梵志登與ESO) (Kaohsiung City, Fengshan District)
+- performance_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
+- 2026-06-06 19:30
+- Location: [Weiwuying Concert Hall (衞武營音樂廳)](https://maps.app.goo.gl/h5jbQJs4YLhT1Xkc6)
+- [Official (English)](https://www.evergreensymphony.org/en/concert/203)
+- [Official (Chinese)](https://www.evergreensymphony.org/concert/202)
+- [OPENTIX](https://www.opentix.life/event/2031289088681959425)
+- Conductor: Jaap van Zweden (梵志登)
+- Organizer：Evergreen Symphony Orchestra (長榮交響樂團)
+- type: concert
+
 ## Daniel Caesar - Son of Spergy Tour () (Taoyuan City, Zhongli District)
 - 2026-06-06
 - Location: [Messe Taoyuan (桃園會展中心)](https://maps.app.goo.gl/nDyonkyWbjJ6K2yx8)
 - https://www.livenation.com.tw/en/event/daniel-caesar-son-of-spergy-tour-taoyuan-tickets-edp1664515
 - https://www.livenation.com.tw/event/daniel-caesar-son-of-spergy-tour-taoyuan-tickets-edp1664515
-- https://tixcraft.com/activity/detail/26_dcaesar
+- [tixcraft](https://tixcraft.com/activity/detail/26_dcaesar)
 - Artist (藝術家): Daniel Caesar (丹尼爾·西薩)
 - style: R&B
 - type: concert
+
+## Fun with Bilingual Theatre at TPAC (臺北表演藝術中心雙語故事屋：布萊梅樂隊的奇幻旅程) (Taipei City, Shilin District)
+- 2026-06-06 to 2026-06-07
+- Location: [Taipei Performing Arts Center (臺北表演藝術中心)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- https://tpac.org.taipei/en/event/1659
+- https://tpac.org.taipei/event/1659
+- [OPENTIX](https://www.opentix.life/event/2033384808706768897)
+- Organizer: Taipei Performing Arts Center (臺北表演藝術中心)
+- 偶戲指導: 吳思瑞
+- type: theatre
 
 ## Cosplay Universe 03 Expo (角色扮演宇宙: 獸) (Taipei City, Songshan District)
 - aka: CUE 03
@@ -2147,13 +2187,22 @@
 - https://www.instagram.com/p/DX4XDO5Dek1/
 - type: immersive interactive exhibition
 
+## Disney in Concert: Frozen (迪士尼《冰雪奇緣》動畫交響音樂會) (Taipei City, Nangang District)
+- 2026-06-20 15:00, 2026-06-20 19:00
+- Location: [Taipei Music Center (臺北流行音樂中心, 表演廳)](https://maps.app.goo.gl/3exDxRgUoaMsawzZ6)
+- https://www.tmc.taipei/en/blog/show/Frozen2026
+- https://www.tmc.taipei/tw/blog/show/Frozen2026
+- [MNA牛耳藝術](https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P194X9KK)
+- Conductor (指揮): 鄭立彬
+- type: film concert
+
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Kaohsiung City, Fengshan District)
 - performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: a5da37f8-148a-418b-a161-161e3580d0c5
 - 2026-06-20 19:30, 2026-06-21 14:30
 - Location: [National Kaohsiung Center for the Arts (衛武營國家藝術文化中心, 戲劇院)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
 - https://godot.org.tw/web/curiousdog/
-- https://www.opentix.life/event/2013457114793156609
+- [OPENTIX](https://www.opentix.life/event/2013457114793156609)
 - Organizer (主辦單位): 果陀百娛股份有限公司, Godot Theatre Company (果陀劇場)
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
@@ -2169,6 +2218,20 @@
 - [Tickets (Chinese)](https://ticket.intercon.com.tw/booking/intercon/event/696497148461cf540adde29c-2026%E4%BA%9E%E5%A4%AA%E6%99%BA%E6%85%A7%E5%95%86%E6%A5%AD%E7%89%A9%E6%B5%81%E5%B1%95)
 - type: trade show (貿易展覽會)
 
+## Between Classes (中學生日常) (Taipei City, Shilin District)
+- 2026-06-25 to 2026-06-26
+- Location: [Taipei Performing Arts Center, Studio 2 (臺北表演藝術中心, 11樓排練場2)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (English)](https://tpac.org.taipei/en/program/1653)
+- [Official (Chinese)](https://tpac.org.taipei/program/1653)
+- Theatrical troupe: Chungbuk Theatre Company (忠北道立劇團)
+- Playwright (劇作家): Lee Cheng-chun (李承寯)
+- Director (導演): Kim Naghyung (金洛亨) (김낙형)
+- Language: Korean
+- Subtitles: Mandarin, English
+- Series: 2026 Taiwan International Play Reading Festival (2026台灣國際讀劇節)
+- Organizer: Taipei Performing Arts Center, Prologue Center for New Plays
+- type: staged reading / theater festival
+
 ## Medical Taiwan 2026: International Medical, Health & Care Expo (台灣國際醫療暨健康照護展) (Taipei City, Xinyi District)
 - 2026-06-25 to 2026-06-27
 - Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
@@ -2178,6 +2241,28 @@
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=home&id=31793)
 - Organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taiwan Medical and Biotech Industry Association (台灣醫療暨生技器材工業同業公會), Taiwan Federation of Medical Devices Commercial Associations (中華民國醫療器材商業同業公會全國聯合會), Metal Industries Research & Development Centre (金屬工業研究發展中心), Taiwan Medical Care Assistive Technologies Association (台灣生技醫療照護輔具協會)
 - type: medical expo, trade show (貿易展覽會)
+
+## White Storyteller (白色說書人) (Taipei City, Shilin District)
+- 2026-06-26 to 2026-06-28
+- Location: [Taipei Performing Arts Center, Blue Box (臺北表演藝術中心, 藍盒子)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (English)](https://tpac.org.taipei/en/program/1384)
+- [Official (Chinese)](https://tpac.org.taipei/program/1384)
+- [OPENTIX](https://www.opentix.life/event/2001477038493990913)
+- Theatrical troupe: The Party Theatre Group (同黨劇團)
+- Language: Mandarin, Taiwanese Hokkien
+- Subtitles: Mandarin, English
+- Series: 2026北藝嚴選
+- type: theater
+
+## Strange Little Circus{ut} (奇奇怪怪的小馬戲) (Taipei City, Wenshan District)
+- 2026-06-26 19:30, 2026-06-27 14:30, 2026-06-28 14:30
+- Location: [Taipei City Arts Promotion Office Wenshan Theater (臺北市藝文推廣處 文山劇場)](https://maps.app.goo.gl/Lxu2vPt94bLWRB3JA)
+- [OPENTIX](https://www.opentix.life/event/2033762042034552833)
+- [Taipei City Arts Promotion Office (Chinese)](https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&s=270756A28654946F), [archive.today](https://archive.ph/qwuvx)
+- [Instagram](https://www.instagram.com/p/DXEXD_0CRKL/)
+- https://www.facebook.com/wenshantheater/posts/pfbid02rRgRAUcqd81yBMuJfCMH7EhMEEEEQzz9cErMiU6VEs3sa6Ng2EhYksHwEU1TrTeDl
+- Performance: Grassroots Studio (艸創心演擊樂場)
+- type: children's theater, puppets, tap dance
 
 ## Taichung International Auto Show 2026 (2026 TAS台中國際新車大展) (Taichung City, Xitun District)
 - 2026-06-26 to 2026-06-29
@@ -2218,6 +2303,16 @@
 - [Threads](https://www.threads.com/@tretaipei)
 - Organizer (主辦單位): Lei Chi Technology Co., Ltd. (雷麒科技有限公司)
 - type: trade show (貿易展覽會)
+
+## The Water Ghosts' Theatre - Between Realms (水鬼請戲‧臨水之界) (Taipei City, Shilin District)
+- 2026-07-03 19:30, 2026-07-04 15:00, 2026-07-05 15:00
+- Location: [Taiwan Traditional Theatre Center, Small Theater (臺灣戲曲中心, 小表演廳)](https://maps.app.goo.gl/eu9ewXCCu6up6GyH8)
+- [OPENTIX](https://www.opentix.life/event/2030949889384677376)
+- https://tttc.ncfta.gov.tw/home/zh-tw/activities/13625
+- Series: 2026兒童戲曲藝術節
+- Organizer (主辦單位): National Center for Traditional Arts (國立傳統藝術中心)
+- Performance: Taipei Puppet Theater (臺北木偶劇團)
+- type: children's traditional puppetry/theatre
 
 ## "Eye-Opening 2.0": Huang Bo-han's Solo Magic Show{ut} (《大開眼界2.0》黃柏翰個人魔術秀) (Taipei City, Xinyi District)
 - 2026-07-03 to 2026-07-19
@@ -2280,10 +2375,20 @@
 - 2026-07-25 19:30, 2026-07-26 14:30
 - Location: [Taichung Chungshan Hall (台中市中山堂)](https://maps.app.goo.gl/kG2pZgkTHw1TtZMb7)
 - https://godot.org.tw/web/curiousdog/
-- https://www.opentix.life/event/2013457114793156609
+- [OPENTIX](https://www.opentix.life/event/2013457114793156609)
 - Organizer (主辦單位): 果陀百娛股份有限公司, Godot Theatre Company (果陀劇場)
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
+
+## How The Moon Found His Friends (月亮找朋友) (Taipei City, Zhongzheng District)
+- 2026-07-25 to 2026-07-26
+- Location: [Wellspring Theater (水源劇場)](https://maps.app.goo.gl/HTrF3qfGtatvPrfE7)
+- [Official (English)](https://tpac.org.taipei/en/program/1780)
+- [Official (Chinese)](https://tpac.org.taipei/program/1780)
+- [OPENTIX (Chinese)](https://www.opentix.life/event/2043941682610323457)
+- Language: Mandarin
+- Series: 2026 TCAF (2026臺北兒童藝術節)
+- type: puppet theater / children's theater
 
 ## 2026 Lisa Ono Precious Music Journey Live in Kaohsiung (2026小野麗莎珍愛音樂之旅巡迴演唱會－高雄站) (Kaohsiung City, Gushan District)
 - 2026-07-30 19:30
@@ -2295,16 +2400,37 @@
 - https://eventgo.tw/event/438fe85b-4b51-4f1b-8dd2-f88d4a977916
 - type: concert
 
+## Not Falling (一二三，不掉下去！) (Taipei City, Shilin District)
+- 2026-07-31 to 2026-08-02
+- Location: [Taipei Performing Arts Center, Blue Box (臺北表演藝術中心, 藍盒子)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (English)](https://tpac.org.taipei/en/program/1763)
+- [Official (Chinese)](https://tpac.org.taipei/program/1763)
+- [OPENTIX (Chinese)](https://www.opentix.life/event/2043950619061534721)
+- Series: 2026 TCAF (2026臺北兒童藝術節)
+- Concept (概念): Ciska Vanhoyland, Lies Cuyvers
+- Choreography (編舞): Lies Cuyvers
+- Music (音樂): Ciska Vanhoyland
+- type: dance / children's theater
+
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taoyuan City, Taoyuan District)
 - performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: fb50ce9e-56fe-4f40-8aaa-1b24ae4ce10a
 - 2026-08-01 19:30, 2026-08-02 14:30
 - Location: [Taoyuan Arts Center (桃園展演中心, 展演廳)](https://maps.app.goo.gl/zDAT5cXwVo2QZXdR7)
 - https://godot.org.tw/web/curiousdog/
-- https://www.opentix.life/event/2013457114793156609
+- [OPENTIX](https://www.opentix.life/event/2013457114793156609)
 - Organizer (主辦單位): 果陀百娛股份有限公司, Godot Theatre Company (果陀劇場)
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
+
+## Kodaline - Farewell Tour () (Taipei City, Xinyi District)
+- 2026-08-24 20:00
+- Location: [Taipei International Convention Center (台北國際會議中心)](https://maps.app.goo.gl/WqSNa5tKyQRP4aku5)
+- [tixcraft](https://tixcraft.com/activity/detail/26_kodaline)
+- https://www.livenation.com.tw/en/event/kodaline-farewell-tour-taipei-tickets-edp1661930
+- https://www.livenation.com.tw/event/kodaline-farewell-tour-taipei-tickets-edp1661930
+- style: indie rock music
+- type: concert
 
 ## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
 - 2026-09-16
