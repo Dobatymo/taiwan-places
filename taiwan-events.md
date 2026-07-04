@@ -2063,7 +2063,7 @@
 - type: fan event
 
 ## Layers in Bloom (綻放的圖層) (Taipei City, Neihu District)
-- 2026-05-30 ~ 2026-07-03
+- 2026-05-30 to 2026-07-03
 - Location: [Mind Set Art Center (安卓藝術)](https://maps.app.goo.gl/z9Fy1HZvhUXTjUM29)
 - [Official (English)](https://www.art-msac.com/en/exhibitions/151/overview/)
 - [Official (Chinese)](https://www.art-msac.com/exhibitions/151/overview/)
@@ -2157,6 +2157,29 @@
 - Organizer (主辦): MNA牛耳藝術
 - type: concert
 
+## Egyptian Mummies: Journey into Immortality (埃及木乃伊—永生傳說) (Taipei City, Zhongzheng District)
+- aka: Egyptian Mummies - Legend of Immortality
+- 2026-06-18 to 2026-09-28
+- Location: [National Museum of History, 1st and 2nd Floor Exhibition Halls (國立歷史博物館, 一樓及二樓展廳)](https://maps.app.goo.gl/c6dubusRnCcMCDGG6)
+- [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/123)
+- https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=tw&useLanguage=tw
+- https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=en&useLanguage=en
+- https://www.klook.com/activity/211342-egyptian-mummies-the-legend-of-immortality/
+- https://www.kkday.com/product/579724
+- https://www.moc.gov.tw/EN/News_Content2.aspx?n=468&s=254746
+- https://www.moc.gov.tw/en/News_Content2.aspx?n=467&s=257566
+- https://www.instagram.com/mummies_taipei/
+- Organizer (主辦單位): National Museum of History (國立歷史博物館), Mediasphere Communications Ltd. (時藝多媒體)
+- Co-organizer (合辦單位): Ministry of Culture (文化部)
+- 借展單位: Museo archeologico nazionale di Firenze (義大利佛羅倫斯國立考古博物館)
+- 特別感謝: Direzione regionale Musei nazionali Toscana (托斯卡納國家博物館區域總局)
+- 製作單位: Contemporanea Progetti
+- Curator (策展人): Dr. Maria Cristina Guidotti
+- Major sponsor (主要贊助): 中國信託商業銀行
+- 指定飯店: 君品酒店
+- style: archaeological
+- type: exhibition
+
 ## 2026 Taipei International Dragon Boat Championship (2026臺北國際龍舟錦標賽) (Taipei City, Zhongshan District)
 - 2026-06-19 to 2026-06-21
 - Location: [Dajia Riverside Park (大佳河濱公園)](https://maps.app.goo.gl/GZThZebB7Mhwczq47)
@@ -2172,7 +2195,7 @@
 - [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/122)
 - [kkday (English)](https://www.kkday.com/en/product/579222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/579222)
-- Organizer (主辦單位): Kapok International, Shiki Multimedia, Asahi Shimbun (木棉花國際, 時藝多媒體, 朝日新聞社)
+- Organizer (主辦單位): Muse Communication Co., Ltd. (木棉花國際), Mediasphere Communications Ltd. (時藝多媒體), The Asahi Shimbun Company (朝日新聞社)
 - Co-organizer (共同主辦單位): New World Expo International (新世博國際), MOMO Family Channel (MOMO 親子台)
 - type: exhibition
 
@@ -2186,6 +2209,20 @@
 - https://cultureexpress.taipei/English/Event/E000003?ID=3447cb29-1b20-41d0-b5f6-328ab51e8571&PageType=1
 - https://www.instagram.com/p/DX4XDO5Dek1/
 - type: immersive interactive exhibition
+
+## The Magic of Volume: Botero Exhibition (圓潤的魔法 波特羅特展) (Taipei City, Zhongzheng District)
+- aka: The Magic of Roundness: Botero Special Exhibition, Round and Magical Botero Exhibition
+- 2026-06-19 to 2026-10-11
+- Location: [Chiang Kai-shek Memorial Hall, Exhibition Hall 1 (中正紀念堂, 1展廳)](https://maps.app.goo.gl/dxcFSNhUSqnPW73F9)
+- https://www.opentix.life/event/2047597722530205696
+- https://www.kkday.com/product/579180
+- https://www.klook.com/activity/208522-rounded-magic-botero-exhibition/
+- https://www.instagram.com/botero_taipei
+- Artist: Fernando Botero (費爾南多·波特羅)
+- Organizer (主辦單位): 聯合數位文創
+- Supporting organization (協辦單位): 國立中正紀念堂管理處
+- Authorized by (授權單位): Fernando Botero Foundation
+- type: exhibition
 
 ## Disney in Concert: Frozen (迪士尼《冰雪奇緣》動畫交響音樂會) (Taipei City, Nangang District)
 - 2026-06-20 15:00, 2026-06-20 19:00
@@ -2282,6 +2319,21 @@
 - Funding: Bureau of Audiovisual and Music Industry Development (文化部影視及流行音樂產業局)
 - type: film festival
 
+## Alphonse Mucha: The Artist as Visionary (新藝境：慕夏百年經典特展) (Tainan City, West Central District)
+- 2026-06-26 to 2026-09-30
+- Location: [National Museum of Modern Art Tainan, 2F Exhibition Rooms E-I (臺南國家美術館, 二樓 展覽室E-I)](https://maps.app.goo.gl/QnosKN8V9HsEnYLw6)
+- https://mediasphere.com.tw/exhibitions/124
+- https://www.instagram.com/mucha_exhibition_tainan/
+- https://www.momatainan.gov.tw/News_Content.aspx?n=9532&s=257077
+- https://artemperor.tw/focus/7223
+- [OPENTIX](https://www.opentix.life/event/2058806393864052737)
+- https://www.klook.com/activity/213408-new-art-horizons-mucha-centennial-classic-exhibition/
+- Organizer (主辦單位): Mediasphere Communications Ltd. (時藝多媒體), Mucha Foundation (慕夏基金會)
+- jointly organized by (共同合辦): Ministry of Culture (文化部), Preparatory Office of National Museum of Modern Art Tainan (臺南國家美術館籌備處)
+- Major sponsor (主要贊助): Cathay Financial Holdings (國泰金控)
+- Jointly promoted (共同推動): Taiwan High Speed Rail (台灣高鐵)
+- type: art exhibition
+
 ## Wind Top Fest 3.0 (2026 風神音樂祭3.0) (Hsinchu County, Zhubei City)
 - 2026-06-27 to 2026-06-28
 - Location: [Hsinchu County Stadium (新竹縣立體育場)](https://maps.app.goo.gl/25N6DyAaHxEYhrgX6)
@@ -2334,8 +2386,8 @@
 ## COMPANY () (Taichung City, Xitun District)
 - 2026-07-10 19:30, 2026-07-11 14:30, 2026-07-11 19:30, 2026-07-12 14:30
 - Location: [National Taichung Theater, Grand Theater (臺中國家歌劇院, 大劇院)](https://maps.app.goo.gl/fCjLrFgMu2naz7tXA)
-- https://www.npac-ntt.org/program/events/c-kboz8xw2UFj
-- https://www.npac-ntt.org/en/program/events/c-LY3fk9epR6F
+- [Official (Chinese)](https://www.npac-ntt.org/program/events/c-kboz8xw2UFj)
+- [Official (English)](https://www.npac-ntt.org/en/program/events/c-LY3fk9epR6F)
 - [OPENTIX](https://www.opentix.life/event/2041405429645697025)
 - https://www.instagram.com/p/DXJ9xwigRHk/
 - Co-Production (共同製作): National Taichung Theater (臺中國家歌劇院), Activa Productions (活性界面製作)
@@ -2368,6 +2420,23 @@
 - Language: Mandarin
 - Subtitle: Mandarin
 - type: circus
+
+## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
+- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- event_id: 798d325e-77ca-45d8-b4de-6b5295468713
+- 2026-07-24 19:30
+- Location: [Recital Hall (國家兩廳院演奏廳)](https://maps.app.goo.gl/9y8jFDGRwpNjChV29)
+- [OPENTIX](https://www.opentix.life/event/2048656360075108353)
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
+- type: poetry, music
+
+## The Good Little Three-Headed Dragon {ut} (乖乖三頭龍) (Taipei City, Wenshan District)
+- 2026-07-24 19:30, 2026-07-25 14:30, 2026-07-26 14:30
+- Location: [Taipei City Arts Promotion Office Wenshan Theater (臺北市藝文推廣處 文山劇場)](https://maps.app.goo.gl/Lxu2vPt94bLWRB3JA)
+- [Taipei City Arts Promotion Office (Chinese)](https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&s=C12C4AA9A1D71E38), [archive.today](https://archive.ph/GN5Au)
+- [OPENTIX](https://www.opentix.life/event/2041810831385063425
+- Performance: Song Song Song Children's & Puppet Theatre (九歌兒童劇團)
+- type: children's theatre / puppetry
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taichung City, North District)
 - performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
@@ -2412,6 +2481,17 @@
 - Music (音樂): Ciska Vanhoyland
 - type: dance / children's theater
 
+## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Kaohsiung City, Fengshan District)
+- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- event_id: 4bc1e49a-8440-479a-81f1-8cd23285ee00
+- 2026-07-31 19:30
+- Location: [National Kaohsiung Center for the Arts, Recital Hall (衛武營國家藝術文化中心, 表演廳)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
+- [Official (English)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=en)
+- [Official (Chinese)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=zh)
+- [OPENTIX](https://www.opentix.life/event/2048656360075108353)
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
+- type: poetry, music
+
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taoyuan City, Taoyuan District)
 - performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: fb50ce9e-56fe-4f40-8aaa-1b24ae4ce10a
@@ -2422,6 +2502,18 @@
 - Organizer (主辦單位): 果陀百娛股份有限公司, Godot Theatre Company (果陀劇場)
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
+
+## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taichung City, Xitun District)
+- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- event_id: 6999a680-eec9-49de-a4eb-8a30945d797c
+- 2026-08-02 19:30
+- Location: [National Taichung Theater, Playhouse (臺中國家歌劇院, 中劇院)](https://maps.app.goo.gl/fCjLrFgMu2naz7tXA)
+- [Official (English)](https://www.npac-ntt.org/en/program/events/c-9oyY0f1ts7r)
+- [Official (Chinese)](https://www.npac-ntt.org/program/events/c-k1OH0qnMfQC)
+- [OPENTIX](https://www.opentix.life/event/2048656360075108353)
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
+- 舉辦單位: 晨邊高地室內樂集
+- type: poetry, music
 
 ## Kodaline - Farewell Tour () (Taipei City, Xinyi District)
 - 2026-08-24 20:00
