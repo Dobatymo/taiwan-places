@@ -21,7 +21,7 @@
 - Location: [National Taiwan Museum, 3rd Floor (國立臺灣博物館, 3樓)](https://maps.app.goo.gl/qsjiHY15FEBzG5L27)
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=90084&request_locale=en&useLanguage=en
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=90084&request_locale=tw&useLanguage=tw
-- https://cultureexpress.taipei/English/Event/E000003?ID=5807c22c-7909-4076-a4bd-07a1945dd8bd&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=5807c22c-7909-4076-a4bd-07a1945dd8bd&PageType=1)
 - https://artemperor.tw/tidbits/9135
 - https://museu.ms/exhibition/details/7663/discovering-taiwan-revisiting-the-age-of-natural-history-and-naturalist-of-taiwan
 - type: permanent exhibition
@@ -31,10 +31,8 @@
 - Location: [National Taiwan Museum (國立臺灣博物館)](https://maps.app.goo.gl/qsjiHY15FEBzG5L27)
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=12140&request_locale=en&useLanguage=en
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=12140&request_locale=tw&useLanguage=tw
-- https://cultureexpress.taipei/English/Event/E000003?ID=d75f7b40-8f31-41e6-919e-543aebcd757a&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d75f7b40-8f31-41e6-919e-543aebcd757a&PageType=1)
 - type: permanent exhibition
-- type: permanent exhibition
-
 
 ## Architecture of Density (建築的密度) (Taipei City, Da'an District)
 - 2021-03-12 to 2021-04-25
@@ -235,7 +233,7 @@
 - [Official (English)](https://museum.sinica.edu.tw/en/exhibitions/167/), [archive.today](https://archive.ph/1g4Er)
 - [Official (Chinese)](https://museum.sinica.edu.tw/exhibitions/167/), [archive.today](https://archive.ph/NP3DM)
 - [GPI 政府出版品資訊網 (Chinese)](https://gpi.culture.tw/books/1011400510)
-- https://cultureexpress.taipei/English/Event/E000003?ID=8513371a-2b56-4970-b2d8-ee882491453d&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=8513371a-2b56-4970-b2d8-ee882491453d&PageType=1)
 - type: exhibition
 
 ## The Discovery of Rhinoceroses in Taiwan (臺灣有犀 特展) (Taipei City, Zhongzheng District)
@@ -569,7 +567,7 @@
 - Location: [Museum of the Institute of History and Philology, 1F (歷史文物陳列館, 一樓)](https://maps.app.goo.gl/jc2tsVHn4YuG15bp9)
 - [Official (English)](https://museum.sinica.edu.tw/en/exhibitions/185/), [archive.today](https://archive.ph/aQ2uv)
 - [Official (Chinese)](https://museum.sinica.edu.tw/exhibitions/185/), [archive.today](https://archive.ph/QJb5y)
-- https://cultureexpress.taipei/English/Event/E000003?ID=d0672781-0ad2-45c9-940f-f5fd839008e8&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=d0672781-0ad2-45c9-940f-f5fd839008e8&PageType=1)
 - type: exhibition
 
 ## World Ancient Civilizations Immersive Experience Exhibition (世界古文明 沉浸體驗展) (Taipei City, Zhongzheng District)
@@ -600,7 +598,7 @@
 ## Messages of Blessing: Mailboxes, Postboxes & Stamps Exhibition (信福傳情－信箱郵筒郵票特展) (Taipei City, Zhongzheng District)
 - 2026-01-17 to 2026-07-05
 - Location: [Postal Museum (郵政博物館)](https://maps.app.goo.gl/CuYWoKtppmMnUZYz9)
-- https://cultureexpress.taipei/English/Event/E000003?ID=8f3b80ae-1cfe-47ae-9378-4a8160bc4376&PageIndex=2&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=8f3b80ae-1cfe-47ae-9378-4a8160bc4376&PageIndex=2&PageType=1)
 - [Official (English)](https://museum.post.gov.tw/post/Postal_Museum/museum_en/index.jsp?ID=1574925301275&control_type=page&MA_Id=74F35F61-86D3-41FE-BE8F-0CD51CE367C3)
 - [Official (Chinese)](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&news_no=66497&news_cat=10101)
 - Organizer (主辦單位): Postal Museum (郵政博物館)
@@ -626,7 +624,7 @@
 - [Official (English)](https://beitoumuseum.org.tw/exhibition/expo/E2026-1?hl=en-us)
 - [Chinese museum association listing](https://www.tmaroc.org.tw/1150129-2/)
 - https://www.scooptw.com/local_news/440530/%E5%BE%9E%E7%8F%A0%E9%A3%BE%E7%9C%8B%E8%A6%8B%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%99%BC%E5%B1%95%E3%80%80%E3%80%8C%E7%8F%A0%E7%92%A3-%E4%B8%B2%E8%B5%B7%E6%96%87%E6%98%8E%E7%9A%84%E7%8F%A0/
-- https://cultureexpress.taipei/English/Event/E000003?ID=07d4e3fa-c299-4c4f-8dcd-278965071ac4&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=07d4e3fa-c299-4c4f-8dcd-278965071ac4&PageType=1)
 - Co-curator: WU Pi-Yun (吳碧雲)
 - type: exhibition
 
@@ -1560,11 +1558,11 @@
 - Organizer (主辦單位): SWISWA International Co., Ltd. (瑞日鏵國際企業有限公司)
 - type: trade show (貿易展覽會)
 
-## (長榮大學書畫藝術學系第13屆畢業展「與時同釀」) (Kaohsiung City, Lingya District)
+## Chang Jung Christian University Department of Calligraphy and Painting Arts 13th Graduation Exhibition: "Aged with Time"{ut} (長榮大學書畫藝術學系第13屆畢業展「與時同釀」) (Kaohsiung City, Lingya District)
 - 2026-05-01 to 2026-05-12
 - Location: [Kaohsiung Cultural Center, Jhih-Gao Gallery (高雄市文化中心, 至高館)](https://maps.app.goo.gl/PrZxV1BpuXNiFk3Y9)
 - https://event.moc.gov.tw/sp.asp?xdurl=ccEvent2016/ccEvent_cp.asp&cuItem=2854141&ctNode=676&mp=1
-- https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4282
+- [Bureau of Cultural Affairs, Kaohsiung City Government](https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4282), [Wayback Machine](https://web.archive.org/web/20260504010118/https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=D&DATA=4282)
 - https://www.instagram.com/p/DX0qXB0ifEZ/
 - Series: 2026青春美展
 
@@ -1955,8 +1953,8 @@
 - Location: [Museum of Contemporary Art Taipei (台北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
 - [Official (English)](https://www.moca.taipei/en/ExhibitionAndEvent/Info/Young*Folks:*The*World*as*an*Aesthetic*Membrane)
 - [Official (Chinese)](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=7c9b2540-f027-42d8-aac5-6c3cab67d062&PageType=1)
 - [Culture Express (Chinese)](https://cultureexpress.taipei/Topic/C000004?ID=917dce8d-8bdb-49ed-bde2-7141d9198144&PageType=1), [archive.today](https://archive.ph/yXvBc)
-- https://cultureexpress.taipei/English/Event/E000003?ID=7c9b2540-f027-42d8-aac5-6c3cab67d062&PageType=1
 - Curator (策展人): CHU Feng-Yi (朱峯誼)
 - Organizer (主辦單位): Taipei Culture Foundation (財團法人台北市文化基金會), MoCA Taipei (台北當代藝術館)
 - type: exhibition
@@ -2132,9 +2130,18 @@
 - https://tpac.org.taipei/en/event/1659
 - https://tpac.org.taipei/event/1659
 - [OPENTIX](https://www.opentix.life/event/2033384808706768897)
-- Organizer: Taipei Performing Arts Center (臺北表演藝術中心)
+- Organizer (主辦單位): Taipei Performing Arts Center (臺北表演藝術中心)
 - 偶戲指導: 吳思瑞
 - type: theatre
+
+## Home (家：情感在基隆靠岸) (Keelung City, Zhongzheng District)
+- 2026-06-12 to 2026-09-13
+- Location: [Keelung Museum of Art (基隆美術館)](https://maps.app.goo.gl/3LQynZ9C5xicoXUg7)
+- https://kmoa.klcg.gov.tw/News_Photo_Content.aspx?n=7484&sms=12489&s=17798
+- https://www.instagram.com/p/DXa85kYAG1e/
+- Artist (藝術家): Eva Armisén
+- Curator (策展人): Insoon Cho (趙仁順)
+- type: solo exhibition (個展)
 
 ## Cosplay Universe 03 Expo (角色扮演宇宙: 獸) (Taipei City, Songshan District)
 - aka: CUE 03
@@ -2165,7 +2172,7 @@
 - https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=tw&useLanguage=tw
 - https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=en&useLanguage=en
 - https://www.klook.com/activity/211342-egyptian-mummies-the-legend-of-immortality/
-- https://www.kkday.com/product/579724
+- [kkday](https://www.kkday.com/product/579724)
 - https://www.moc.gov.tw/EN/News_Content2.aspx?n=468&s=254746
 - https://www.moc.gov.tw/en/News_Content2.aspx?n=467&s=257566
 - https://www.instagram.com/mummies_taipei/
@@ -2206,7 +2213,7 @@
 - https://www.klook.com/activity/209115-a-world-of-wonder-world-anna-daniel-exhibition/
 - [kkday (English)](https://www.kkday.com/en/product/580222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/580222)
-- https://cultureexpress.taipei/English/Event/E000003?ID=3447cb29-1b20-41d0-b5f6-328ab51e8571&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=3447cb29-1b20-41d0-b5f6-328ab51e8571&PageType=1)
 - https://www.instagram.com/p/DX4XDO5Dek1/
 - type: immersive interactive exhibition
 
@@ -2215,10 +2222,11 @@
 - 2026-06-19 to 2026-10-11
 - Location: [Chiang Kai-shek Memorial Hall, Exhibition Hall 1 (中正紀念堂, 1展廳)](https://maps.app.goo.gl/dxcFSNhUSqnPW73F9)
 - https://www.opentix.life/event/2047597722530205696
-- https://www.kkday.com/product/579180
+- [kkday](https://www.kkday.com/product/579180)
 - https://www.klook.com/activity/208522-rounded-magic-botero-exhibition/
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=c82a282b-7933-4945-b062-c02192362e38&PageType=1)
 - https://www.instagram.com/botero_taipei
-- Artist: Fernando Botero (費爾南多·波特羅)
+- Artist (藝術家): Fernando Botero (費爾南多·波特羅)
 - Organizer (主辦單位): 聯合數位文創
 - Supporting organization (協辦單位): 國立中正紀念堂管理處
 - Authorized by (授權單位): Fernando Botero Foundation
@@ -2343,6 +2351,13 @@
 - Organizer (主辦單位): Bamboo Crew
 - type: music festival (音樂節)
 
+## DEATH NYC Limited Edition Print Collection Exhibition{ut} (DEATH NYC 限量版畫典藏展) (Keelung City, Zhongzheng District)
+- 2026-07-01 to 2026-09-01
+- Location: [Keelung Fortress Command (司令博物館, 二楼 )](https://maps.app.goo.gl/nngDnRuy4baLMJyT7)
+- https://klctb.klcg.gov.tw/News_Content.aspx?n=7488&s=18175
+- Artist (藝術家): DEATH NYC
+- type: solo exhibition (個展)
+
 ## 2026 Taipei Red Expo (2026TRE台北國際紅人展) (Taipei City, Nangang District)
 - aka: 台北國際成人展
 - 2026-07-03 to 2026-07-05
@@ -2411,6 +2426,24 @@
 - [Instagram](https://www.instagram.com/p/DWGblCTILFy/)
 - [ibon售票系統](https://ticket.ibon.com.tw/ActivityInfo/Details/39496)
 
+## Ryoko Kui Exhibition and "Delicious in Dungeon" Dungeon Exploration Exhibition (九井諒子展 及 《迷宮飯》迷宮探索展) (Taipei City, Zhongzheng District)
+- 2026-07-15 to 2026-08-30
+- Location: [INCUBASE Arena](https://maps.app.goo.gl/Lt1SFYs4a52YoQWL6)
+- https://www.klook.com/activity/208029-ryoko-kui-exhibition-and-delicious-in-dungeon-labyrinth-exploration-exhibition-in-taiwan/
+- https://www.facebook.com/ryoko.kui.dungeonmeshi.exhibit
+- https://www.facebook.com/incubase.arena.tp/posts/122242873712787120
+- https://gnn.gamer.com.tw/detail.php?sn=308147
+- Authorized by (授權單位): KADOKAWA
+- Organizer (主辦單位): INCUBASE Studio, TRENDIC
+- type: exhibition
+
+## COSMOS Creative Photography Exhibition{ut} (COSMOS 創作攝影展) (Taipei City, Da'an District)
+- 2026-07-17 to 2026-07-19
+- Location: [NTU Sports Center, 3F (台大綜合體育館 3F)](https://maps.app.goo.gl/U9sQSaG5z3156yWu7)
+- https://cosmos-space.tw/
+- https://www.instagram.com/p/DWYXfM8E9BK/
+- type: photography, cosplay
+
 ## FOCASA Circus "One to One Hundred: A Brave Journey" (2026臺北兒童藝術節：《幾米男孩的100次勇敢》) (Taipei City, Shilin District)
 - 2026-07-17 to 2026-07-26
 - Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
@@ -2421,6 +2454,14 @@
 - Subtitle: Mandarin
 - type: circus
 
+## 2026 Tianmu Beer Festival{ut} (2026天母啤酒節) (Taipei City, Shilin District)
+- 2026-07-18 to 2026-07-19
+- Location: [Tianmu Sports Park (天母運動公園)](https://maps.app.goo.gl/jc4q6cdVDRhcVV5G6)
+- https://www.travel.taipei/zh-tw/news/details/67505
+- https://www.travel.taipei/zh-tw/activity/details/67506
+- https://www.tianmu.org.tw/modules/news/article.php?storyid=2158
+- type: festival
+
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
 - performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
 - event_id: 798d325e-77ca-45d8-b4de-6b5295468713
@@ -2430,7 +2471,7 @@
 - https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
 - type: poetry, music
 
-## The Good Little Three-Headed Dragon {ut} (乖乖三頭龍) (Taipei City, Wenshan District)
+## The Good Little Three-Headed Dragon{ut} (乖乖三頭龍) (Taipei City, Wenshan District)
 - 2026-07-24 19:30, 2026-07-25 14:30, 2026-07-26 14:30
 - Location: [Taipei City Arts Promotion Office Wenshan Theater (臺北市藝文推廣處 文山劇場)](https://maps.app.goo.gl/Lxu2vPt94bLWRB3JA)
 - [Taipei City Arts Promotion Office (Chinese)](https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&s=C12C4AA9A1D71E38), [archive.today](https://archive.ph/GN5Au)
@@ -2503,6 +2544,13 @@
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
 
+## Alice in Wonderland: A Fantastical Summer Afternoon (愛麗絲夢遊仙境-奇幻的盛夏午后) (Taipei City, Zhongzheng District)
+- 2026-08-02 14:30
+- Location: [National Taiwan Arts Education Center, Nanhai Theater (國立臺灣藝術教育館 南海劇場)](https://maps.app.goo.gl/viQLrAP4KJeZLNxf6)
+- https://www.opentix.life/event/2071435869221834753
+- Performance: TaTa Play House (新藝向玩藝所)
+- type: dance, theatre, children's performance
+
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taichung City, Xitun District)
 - performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
 - event_id: 6999a680-eec9-49de-a4eb-8a30945d797c
@@ -2514,6 +2562,30 @@
 - https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
 - 舉辦單位: 晨邊高地室內樂集
 - type: poetry, music
+
+## House in the Water{ut} (水中之屋) (Taipei City, Zhongzheng District)
+- 2026-08-06 to 2026-08-09
+- Location: [Wellspring Theater (水源劇場)](https://maps.app.goo.gl/HTrF3qfGtatvPrfE7)
+- https://www.opentix.life/event/2052315168468307969
+- [klook](https://www.klook.com/zh-TW/event-detail/101030991-2026-house-in-water/)
+- https://artemperor.tw/tidbits/20037
+- https://cultureexpress.taipei/Event/C000003?ID=16f382e8-2571-46f1-82b7-9f77456b74dc&PageType=1
+- https://www.pulima.com.tw/Pulima/Eventschedules_26061819464332488.aspx
+- https://www.facebook.com/tainanerensemble/posts/1474467108047218
+- Organizer (主辦單位): Tainaner Ensemble (台南人劇團)
+- type: theatre
+
+## Lines of EVANGELION (新世紀福音戰士展：線) (Taipei City, Zhongzheng District)
+- 2026-08-14 to 2026-10-04
+- Location: [Shin Kong Mitsukoshi Taipei Xinyi Place A9, 9F Banquet Exhibition Hall (台北信義新天地 A9, 9F 宴會展演館)](https://maps.app.goo.gl/fWnjJ6RXuctMUMiZ7)
+- [klook](https://www.klook.com/activity/85151-lines-of-evangelion/)
+- https://www.instagram.com/p/DaDMy5tlEhm/
+- https://www.eva-all.com/news/47400/lines-of-evangelion-is-coming-to-taipei/
+- https://gnn.gamer.com.tw/detail.php?sn=308005
+- Authorized by (授權單位): khara Inc.
+- Organizer (主辦單位): TRENDIC, INCUBASE Studio
+- Supporting organization (協辦單位): INCUBASE Arena
+- type: exhibition
 
 ## Kodaline - Farewell Tour () (Taipei City, Xinyi District)
 - 2026-08-24 20:00

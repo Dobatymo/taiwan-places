@@ -209,6 +209,7 @@
 - [Coco in Taiwan](https://corissajoy.com/keelung-heping-island-park/)
 - [Nickkembel Travels](https://www.nickkembel.com/best-taipei-beaches/#Heping_Island_Park)
 - [Taiwan Travel Blog](https://taiwantravelblog.com/the-10-best-beaches-in-taipei/#heping-island-)
+- [kkday](https://www.kkday.com/product/130219)
 
 - activities: swimming, sunbathing, hiking
 - price: 120 NTD (for entry, showers and not included)
@@ -1542,8 +1543,8 @@
 - categories: military, tunnel
 
 ## Wudu Railway Tunnel (五堵鐵路隧道) (New Taipei City, Xizhi District)
-- [Google Maps](https://maps.app.goo.gl/2Eh1Uqe4HfSj9NPeA)
-- [Google Maps](https://maps.app.goo.gl/Nn73M2rgZ9oKLWCTA)
+- [Google Maps (south-east entrance)](https://maps.app.goo.gl/2Eh1Uqe4HfSj9NPeA)
+- [Google Maps (north-west entrance)](https://maps.app.goo.gl/Nn73M2rgZ9oKLWCTA)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BA%94%E5%A0%B5%E9%9A%A7%E9%81%93)
 - [Wikidata](https://www.wikidata.org/wiki/Q113810047)
 - [YouTube (Tony Huang)](https://www.youtube.com/watch?v=fpwn9hSlQfA)
@@ -1679,6 +1680,8 @@
 - [Official (English)](https://www.nmmst.gov.tw/enhtml/)
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002105&id=A12-00123
 - https://www.northguan-nsa.gov.tw/user/article.aspx?Lang=2&SNo=04005330
+- [kkday](https://www.kkday.com/product/601634)
+
 - categories: museum, aquarium
 
 - public transport: great. direct bus from Taipei. train with transfer in Rueifang from Taipei.
@@ -1733,8 +1736,8 @@
 
 ## Buddha's Hand Cave (佛手洞) (Keelung City, Zhongshan District)
 - aka: Foshou Cave
-- [Google Maps](https://maps.app.goo.gl/Pk4U7X5fhCD4LKJ79)
-- [Google Maps](https://maps.app.goo.gl/shMzqcQBLbV4EqPD9)
+- [Google Maps (A)](https://maps.app.goo.gl/Pk4U7X5fhCD4LKJ79)
+- [Google Maps (B)](https://maps.app.goo.gl/shMzqcQBLbV4EqPD9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%89%8B%E6%B4%9E)
 - [Wikidata](https://www.wikidata.org/wiki/Q101419464)
 - [Instagram](https://www.instagram.com/reels/DVTTjEck1sZ/)
@@ -2207,8 +2210,8 @@
 
 ## Stone Temple (石頭廟) (Kaohsiung City, Tianliao District)
 - aka: 田寮慈玄聖天宮
-- [Google Maps](https://maps.app.goo.gl/dxHdFtV1fCacn1k69)
-- [Google Maps](https://maps.app.goo.gl/mDoSnTU2Mgiaz5RK8)
+- [Google Maps (A)](https://maps.app.goo.gl/dxHdFtV1fCacn1k69)
+- [Google Maps (B)](https://maps.app.goo.gl/mDoSnTU2Mgiaz5RK8)
 - [Wikidata](https://www.wikidata.org/wiki/Q139741603)
 - [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2019/07/unusual-temple-of-kaohsiung-stone-temple.html)
 - https://khh.travel/zh-tw/attractions/detail/145/
