@@ -493,9 +493,10 @@
 - [民視新聞網 FTV News](https://www.ftvnews.com.tw/news/detail/2025319N06M1)
 - [工商時報 Commercial Times](https://www.ctee.com.tw/news/20250316700467-431401)
 - http://www.younglohas.com.tw
+- https://www.instagram.com/reels/DbPlZIgPk4C/
 
 - opened 2007 according to "ctee.com"
-- only partially abandoned? The facebook page has a current schedule.
+- only partially abandoned. as of 2026 the pools are abandoned, but the top floor seems to be in use.
 
 ## Guqifeng Museum (古奇峰育樂園) (Hsinchu City, East District)
 - aka: 普天宮民俗文物館, 古奇峰育樂園文物館
@@ -561,6 +562,19 @@
 - [Reddit (r/taiwan)](https://www.reddit.com/r/taiwan/comments/ter2c6/abandoned_building_in_taichung/)
 - [Kathmandu & Beyond](https://www.kathmanduandbeyond.com/abandoned-taiwan-qianyue-building-taichung/)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2014/07/20140614.html)
+- https://eyesonplace.net/2023/08/28/23819/
+- https://loosha.com.tw/travel-taichung-1/
+
+## Taichung Commercial Building (台中商業大樓) (Taichung City, Central District)
+- aka: 竹舫百貨, 舊竹舫百貨, 華華百貨, 財神百貨
+- [Google Maps](https://maps.app.goo.gl/skeSyT8i1pDyXqCWA)
+= [SpectralCodex](https://spectralcodex.com/taichung-commercial-building/)
+- https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=660967
+- [Instragram (Steve Ronin)](https://www.instagram.com/p/DbLnsqIiHxB/)
+- https://www.instagram.com/p/DUztWyAFA0s/
+- https://www.dcard.tw/f/marvel/p/227575741 ??
+- https://taichung-estate.com.tw/articles/detail.php?id=10864
+- address: 台中市中區自由路二段9號
 
 ## Nanye Dance Hall (南夜大舞廳) (Taichung City, Central District)
 - aka: 南夜舞廳, Honolulu Club
@@ -863,6 +877,17 @@
 - [Google Maps](https://maps.app.goo.gl/zmSC57uZoqLiXYsM6)
 - https://fakeliteraryyouth.blogspot.com/2026/02/120240908-sun-yield.html?showComment=1771742886532#c7361474925340967385
 
+## Baihe Taiwan Film and TV Town (白河台灣電影文化城) (Tainan City, Baihe District)
+- aka: Taiwan Studio City
+- [Google Maps](https://maps.app.goo.gl/T4Wx36Y3yjLmB7Pw7)
+- https://en.wikipedia.org/wiki/Baihe_Taiwan_Film_and_TV_Town
+- https://zh.wikipedia.org/wiki/%E7%99%BD%E6%B2%B3%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1%E6%96%87%E5%8C%96%E5%9F%8E
+- https://spectralcodex.com/baihe-taiwan-film-studio-city/
+- https://wwodstocc.pixnet.net/blog/posts/13345747386
+- https://fakeliteraryyouth.blogspot.com/2019/04/20181230.html
+- https://www.facebook.com/TaiwanStudioCity
+- https://movie.okgo.tw/
+
 ## Chenchang Wood Industry Plywood Factory (振昌木業合板廠) (Nantou County, Shuili Township)
 - aka: Zhenchang Plywood Plant, Zhenchang Lumber Company, 振昌木業合板場, 南投縣水里鄉振昌木業合板廠
 - [Google Maps](https://maps.app.goo.gl/QEW8Scz2bh69Mv8y7)
@@ -892,6 +917,15 @@
 - http://linyuan-en.kcg.gov.tw/linyuan-en/CP.aspx?s=2630&cp=1&n=12684
 
 - recommended to go in winter when snakes are less active
+
+## Linyuan Anle Building (林園安樂樓) (Kaohsiung City, Linyuan District)
+- [Google Maps](https://maps.app.goo.gl/m6k4B7xCtPYSG5ck6)
+- https://spectralcodex.com/linyuan-anle-building/
+- https://munchkuo.blog/2020/11/08/%E3%80%90%E6%9E%97%E5%9C%92%E3%80%82%E5%AE%89%E6%A8%82%E6%A8%93%E3%80%91/
+- https://formosajmac.com/2020/03/13/anle-lou/
+- https://khh.travel/zh-tw/attractions/detail/1209/
+- https://travel.ettoday.net/article/887123.htm
+- https://valerieblog.tw/linyuan-anlok-vestige/
 
 ## Fengguijian Tunnel (鳳桂尖坑道) (Kaohsiung City, Siaogang District)
 - [Google Maps](https://maps.app.goo.gl/BFN6xfjSrJrqDuro9)
@@ -936,6 +970,7 @@
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Taitung_Miramar_Resort)
 - [Wikidata](https://www.wikidata.org/wiki/Q15895767)
 - [New Bloom 破土](https://newbloommag.net/2021/09/06/taitung-miramar-resort/)
+- https://www.facebook.com/taiwanplusnews/videos/304667865622375/
 
 - it's being partially renovated in 2025
 

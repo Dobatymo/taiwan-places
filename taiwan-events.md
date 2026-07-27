@@ -290,7 +290,7 @@
 ## 2025 Taipei Arts Festival (2025臺北藝術節) (Taipei City)
 - 2025-09-11 to 2025-09-28
 - Location: Taipei City
-- https://www.travel.taipei/en/event-calendar/details/63732
+- [Taipei Travel (English)](https://www.travel.taipei/en/event-calendar/details/63732)
 - https://tpac.org.taipei/en/festival-taipei
 - type: festival
 
@@ -783,8 +783,8 @@
 - 2026-03-06 to 2026-04-06
 - Location: [Xinsheng Park Area of Taipei Expo Park](https://maps.app.goo.gl/KasztUHC62dVHgBU6)
 - Organizer (主辦單位): 工務局公園處
-- https://www.travel.taipei/en/event-calendar/details/66735
-- https://www.travel.taipei/zh-tw/event-calendar/details/66364
+- [Taipei Travel (English)](https://www.travel.taipei/en/event-calendar/details/66735)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/event-calendar/details/66364)
 - type: festival
 
 ## I Love You, You're Perfect, Now Change () (Taipei City, Xinyi District)
@@ -2191,8 +2191,8 @@
 - 2026-06-19 to 2026-06-21
 - Location: [Dajia Riverside Park (大佳河濱公園)](https://maps.app.goo.gl/GZThZebB7Mhwczq47)
 - Organizer (主辦單位): 體育局
-- https://www.travel.taipei/en/event-calendar/details/66765
-- https://www.travel.taipei/zh-tw/event-calendar/details/66373
+- [Taipei Travel (English)](https://www.travel.taipei/en/event-calendar/details/66765)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/event-calendar/details/66373)
 - type: sports
 
 ## Junji Ito Exhibition: Enchantment (伊藤潤二展: 誘惑) (Taipei City, Xinyi District)
@@ -2457,10 +2457,17 @@
 ## 2026 Tianmu Beer Festival{ut} (2026天母啤酒節) (Taipei City, Shilin District)
 - 2026-07-18 to 2026-07-19
 - Location: [Tianmu Sports Park (天母運動公園)](https://maps.app.goo.gl/jc4q6cdVDRhcVV5G6)
-- https://www.travel.taipei/zh-tw/news/details/67505
-- https://www.travel.taipei/zh-tw/activity/details/67506
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/news/details/67505)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/activity/details/67506)
 - https://www.tianmu.org.tw/modules/news/article.php?storyid=2158
 - type: festival
+
+## Guanghua Market-Consumer Electronics 18th Anniversary (光華數位新天地18週年慶活動) (Taipei City, Zhongzheng District)
+- 2026-07-18 to 2026-08-16
+- Location: [Guang Hua Digital Plaza (光華數位新天地)](https://maps.app.goo.gl/qtq36r9Z3BujxWX47)
+- [Taipei Travel (English)](https://www.travel.taipei/en/event-calendar/details/66785)
+- [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/event-calendar/details/66377)
+- type: anniversary
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
 - performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
