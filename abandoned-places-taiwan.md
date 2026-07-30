@@ -735,7 +735,7 @@
 
 ## Xiluo Theater (西螺大戲院) (Yunlin County, Xiluo Township)
 - aka: 西螺戲院
-- [Google Maps](https://maps.app.goo.gl/Kf31R8xjRkt7EUbLA)
+- [Google Maps](https://maps.app.goo.gl/c7x8ZDYg2Dros3js6)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%9E%BA%E6%88%B2%E9%99%A2)
 - [SpectralCodex](https://spectralcodex.com/xiluo-theater/)
 - [Lost Places](https://lostplaces.tw/the-gods-are-watching-you-in-secret/)
@@ -744,11 +744,33 @@
 - [Flickr (venus.dilys)](https://flickr.com/photos/99388471@N02/albums/72157661758068147/)
 - [Pixnet (wwodstocc)](https://wwodstocc.pixnet.net/blog/post/98916029)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/01/120240707.html)
+- https://wandererwendell.weebly.com/abandoned/-xiluo-theater
 
 ## Sun Yield Motel (SUN YIELD汽車旅館) (Yunlin County, Gukeng Township)
 - [Google Maps](https://maps.app.goo.gl/ChjK1Q8NbvMAPbMX6)
-- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/02/120240908-sun-yield.html)
 - [SpectralCodex](https://spectralcodex.com/gukeng-caoling-sun-yield-motel/)
+- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/02/120240908-sun-yield.html)
+
+## Residential house (民房) (Yunlin County, Taixi Township)
+- [Google Maps](https://maps.app.goo.gl/oTasB4f17MzAtZya6)
+- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/07/120250209.html)
+
+## Unfinished buildings (毛胚樓) (Yunlin County, Taixi Township)
+- [Google Maps](https://maps.app.goo.gl/LyEPJqfriEkgYBu87)
+- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/07/120250209.html)
+
+## Jincheng Theater (金城大戲院) (Yunlin County,  Township)
+- aka: 金城戲院
+- [Google Maps](https://maps.app.goo.gl/KZYgrdsfKtEqa4ks6)
+- [SpectralCodex](https://spectralcodex.com/mailiao-jincheng-theater/)
+- [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/06/120250209.html)
+- [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157659174854233/)
+- [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720305805351/)
+- https://wandererwendell.weebly.com/abandoned/-jincheng-theater
+- https://taiwantravelforever.blogspot.com/2026/06/jinchengtheater.html
+- https://didot.webnode.tw/%E3%80%90%E5%BB%A2%E5%A2%9F%E8%AA%8C%E3%80%91%E3%80%90%E9%9B%B2%E6%9E%97%E3%80%91%E8%A5%BF%E8%9E%BA-%E9%87%91%E5%9F%8E%E6%88%B2%E9%99%A2%E2%94%80%E9%80%99%E5%A0%B4%E6%88%B2%E9%82%84%E7%95%99%E5%9C%A8%E4%BA%BA%E5%80%91%E5%9B%9E%E6%86%B6/
+- https://didot1108.pixnet.net/blog/posts/10159625815
+- address: 雲林縣麥寮鄉復興路79號
 
 ## Old Liu Family Mansion (劉家古宅民雄鬼屋) (Chiayi County, Minxiong Township)
 - aka: Minxiong Ghost House

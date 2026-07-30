@@ -2351,6 +2351,18 @@
 - Organizer (主辦單位): Bamboo Crew
 - type: music festival (音樂節)
 
+## A Twig on the Ground is Not Part of the Nest (地上的樹枝，不是鳥巢的一部分) (Taipei City, Datong District)
+- 2026-06-30 to 2026-08-16
+- Location: [King Car Cultural & Art Center CHENGDE SPACE (金車文藝中心 臺北承德館)](https://maps.app.goo.gl/zG7E71XYZjzPywSz8)
+- [Official (English)](https://www.kingcarart.org.tw/en/exhibitions-detail/258)
+- [Official (Chinese)](https://www.kingcarart.org.tw/exhibitions-detail/258)
+- https://www.travel.taipei/en/activity/details/67594
+- https://www.accupass.com/event/2606180940072592111360
+- Artist: LIN I-Tsen (林奕岑)
+- Host: King Car Cultural & Educational Foundation (金車文教基金會)
+- Co-Host: King Car Cultural & Art Center (金車文藝中心)
+- type: solo exhibition (個展)
+
 ## DEATH NYC Limited Edition Print Collection Exhibition{ut} (DEATH NYC 限量版畫典藏展) (Keelung City, Zhongzheng District)
 - 2026-07-01 to 2026-09-01
 - Location: [Keelung Fortress Command (司令博物館, 二楼 )](https://maps.app.goo.gl/nngDnRuy4baLMJyT7)
@@ -2551,6 +2563,13 @@
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
 
+## Woven Radiance: Material Exchange and Storytelling in Asian Textiles (織光顯影：亞洲織品的物質交流與故事流轉) (Chiayi County, Taibao City)
+- 2026-08-01 to 2026-11-01
+- Location: [Southern Branch of the National Palace Museum, Gallery S304 (國立故宮博物院南部院區, S304)](https://maps.app.goo.gl/dshjaL5869dfnCrSA)
+- https://south.npm.gov.tw/ExhibitionsDetailC003110.aspx?Cond=176c8367-b382-40d9-a462-412f512e97cf
+- style: textiles
+- type: exhibition
+
 ## Alice in Wonderland: A Fantastical Summer Afternoon (愛麗絲夢遊仙境-奇幻的盛夏午后) (Taipei City, Zhongzheng District)
 - 2026-08-02 14:30
 - Location: [National Taiwan Arts Education Center, Nanhai Theater (國立臺灣藝術教育館 南海劇場)](https://maps.app.goo.gl/viQLrAP4KJeZLNxf6)
@@ -2593,6 +2612,29 @@
 - Organizer (主辦單位): TRENDIC, INCUBASE Studio
 - Supporting organization (協辦單位): INCUBASE Arena
 - type: exhibition
+
+## 2026 NTCH Summer Jazz Outdoor Party (2026台新新光金控兩廳院夏日爵士戶外派對) (Taipei City, Zhongzheng District)
+- 2026-08-15 18:30
+- Location: [National Theater & Concert Hall Main Plaza (兩廳院藝文廣場)](https://maps.app.goo.gl/1uxmnxvYML74J9W1A)
+- https://npac-ntch.org/programs/27633
+- https://www.travel.taipei/zh-tw/activity/details/67432
+- https://cultureexpress.taipei/Event/C000003?ID=89cff62d-ecf1-4672-9a7f-9c595601033c&PageType=1
+- Artists: Yuwen Peng Quintet (彭郁雯五重奏), Taiwan Latin Smash (臺灣拉丁重擊), Siri Lee (李竺芯)
+- Music consultant (音樂顧問): Minyen HSIEH (謝明諺)
+- style: jazz
+- type: outdoor concert
+
+## Rodgers + Hammerstein's CINDERELLA (Broadway Version) (《仙履奇緣》百老匯音樂劇) (Taipei City, Shilin District)
+- 2026-08-21 to 2026-08-23
+- Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- https://tpac.org.taipei/program/1907
+- https://tpac.org.taipei/en/program/1907
+- https://www.opentix.life/event/2067076217283747841
+- https://cultureexpress.taipei/Event/C000003?ID=091408b0-3e60-4245-ae00-64753e2fb065&PageType=1
+- Organizer: Da Chia Music Troupe (大嘉音樂聚工坊)
+- Music: Richard Rodgers
+- Lyrics: Oscar Hammerstein II
+- type: musical
 
 ## Kodaline - Farewell Tour () (Taipei City, Xinyi District)
 - 2026-08-24 20:00
