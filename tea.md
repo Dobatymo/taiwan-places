@@ -249,7 +249,11 @@
 
 ## pinatshiu (坪林手)
 - https://www.instagram.com/pinatshiu/
-- ice made of tea?
+- https://www.facebook.com/pinatshiu/
+- usp: ice made of tea
+- locations:
+  - [Google Maps (台北市信義區吳興街92號1樓)](https://maps.app.goo.gl/gX3pXTQRiAQ5ygUL7)
+  - [Google Maps (台灣台北市大同區赤峰街53巷23號)](https://maps.app.goo.gl/b1wzBMQVYkuBpTzC6)
 
 ## Dragon Horn (龍角)
 - https://dragonhorn.com.tw/
