@@ -409,7 +409,7 @@
 
 ## Xizikou Mountain (溪子口山) / Xianjiyan Trail (仙跡岩步道) (Taipei City, Wenshan District)
 - aka: 仙跡岩觀山步道
-- [Google Maps (Trailhead)](https://maps.app.goo.gl/DeuNk2feDUYeNn8EA)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/DeuNk2feDUYeNn8EA)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/06/22/xianji-yan-trail-%E4%BB%99%E8%B7%A1%E5%B2%A9%E8%A7%80%E5%B1%B1%E6%AD%A5%E9%81%93/)
 - [Taipei Travel (English)](https://www.travel.taipei/en/attraction/details/520)
 - [wanderlog](https://wanderlog.com/place/details/5021754/xianjiyan-trail)
@@ -466,8 +466,8 @@
 - #002 of Taiwan's 100 minor peaks (台灣小百岳)
 
 ## Datun Mountain (大屯山) (Taipei City, Beitou District)
-- [Google Maps (Peak)](https://maps.app.goo.gl/diGSViqV2VscYobs8)
-- [Google Maps (Trailhead)](https://maps.app.goo.gl/QhRM7cEH5J9MaKAcA)
+- [Google Maps (peak)](https://maps.app.goo.gl/diGSViqV2VscYobs8)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/QhRM7cEH5J9MaKAcA)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Datun_Mountain)
 - [Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog/datunshan)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2019/02/14/mount-datun-multi-peak-trail/)
@@ -537,7 +537,7 @@
 ## Nanshijiao Mountain (南勢角山) / Hongludi Trail (烘爐地登山步道) (New Taipei City, Zhonghe District)
 - close by: Hongludi Nanshan Fude Temple
 - [Google Maps (peak)](https://maps.app.goo.gl/3H1nwZaE43DMm9vP6)
-- [Google Maps (Hwa Hsia Trailhead)](https://maps.app.goo.gl/Wt48XJua54CKMXVr7)
+- [Google Maps (Hwa Hsia trailhead)](https://maps.app.goo.gl/Wt48XJua54CKMXVr7)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%83%98%E7%88%90%E5%A1%9E%E5%B1%B1)
 - [New Taipei City Travel (English)](https://newtaipei.travel/en/attractions/detail/112004)
 - https://www.sunsetchasingtaiwan.com/sunset-spots/taipei/hongludi/
@@ -609,7 +609,7 @@
 - [Taiwan Hikes](https://www.taiwanhikes.com/blog-posts/teapot-banping-canguanliao-mountain.html)
 
 ## Taoyuan Valley Trail Neiliao Line (桃源谷步道內寮線) (New Taipei City, Gongliao District)
-- [Google Maps (trail head)](https://maps.app.goo.gl/TDKusd9ehuvBYmnm9)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/TDKusd9ehuvBYmnm9)
 - [New Taipei City Travel (English)](https://newtaipei.travel/en/Attractions/Detail/403533)
 - [Hikingbook](https://hikingbook.net/trails/%E6%A1%83%E6%BA%90%E8%B0%B7%E6%AD%A5%E9%81%93-%E5%85%A7%E5%AF%AE%E7%B7%9A)
 - [AllTrails](https://www.alltrails.com/trail/taiwan/new-taipei-city/taoyuan-valley-neiliao-line-trail)
@@ -670,9 +670,10 @@
 
 ## Sanjiaolun Mountain (三角崙山) / Shengmu Hiking Trail (聖母登山步道) (Yilan County, Jiaoxi Township)
 - aka: Sacred Mother Trail, Saint Marian's Trail, Saint Marian's Hut Hiking Trail, 聖母山莊步道, Matcha Mountain
-- [Google Maps (Peak)](https://maps.app.goo.gl/KzomdKJuAERttbte6)
-- [Google Maps (Trailhead)](https://maps.app.goo.gl/Eokyd2fyFrXynthK9)
+- [Google Maps (peak)](https://maps.app.goo.gl/KzomdKJuAERttbte6)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/Eokyd2fyFrXynthK9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E5%B4%99%E5%B1%B1)
+- [Wikidata](https://www.wikidata.org/wiki/Q10866845)
 - [Josh Ellis](https://www.goteamjosh.com/blog/shengmu)
 - https://recreation.forest.gov.tw/Trail/RT?tr_id=009
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/01/28/st-marians-hiking-trail-%E8%81%96%E6%AF%8D%E5%B1%B1%E8%8E%8A/)
@@ -683,8 +684,10 @@
 - #083 of Taiwan's 100 minor peaks (台灣小百岳)
 
 ## Paoma Historic Trail (跑馬古道) (Yilan County, Jiaoxi Township)
-- [Google Maps (trail head)](https://maps.app.goo.gl/pJFyAKjxpjGyUsKG9)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/pJFyAKjxpjGyUsKG9)
 - [Google Maps (trail end)](https://maps.app.goo.gl/wbWz46EHpUtZD2vH6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%B7%91%E9%A6%AC%E5%8F%A4%E9%81%93)
+- [Wikidata](https://www.wikidata.org/wiki/Q30949377)
 - https://recreation.forest.gov.tw/Trail/RT?tr_id=007
 - https://recreation.forest.gov.tw/en/Trail/RT?tr_id=007
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2016/11/09/paoma-historic-trail-%E8%B7%91%E9%A6%AC/)
@@ -697,9 +700,35 @@
 - requires 2 hour hike to the beach (and 2 hours back)
 - activities: hiking, swimming
 
+## Eighteen Peaks Mountain (十八尖山) (Hsinchu City, East District)
+- aka: Shibajianshan
+- [Google Maps (peak)](https://maps.app.goo.gl/4uHpb6JdxHpRvXHR8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8D%81%E5%85%AB%E5%B0%96%E5%B1%B1)
+- [Wikidata](https://www.wikidata.org/wiki/Q31391471)
+- https://www.samejantravel.tw/small-peaks/26
+- https://tourism.hccg.gov.tw/chtravel/app/travel/view?id=25&serno=d2b006d0-08b3-48ea-a921-051f36d1e795&module=travel
+- https://tourism.hccg.gov.tw/chtravel/app/travel/view?id=25&serno=01bf30dc-a14c-452c-926e-80146f3988d8&module=travel
+
+- #026 of Taiwan's 100 minor peaks (台灣小百岳)
+
+## Feifeng Mountain (飛鳳山) (Hsinchu County, Qionglin Township)
+- [Google Maps (peak)](https://maps.app.goo.gl/gTDkuGGsgiv1qHKp8)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/StWe596EdTYKS9Zm6)
+- [Wikidata](https://www.wikidata.org/wiki/Q15942674)
+- https://輝哥的天空.tw/mountain/nopaiA/shinjwuAA027-1.htm
+- https://www.samejantravel.tw/small-peaks/27
+- [Taiwan Outdoors](https://taiwanoutdoors.com/hiking/small-mountains/feifengshan/)
+
+- #027 of Taiwan's 100 minor peaks (台灣小百岳)
+- public transport: possible
+- connects to Zhongkeng Mountain (中坑山) (sometimes to considered as the real minor peak)
+
 ## Lidong Mountain (李崠山) (Hsinchu County, Jianshi Township)
 - aka: Liweishan
-- [Google Maps (Peak)](https://maps.app.goo.gl/cehQmgydyC4R5Nj88)
+- [Google Maps (peak)](https://maps.app.goo.gl/cehQmgydyC4R5Nj88)
+- [Wikidata](https://www.wikidata.org/wiki/Q10334598)
+- https://輝哥的天空.tw/mountain/nopaiA/shinjwuAA028.htm
+- https://www.samejantravel.tw/small-peaks/28
 - https://blog.5164.at/posts/2023-11-11-lidongshan/
 - [Taiwan Hikes](https://www.taiwanhikes.com/blog-posts/dahun-lidong-mountain.html)
 - [Taiwan Trails and Tales](https://taiwantrailsandtales.com/2017/04/05/lidong-shan-and-tapung-castle-via-dahun-shan/)
@@ -709,11 +738,22 @@
 - #028 of Taiwan's 100 minor peaks (台灣小百岳)
 - public transport: nothing
 
+## Lion's Head Mountain (獅頭山) (Hsinchu County, Emei Township)
+- aka: Lion Head Mountain, Shitoushan
+- [Google Maps (peak)](https://maps.app.goo.gl/mNKdKBnRzLsTgUFU7)
+- [Google Maps (scenic area)](https://maps.app.goo.gl/SMxctxqPZSSvtQRF9)
+- [Wikidata](https://www.wikidata.org/wiki/Q15928130)
+- https://輝哥的天空.tw/mountain/nopaiA/miaulihAA029.htm
+- https://taiwantrailsandtales.com/2021/09/17/lions-head-mountain-miaoli/
+
+- #029 of Taiwan's 100 minor peaks (台灣小百岳)
+
 ## Wuzhi Mountain (五指山) (Hsinchu County, Zhudong Township)
 - aka: Five Finger Mountain
 - [Google Maps](https://maps.app.goo.gl/au4vCvrqCHcp4wEb6)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%8C%87%E5%B1%B1_(%E6%96%B0%E7%AB%B9%E7%B8%A3))
 - [Wikidata](https://www.wikidata.org/wiki/Q10881803)
+- https://輝哥的天空.tw/mountain/nopaiA/shinjwuAA030-114.htm
 - [The Map Room](https://www.maproomexplorers.com/post/five-finger-mountain)
 - [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=243)
 
@@ -1394,11 +1434,19 @@
 
 - categories: historical building
 
+## Shihsanhang Museum of Archaeology (新北市立十三行博物館) (New Taipei City, Bali District)
+- [Google Maps](https://maps.app.goo.gl/QxZLbGtRcaV2ezze6)
+- [Wikipedia (English)](https://en.wikipedia.org/wiki/Shihsanhang_Museum_of_Archaeology)
+- [Wikidata](https://www.wikidata.org/wiki/Q7496482)
+- [Official (English)](https://en.sshm.ntpc.gov.tw/)
+
+- categories: museum
+
 ## Shanjia railway station (山佳車站) (New Taipei City, Shulin District)
 - [Google Maps](https://maps.app.goo.gl/9fuRZArFas6BXLjR8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Shanjia_railway_station)
-- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2017/11/16/shanjia)
 - [Wikidata](https://www.wikidata.org/wiki/Q11466294)
+- [Tom Rook](https://www.tomrookart.com/hiddentaiwan/2017/11/16/shanjia)
 
 - categories: train station, historical building
 
@@ -2012,7 +2060,7 @@
 
 ## Chimei Museum (奇美博物館) (Tainan City, Rende District)
 - [Google Maps](https://maps.app.goo.gl/CLkVWR64kcdiVCCTA)
-- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8)
 - [Wikidata](https://www.wikidata.org/wiki/Q5095087)
 - [Official](https://www.chimeimuseum.org/)
 - [TaiwanObsessed](https://www.taiwanobsessed.com/chimei-museum-tainan/)
