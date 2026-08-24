@@ -2252,6 +2252,17 @@
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
 
+## A Geologist's Wonderland (《石之映象》Kamen T. Engel 地質詩人的顯微世界) (Taipei City, Zhongshan District)
+- 2026-06-20 to 2026-08-31
+- Location: [Jurassic Jewelry (侏羅紀台北旗艦店)](https://maps.app.goo.gl/nM41CiRajL1mdVby5)
+- https://jurassicmuseum.com.tw/%E7%9F%B3%E4%B9%8B%E6%98%A0%E5%83%8F-%E5%B2%A9%E7%9F%B3%E8%97%9D%E8%A1%93%E7%89%B9%E5%B1%95/
+- https://www.instagram.com/p/DaMiZVCAOOM/
+- https://www.facebook.com/Jurassic.Museum.Taiwan/posts/1644294714368548
+- Related: Jurassic Museum (侏羅紀博物館)
+- Related: Jurassic Color Diamond (侏羅紀彩色鑽石)
+- style: geology
+- type: exhibition
+
 ## Smart Business & Logistics Asia 2026 (2026亞太智慧商業物流展) (Taoyuan City, Zhongli District)
 - 2026-06-23 to 2026-06-25
 - Location: [Messe Taoyuan (桃園會展中心)](https://maps.app.goo.gl/nDyonkyWbjJ6K2yx8)
@@ -2341,6 +2352,16 @@
 - Major sponsor (主要贊助): Cathay Financial Holdings (國泰金控)
 - Jointly promoted (共同推動): Taiwan High Speed Rail (台灣高鐵)
 - type: art exhibition
+
+## Jurassic Dinosaur Adventure{ut} (侏羅紀恐龍奇遇記) (Taipei City, Shilin District)
+- 2026-06-26 to 2026-10-11
+- Location: [National Taiwan Science Education Center, 7th Floor South Side Special Exhibition Area (國立臺灣科學教育館, 七樓南側特展區)](https://maps.app.goo.gl/Rsk5wvxmLh1nUjFQ6)
+- https://www.ntsec.gov.tw/article/detail.aspx?a=6066
+- https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AXSPZI
+- https://www.instagram.com/p/Daw4Hq8AtLo/
+- https://www.facebook.com/reel/1132281466012402
+- Organizer (主辦單位): KHAM Inc. (寬宏藝術經紀股份有限公司)
+- type: exhibition
 
 ## Wind Top Fest 3.0 (2026 風神音樂祭3.0) (Hsinchu County, Zhubei City)
 - 2026-06-27 to 2026-06-28
@@ -2563,6 +2584,15 @@
 - Co-organizer (合辦單位): 臺北市藝文推廣處（臺北場）
 - type: theatre
 
+## Creative Expo Taiwan 2026 Cultural Curation (2026臺灣文博會) (Taipei City, Da'an District)
+- 2026-08-01 to 2026-08-31
+- Location: [Kong Zong Cultural Base - Heritage Building (空總國家文化基地 - 古蹟大樓)](https://maps.app.goo.gl/VKDJaA6ZsEpFBGFu6)
+- [Official (English)](https://creativexpo.tw/en)
+- [Official (Chinese)](https://creativexpo.tw/zh-TW)
+- https://www.facebook.com/creativexpo.tw/
+- https://www.instagram.com/creativexpo.tw/
+- type: trade show (貿易展覽會)
+
 ## Woven Radiance: Material Exchange and Storytelling in Asian Textiles (織光顯影：亞洲織品的物質交流與故事流轉) (Chiayi County, Taibao City)
 - 2026-08-01 to 2026-11-01
 - Location: [Southern Branch of the National Palace Museum, Gallery S304 (國立故宮博物院南部院區, S304)](https://maps.app.goo.gl/dshjaL5869dfnCrSA)
@@ -2601,11 +2631,22 @@
 - Organizer (主辦單位): Tainaner Ensemble (台南人劇團)
 - type: theatre
 
+## Creative Expo Taiwan 2026 Creative Brands (2026臺灣文博會) (Taipei City, Nangang District)
+- 2026-08-06 to 2026-08-12
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
+- [Official (English)](https://creativexpo.tw/en)
+- [Official (Chinese)](https://creativexpo.tw/zh-TW)
+- https://www.twtc.com.tw/en/exhibition_more.aspx?p=home&id=31850
+- https://www.twtc.com.tw/exhibition_more.aspx?p=home&id=31850
+- type: trade show (貿易展覽會)
+
 ## Lines of EVANGELION (新世紀福音戰士展：線) (Taipei City, Zhongzheng District)
 - 2026-08-14 to 2026-10-04
 - Location: [Shin Kong Mitsukoshi Taipei Xinyi Place A9, 9F Banquet Exhibition Hall (台北信義新天地 A9, 9F 宴會展演館)](https://maps.app.goo.gl/fWnjJ6RXuctMUMiZ7)
 - [klook](https://www.klook.com/activity/85151-lines-of-evangelion/)
 - https://www.instagram.com/p/DaDMy5tlEhm/
+- https://www.instagram.com/p/DarHuf9Mo2m/
+- https://www.instagram.com/p/DaA3GxBj9Fv/
 - https://www.eva-all.com/news/47400/lines-of-evangelion-is-coming-to-taipei/
 - https://gnn.gamer.com.tw/detail.php?sn=308005
 - Authorized by (授權單位): khara Inc.

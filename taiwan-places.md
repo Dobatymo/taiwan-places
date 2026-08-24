@@ -1637,6 +1637,14 @@
 - [SpectralCodex](https://spectralcodex.com/longtan-martial-arts-hall/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/longwude)
 
+## Jurassic Museum (侏羅紀博物館) (Taoyuan City, Luzhu District)
+- aka: 侏羅紀自然科學博物館
+- [Google Maps](https://maps.app.goo.gl/FF6WRTXrpjCQibeg8)
+- https://travel.tycg.gov.tw/en/travel/attraction/2233
+- https://www.facebook.com/Jurassic.Museum.Taiwan/
+
+- categories: museum
+
 ## Window on World Theme Park (小人國主題樂園) (Taoyuan City, Longtan District)
 - aka: Window on China Theme Park
 - [Google Maps](https://maps.app.goo.gl/u52DyGyxX1bQjB99A)
@@ -2244,8 +2252,9 @@
 - categories: museum
 
 ## Qiaotou Sugar Factory | Sugar Industry Museum (橋頭糖廠 | 糖業博物館) (Kaohsiung City, Qiaotou District)
-- aka: Ciaotou Sugar Factory, Ciaotou Sugar Refinery, Taiwan Sugar Museum (台灣糖業博物館)
-- [Google Maps](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
+- aka: Ciaotou Sugar Factory, Ciaotou Sugar Refinery, Taiwan Sugar Museum (台灣糖業博物館), 橋仔頭糖廠
+- [Google Maps (Park)](https://maps.app.goo.gl/CbdzdX8ARmAbL6399)
+- [Google Maps (Taiwan Sugar Museum)](https://maps.app.goo.gl/z2evRUP8Jy9yQrqHA)
 - [Wikidata (Ciaotou Sugar Factory)](https://www.wikidata.org/wiki/Q11121917)
 - [Wikidata (Taiwan Sugar Museum)](https://www.wikidata.org/wiki/Q101181344)
 - [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2020/09/qiaotou-sugar-factory.html)
@@ -2253,6 +2262,7 @@
 - https://filmkh.org/en/scene_detail?sc_sn=106
 - [Round Taiwan Round](https://www.rtaiwanr.com/kaohsiung/kaohsiung-city/taiwan-sugar-museum)
 - [Facebook](https://www.facebook.com/cctsr)
+- https://www.instagram.com/p/DbKUd7bGX4l/
 
 - categories: museum, factory
 

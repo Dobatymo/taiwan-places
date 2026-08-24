@@ -297,6 +297,8 @@
 - [Google Maps](https://maps.app.goo.gl/a8KLZcdbPBS8ttFd6)
 - [SpectralCodex](https://spectralcodex.com/sanzhi-tongyi-ceramics-factory/)
 - [Round Taiwan Round](https://www.rtaiwanr.com/taipei/yangmingshan/tongyi-tile-factory)
+- https://cyberisland.teldap.tw/P/qpdgeNdYcjs
+- https://www.youtube.com/watch?v=-NE4jZjw3yY
 
 ## Haiwan Xincheng (海灣新城) (New Taipei City, Shimen District)
 - [Google Maps](https://maps.app.goo.gl/qaX9HxGVvoTgBJ9XA)
@@ -373,6 +375,7 @@
 - [Yahoo Answers](https://web.archive.org/web/20210416173519/https://tw.answers.yahoo.com/question/index?qid=20121116000015KK02797)
 - [Flickr (csdido)](https://www.flickr.com/photos/csdido/albums/72157648402942835/)
 - [Disp BBS](https://disp.cc/b/Gossiping/6nyC)
+- https://www.instagram.com/p/DaC_150iQbj/
 
 - categories: apartment complex
 
@@ -401,6 +404,7 @@
 - http://www.renegadewritings.com/2018/11/11/abandoned-hotels-around-shimen-reservoir-part-1/
 - [ELLE Decor](https://www.elledecor.com/life-culture/travel/g45549773/abandoned-hotels/)
 - [Lost Places](https://lostplaces.tw/shimen-sesame-grand-hotel-%e8%8a%9d%e9%ba%bb%e5%a4%a7%e9%85%92%e5%ba%97/)
+- https://www.instagram.com/reels/DbVYAtgp2zr/
 
 - categories: hotel
 
