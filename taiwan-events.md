@@ -349,6 +349,7 @@
 - https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081450
 - [Instagram](https://www.instagram.com/arttaipei/)
 - https://lnk.bio/ARTTAIPEI
+- type: exhibition
 
 ## Taipei Biennial 2025 "Whispers on the Horizon" (2025台北雙年展「地平線上的低吟」) (Taipei City, Zhongshan District)
 - 2025-11-01 to 2026-03-29
@@ -1207,7 +1208,7 @@
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1409)
 - [Official (Chinese)](https://tpac.org.taipei/program/1409)
-- [OPENTIX](https://www.opentix.life/event/2010918648857628673)
+- [OPENTIX](https://www.opentix.life/event/2010918648857628673), [Wayback Machine](https://web.archive.org/web/20260325040614/https://www.opentix.life/event/2010918648857628673)
 - Language: Mandarin, Taiwanese Hokkien
 - Subtitle: none
 - type: musical
@@ -1988,7 +1989,7 @@
 
 ## The Threepenny Opera (柏林劇團《三便士歌劇》) (Taipei City, Shilin District)
 - 2026-05-29 to 2026-05-31
-- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1383)
 - [Official (Chinese)](https://tpac.org.taipei/program/1383)
 - type: musical
@@ -2479,7 +2480,7 @@
 
 ## FOCASA Circus "One to One Hundred: A Brave Journey" (2026臺北兒童藝術節：《幾米男孩的100次勇敢》) (Taipei City, Shilin District)
 - 2026-07-17 to 2026-07-26
-- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1422)
 - [Official (Chinese)](https://tpac.org.taipei/program/1422)
 - https://focasa.tw/en/
@@ -2622,7 +2623,7 @@
 ## House in the Water{ut} (水中之屋) (Taipei City, Zhongzheng District)
 - 2026-08-06 to 2026-08-09
 - Location: [Wellspring Theater (水源劇場)](https://maps.app.goo.gl/HTrF3qfGtatvPrfE7)
-- https://www.opentix.life/event/2052315168468307969
+- [OPENTIX](https://www.opentix.life/event/2052315168468307969)
 - [klook](https://www.klook.com/zh-TW/event-detail/101030991-2026-house-in-water/)
 - https://artemperor.tw/tidbits/20037
 - https://cultureexpress.taipei/Event/C000003?ID=16f382e8-2571-46f1-82b7-9f77456b74dc&PageType=1
@@ -2670,7 +2671,7 @@
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - https://tpac.org.taipei/program/1907
 - https://tpac.org.taipei/en/program/1907
-- https://www.opentix.life/event/2067076217283747841
+- [OPENTIX](https://www.opentix.life/event/2067076217283747841)
 - https://cultureexpress.taipei/Event/C000003?ID=091408b0-3e60-4245-ae00-64753e2fb065&PageType=1
 - Organizer: Da Chia Music Troupe (大嘉音樂聚工坊)
 - Music: Richard Rodgers
@@ -2686,6 +2687,18 @@
 - style: indie rock music
 - type: concert
 
+## Wang Yahui: Voyager (王雅慧：旅行者) (Taipei City, Zhongshan District)
+- 2026-09-12 to 2027-01-03
+- Location: [Taipei Fine Arts Museum, Galleries 2A and 2B (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
+- https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=813
+- https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=813
+- https://www.mutualart.com/Exhibition/Wang-Yahui--Voyager/8E14C9F688182735
+- https://cultureexpress.taipei/English/Event/E000003?ID=4113b4fa-b86e-468d-836b-6d795c261a6d&PageType=1
+- Artist: WANG Yahui (王雅慧)
+- style: contemporary art, video installation, photography
+- type: exhibition
+- Curator: Lei Yi-ting, Hsuan-chun Lin
+
 ## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
 - 2026-09-16
 - Location: [廣藝廳](https://maps.app.goo.gl/9RNwgceRxiQATyzn7)
@@ -2697,6 +2710,89 @@
 - [Tunghai University](https://music.thu.edu.tw/web/news/detail.php?id=2062)
 - Organizer (主辦單位): Quanta Arts Foundation (廣藝基金會)
 - type: music
+
+## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taipei City, Zhongshan District)
+- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- event_id: 86e1253d-7828-42d3-b37c-eee0fa51b017
+- 2026-09-19 22:00
+- Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
+- [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
+- [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
+- Language: English
+- type: stand-up comedy, improv comedy
+
+## The Museum After (美術館之後) (Taipei City, Datong District)
+- 2026-09-19 to 2026-12-31
+- Location: [Museum of Contemporary Art Taipei (台北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
+- [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/The%2AMuseum%2AAfter)
+- [Official (Chinese)](https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%B9%8B%E5%BE%8C)
+- style: contemporary art
+- type: exhibition
+
+## Black Myth: Wukong Global Concert (台北・且聽天命《黑神話：悟空》全球音樂會) (Taipei City, Xinyi District)
+- 2026-09-19 19:30, 2026-09-20 19:30
+- Location: [Legacy MAX (信義劇場)](https://maps.app.goo.gl/DkuwUqekf4qkC6DZA)
+- https://www.legacy.com.tw/article/page/max/3167
+- https://www.legacy.com.tw/article/page/max/3168
+- [KKTIX](https://mmo.kktix.cc/events/oldewe)
+- [KKTIX](https://mmo.kktix.cc/events/ldfeewe-02)
+- Organizer (主辦單位): 秒秒國際娛樂有限公司
+- style: video-game soundtrack, orchestral and Chinese music
+- type: concert
+
+## Ballad from Six Feet Under (《你好，我是接體員》黑色幽默音樂劇) (Taipei City, Shilin District)
+- 2026-09-25 19:30, 2026-09-26 14:30, 2026-09-27 14:30
+- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (Chinese)](https://tpac.org.taipei/program/2042)
+- [Official (English)](https://tpac.org.taipei/en/program/2042)
+- [OPENTIX](https://www.opentix.life/event/2011615042313633793), [Wayback Machine](https://web.archive.org/web/20260422074845/https://www.opentix.life/event/2011615042313633793)
+- Language: Mandarin
+- type: rock musical, black comedy
+
+## TAIPEI COMEDY LIVE!!! () (Taipei City, Zhongshan District)
+- 2026-09-26 22:00
+- Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
+- [KKTIX (English)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=en)
+- [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=zh-TW)
+- Artists: Evan Danger, Ellery, Zachary Richards, Kylie Wang, Sam Yarbs, Chloe
+- Language: English
+- type: stand-up comedy
+
+## Taipei Photography & Video Device Exhibition 2026 (2026台北攝影器材暨影音創作設備展) (Taipei City, Nangang District)
+- 2026-10-02 to 2026-10-05
+- Location: [Taipei Nangang Exhibition Center Hall 1 (台北南港展覽館1館)](https://maps.app.goo.gl/5dCYu5MEk46dbioK7)
+- [Official (English)](https://tpvde.chanchao.com.tw/en)
+- [Official (Chinese)](https://tpvde.chanchao.com.tw/)
+- https://www.chanchao.com.tw/expoDetail.asp?id=DP2026
+- style: photography and video equipment trade and consumer show
+- type: trade show (貿易展覽會)
+
+## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taichung City, Xitun District)
+- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- event_id: e4340758-36b6-4308-bc7d-8614b8b61eed
+- 2026-10-10 20:00
+- Location: [Islands Art Park (群島藝術園區)](https://maps.app.goo.gl/YLSauvsEMXevGU8n9)
+- https://comedyclub.kktix.cc/events/thecutautumn?locale=en
+- https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW
+- type: stand-up comedy, improv comedy
+- Language: English
+
+## ART TAIPEI 2026 () (Taipei City, Xinyi District)
+- 2026-10-30 to 2026-11-02
+- Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
+- [Official (English)](https://2026.art-taipei.com/taipei/tw/)
+- [Official (Chinese)](https://2026.art-taipei.com/taipei/en/)
+- type: exhibition
+
+## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Kaohsiung City, Qianjin District)
+- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- event_id: 6717b790-97d5-4522-945c-4f5e81c8f713
+- 2026-11-06 20:00
+- Location: [Rock Music Live House (洛克音樂藝文展演空間)](https://maps.app.goo.gl/J2pnUH2g9me4r9E1A)
+- https://comedyclub.kktix.cc/events/thecutautumn?locale=en
+- https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW
+- type: stand-up comedy, improv comedy
+- Language: English
 
 ## ZEPRO RUN: National Half Marathon (2026 ZEPRO RUN全國半程馬拉松) (Hsinchu County, Zhubei City)
 - 2026-11-08
