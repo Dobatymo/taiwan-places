@@ -136,7 +136,7 @@
 - closed 2010
 
 ## Fuhe Theater (福和大戲院) (New Taipei City, Yonghe District)
-- aka: 福和戲院
+- aka: 福和戲院, Fuhe Grand Theatre
 - located in: Yonghe Chenggong Market (永和成功市場)
 - [Google Maps](https://maps.app.goo.gl/vk7wVUwwKh9z4naP7)
 - [SpectralCodex](https://spectralcodex.com/yonghe-fuhe-theater/)
@@ -213,6 +213,14 @@
 - [Facebook (Taiwan Urbex Image)](https://www.facebook.com/groups/urbeximage/permalink/2066156407507027/)
 
 - dangerous, guards, need to climb fences
+
+## Shuoren Elementary School (碩仁國民小學) (New Taipei City, Ruifang District)
+- [Google Maps](https://maps.app.goo.gl/E2yF68V9kegNrNgLA)
+- [新北市政府文化局](https://ntpc.culture.tw/ntpc/zh-tw/mininglifespace/320137)
+- https://vocus.cc/article/63cb82c1fd89780001ce2638
+- https://angelabeetle16.blogspot.com/2017/01/blog-post_30.html
+
+- Small elementary school, closed 1984 according to "新北市政府文化局". As of 2016, it can be rented as camp ground or for other activities.
 
 ## Formosa Fun Coast (八仙海岸) (New Taipei City, Bali District)
 - aka: Formosa Fun Water Park
@@ -363,6 +371,17 @@
 
 - categories: building
 
+## Jinshan Ironworks (台灣煉鐵金山廠) (New Taipei City, Jinshan District)
+- [Google Maps](https://maps.app.goo.gl/eG4a1TaJ9hQyeABS6)
+- https://spectralcodex.com/jinshan-ironworks/
+- https://gpx2000.blogspot.com/2011/07/blog-post.html
+- https://tinygalaxyryan.blogspot.com/2013/06/blog-post.html
+- https://www.flickr.com/photos/kenstudio/albums/72157623447274413/with/4413991342
+- https://iformosa.anews.com.tw/archives/182
+
+- only metal frame left
+- categories: factory
+
 ## Wanshou Road Apartment Complex (萬壽路廢棄社區) (Taoyuan City, Guishan District)
 - aka: Wanshou Road Residential Ruins
 - [Google Maps](https://maps.app.goo.gl/wReF8r1F5HG3zDPd7)
@@ -452,13 +471,6 @@
 
 - semi-abandoned, fee is charged to enter private land
 
-## Agenna Shipyard Relics (阿根納造船廠遺構) (Keelung City, Zhongzheng District)
-- [Google Maps](https://maps.app.goo.gl/RvjJfHiWK9YRE4269)
-- [Josh Ellis](https://www.goteamjosh.com/blog/agenna)
-- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%B9%E7%B4%8D%E9%80%A0%E8%88%B9%E5%BB%A0%E9%81%BA%E6%A7%8B)
-- [基隆海嗨 Keelung Hi Hi](https://keelunghihi.com.tw/84160)
-- [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
-
 ## Khóo Tsú-song old house (許梓桑古厝) (Keelung City, Ren'ai District)
 - [Google Maps](https://maps.app.goo.gl/mA3kLRARJzeunDvd8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kh%C3%B3o_Ts%C3%BA-song_old_house)
@@ -469,8 +481,16 @@
 - [Keelung For A Walk 雨都漫步](https://keelung-for-a-walk.com/culture/keelungs-abandoned-mansion/)
 - [Instagram (Tom Rook)](https://www.instagram.com/p/CVm5uz1Pl7D/)
 
+## Agenna Shipyard Relics (阿根納造船廠遺構) (Keelung City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/RvjJfHiWK9YRE4269)
+- [Josh Ellis](https://www.goteamjosh.com/blog/agenna)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%B9%E7%B4%8D%E9%80%A0%E8%88%B9%E5%BB%A0%E9%81%BA%E6%A7%8B)
+- [基隆海嗨 Keelung Hi Hi](https://keelunghihi.com.tw/84160)
+- [Valerie's Travel Blog](https://valerieblog.tw/keelung-fishing-port/)
+
 ## Eighteen Arhats Cave (十八羅漢洞) (Keelung City, Zhongzheng District)
 - [Google Maps](https://maps.app.goo.gl/E3bqeQ92RveMxUcr7)
+- https://spectralcodex.com/keelung-eighteen-arhats-cave/
 - [巴哈姆特 (crain83756)](https://forum.gamer.com.tw/C.php?bsn=60201&snA=19935)
 - [巴哈姆特 (crain83756)](https://home.gamer.com.tw/artwork.php?sn=5541866)
 - [基隆海嗨 Keelung Hi Hi](https://keelunghihi.com.tw/77016)
@@ -483,6 +503,12 @@
 - not to be confused with the cave in Sanzhi Seashell Temple
 - categories: religious theme park
 
+## Aladdin Family Amusement Park (阿拉丁親子樂園) (Keelung City, Zhongzheng District)
+- [Google Maps](https://maps.app.goo.gl/jgnTW8kqTa6NN4dc7)
+- https://spectralcodex.com/keelung-aladdin-family-amusement-park/
+- https://www.ptt.cc/bbs/Keelung/M.1464678170.A.F84.html
+- https://www.instagram.com/p/DaJbEO5mPwq/
+- https://www.instagram.com/p/DZO98lREl7c/
 ## Dalong Frozen Food Factory (大隆冷凍股份有限公司) (Keelung City, Zhongzheng District)
 - aka: 大隆冷凍食品股份有限公司
 - [Google Maps](https://maps.app.goo.gl/uP1h3SCg4ZV6zTir6)
@@ -490,8 +516,8 @@
 
 - categories: factory
 
-## Baifu Water Wellness Club (百福水漾樂活會館) (Keelung City, Qidu District)
-- aka: 百福水漾會館, Baifu Shuiyang Club, Baifu Water Park
+## Baifu Young Lohas club (百福水漾樂活會館) (Keelung City, Qidu District)
+- aka: 百福水漾會館, Baifu Water Wellness Club, Baifu Shuiyang Club, Baifu Water Park
 - [Google Maps](https://maps.app.goo.gl/gfaUWg2JJBTJ7ERW6)
 - [Instagram (phot_ouo)](https://www.instagram.com/p/DYZx4tSmcuW/)
 - [民視新聞網 FTV News](https://www.ftvnews.com.tw/news/detail/2025319N06M1)
@@ -763,7 +789,7 @@
 - [Google Maps](https://maps.app.goo.gl/LyEPJqfriEkgYBu87)
 - [Blogspot (假文青的廢墟散步)](https://fakeliteraryyouth.blogspot.com/2026/07/120250209.html)
 
-## Jincheng Theater (金城大戲院) (Yunlin County,  Township)
+## Jincheng Theater (金城大戲院) (Yunlin County, Mailiao Township)
 - aka: 金城戲院
 - [Google Maps](https://maps.app.goo.gl/KZYgrdsfKtEqa4ks6)
 - [SpectralCodex](https://spectralcodex.com/mailiao-jincheng-theater/)

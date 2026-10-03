@@ -608,6 +608,18 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q108334895)
 - [Taiwan Hikes](https://www.taiwanhikes.com/blog-posts/teapot-banping-canguanliao-mountain.html)
 
+## Sandialing Waterfall Trail (三貂嶺瀑布步道) (New Taipei City, Ruifang District)
+- aka: Sandialing Trail (三貂嶺步道), Sandiaoling Waterfall Group (三貂嶺瀑布群)
+- includes: Hegu falls (合谷瀑布), Motian waterfall (模天瀑布 / 摩天瀑布), Pipa-Dong waterfall (枇杷洞瀑布)
+- [Google Maps (trailhead)](https://maps.app.goo.gl/t3AjGz4xs7JNev4N8)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%B2%82%E5%B6%BA%E7%80%91%E5%B8%83%E7%BE%A4)
+- [Wikidata](https://www.wikidata.org/wiki/Q109345446)
+- [Josh Ellis](https://www.goteamjosh.com/blog/sandiaoling-)
+- https://newtaipei.travel/zh-tw/Attractions/Detail/302768
+- https://taiwantrailsandtales.com/2018/02/09/sandiaoling-waterfall-trail-to-dahua-train-station/
+- https://www.alltrails.com/trail/taiwan/new-taipei-city/sandiaoling-waterfalls-trail
+- https://www.foreignersintaiwan.com/blog/sandiaoling-three-tiered-waterfall-trail
+
 ## Taoyuan Valley Trail Neiliao Line (桃源谷步道內寮線) (New Taipei City, Gongliao District)
 - [Google Maps (trailhead)](https://maps.app.goo.gl/TDKusd9ehuvBYmnm9)
 - [New Taipei City Travel (English)](https://newtaipei.travel/en/Attractions/Detail/403533)
@@ -1610,6 +1622,53 @@
 
 - categories: temple
 
+## Xiushan Road Lane 57 Apartment Building (秀山路57巷公寓) (Taoyuan City, Taoyuan District)
+- [Google Maps](https://maps.app.goo.gl/jCZZ6MG2G2W3NY9t9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E8%B7%AF%E6%A9%9F%E8%BB%8A%E9%81%93%E5%85%AC%E5%AF%93)
+- [SpectralCodex](https://spectralcodex.com/taoyuan-xiushan-road-lane-57-apartment-building/)
+
+= categories: residential building
+
+## Damiaokou Story House (大廟口派出所) (Taoyuan City, Taoyuan District)
+- aka: 舊城再生基地辦公室, Taoyuan Damiaokou Story House (桃園大廟口派出所)
+- [Google Maps](https://maps.app.goo.gl/B9hoU2WiRHrn9nxSA)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E6%A1%83%E5%9C%92%E5%A4%A7%E5%BB%9F%E5%8F%A3%E6%B4%BE%E5%87%BA%E6%89%80)
+- https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20170216000001
+- https://museums.moc.gov.tw/MusData/Detail?museumsId=c029dfd0-7a9a-457f-ab05-79532f4aff97
+- https://eng.tycg.gov.tw/News_Content.aspx?n=922&s=1426246
+
+= categories: museum, heritage building
+
+## Taoyuan Changmei Alley (桃園長美巷) (Taoyuan City, Taoyuan District)
+- aka: Minquan Road #99 Alley (民權路99巷)
+- [Google Maps](https://maps.app.goo.gl/MF2vQ3v1wfDWfrZXA)
+- [SpectralCodex](https://spectralcodex.com/taoyuan-changmei-alley/)
+- https://www.facebook.com/thethiefofplaces/posts/440182866766068
+- https://life.tw/?app=view&no=1636385
+
+= categories: former red light district, society
+
+## Taoyuan 77 Art Zone (桃園77藝文町) (Taoyuan City, Taoyuan District)
+- aka: Taoyuan Police Dorms, Taoyuan 77 Cultural Streets
+- [Google Maps](https://maps.app.goo.gl/xBiNsgSYXxLcRwKN7)
+- https://www.goteamjosh.com/blog/qiqi
+- https://travel.tycg.gov.tw/en/travel/attraction/1548
+
+- categories: heritage building
+
+## Chopin Art Center (蕭邦藝術會館) (Taoyuan City, Taoyuan District)
+- [Google Maps](https://maps.app.goo.gl/riZvEQXdxGsKwatbA)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%95%AD%E9%82%A6%E8%97%9D%E8%A1%93%E6%9C%83%E9%A4%A8)
+- [SpectralCodex](https://spectralcodex.com/taoyuan-chopin-art-center/)
+
+- categories: building, architecture
+
+## Taoyuan Guandi Temple (桃園關帝廟) (Taoyuan City, Taoyuan District)
+- [Google Maps](https://maps.app.goo.gl/TnYnzydKqYZSkASv5)
+- [SpectralCodex](https://spectralcodex.com/taoyuan-guandi-temple/)
+
+- categories: temple
+
 ## Kuo Yuan Ye Museum of Cake and Pastry (郭元益糕餅博物館) (Taoyuan City, Yangmei District)
 - [Google Maps](https://maps.app.goo.gl/yMi4VLE9fNM6ByrHA)
 - [Wikidata](https://www.wikidata.org/wiki/Q14920284)
@@ -2016,6 +2075,7 @@
 - categories: theme park
 
 ## Lihpao Land (麗寶樂園度假區) (Taichung City, Houli District)
+- includes: Lihpao Mala Bay (馬拉灣)
 - [Google Maps](https://maps.app.goo.gl/rzL8BkyiZUVyXhDm7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Lihpao_Land)
 - [Wikidata](https://www.wikidata.org/wiki/Q11175218)
@@ -2025,6 +2085,10 @@
 
 - categories: amusement park, swimming pool
 - public transport: from Taipei not great (generally more than 3 hours, by car it's more like 2 hours)
+
+## Lihpao Mala Bay (馬拉灣) (Taichung City, Houli District)
+- part of: Lihpao Land (麗寶樂園度假區)
+- [Google Maps](https://maps.app.goo.gl/6eNbuVof6ujtyyny8)
 
 ## Janfusun Fancyworld (劍湖山世界) (Yunlin County, Gukeng Township)
 - [Google Maps](https://maps.app.goo.gl/d1pxXn3fLtXiH1L19)

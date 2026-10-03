@@ -772,6 +772,11 @@
 - [Official (Chinese)](https://www.linlingallery.com/album_d.php?lang=tw&tb=1&cid=639&id=9143)
 - type: exhibition
 
+## 2026 Taipei Art Book Fair (2026 草率季 Taipei Art Book Fair) (Taipei City, Shilin District)
+- 2026-03-06 to 2026-03-08
+- Location: Taipei Performing Arts Center, Super Theatre (臺北表演藝術中心, 超級大劇院)
+- [Official](https://taipeiartbookfair.com/)
+
 ## Dreaming Planet (夢幻星空) (Taipei City, Da'an District)
 - 2026-03-06 to 2026-03-22
 - Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
@@ -1400,7 +1405,7 @@
 
 ## The Phantom of the Opera (全本音樂劇《歌劇魅影》) (Taipei City, Shilin District)
 - 2026-04-21 to 2026-05-17
-- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
 - [Official (English)](https://tpac.org.taipei/en/program/1369)
 - [Official (Chinese)](https://tpac.org.taipei/program/1369)
 - https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P13CXC1H
