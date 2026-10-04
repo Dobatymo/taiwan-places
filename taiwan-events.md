@@ -360,7 +360,7 @@
 
 ## 2025 ISHANDS International Craft & Design Festival (2025 愛手創國際手作設計節 織夢者舞會) (Taipei City, Zhongzheng District)
 - 2025-11-07 to 2025-11-09
-- Location: [Huashan 1914 Creative Park, Building East 2](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- Location: [Huashan 1914 Creative Park, Building East 2 (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - [Facebook](https://www.facebook.com/IsHands.asia/)
 - [klook](https://www.klook.com/activity/87261-ishands-international-craft-design-festival/)
 - [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25101014580704580)
@@ -421,7 +421,7 @@
 
 ## 2025 Taipei Art Book Fair (2025草率季Taipei Art Book Fair) (Taipei City, Zhongzheng District)
 - 2025-11-21 to 2025-11-23
-- Location: [Huashan 1914 Creative Park](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- Location: [Huashan 1914 Creative Park (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - [Instagram](https://www.instagram.com/taipeiartbookfair/)
 - [Official](https://taipeiartbookfair.com/)
 - [Facebook](https://www.facebook.com/taipeiartbookfair/)
@@ -491,7 +491,7 @@
 
 ## Echoes () (Taipei City, Datong District)
 - 2025-12-12 to 2026-01-10
-- Location: [AKI Gallery](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
+- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
 - Artist (藝術家): Carlos SAGRERA, Yigal OZERI, Hisaya TAIRA (平久彌)
 - [Official (English)](https://www.galleryaki.com/en/exhibition/content/308)
 - [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/308)
@@ -573,7 +573,7 @@
 
 ## World Ancient Civilizations Immersive Experience Exhibition (世界古文明 沉浸體驗展) (Taipei City, Zhongzheng District)
 - 2026-01-15 to 2026-04-19
-- Location: [Huashan 1914 Creative Park, Building East 2AB](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- Location: [Huashan 1914 Creative Park, Building East 2AB (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - [Official (Chinese)](https://www.firenzecx.com/exhibitions-ancient-world-immersive/)
 - https://www.huashan1914.com/w/huashan1914/exhibition_25122618002428715
 - [klook](https://www.klook.com/activity/187273-world-ancient-civilization-immersive-experience-exhibition/)
@@ -588,7 +588,7 @@
 
 ## Mika NINAGAWA Exhibition with EiM: Light of the Other Shore, Shadow of This Shore (蜷川實花展with EiM：彼岸之光，此岸之影) (Taipei City, Zhongzheng District)
 - 2026-01-17 to 2026-04-19
-- Location: [Huashan 1914 Creative Park](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- Location: [Huashan 1914 Creative Park (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - Artist (藝術家): Mika NINAGAWA (蜷川實花)
 - [Official (Chinese)](https://www.huashan1914.com/w/huashan1914/exhibition_25121018071945425)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=332077a0-de35-4f5f-9ba9-2ee9edd8d7c3&PageType=1)
@@ -811,7 +811,7 @@
 
 ## The Water is Wide () (Taipei City, Datong District)
 - 2026-03-07 to 2026-03-28
-- Location: [AKI Gallery](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
+- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
 - Artist (藝術家): WONG Wang-Chuen (黃弘川)
 - [Official (English)](https://www.galleryaki.com/en/exhibition/content/311)
 - [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/311)
@@ -2385,7 +2385,7 @@
 - [Official (Chinese)](https://www.kingcarart.org.tw/exhibitions-detail/258)
 - https://www.travel.taipei/en/activity/details/67594
 - https://www.accupass.com/event/2606180940072592111360
-- Artist: LIN I-Tsen (林奕岑)
+- Artist (藝術家): LIN I-Tsen (林奕岑)
 - Host: King Car Cultural & Educational Foundation (金車文教基金會)
 - Co-Host: King Car Cultural & Art Center (金車文藝中心)
 - type: solo exhibition (個展)
@@ -2671,6 +2671,18 @@
 - style: jazz
 - type: outdoor concert
 
+## Variations and Dialogues in Writing: Calligraphy Meets Design (書寫的變奏與對話：書法・設計的當代語境) (Taoyuan City, Dayuan District)
+- 2026-08-20 to 2026-11-09
+- Location: [Hengshan Calligraphy Art Center (橫山書法藝術館)](https://maps.app.goo.gl/XNdjwD4gzvbTyXSd7)
+- [Official (English)](https://tmofa.tycg.gov.tw/en/exhibitions/current-exhibitions/159)
+- [Official (Chinese)](https://tmofa.tycg.gov.tw/ch/exhibitions/current-exhibitions/158)
+- [Taiwan Design Expo (English)](https://www.designexpo.org.tw/designexpo/en/exhibition/21), [Wayback Machine](https://web.archive.org/web/20261003134903/https://www.designexpo.org.tw/designexpo/en/exhibition/21)
+- [Taiwan Design Expo (Chinese)](https://www.designexpo.org.tw/designexpo/zh-TW/exhibition/21)
+- Curator (策展人): YU Ming-lung (游明龍)
+- Organizer: Taoyuan Museum of Fine Arts (桃園市立美術館), Hengshan Calligraphy Art Center (橫山書法藝術館)
+- style: calligraphy
+- type: exhibition
+
 ## Rodgers + Hammerstein's CINDERELLA (Broadway Version) (《仙履奇緣》百老匯音樂劇) (Taipei City, Shilin District)
 - 2026-08-21 to 2026-08-23
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
@@ -2692,6 +2704,23 @@
 - style: indie rock music
 - type: concert
 
+## Silenters () (Taipei City, Zhongshan District)
+- 2026-09-12 to 2026-10-18
+- Location: [BBBBB Gallery](https://maps.app.goo.gl/tf5QWJP64bgenmGw8)
+- Artist (藝術家): Kirill Semenov
+- https://www.instagram.com/p/Ddle58iMzhZ/
+- https://www.instagram.com/p/DdGomCTFJuI/
+- https://bbbbbgallery.com/product-category/kirill-semenov/
+- type: solo exhibition (個展)
+
+## Instructions for Crying () (Taipei City, Datong District)
+- 2026-09-12 to 2026-10-10
+- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
+- [Official (English)](https://www.galleryaki.com/en/exhibition/content/317)
+- [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/317)
+- Artist (藝術家): Willy VERGINER
+- type: exhibition
+
 ## Wang Yahui: Voyager (王雅慧：旅行者) (Taipei City, Zhongshan District)
 - 2026-09-12 to 2027-01-03
 - Location: [Taipei Fine Arts Museum, Galleries 2A and 2B (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
@@ -2699,10 +2728,10 @@
 - https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=813
 - https://www.mutualart.com/Exhibition/Wang-Yahui--Voyager/8E14C9F688182735
 - https://cultureexpress.taipei/English/Event/E000003?ID=4113b4fa-b86e-468d-836b-6d795c261a6d&PageType=1
-- Artist: WANG Yahui (王雅慧)
+- Artist (藝術家): WANG Yahui (王雅慧)
+- Curator: Lei Yi-ting, Hsuan-chun Lin
 - style: contemporary art, video installation, photography
 - type: exhibition
-- Curator: Lei Yi-ting, Hsuan-chun Lin
 
 ## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
 - 2026-09-16
@@ -2745,6 +2774,22 @@
 - style: video-game soundtrack, orchestral and Chinese music
 - type: concert
 
+## Living Room of Daxi-Craft and Contemporary Living (山城的客廳-家的工藝生活提案 Living Room Tour) (Taoyuan City, Daxi District)
+- 2026-09-22 to 2027-04-11
+- Location: [Bushido Hall, Daxi Wood Art Ecomuseum (大溪武德殿)](https://maps.app.goo.gl/CeFWdgKN7iAvCnJPA)
+- https://www.designexpo.org.tw/designexpo/en/exhibition/23
+- https://www.designexpo.org.tw/designexpo/zh-TW/exhibition/23
+- https://wem.tycg.gov.tw/Photo_News_Content_Museums.aspx?n=9676&s=1863656
+- type: exhibition
+
+## 2026 Taiwan Design Expo: TAOYUAN in FLOW (2026台灣設計展《桃園流》) (Taoyuan City, Zhongli and Dayuan districts)
+- 2026-09-24 to 2026-10-11
+- Location: [Messe Taoyuan (桃園會展中心)](https://maps.app.goo.gl/nDyonkyWbjJ6K2yx8), [Taoyuan Public Library. Qingpu Branch (桃園市立圖書館. 青埔智慧科技分館](https://maps.app.goo.gl/fV1gyWRJ5qv3zuCa9), [Hengshan Calligraphy Art Center (橫山書法藝術館)](https://maps.app.goo.gl/XNdjwD4gzvbTyXSd7)
+- https://www.designexpo.org.tw/designexpo/en
+- https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43356
+- https://www.facebook.com/Taiwandesignexpo
+- type: design exhibition, urban festival, markets
+
 ## Ballad from Six Feet Under (《你好，我是接體員》黑色幽默音樂劇) (Taipei City, Shilin District)
 - 2026-09-25 19:30, 2026-09-26 14:30, 2026-09-27 14:30
 - Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
@@ -2772,6 +2817,15 @@
 - style: photography and video equipment trade and consumer show
 - type: trade show (貿易展覽會)
 
+## Taipei Toy Festival 2026 (2026 台北國際玩具創作大展) (Taipei City, Zhongzheng District)
+- aka: 23rd Taipei Toy Festival (第23屆 台北國際玩具創作大展)
+- 2026-10-08 to 2026-10-11
+- Location: [Huashan 1914 Creative Park (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- https://www.huashan1914.com/exhibition/2026%20%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E7%8E%A9%E5%85%B7%E5%89%B5%E4%BD%9C%E5%A4%A7%E5%B1%95%20Taipei%20Toy%20Festival
+- https://www.instagram.com/taipeitoyfestival/
+- https://www.facebook.com/TaipeiToyFestival/
+- type: trade show (貿易展覽會)
+
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taichung City, Xitun District)
 - performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: e4340758-36b6-4308-bc7d-8614b8b61eed
@@ -2781,6 +2835,29 @@
 - https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW
 - type: stand-up comedy, improv comedy
 - Language: English
+
+## PyCon Taiwan 2026 () (Taipei City, Xinyi District)
+- 2026-10-17 to 2026-10-18
+- Location: [Taipei Medical University (臺北醫學大學)](https://maps.app.goo.gl/e6jNzgKn4DC7iQfG9)
+- https://tw.pycon.org/2026/zh-hant
+- https://pycontw.kktix.cc/events/2026-individual
+- type: technology conference
+
+## Hsin-Ying Liu Solo Exhibition (劉昕穎 個展) (Taipei City, Datong District)
+- 2026-10-17 to 2026-11-14
+- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
+- https://taipeiartweek.tw/en/listing/%E5%8A%89%E6%98%95%E7%A9%8E%E5%80%8B%E5%B1%95-2/
+- https://taipeiartweek.tw/zh/listing/%E5%8A%89%E6%98%95%E7%A9%8E%E5%80%8B%E5%B1%95/
+- Artist (藝術家): Hsin-Ying LIU (劉昕穎)
+- style: painting
+- type: solo exhibition (個展)
+
+## 2026 Kaohsiung Fried Chicken Festival (2026高雄鹹酥雞嘉年華) (Kaohsiung City, Lingya District)
+- 2026-10-24 to 2026-10-25
+- Location: [Far Eastern Department Store Kaohsiung, 1F Dream Plaza (高雄市苓雅區高雄大遠百, 1F追夢廣場)](https://maps.app.goo.gl/18r7xwFRRVPnNGoC9)
+- https://khh.travel/en/event/calendardetail/7905/
+- https://khh.travel/zh-tw/event/calendardetail/7904/
+- type: food festival, market, live performances
 
 ## ART TAIPEI 2026 () (Taipei City, Xinyi District)
 - 2026-10-30 to 2026-11-02

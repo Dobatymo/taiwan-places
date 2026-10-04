@@ -2568,7 +2568,7 @@
 
 ## Xining Market (西寧大樓) (Taipei City, Wanhua District)
 - also: Xining Public Housing (萬華西寧國宅)
-- [Google Maps](https://maps.app.goo.gl/dnXno6PMLya33JoM7)
+- [Google Maps](https://maps.app.goo.gl/pXe6BgX5HBKGHrcS7)
 - [Wikidata](https://www.wikidata.org/wiki/Q137049739)
 - [SpectralCodex](https://spectralcodex.com/wanhua-xining-public-housing/)
 - [Taiwan News](https://www.taiwannews.com.tw/news/6027674)
@@ -3471,6 +3471,7 @@
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://cott6226.pixnet.net/blog/post/353616316
 - https://www.instagram.com/p/DXO2zH7lD3o/
+- https://www.instagram.com/reels/DdRNAVqSlUK/
 
 - categories: community, abandoned, public housing
 - scheduled for demolition
