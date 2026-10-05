@@ -3028,6 +3028,16 @@
 
 - categories: waterfall, river tracing, natural pool, waterslide
 
+## Beipu Cold Spring (北埔冷泉) (Hsinchu County, Beipu Township)
+- [Google Maps](https://maps.app.goo.gl/ARpVTzL7rCUopJTU9)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%8C%97%E5%9F%94%E5%86%B7%E6%B3%89)
+- [Wikidata](https://www.wikidata.org/wiki/Q10902676)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002108&id=5597
+- https://travel.hsinchu.gov.tw/En/attraction/content/WkQ7L9wyvEK0
+- https://leannv88.wixsite.com/wildworldvoyager/post/taiwan-hidden-gems-beipu-cold-spring
+
+- categories: waterfall, cold spring
+
 ## Xiangshan Wetlands (香山濕地) (Hsinchu City, Xiangshan District)
 - [Google Maps](https://maps.app.goo.gl/UgYuANtaqwsSv3a2A)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%A6%99%E5%B1%B1%E6%BF%95%E5%9C%B0)

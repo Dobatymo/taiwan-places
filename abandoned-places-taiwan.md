@@ -1,5 +1,24 @@
 # Abandoned
 
+## Railway Ministry Dormitory Heritage Site (鐵道部部長宿舍) (Taipei City, Datong District)
+- aka: 台北西區鐵道宿舍群
+- also: Taipei Machine Bureau (台北機器局), Machine Bureau Warehouse No. 5 (機器局第五號倉庫)
+- [Google Maps (A)](https://maps.app.goo.gl/uMeUou2JSoxR2fxx6)
+- [Google Maps (B)](https://maps.app.goo.gl/YcVGGhJZD3dEC4Ca6)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E9%90%B5%E9%81%93%E9%83%A8%E9%83%A8%E9%95%B7%E5%AE%BF%E8%88%8D)
+- [Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80)
+- https://nchdb.boch.gov.tw/assets/overview/monument/20070122000002
+- https://tcmb.culture.tw/zh-tw/detail?indexCode=BOCH_CountryCulture_11&id=20070122000002
+- https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=292381
+- https://www.instagram.com/p/C7dDRYEP-7P/
+- https://apextraveller.com/xuite-306128397/
+- https://historic-site.chuimouplus.com/historic_site/%E9%90%B5%E9%81%93%E9%83%A8%E9%83%A8%E9%95%B7%E5%AE%BF%E8%88%8D%EF%BD%9C%E6%8E%A2%E7%B4%A2%E5%AE%85%E7%AC%AC%E9%A1%9E%E5%9E%8B%E5%8F%A4%E8%B9%9F%E7%9A%84%E6%B7%B1%E9%81%A0%E6%AD%B7%E5%8F%B2/
+- https://oldhouse.taipei/home/zh-tw/video/628004
+- https://www.tomrookart.com/hiddentaiwan/2016/2/7/beimen-north-gate-area-taipei
+- https://web.archive.org/web/20161112175155/http://news.ltn.com.tw/news/local/paper/518858
+
+- designated heritage site in 2009. fire in 2011. as of 2026 surrounded by tall fence.
+
 ## Da'an Zhima Building (芝麻大廈) (Taipei City, Da'an District)
 - aka: Sesame Hotel (芝麻酒店)
 - [Google Maps](https://maps.app.goo.gl/rE4MySxUq6Tc3t4t6)
@@ -472,6 +491,7 @@
 - semi-abandoned, fee is charged to enter private land
 
 ## Khóo Tsú-song old house (許梓桑古厝) (Keelung City, Ren'ai District)
+- aka: Khóo Tsú-song Old Mansion
 - [Google Maps](https://maps.app.goo.gl/mA3kLRARJzeunDvd8)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Kh%C3%B3o_Ts%C3%BA-song_old_house)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%A2%93%E6%A1%91%E5%8F%A4%E5%8E%9D)
@@ -1183,6 +1203,7 @@
 - [Yahoo News Taiwan](https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E9%86%AB%E9%99%A2%E5%9F%8E%E5%8D%80%E8%88%8A%E5%A4%A7%E6%A8%93-%E8%8D%92%E5%BB%A2%E6%B7%AA%E9%81%8A%E6%B0%91%E8%81%9A%E9%9B%86%E5%9C%B0-035012655.html)
 - [Taiwan News](https://www.taiwannews.com.tw/news/4049185)
 - [Flickr (Narwal)](https://www.flickr.com/photos/narwal/4382822040)
+- https://www.tomrookart.com/hiddentaiwan/2016/2/7/beimen-north-gate-area-taipei
 
 - abandoned 2014, still standing as of 2020 (according to "SETN三立新聞網"), but demolished as of 2025
 
