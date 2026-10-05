@@ -22,7 +22,7 @@
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=90084&request_locale=en&useLanguage=en
 - https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=90084&request_locale=tw&useLanguage=tw
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=5807c22c-7909-4076-a4bd-07a1945dd8bd&PageType=1)
-- https://artemperor.tw/tidbits/9135
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/9135)
 - https://museu.ms/exhibition/details/7663/discovering-taiwan-revisiting-the-age-of-natural-history-and-naturalist-of-taiwan
 - type: permanent exhibition
 
@@ -468,7 +468,7 @@
 ## The Sixth Mass Extinction: Fate or Chance? (第六次大滅絕？命運還是機會) (Taipei City, Zhongzheng District)
 - 2025-12-02 to 2026-11-01
 - Location: [National Taiwan Museum Nanmen Branch (國立臺灣博物館南門館)](https://maps.app.goo.gl/cEjSR3UEAkQ4oqzw7)
-- https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50149
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=50149)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=f36eee36-3728-40f2-8d30-3d84fb8c8bf4&PageType=1)
 - https://www.ntm.gov.tw/News_Content.aspx?n=5651&s=247746
 - [Focus Taiwan](https://focustaiwan.tw/photos/20251201ENP0002m)
@@ -509,14 +509,14 @@
 
 ## Into Eternity: Giacometti, Miró, Calder (《步入永恆：賈科梅蒂、米羅、考爾德》) (Taipei City, Xinyi District)
 - 2025-12-24 to 2026-04-20
-- Location: [Fubon Art Museum - 1F Water Gallery (富邦美術館)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
-- https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X0088P8G
+- Location: [Fubon Art Museum - 1F Water Gallery (富邦美術館, 1樓 水景展廳)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
+- [Official](https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X0088P8G)
 - type: art exhibition
 
 ## Fubon Collection-Resonance: Symphony of Light, Love & Color (《富邦典藏展-共鳴：光、愛與色彩的交響》) (Taipei City, Xinyi District)
 - 2025-12-24 to 2026-04-20
-- Location: [Fubon Art Museum - 3F Sun Gallery (富邦美術館)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
-- https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X00895NY
+- Location: [Fubon Art Museum - 3F Sun Gallery (富邦美術館, 3樓 日光展廳)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
+- [Official](https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X00895NY)
 - type: art exhibition
 
 ## Eternal Picasso: Art, Muses, and Companions (「永恆畢卡索」 光影藝術展：藝術、繆思與知己) (Taipei City, Zhongzheng District)
@@ -525,6 +525,7 @@
 - [Official (Chinese)](https://www.firenzecx.com/eternal_picasso/)
 - [OPENTIX](https://www.opentix.life/event/1979028205481283585)
 - [klook](https://www.klook.com/activity/181064-picasso-exhibition/)
+- type: exhibition
 
 ## Frieren: Beyond Journey's End Special Exhibition (葬送的芙莉蓮特展) (Taipei City, Shilin District)
 - 2026-01-03 to 2026-04-06
@@ -534,6 +535,7 @@
 - [Facebook](https://www.facebook.com/frierentp25)
 - [klook](https://www.klook.com/activity/184474-frieren/)
 - https://www.momokids.com.tw/activity-view.php?infoid=343&qpmid=0&page=3&pgname=&lmenuid=3&smenuid=0&tmenuid=0
+- type: exhibition
 
 ## Dragon Ball: Heroes Rise (七龍珠 英雄崛起) (Taipei City, Zhongzheng District)
 - 2026-01-08 to 2026-04-04
@@ -1325,7 +1327,7 @@
 - Location: [Taipei Zhongshan Hall (臺北市中山堂)](https://maps.app.goo.gl/sABRNHjkEkw48aQN7)
 - [Official (English)](https://english.tco.gov.taipei/News_Content.aspx?n=B497031AF13B707E&s=4C268095FB7F8BA7)
 - [Official (Chinese)](https://www.tco.gov.taipei/News_Content.aspx?n=0D9B6F778A90E631&s=24710EFD1A5B99CA)
-- [Facebook Post](https://www.facebook.com/bravoTCO/posts/1495753241910062?ref=embed_post)
+- [Facebook Post](https://www.facebook.com/bravoTCO/posts/1495753241910062)
 - [Instagram Post](https://www.instagram.com/p/DV5qZHpEn8b/)
 - [OPENTIX](https://www.opentix.life/event/1993268152944586753)
 - https://eventgo.tw/event/a39bd6fc-7a08-475d-bef7-27df92c8ad9d
@@ -1928,6 +1930,14 @@
 - Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
 - type: photography solo exhibition (攝影個展)
 
+## Obscured Portraits: Seen and Unseen-Perceptions Beyond Sight (黯像：看見不見-無視之覺) (Taipei City, Zhongzheng District)
+- 2026-05-22 to 2026-10-11
+- Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
+- https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8006&s=254387
+- Curator (策展人): 趙欣怡
+- Organizer (主辦單位): Ministry of Culture (文化部)
+- type: photography exhibition
+
 ## AIDA the Peking Opera (新編京劇《阿依達的愛》) (Taipei City, Songshan District)
 - 2026-05-23 14:30, 2026-05-24 14:30
 - Location: [Taipei City Arts Promotion Office (臺北市藝文推廣處城市舞台)](https://maps.app.goo.gl/nPWpT9wzwUJEzHKM9)
@@ -2071,7 +2081,7 @@
 - Location: [Mind Set Art Center (安卓藝術)](https://maps.app.goo.gl/z9Fy1HZvhUXTjUM29)
 - [Official (English)](https://www.art-msac.com/en/exhibitions/151/overview/)
 - [Official (Chinese)](https://www.art-msac.com/exhibitions/151/overview/)
-- https://artemperor.tw/tidbits/19898
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/19898)
 - https://www.facebook.com/MindSetArtCenter/posts/1449057073903381
 - Artist (藝術家): CHOU Kai-Lun (周楷倫)
 - style: oil painting
@@ -2139,6 +2149,14 @@
 - Organizer (主辦單位): Taipei Performing Arts Center (臺北表演藝術中心)
 - 偶戲指導: 吳思瑞
 - type: theatre
+
+## Obscured Portraits: Seen and Unseen-Boundaries of the Gaze (黯像：看見不見-凝視之界) (Taipei City, Zhongzheng District)
+- 2026-06-11 to 2026-10-26
+- Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
+- https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8005&s=254627
+- Curator (策展人): 趙欣怡
+- Organizer (主辦單位): Ministry of Culture (文化部)
+- type: photography exhibition
 
 ## Home (家：情感在基隆靠岸) (Keelung City, Zhongzheng District)
 - 2026-06-12 to 2026-09-13
@@ -2227,7 +2245,7 @@
 - aka: The Magic of Roundness: Botero Special Exhibition, Round and Magical Botero Exhibition
 - 2026-06-19 to 2026-10-11
 - Location: [Chiang Kai-shek Memorial Hall, Exhibition Hall 1 (中正紀念堂, 1展廳)](https://maps.app.goo.gl/dxcFSNhUSqnPW73F9)
-- https://www.opentix.life/event/2047597722530205696
+- [OPENTIX](https://www.opentix.life/event/2047597722530205696)
 - [kkday](https://www.kkday.com/product/579180)
 - https://www.klook.com/activity/208522-rounded-magic-botero-exhibition/
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=c82a282b-7933-4945-b062-c02192362e38&PageType=1)
@@ -2291,7 +2309,7 @@
 - Language: Korean
 - Subtitles: Mandarin, English
 - Series: 2026 Taiwan International Play Reading Festival (2026台灣國際讀劇節)
-- Organizer: Taipei Performing Arts Center, Prologue Center for New Plays
+- Organizer (主辦單位): Taipei Performing Arts Center, Prologue Center for New Plays
 - type: staged reading / theater festival
 
 ## Medical Taiwan 2026: International Medical, Health & Care Expo (台灣國際醫療暨健康照護展) (Taipei City, Xinyi District)
@@ -2301,7 +2319,7 @@
 - [Official (Chinese)](https://www.medicaltaiwan.com.tw/zh-tw/index.html)
 - [TWTC (English)](https://www.twtc.com.tw/en/exhibition_more.aspx?p=home&id=31793)
 - [TWTC (Chinese)](https://www.twtc.com.tw/exhibition_more.aspx?p=home&id=31793)
-- Organizer: Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taiwan Medical and Biotech Industry Association (台灣醫療暨生技器材工業同業公會), Taiwan Federation of Medical Devices Commercial Associations (中華民國醫療器材商業同業公會全國聯合會), Metal Industries Research & Development Centre (金屬工業研究發展中心), Taiwan Medical Care Assistive Technologies Association (台灣生技醫療照護輔具協會)
+- Organizer (主辦單位): Taiwan External Trade Development Council (中華民國對外貿易發展協會), Taiwan Medical and Biotech Industry Association (台灣醫療暨生技器材工業同業公會), Taiwan Federation of Medical Devices Commercial Associations (中華民國醫療器材商業同業公會全國聯合會), Metal Industries Research & Development Centre (金屬工業研究發展中心), Taiwan Medical Care Assistive Technologies Association (台灣生技醫療照護輔具協會)
 - type: medical expo, trade show (貿易展覽會)
 
 ## White Storyteller (白色說書人) (Taipei City, Shilin District)
@@ -2350,7 +2368,7 @@
 - https://mediasphere.com.tw/exhibitions/124
 - https://www.instagram.com/mucha_exhibition_tainan/
 - https://www.momatainan.gov.tw/News_Content.aspx?n=9532&s=257077
-- https://artemperor.tw/focus/7223
+- [Art Emperor 非池中](https://artemperor.tw/focus/7223)
 - [OPENTIX](https://www.opentix.life/event/2058806393864052737)
 - https://www.klook.com/activity/213408-new-art-horizons-mucha-centennial-classic-exhibition/
 - Organizer (主辦單位): Mediasphere Communications Ltd. (時藝多媒體), Mucha Foundation (慕夏基金會)
@@ -2464,6 +2482,24 @@
 - [Official (English)](https://www.musicofsquareenix.com/concert/kaohsiung-2026)
 - [Instagram](https://www.instagram.com/p/DWGblCTILFy/)
 - [ibon售票系統](https://ticket.ibon.com.tw/ActivityInfo/Details/39496)
+- type: concert
+
+## Animal Kingdom Adventure Exhibition – University of Pisa Natural History Museum (動物王國大探險展－比薩大學自然史博物館) (Taipei City, Shilin District)
+- 2026-07-11 to 2026-10-11
+- Location: [National Taiwan Science Education Center, 7th Floor West Special Exhibition Hall (國立臺灣科學教育館, 7樓西側特展廳)](https://maps.app.goo.gl/Rsk5wvxmLh1nUjFQ6)
+- [Official (Chinese)](https://www.ntsec.gov.tw/article/detail.aspx?a=6078), [Wayback Machine](https://web.archive.org/web/20261005131422/https://www.ntsec.gov.tw/article/detail.aspx?a=6078)
+- https://shop.firenzecx.com/products/ticket-animal-kaeuopnhm-taipei
+- [OPENTIX](https://www.opentix.life/event/2055133323057967105)
+- Organizer (主辦單位): Firenze Cultural Exchange (翡冷翠文創事業股份有限公司), National Taiwan Science Education Center (國立臺灣科學教育館)
+- type: exhibition
+
+## A Glimpse of Deep Time: Allosaurus and Fossil Illustrations (骨早味：異特龍記憶與化石繪圖) (Taipei City, Zhongzheng District)
+- 2026-07-14 to 2026-11-01
+- Location: [National Taiwan Museum (國立臺灣博物館)](https://maps.app.goo.gl/qsjiHY15FEBzG5L27)
+- [Official (Chinese)](https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=60183)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=583b292f-9bca-492d-ac83-2308a219467a&PageType=1)
+- [Taiwan Today](https://taiwanreview.nat.gov.tw/36/285218)
+- type: exhibition
 
 ## Ryoko Kui Exhibition and "Delicious in Dungeon" Dungeon Exploration Exhibition (九井諒子展 及 《迷宮飯》迷宮探索展) (Taipei City, Zhongzheng District)
 - 2026-07-15 to 2026-08-30
@@ -2493,6 +2529,15 @@
 - Subtitle: Mandarin
 - type: circus
 
+## Metamorphosis (變形) (Nantou County, Nantou City)
+- 2026-07-17 to 2026-08-15
+- Location: [JiunYo (俊侑貴賓室)](https://maps.app.goo.gl/Fjm4B98ygCWjQseaA)
+- [Official (English)](http://www.yiarts.com/exhibitions/43)
+- [Official (Chinese)](http://www.yiarts.com/zh/exhibitions/43)
+- [Facebook](https://www.facebook.com/YIARTConsultation/posts/1654032403397338)
+- Artist (藝術家): Daniel Lee (李小鏡), Luciano Polverigiani, Bjørn Lie
+- type: exhibition
+
 ## 2026 Tianmu Beer Festival{ut} (2026天母啤酒節) (Taipei City, Shilin District)
 - 2026-07-18 to 2026-07-19
 - Location: [Tianmu Sports Park (天母運動公園)](https://maps.app.goo.gl/jc4q6cdVDRhcVV5G6)
@@ -2507,6 +2552,15 @@
 - [Taipei Travel (English)](https://www.travel.taipei/en/event-calendar/details/66785)
 - [Taipei Travel (Chinese)](https://www.travel.taipei/zh-tw/event-calendar/details/66377)
 - type: anniversary
+
+## Old Masters from Rembrandt to Goya: Treasures from the Toledo Museum of Art I (古典光影大師: 林布蘭到哥雅─托雷多美術館珍藏展 I) (Taipei City, Xinyi District)
+- 2026-07-18 to 2026-10-19
+- Location: [Fubon Art Museum, 1F Water Gallery (富邦美術館, 1樓 水景展廳)](https://maps.app.goo.gl/shxzTdQ42ghFBTxt6)
+- [Official](https://www.fubonartmuseum.org/ExhibitionDetail?PKNO=X008B01L)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=ea283f9c-85eb-4b28-94f8-602836ff0f34&PageType=1)
+- [OPENTIX](https://www.opentix.life/event/2058831955254812673)
+- style: painting
+- type: exhibition
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
 - performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
@@ -2545,6 +2599,18 @@
 - Language: Mandarin
 - Series: 2026 TCAF (2026臺北兒童藝術節)
 - type: puppet theater / children's theater
+
+## The Clouds Are Two Thousand Meters Up (雲在兩千米) (Taipei City, Da'an District)
+- 2026-07-25 to 2026-10-11
+- Location: [Museum of National Taipei University of Education (北師美術館)](https://maps.app.goo.gl/c1BwMibtLKHsZxaA9)
+- [Official (English)](https://montue.ntue.edu.tw/en/the-clouds-are-two-thousand-meters-up/)
+- [Official (Chinese)](https://montue.ntue.edu.tw/%e9%9b%b2%e5%9c%a8%e5%85%a9%e5%8d%83%e7%b1%b3/)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=dbf9f262-8d22-4555-b455-8835e37bbd7e&PageType=1)
+- [OPENTIX](https://www.opentix.life/event/2064614366007234561)
+- Organizer (主辦單位): Museum of National Taipei University of Education (國立臺北教育大學北師美術館), Taiwan Public Television Service Foundation (財團法人公共電視文化事業基金會)
+- Artist (藝術家): Singing CHEN (陳芯宜), WU Ming-Yi (吳明益)
+- Curator (策展人): LIN Mun-Lee (林曼麗)
+- type: exhibition
 
 ## 2026 Lisa Ono Precious Music Journey Live in Kaohsiung (2026小野麗莎珍愛音樂之旅巡迴演唱會－高雄站) (Kaohsiung City, Gushan District)
 - 2026-07-30 19:30
@@ -2630,8 +2696,8 @@
 - Location: [Wellspring Theater (水源劇場)](https://maps.app.goo.gl/HTrF3qfGtatvPrfE7)
 - [OPENTIX](https://www.opentix.life/event/2052315168468307969)
 - [klook](https://www.klook.com/zh-TW/event-detail/101030991-2026-house-in-water/)
-- https://artemperor.tw/tidbits/20037
-- https://cultureexpress.taipei/Event/C000003?ID=16f382e8-2571-46f1-82b7-9f77456b74dc&PageType=1
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/20037)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=16f382e8-2571-46f1-82b7-9f77456b74dc&PageType=1)
 - https://www.pulima.com.tw/Pulima/Eventschedules_26061819464332488.aspx
 - https://www.facebook.com/tainanerensemble/posts/1474467108047218
 - Organizer (主辦單位): Tainaner Ensemble (台南人劇團)
@@ -2665,11 +2731,21 @@
 - Location: [National Theater & Concert Hall Main Plaza (兩廳院藝文廣場)](https://maps.app.goo.gl/1uxmnxvYML74J9W1A)
 - https://npac-ntch.org/programs/27633
 - https://www.travel.taipei/zh-tw/activity/details/67432
-- https://cultureexpress.taipei/Event/C000003?ID=89cff62d-ecf1-4672-9a7f-9c595601033c&PageType=1
-- Artists: Yuwen Peng Quintet (彭郁雯五重奏), Taiwan Latin Smash (臺灣拉丁重擊), Siri Lee (李竺芯)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=89cff62d-ecf1-4672-9a7f-9c595601033c&PageType=1)
+- Artist (藝術家): Yuwen Peng Quintet (彭郁雯五重奏), Taiwan Latin Smash (臺灣拉丁重擊), Siri Lee (李竺芯)
 - Music consultant (音樂顧問): Minyen HSIEH (謝明諺)
 - style: jazz
 - type: outdoor concert
+
+## The Architecture of Sou Fujimoto: Primordial Future Forest (藤本壯介建築展：原初．未來．森) (Taipei City, Da'an District)
+- 2026-08-15 to 2027-01-03
+- Location: [Jut Art Museum (忠泰美術館)](https://maps.app.goo.gl/bNnGrw88d4E3QzoEA)
+- [Official (English)](https://jam.jutfoundation.org.tw/en/exhibition/107/5640)
+- [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/5639)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=fd13ac25-9479-4825-ad4d-aba12398d9da&PageType=1)
+- Artist (藝術家): Sou Fujimoto (藤本壯介)
+- style: architecture
+- type: exhibition
 
 ## Variations and Dialogues in Writing: Calligraphy Meets Design (書寫的變奏與對話：書法・設計的當代語境) (Taoyuan City, Dayuan District)
 - 2026-08-20 to 2026-11-09
@@ -2679,18 +2755,18 @@
 - [Taiwan Design Expo (English)](https://www.designexpo.org.tw/designexpo/en/exhibition/21), [Wayback Machine](https://web.archive.org/web/20261003134903/https://www.designexpo.org.tw/designexpo/en/exhibition/21)
 - [Taiwan Design Expo (Chinese)](https://www.designexpo.org.tw/designexpo/zh-TW/exhibition/21)
 - Curator (策展人): YU Ming-lung (游明龍)
-- Organizer: Taoyuan Museum of Fine Arts (桃園市立美術館), Hengshan Calligraphy Art Center (橫山書法藝術館)
+- Organizer (主辦單位): Taoyuan Museum of Fine Arts (桃園市立美術館), Hengshan Calligraphy Art Center (橫山書法藝術館)
 - style: calligraphy
 - type: exhibition
 
 ## Rodgers + Hammerstein's CINDERELLA (Broadway Version) (《仙履奇緣》百老匯音樂劇) (Taipei City, Shilin District)
 - 2026-08-21 to 2026-08-23
 - Location: [Taipei Performing Arts Center, GLOBE PLAYHOUSE (臺北表演藝術中心, 球劇場)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
-- https://tpac.org.taipei/program/1907
-- https://tpac.org.taipei/en/program/1907
+- [Official (English)](https://tpac.org.taipei/en/program/1907)
+- [Official (Chinese)](https://tpac.org.taipei/program/1907)
 - [OPENTIX](https://www.opentix.life/event/2067076217283747841)
-- https://cultureexpress.taipei/Event/C000003?ID=091408b0-3e60-4245-ae00-64753e2fb065&PageType=1
-- Organizer: Da Chia Music Troupe (大嘉音樂聚工坊)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=091408b0-3e60-4245-ae00-64753e2fb065&PageType=1)
+- Organizer (主辦單位): Da Chia Music Troupe (大嘉音樂聚工坊)
 - Music: Richard Rodgers
 - Lyrics: Oscar Hammerstein II
 - type: musical
@@ -2703,6 +2779,15 @@
 - https://www.livenation.com.tw/event/kodaline-farewell-tour-taipei-tickets-edp1661930
 - style: indie rock music
 - type: concert
+
+## Monologue of Plants in the Still Night (植物の獨白) (Taipei City, Da'an District)
+- 2026-09-05 to 2026-10-11
+- Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
+- [Official (English)](https://english.1839cg.com/archives/6213)
+- [Official (Chinese)](https://www.1839cg.com/archives/8520)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=8974c3d9-a144-4b14-853e-c07b833c2705&PageType=1)
+- Artist (藝術家): Koshi Matsumoto (松本幸之)
+- type: photography solo exhibition (攝影個展)
 
 ## Silenters () (Taipei City, Zhongshan District)
 - 2026-09-12 to 2026-10-18
@@ -2721,17 +2806,37 @@
 - Artist (藝術家): Willy VERGINER
 - type: exhibition
 
+## Late Summer (遲來的夏天) (Taipei City, Zhongzheng District)
+- 2026-09-12 to 2026-10-31
+- Location: [YIART (沂藝術)](https://maps.app.goo.gl/58Qg4CRSr9r9ZTtUA)
+- [Official (English)](http://www.yiarts.com/exhibitions/44)
+- [Official (Chinese)](http://www.yiarts.com/zh/exhibitions/44)
+- https://taipeiartweek.tw/en/listing/%e9%81%b2%e4%be%86%e7%9a%84%e5%a4%8f%e5%a4%a9-2/
+- https://taipeiartweek.tw/zh/listing/%e9%81%b2%e4%be%86%e7%9a%84%e5%a4%8f%e5%a4%a9/
+- [Facebook](https://www.facebook.com/YIARTConsultation/posts/1713994860734425)
+- Artist (藝術家): Dennis Hwang (黃志超), WenHao Liao (廖文豪), Rebecca Bird, Diego Rosendo, Wen-Shuang Hsieh (謝文双)
+- type: exhibition
+
 ## Wang Yahui: Voyager (王雅慧：旅行者) (Taipei City, Zhongshan District)
 - 2026-09-12 to 2027-01-03
 - Location: [Taipei Fine Arts Museum, Galleries 2A and 2B (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
 - https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=813
 - https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=813
 - https://www.mutualart.com/Exhibition/Wang-Yahui--Voyager/8E14C9F688182735
-- https://cultureexpress.taipei/English/Event/E000003?ID=4113b4fa-b86e-468d-836b-6d795c261a6d&PageType=1
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=4113b4fa-b86e-468d-836b-6d795c261a6d&PageType=1)
 - Artist (藝術家): WANG Yahui (王雅慧)
-- Curator: Lei Yi-ting, Hsuan-chun Lin
+- Curator (策展人): Lei Yi-ting, Hsuan-chun Lin
 - style: contemporary art, video installation, photography
 - type: exhibition
+
+## Whose Game? (誰的遊戲) (Taipei City, Beitou District)
+- 2026-09-15 to 2026-11-15
+- Location: [Hong-Gah Museum (鳳甲美術館)](https://maps.app.goo.gl/5bfJVKZC769Agazm7)
+- [Official (English)](https://hong-gah.org.tw/en/hong-gah/whose-game_en)
+- [Official (Chinese)](https://hong-gah.org.tw/hong-gah/whose-game_ch)
+- [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=f026906a-118e-4517-ac5c-4b469227d7c3&PageType=1)
+- Artist (藝術家): HU Ching-Chuan (胡鈞荃)
+- type: solo exhibition (個展)
 
 ## Aizart Spark 2026 (愛札特─AI音樂新聲帶) (Taoyuan City, Guishan District)
 - 2026-09-16
@@ -2793,20 +2898,38 @@
 ## Ballad from Six Feet Under (《你好，我是接體員》黑色幽默音樂劇) (Taipei City, Shilin District)
 - 2026-09-25 19:30, 2026-09-26 14:30, 2026-09-27 14:30
 - Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
-- [Official (Chinese)](https://tpac.org.taipei/program/2042)
 - [Official (English)](https://tpac.org.taipei/en/program/2042)
+- [Official (Chinese)](https://tpac.org.taipei/program/2042)
 - [OPENTIX](https://www.opentix.life/event/2011615042313633793), [Wayback Machine](https://web.archive.org/web/20260422074845/https://www.opentix.life/event/2011615042313633793)
 - Language: Mandarin
 - type: rock musical, black comedy
+
+## Whispers of the Wilds: Whence and Whither (嚶嚶野物 或出或沒) (Miaoli County, Sanyi Township)
+- 2026-09-25 to 2026-11-15
+- Location: [FUGUEI Art Museum Sanyi Branch (富貴三義美術館)](https://maps.app.goo.gl/2gf54TrcmDvbA4eA8)
+- https://fuguei.com/whispers-of-the-wilds-whence-and-whither/
+- [Facebook](https://www.facebook.com/FugueiArtCulture/posts/1533459798801643)
+- [Instagram](https://www.instagram.com/p/DeB9KSxDOLG/)
+- [Art Emperor 非池中](https://artemperor.tw/focus/7365)
+- Artist (藝術家): Hui-Chin HU (胡慧琴)
+- type: solo exhibition (個展)
 
 ## TAIPEI COMEDY LIVE!!! () (Taipei City, Zhongshan District)
 - 2026-09-26 22:00
 - Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
 - [KKTIX (English)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=en)
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=zh-TW)
-- Artists: Evan Danger, Ellery, Zachary Richards, Kylie Wang, Sam Yarbs, Chloe
+- Artist (藝術家): Evan Danger, Ellery, Zachary Richards, Kylie Wang, Sam Yarbs, Chloe
 - Language: English
 - type: stand-up comedy
+
+## Interwoven Tranquility: Contemporary Textures and Eastern Qi-Rhythm (交錯的靜謐：當代質地與東方氣韻) (Taipei City, Nangang District)
+- 2026-09-26 to 2026-11-14
+- Location: [Chens Art (陳氏藝術)](https://maps.app.goo.gl/Rkz3BdPYTQoikoP4A)
+- https://taipeiartweek.tw/en/listing/%e4%ba%a4%e9%8c%af%e7%9a%84%e9%9d%9c%e8%ac%90%ef%bc%9a%e7%95%b6%e4%bb%a3%e8%b3%aa%e5%9c%b0%e8%88%87%e6%9d%b1%e6%96%b9%e6%b0%a3%e9%9f%bb-2/
+- https://taipeiartweek.tw/zh/listing/%e4%ba%a4%e9%8c%af%e7%9a%84%e9%9d%9c%e8%ac%90%ef%bc%9a%e7%95%b6%e4%bb%a3%e8%b3%aa%e5%9c%b0%e8%88%87%e6%9d%b1%e6%96%b9%e6%b0%a3%e9%9f%bb/
+- Artist (藝術家): LIN Mo (林墨), CHEN San (塵三), Giancarlo TOGNONI (賈恩卡洛·東諾尼), MA Dongmin (馬東民), LIN Chunyan (林春岩)
+- type: group exhibition
 
 ## Taipei Photography & Video Device Exhibition 2026 (2026台北攝影器材暨影音創作設備展) (Taipei City, Nangang District)
 - 2026-10-02 to 2026-10-05
@@ -2836,6 +2959,16 @@
 - type: stand-up comedy, improv comedy
 - Language: English
 
+## The Climate of Images (影像的氣候) (Taipei City, Beitou District)
+- 2026-10-16 to 2027-01-10
+- Location: [Kuandu Museum of Fine Arts, 1F (關渡美術館, 一樓展覽廳)](https://maps.app.goo.gl/W4WSSqXSM8S12W6c8)
+- [Official (English)](https://uniquephoto.com.tw/en/portfolio-item/anastasia-samoylova-the-climate-of-images/)
+- [Official (Chinese)](https://uniquephoto.com.tw/portfolio-item/%e5%ae%89%e5%a8%9c%e5%8f%b2%e5%a1%94%e5%b8%8c%e4%ba%9e-%c2%b7-%e8%96%a9%e8%8e%ab%e4%bc%8a%e6%b4%9b%e5%a8%83%ef%bc%9a%e5%bd%b1%e5%83%8f%e7%9a%84%e6%b0%a3%e5%80%99/)
+- Artist (藝術家): Anastasia SAMOYLOVA (安娜史塔希亞 · 薩莫伊洛娃)
+- Curator (策展人): Jims LAM (林志恒), Agnes LIAO (廖子寧)
+- Presented by: Kuandu Museum of Fine Arts (關渡美術館), UP Gallery (絕版影像館)
+- type: photography exhibition
+
 ## PyCon Taiwan 2026 () (Taipei City, Xinyi District)
 - 2026-10-17 to 2026-10-18
 - Location: [Taipei Medical University (臺北醫學大學)](https://maps.app.goo.gl/e6jNzgKn4DC7iQfG9)
@@ -2858,6 +2991,14 @@
 - https://khh.travel/en/event/calendardetail/7905/
 - https://khh.travel/zh-tw/event/calendardetail/7904/
 - type: food festival, market, live performances
+
+## Fashion in Flux: The Language We Wear (時尚流聲：穿在身上的語言) (Taipei City, Zhongzheng District)
+- 2026-10-27 to 2027-03-14
+- Location: [National Center of Photography and Images (國家攝影文化中心)](https://maps.app.goo.gl/g6ajpHUfgCd4vBJK6)
+- https://taipeiartweek.tw/en/listing/%e6%99%82%e5%b0%9a%e6%b5%81%e8%81%b2%ef%bc%9a%e7%a9%bf%e5%9c%a8%e8%ba%ab%e4%b8%8a%e7%9a%84%e8%aa%9e%e8%a8%80-2/
+- https://taipeiartweek.tw/zh/listing/%e6%99%82%e5%b0%9a%e6%b5%81%e8%81%b2%ef%bc%9a%e7%a9%bf%e5%9c%a8%e8%ba%ab%e4%b8%8a%e7%9a%84%e8%aa%9e%e8%a8%80/
+- Curator (策展人): TENG Po-Jen (鄧博仁)
+- type: photography exhibition
 
 ## ART TAIPEI 2026 () (Taipei City, Xinyi District)
 - 2026-10-30 to 2026-11-02
