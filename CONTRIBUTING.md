@@ -20,14 +20,23 @@
   - both the English and the Chinese title should be official titles, eg. from the official website, promotional material or ticket websites. Translations (either custom ones, or those which come from websites using machine translation) are acceptable if no official ones can be found. They should be marked with `{ut}` (for unofficial translation) at the end of the title.
   - additional titles can be added in a `aka: ...` field, which should come immediately after the title header
 - Dates:
+  - Prefer one date bullet per event; separate entries with `, `. Multiple date bullets are supported.
   - a single date (`- YYYY-MM-DD`) with optional times (`- YYYY-MM-DD HH:mm`) or time ranges (`- YYYY-MM-DD HH:mm to HH:mm`)
   - a date range (`- YYYY-MM-DD to YYYY-MM-DD`)
   - a date range with times (`- YYYY-MM-DD HH:mm to YYYY-MM-DD HH:mm`)
+  - For overnight events, include both dates: `2026-10-30 21:00 to 2026-10-31 00:30`.
   - different types can be mixed in one list (`- YYYY-MM-DD, YYYY-MM-DD HH:mm, YYYY-MM-DD to YYYY-MM-DD`)
+  - Dates and ranges may end with a label, e.g. `2026-10-16 (B2B)`; no commas or parentheses inside labels.
+- List fields:
+  - Repeat bullets for additional entries.
+  - Separate list entries with `, `, e.g. `- type: exhibition, workshop` or `- audience: family, adults`.
 - Locations:
-  - Single and multiple plain-text locations (separated by comma) are supported: `- Location: Taipei City`, `- Location: Taipei City, New Taipei City`
-  - Single and multiple linked locations are supported too: `- Location: [Venue A](https://...)`, `- Location: [Venue A](https://...), [Venue B](https://...)`
-  - Mixed plain text and links are not supported.
+  - Multiple comma-separated plain locations: `- Location: Taipei City, New Taipei City`.
+  - Multiple comma-separated linked locations: `- Location: [Venue A](https://...), [Venue B](https://...)`.
+  - Use either plain names or links in each location bullet.
+- URLs:
+  - Group alternative sources on one bullet, preferred first; put unrelated sources on separate bullets.
+  - Avoid backslashes inside `<...>` link destinations, e.g. `[Venue](<https://example.org/a\(b\)>)`.
 
 # taiwan-abandoned-places
 
@@ -42,6 +51,6 @@
 # taiwan-tea
 
 - include every type of take-away tea shop
-- dine-in restaurants or cafés can be included if they offer primarily tea or a good selection and it's excepted to only order drinks
+- dine-in restaurants or cafés can be included if they offer primarily tea or a good selection and it's accepted to only order drinks
   - don't include coffee shops which only have a limited amount of tea (especially chain stores)
 - don't include shops which only sell tea leaves

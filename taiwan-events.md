@@ -189,13 +189,6 @@
 - [Official (English)](https://museum.post.gov.tw/post/Postal_Museum/museum_en/index.jsp?ID=1574925369085&control_type=page&MA_Id=480D1C44-217A-48E2-8D72-C20AAC8AC1C4)
 - type: exhibition
 
-## 2025 Taiwan International Festival of Arts (2025台灣國際藝術節) (Taipei City, Zhongzheng District)
-- aka: TIFA
-- 2025-02-21 to 2025-05-18
-- Location: National Theater & Concert Hall (國家戲劇院)
-- [Official](https://npac-ntch.org/programs/series/tifa/2025)
-- https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081449
-
 ## 2025 19th Taipei Photography Awards (2025第十九屆台北攝影獎) (Taipei City, Zhongzheng District)
 - 2025-02-21 to 2025-03-05
 - Location: [National Taiwan Arts Education Center, Exhibition Room III (國立臺灣藝術教育館 第3展覽廳)](https://maps.app.goo.gl/xeuQJvrgoHHNegDEA)
@@ -203,6 +196,13 @@
 - [Official (English)](https://www.arte.gov.tw/eng/pro1_exh_now.asp?KeyID=4412)
 - [Official (English)](https://www.arte.gov.tw/pro1_exh_past.asp?KeyID=4412)
 - http://www.photo.org.tw/news-1-1.aspx?nid=1564
+
+## 2025 Taiwan International Festival of Arts (2025台灣國際藝術節) (Taipei City, Zhongzheng District)
+- aka: TIFA
+- 2025-02-21 to 2025-05-18
+- Location: National Theater & Concert Hall (國家戲劇院)
+- [Official](https://npac-ntch.org/programs/series/tifa/2025)
+- https://eng.taiwan.net.tw/m1.aspx?sNo=0002019&lid=081449
 
 ## 2025 Taiwan Adult Expo (2025台灣成人展) (Taipei City, Xinyi District)
 - 2025-04-11 to 2025-04-13
@@ -335,13 +335,6 @@
 - [Official](https://taoartspace.com/endlesslifecycles-tatsuomiyajima/)
 - https://www.elle.com/tw/life/style/g69070064/tatsuo-miyajima-taiwan/
 
-## Digimon 25th Anniversary Exhibit (數碼寶貝動畫25週年紀念展) (Taipei City, Zhongzheng District)
-- 2025-10-25 to 2025-11-30
-- Location: [Syntrend Creative Park](https://maps.app.goo.gl/znjQNGqP9c5ahSkV6)
-- Organizer (主辦單位): INCUBASE Studio
-- [klook](https://www.klook.com/activity/175410-digimon-anime-25th-anniversary-exhibition/)
-- [Facebook](https://www.facebook.com/digimon.exhibition.tour)
-
 ## ART TAIPEI 2025 () (Taipei City, Xinyi District)
 - 2025-10-24 to 2025-10-27
 - Location: [Taipei World Trade Center (台北世貿)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
@@ -350,6 +343,13 @@
 - [Instagram](https://www.instagram.com/arttaipei/)
 - https://lnk.bio/ARTTAIPEI
 - type: exhibition
+
+## Digimon 25th Anniversary Exhibit (數碼寶貝動畫25週年紀念展) (Taipei City, Zhongzheng District)
+- 2025-10-25 to 2025-11-30
+- Location: [Syntrend Creative Park](https://maps.app.goo.gl/znjQNGqP9c5ahSkV6)
+- Organizer (主辦單位): INCUBASE Studio
+- [klook](https://www.klook.com/activity/175410-digimon-anime-25th-anniversary-exhibition/)
+- [Facebook](https://www.facebook.com/digimon.exhibition.tour)
 
 ## Taipei Biennial 2025 "Whispers on the Horizon" (2025台北雙年展「地平線上的低吟」) (Taipei City, Zhongshan District)
 - 2025-11-01 to 2026-03-29
@@ -367,7 +367,7 @@
 
 ## Pinkoi Design Fest (Pinkoi 瘋設祭) (Taipei City, Zhongshan District)
 - 2025-11-07 to 2025-11-09
-- Location: Yuanshan Flora Expo Pavilion (圓山花博公園爭豔館)
+- Location: [Yuanshan Flora Expo Pavilion (圓山 花博公園 爭豔館)](https://maps.app.goo.gl/SH8as6YwFGzvgyZXA)
 - [Facebook](https://www.facebook.com/ilovepinkoi)
 - [Official](https://www.pinkoi.com/topic/pinkoi_designfest)
 - type: market
@@ -1152,7 +1152,7 @@
 - [Official](https://adultopiataiwan.com/)
 - [Instagram](https://www.instagram.com/adultopia_taiwan/)
 - [Facebook](https://www.facebook.com/profile.php?id=61583355324651)
-- Organizer (主辦單位): 璽璽文創工作室;白金之星國際娛樂股份有限公司
+- Organizer (主辦單位): 璽璽文創工作室, 白金之星國際娛樂股份有限公司
 
 ## Joyful Serenity — TAO Xiaoqing: Paper Tear Art Exhibition (樂陶然—陶曉清和紙撕畫展) (Taipei City, Zhongzheng District)
 - 2026-03-27 to 2026-04-12
@@ -1229,7 +1229,7 @@
 
 ## 2026 Taiwan Adult Expo (2026台湾アダルト博覧会) (Taipei City, Xinyi District)
 - aka: 12th Taiwan Angel Expo, 亞洲潮流嘉年華 - 2026TAE
-- 2025-04-10 to 2025-04-12
+- 2026-04-10 to 2026-04-12
 - Location: [Shin Kong Mitsukoshi Kaohsiung Zuoying Store 10F (高雄左營高鐵-國際活動展演中心10F)](https://maps.app.goo.gl/nFSNZdx7FEhDSXQ69)
 - [Official](https://taiwanadultexpo.com)
 - [Instagram](https://www.instagram.com/taiwanadultexpo/)
@@ -1755,6 +1755,16 @@
 - https://www.instagram.com/p/DXQ7LRMkkIC/
 - type: solo exhibition (個展)
 
+## Detective Conan TV Anime 30th Anniversary Exhibition (《名偵探柯南》TV動畫播放30週年紀念展) (Taipei City, Xinyi District)
+- 2026-05-09 to 2026-06-21
+- Location: [Shin Kong Mitsukoshi Xinyi Place A11, 6F Xinyi Theater (新光三越台北信義新天地A11, 6F信義劇場)](https://maps.app.goo.gl/ojnnTtoqqWzki6Qg7)
+- [Official (Chinese)](https://www.mightymedia.co.jp/tvconanten-30th.tw/), [archive.today](https://archive.ph/pDqY0)
+- [klook](https://www.klook.com/activity/208109-detective-conan-tv-anime-30th-anniversary-exhibition/)
+- https://www.instagram.com/p/DXsyBtljTL1/
+- https://www.funliday.com/posts/tvconanten-30th/
+- Organizer (主辦單位): Mighty Media (曼迪傳播)
+- type: anime exhibition
+
 ## Japanese Anime Symphonic Concert 3 (日本動漫交響音樂會3) (Kaohsiung City, Fengshan District)
 - 2026-05-09, 2026-05-10, 2026-08-01
 - Location: [National Kaohsiung Center for the Arts, Concert Hall (衛武營國家藝術文化中心, 音樂廳)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
@@ -1766,16 +1776,6 @@
 - Host: Yorke SUN (孫沁岳)
 - Series: 動畫楽ノ祭
 - type: concert
-
-## Detective Conan TV Anime 30th Anniversary Exhibition (《名偵探柯南》TV動畫播放30週年紀念展) (Taipei City, Xinyi District)
-- 2026-05-09 to 2026-06-21
-- Location: [Shin Kong Mitsukoshi Xinyi Place A11, 6F Xinyi Theater (新光三越台北信義新天地A11, 6F信義劇場)](https://maps.app.goo.gl/ojnnTtoqqWzki6Qg7)
-- [Official (Chinese)](https://www.mightymedia.co.jp/tvconanten-30th.tw/), [archive.today](https://archive.ph/pDqY0)
-- [klook](https://www.klook.com/activity/208109-detective-conan-tv-anime-30th-anniversary-exhibition/)
-- https://www.instagram.com/p/DXsyBtljTL1/
-- https://www.funliday.com/posts/tvconanten-30th/
-- Organizer (主辦單位): Mighty Media (曼迪傳播)
-- type: anime exhibition
 
 ## Entanglements: The Rhythm of Being (共感：存在的節奏) (Taipei City, Zhongshan District)
 - 2026-05-09 to 2026-09-20
@@ -1910,7 +1910,7 @@
 ## 2026 Taipei Literature Festival – Film Festival (2026臺北文學・閱影展) (Taipei City)
 - aka: 閱影展 - 2026台北文學季
 - 2026-05-22 to 2026-06-04
-- Location: SPOT Taipei Cinema (光點台北電影院), [SPOT Huashan Cinema (光點華山電影館)](https://maps.app.goo.gl/8WzP8vjCUnfvVWhs7)
+- Location: [SPOT Taipei Cinema (光點台北電影院)](https://maps.app.goo.gl/JPjDUhKd7wGFpGhU7), [SPOT Huashan Cinema (光點華山電影館)](https://maps.app.goo.gl/8WzP8vjCUnfvVWhs7)
 - https://literature.festival.taipei/film-festival.html
 - https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AA68ED6A824B0459
 - https://giloo.ist/topics/67513
@@ -2195,7 +2195,7 @@
 - [Official (Chinese)](https://www.mediasphere.com.tw/exhibitions/123)
 - https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=tw&useLanguage=tw
 - https://event.culture.tw/mocweb/reg/NMH/ExhibitionDetail.init.ctr?actId=60044&request_locale=en&useLanguage=en
-- https://www.klook.com/activity/211342-egyptian-mummies-the-legend-of-immortality/
+- [klook](https://www.klook.com/activity/211342-egyptian-mummies-the-legend-of-immortality/)
 - [kkday](https://www.kkday.com/product/579724)
 - https://www.moc.gov.tw/EN/News_Content2.aspx?n=468&s=254746
 - https://www.moc.gov.tw/en/News_Content2.aspx?n=467&s=257566
@@ -2234,7 +2234,7 @@
 - 2026-06-19 10:00 to 2026-09-28 18:00
 - Location: [National Taiwan Science Education Center, 7F East Special Exhibition Area (國立臺灣科學教育館, 7樓東側特展區)](https://maps.app.goo.gl/Rsk5wvxmLh1nUjFQ6)
 - [Official](https://www.gbding.com/products/ad-a-world-of-wonder)
-- https://www.klook.com/activity/209115-a-world-of-wonder-world-anna-daniel-exhibition/
+- [klook](https://www.klook.com/activity/209115-a-world-of-wonder-world-anna-daniel-exhibition/)
 - [kkday (English)](https://www.kkday.com/en/product/580222)
 - [kkday (Chinese)](https://www.kkday.com/zh-tw/product/580222)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=3447cb29-1b20-41d0-b5f6-328ab51e8571&PageType=1)
@@ -2247,7 +2247,7 @@
 - Location: [Chiang Kai-shek Memorial Hall, Exhibition Hall 1 (中正紀念堂, 1展廳)](https://maps.app.goo.gl/dxcFSNhUSqnPW73F9)
 - [OPENTIX](https://www.opentix.life/event/2047597722530205696)
 - [kkday](https://www.kkday.com/product/579180)
-- https://www.klook.com/activity/208522-rounded-magic-botero-exhibition/
+- [klook](https://www.klook.com/activity/208522-rounded-magic-botero-exhibition/)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=c82a282b-7933-4945-b062-c02192362e38&PageType=1)
 - https://www.instagram.com/botero_taipei
 - Artist (藝術家): Fernando Botero (費爾南多·波特羅)
@@ -2370,7 +2370,7 @@
 - https://www.momatainan.gov.tw/News_Content.aspx?n=9532&s=257077
 - [Art Emperor 非池中](https://artemperor.tw/focus/7223)
 - [OPENTIX](https://www.opentix.life/event/2058806393864052737)
-- https://www.klook.com/activity/213408-new-art-horizons-mucha-centennial-classic-exhibition/
+- [klook](https://www.klook.com/activity/213408-new-art-horizons-mucha-centennial-classic-exhibition/)
 - Organizer (主辦單位): Mediasphere Communications Ltd. (時藝多媒體), Mucha Foundation (慕夏基金會)
 - jointly organized by (共同合辦): Ministry of Culture (文化部), Preparatory Office of National Museum of Modern Art Tainan (臺南國家美術館籌備處)
 - Major sponsor (主要贊助): Cathay Financial Holdings (國泰金控)
@@ -2402,7 +2402,7 @@
 - [Official (English)](https://www.kingcarart.org.tw/en/exhibitions-detail/258)
 - [Official (Chinese)](https://www.kingcarart.org.tw/exhibitions-detail/258)
 - https://www.travel.taipei/en/activity/details/67594
-- https://www.accupass.com/event/2606180940072592111360
+- [ACCUPASS](https://www.accupass.com/event/2606180940072592111360)
 - Artist (藝術家): LIN I-Tsen (林奕岑)
 - Host: King Car Cultural & Educational Foundation (金車文教基金會)
 - Co-Host: King Car Cultural & Art Center (金車文藝中心)
@@ -2504,7 +2504,7 @@
 ## Ryoko Kui Exhibition and "Delicious in Dungeon" Dungeon Exploration Exhibition (九井諒子展 及 《迷宮飯》迷宮探索展) (Taipei City, Zhongzheng District)
 - 2026-07-15 to 2026-08-30
 - Location: [INCUBASE Arena](https://maps.app.goo.gl/Lt1SFYs4a52YoQWL6)
-- https://www.klook.com/activity/208029-ryoko-kui-exhibition-and-delicious-in-dungeon-labyrinth-exploration-exhibition-in-taiwan/
+- [klook](https://www.klook.com/activity/208029-ryoko-kui-exhibition-and-delicious-in-dungeon-labyrinth-exploration-exhibition-in-taiwan/)
 - https://www.facebook.com/ryoko.kui.dungeonmeshi.exhibit
 - https://www.facebook.com/incubase.arena.tp/posts/122242873712787120
 - https://gnn.gamer.com.tw/detail.php?sn=308147
@@ -2575,7 +2575,7 @@
 - 2026-07-24 19:30, 2026-07-25 14:30, 2026-07-26 14:30
 - Location: [Taipei City Arts Promotion Office Wenshan Theater (臺北市藝文推廣處 文山劇場)](https://maps.app.goo.gl/Lxu2vPt94bLWRB3JA)
 - [Taipei City Arts Promotion Office (Chinese)](https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&s=C12C4AA9A1D71E38), [archive.today](https://archive.ph/GN5Au)
-- [OPENTIX](https://www.opentix.life/event/2041810831385063425
+- [OPENTIX](https://www.opentix.life/event/2041810831385063425)
 - Performance: Song Song Song Children's & Puppet Theatre (九歌兒童劇團)
 - type: children's theatre / puppetry
 
@@ -2622,6 +2622,17 @@
 - https://eventgo.tw/event/438fe85b-4b51-4f1b-8dd2-f88d4a977916
 - type: concert
 
+## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Kaohsiung City, Fengshan District)
+- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- event_id: 4bc1e49a-8440-479a-81f1-8cd23285ee00
+- 2026-07-31 19:30
+- Location: [National Kaohsiung Center for the Arts, Recital Hall (衛武營國家藝術文化中心, 表演廳)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
+- [Official (English)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=en)
+- [Official (Chinese)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=zh)
+- [OPENTIX](https://www.opentix.life/event/2048656360075108353)
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
+- type: poetry, music
+
 ## Not Falling (一二三，不掉下去！) (Taipei City, Shilin District)
 - 2026-07-31 to 2026-08-02
 - Location: [Taipei Performing Arts Center, Blue Box (臺北表演藝術中心, 藍盒子)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
@@ -2633,17 +2644,6 @@
 - Choreography (編舞): Lies Cuyvers
 - Music (音樂): Ciska Vanhoyland
 - type: dance / children's theater
-
-## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Kaohsiung City, Fengshan District)
-- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
-- event_id: 4bc1e49a-8440-479a-81f1-8cd23285ee00
-- 2026-07-31 19:30
-- Location: [National Kaohsiung Center for the Arts, Recital Hall (衛武營國家藝術文化中心, 表演廳)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
-- [Official (English)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=en)
-- [Official (Chinese)](https://www.npac-weiwuying.org/programs/69e71433ebee08000752e556?lang=zh)
-- [OPENTIX](https://www.opentix.life/event/2048656360075108353)
-- https://www.facebook.com/permalink.php?story_fbid=pfbid02BTUUAbDfgG1XAwvoAGgqCRnPSP2Z7DYJaQrK51f1F2B1xNV58RdQHjsYCp1t9Re8l&id=100094352170103
-- type: poetry, music
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taoyuan City, Taoyuan District)
 - performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
@@ -2789,6 +2789,14 @@
 - Artist (藝術家): Koshi Matsumoto (松本幸之)
 - type: photography solo exhibition (攝影個展)
 
+## Instructions for Crying () (Taipei City, Datong District)
+- 2026-09-12 to 2026-10-10
+- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
+- [Official (English)](https://www.galleryaki.com/en/exhibition/content/317)
+- [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/317)
+- Artist (藝術家): Willy VERGINER
+- type: exhibition
+
 ## Silenters () (Taipei City, Zhongshan District)
 - 2026-09-12 to 2026-10-18
 - Location: [BBBBB Gallery](https://maps.app.goo.gl/tf5QWJP64bgenmGw8)
@@ -2797,14 +2805,6 @@
 - https://www.instagram.com/p/DdGomCTFJuI/
 - https://bbbbbgallery.com/product-category/kirill-semenov/
 - type: solo exhibition (個展)
-
-## Instructions for Crying () (Taipei City, Datong District)
-- 2026-09-12 to 2026-10-10
-- Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
-- [Official (English)](https://www.galleryaki.com/en/exhibition/content/317)
-- [Official (Chinese)](https://www.galleryaki.com/zh/exhibition/content/317)
-- Artist (藝術家): Willy VERGINER
-- type: exhibition
 
 ## Late Summer (遲來的夏天) (Taipei City, Zhongzheng District)
 - 2026-09-12 to 2026-10-31
@@ -2815,6 +2815,28 @@
 - https://taipeiartweek.tw/zh/listing/%e9%81%b2%e4%be%86%e7%9a%84%e5%a4%8f%e5%a4%a9/
 - [Facebook](https://www.facebook.com/YIARTConsultation/posts/1713994860734425)
 - Artist (藝術家): Dennis Hwang (黃志超), WenHao Liao (廖文豪), Rebecca Bird, Diego Rosendo, Wen-Shuang Hsieh (謝文双)
+- type: exhibition
+
+## Leofoo Village Tombstone Town (六福村「墓碑鎮十週年：決戰時刻」) (Hsinchu County, Guanxi Township)
+- 2026-09-12 to 2026-11-22 (not every day)
+- [Leofoo Village Theme Park (六福村主題遊樂園)](https://maps.app.goo.gl/o57HSFrecq238FmT7)
+- [Official (Chinese)](https://www.leofoovillage.com.tw/Infos/News/halloween-tombstone-town-2026-1)
+- description: Horror street, daytime and nighttime parades, monster performers, themed dining and Snoopy Halloween activities.
+- theme: halloween
+- audience: family, adults
+- type: amusement park, parade
+
+## The Fear Exhibition (恐怖心展) (Taipei City, Zhongshan District)
+- 2026-09-12 to 2026-11-23
+- Location: [灰棚](https://maps.app.goo.gl/3P9yZuWwDx3zL3WNA)
+- [Official (Chinese)](https://kyoufushinten.osuo.shop/zh-TW)
+- [klook](https://www.klook.com/activity/229309-the-fear-exhibition/)
+- [IG (ipspace.tw)](https://www.instagram.com/p/DcAs39iHY5j/)
+- [IG (Taipei gan ma)](https://www.instagram.com/p/DdOHEcPzmRa/)
+- Organizer (主辦單位): YAMI Inc., TV Tokyo (東京電視台), Lawson Entertainment Inc., SaltSweeet, 方格子 vocus
+- description: Immersive exhibition exploring everyday fears, enclosed spaces and unsettling imagery. Full ticket NT$450.
+- theme: halloween
+- audience: teenagers, adults
 - type: exhibition
 
 ## Wang Yahui: Voyager (王雅慧：旅行者) (Taipei City, Zhongshan District)
@@ -2860,14 +2882,6 @@
 - Language: English
 - type: stand-up comedy, improv comedy
 
-## The Museum After (美術館之後) (Taipei City, Datong District)
-- 2026-09-19 to 2026-12-31
-- Location: [Museum of Contemporary Art Taipei (台北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
-- [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/The%2AMuseum%2AAfter)
-- [Official (Chinese)](https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%B9%8B%E5%BE%8C)
-- style: contemporary art
-- type: exhibition
-
 ## Black Myth: Wukong Global Concert (台北・且聽天命《黑神話：悟空》全球音樂會) (Taipei City, Xinyi District)
 - 2026-09-19 19:30, 2026-09-20 19:30
 - Location: [Legacy MAX (信義劇場)](https://maps.app.goo.gl/DkuwUqekf4qkC6DZA)
@@ -2878,6 +2892,14 @@
 - Organizer (主辦單位): 秒秒國際娛樂有限公司
 - style: video-game soundtrack, orchestral and Chinese music
 - type: concert
+
+## The Museum After (美術館之後) (Taipei City, Datong District)
+- 2026-09-19 to 2026-12-31
+- Location: [Museum of Contemporary Art Taipei (台北當代藝術館)](https://maps.app.goo.gl/rQZ8qL2oSr3XT6tb9)
+- [Official (English)](https://www.mocataipei.org.tw/en/ExhibitionAndEvent/Info/The%2AMuseum%2AAfter)
+- [Official (Chinese)](https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%B9%8B%E5%BE%8C)
+- style: contemporary art
+- type: exhibition
 
 ## Living Room of Daxi-Craft and Contemporary Living (山城的客廳-家的工藝生活提案 Living Room Tour) (Taoyuan City, Daxi District)
 - 2026-09-22 to 2027-04-11
@@ -2954,10 +2976,19 @@
 - event_id: e4340758-36b6-4308-bc7d-8614b8b61eed
 - 2026-10-10 20:00
 - Location: [Islands Art Park (群島藝術園區)](https://maps.app.goo.gl/YLSauvsEMXevGU8n9)
-- https://comedyclub.kktix.cc/events/thecutautumn?locale=en
-- https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW
+- [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
+- [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
 - type: stand-up comedy, improv comedy
 - Language: English
+
+## Ultraman Halloween assemble (2026新竹市萬聖節「宇宙集結令」) (Hsinchu City, North District)
+- 2026-10-16 to 2026-10-31, 2026-10-31 (main parade)
+- Location: [Hsinchu City Government (新竹市政府)](https://maps.app.goo.gl/gJUYH7fjKBggSoPj9), [228 Park (二二八公園)](https://maps.app.goo.gl/sMb9uBgsZLpGG8vC6)
+- [Official (Chinese)](https://culture.hccg.gov.tw/ch/home.jsp?id=8&mcustomize=municipalnews_view.jsp&dataserno=9783fced-7f7c-41cd-9b5f-cc511137c4c9&mserno=201601300201)
+- [中央社 CNA](https://www.cna.com.tw/postwrite/chi/445164)
+- description: Ultraman and monster installations, costume parade, character appearances and themed market. Strong family/cosplay focus.
+- theme: halloween
+- audience: family
 
 ## The Climate of Images (影像的氣候) (Taipei City, Beitou District)
 - 2026-10-16 to 2027-01-10
@@ -2969,11 +3000,39 @@
 - Presented by: Kuandu Museum of Fine Arts (關渡美術館), UP Gallery (絕版影像館)
 - type: photography exhibition
 
+## 2026 Dongmen Yongkang Halloween{ut} (2026東門永康萬聖節) (Taipei City, Da'an District)
+- 2026-10-17 11:00
+- Location: [Yongkang Park (永康公園)](https://maps.app.goo.gl/rmD7MhdsttiPbmYz8)
+- [Official (Chinese)](https://www.taipeiyongkang.com.tw/news-detail-4142328.html), [Wayback Machine](https://web.archive.org/web/20261015025928/https://www.taipeiyongkang.com.tw/news-detail-4142328.html)
+- [Facebook](https://www.facebook.com/taipeiyongkang/posts/1411383447815368)
+- description: Costume festivities, stage activities and shop-to-shop trick-or-treating. Family focus.
+- theme: halloween
+- audience: family
+- type: festival
+
+## Monga Night Market Halloween Parade{ut} (艋舺台味萬聖節｜夜市踩街大遊行) (Taipei City, Wanhua District)
+- 2026-10-17 14:45 to 19:30
+- Location: [Huaxi Park (華西公園)](https://maps.app.goo.gl/6X4v5fA7GmnGEifG8)
+- [Facebook](https://www.facebook.com/mongaNM/posts/1630663388851256)
+- [ACCUPASS](https://www.accupass.com/event/2609090610417416446090)
+- description: Costume parade through four adjoining night markets; 100 participating candy stalls. Registration required for parade places.
+- theme: halloween
+- audience: family
+- type: parade
+
+## Halloween in the Park (萬聖節戶外草地派對) (Taipei City, Da'an District)
+- 2026-10-17 14:30 to 16:30
+- Location: [Daan Park (大安森林公園)](https://maps.app.goo.gl/ievNLMu7TTwPJNBq8)
+- [Facebook Event](https://www.facebook.com/events/932714226113352/)
+- description: Children's Halloween stories, crafts, lawn games and treats. Listed on an event platform; confirm booking details with the organizer.
+- theme: halloween
+- audience: family
+
 ## PyCon Taiwan 2026 () (Taipei City, Xinyi District)
 - 2026-10-17 to 2026-10-18
 - Location: [Taipei Medical University (臺北醫學大學)](https://maps.app.goo.gl/e6jNzgKn4DC7iQfG9)
 - https://tw.pycon.org/2026/zh-hant
-- https://pycontw.kktix.cc/events/2026-individual
+- [KKTIX](https://pycontw.kktix.cc/events/2026-individual)
 - type: technology conference
 
 ## Hsin-Ying Liu Solo Exhibition (劉昕穎 個展) (Taipei City, Datong District)
@@ -2985,12 +3044,79 @@
 - style: painting
 - type: solo exhibition (個展)
 
+## Tianmu Halloween Carnival{ut} (2026天母搞什麼鬼18) (Taipei City, Shilin District)
+- 2026-10-23 19:00, 2026-10-24 13:00 to 20:00
+- Location: [Shin Kong Mitsukoshi Taipei Tianmu Store 2 (新光三越 台北天母店二館)](https://maps.app.goo.gl/K1WwYwzgLkSZBDBG7), [Tianmu Sports Park (天母運動公園)](https://maps.app.goo.gl/RpEsa9FfEGyWoW2dA)
+- [Official (Chinese)](https://www.tianmu.org.tw/modules/news/article.php?storyid=2160)
+- [Facebook](https://www.facebook.com/lovetianmu/posts/1636158344879459:1636158344879459)
+- description: 250 participating trick-or-treat shops, market and character appearances. Shop candy distribution Oct 24, while supplies last.
+- theme: halloween
+- audience: family
+- type: carnival
+
+## IKEA Neihu Halloween Treasure Adventure{ut} (IKEA內湖萬聖寶藏傳說) (Taipei City, Neihu District)
+- 2026-10-23 to 2026-10-25, 2026-10-31 to 2026-11-01
+- Location: [IKEA Neihu Store (宜家家居 內湖店)](https://maps.app.goo.gl/PAiMDURX28cUBCCh6)
+- [Official (Chinese)](https://www.ikea.com.tw/store/nei-hu/fun-day-out)
+- description: Children's haunted-house puzzle adventure, about 20 minutes. Ages 4–10 with a parent; NT$199/person, reserved sessions.
+- theme: halloween
+- audience: family
+
+## Eslite Songyan: A Spooky Night That Never Ends{ut} (誠品松菸 松菸怪奇不打烊) (Taipei City, Xinyi District)
+- 2026-10-23 to 2026-11-01 (Stamp trail), 2026-10-31 13:00 to 15:30 (Children's costume trick-or-treating), 2026-10-31 18:00 to 21:00 (costume contest and DJ party)
+- Location: [Eslite Spectrum Songyan (誠品生活松菸)](https://maps.app.goo.gl/ErLTDUjXtYDsGr6E9)
+- [Official (Chinese)](https://meet.eslite.com/tw/tc/news/202609040002), [Wayback Machine](https://web.archive.org/web/20261015044846/https://meet.eslite.com/tw/tc/news/202609040002)
+- description: Collect stamps on a postcard and exchange the completed card for a small mystery gift, while supplies last. Costumed children follow a sheet ghost on a trick-or-treating adventure, collecting free candy from participating shops. Adults and children can compete for Costume King and Queen prizes, with Halloween cocktails and an electronic-music DJ adding to the party. Main events require advance registration.
+- theme: halloween
+- audience: family
+
+## Guzhuang Halloween Parade{ut} (古莊萬聖嘉年華) (Taipei City, Da'an District)
+- 2026-10-24 18:00 to 20:00
+- Location: [Gu Zhang Community Outdoor Exhibition and Performance Space (古莊城市展演場)](https://maps.app.goo.gl/pdvwx7ZgBZAzw94F8)
+- [Facebook](https://www.facebook.com/happygu888/posts/1396717739329319)
+- [BeClass](https://www.beclass.com/rid=30528346aa9fbf470fe6), [archive.today](https://archive.ph/13jyc)
+- https://eventgo.tw/event/c3a84411-83b3-457a-8048-a67887162f02
+- description: Treasure hunt, costume trick-or-treat parade and a temporary haunted house in Guzhuang Park. Mainly ages 0–6; older children welcome. Free; online and walk-in places.
+- theme: halloween
+- audience: family
+- type: parade
+
 ## 2026 Kaohsiung Fried Chicken Festival (2026高雄鹹酥雞嘉年華) (Kaohsiung City, Lingya District)
 - 2026-10-24 to 2026-10-25
 - Location: [Far Eastern Department Store Kaohsiung, 1F Dream Plaza (高雄市苓雅區高雄大遠百, 1F追夢廣場)](https://maps.app.goo.gl/18r7xwFRRVPnNGoC9)
 - https://khh.travel/en/event/calendardetail/7905/
 - https://khh.travel/zh-tw/event/calendardetail/7904/
 - type: food festival, market, live performances
+
+## Board Games and Ghost Stories{ut} (2026萬聖節 桌遊.鬼故事派對) (Taipei City, Da'an District)
+- 2026-10-25 14:30 to 23:30
+- Location: [她的遊戲 桌遊店](https://maps.app.goo.gl/9GuZvWeB28zEqdLDA)
+- description: Horror board games, dark-room ghost stories, social deduction and food. Costume discount advertised.
+- [ACCUPASS](https://www.accupass.com/event/2610121127152120614093)
+- theme: halloween
+- audience: teenagers, adults
+- type: board games
+
+## Halloween Challenge Games (【新竹大遠百】不給糖就搗蛋) (Hsinchu City, East District)
+- 2026-10-25 14:30 to 15:30
+- Location: [Far Eastern Hsinchu Store (新竹大遠百)](https://maps.app.goo.gl/zqVPNaFYYRHy1av1A)
+- [BeClass](https://www.beclass.com/rid=30527d96a8cfe800300a)
+- description: Children's challenge stations and Halloween gifts. NT$150, elementary-school age or younger; 100 places.
+- theme: halloween
+- audience: family
+
+## Taipei Children's Amusement Park Halloween Carnival{ut} (兒童新樂園 第十屆 萬聖嘉年華) (Taipei City, Shilin District)
+- 2026-10-25 to 2026-10-26
+- Location: [Taipei Children's Amusement Park (臺北市立兒童新樂園)](https://maps.app.goo.gl/j6KCVrSavNmbxaYB6)
+- [Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=81B1D3CBBE80DC4E), [Wayback Machine](https://web.archive.org/web/20261015033458/https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=81B1D3CBBE80DC4E)
+- [Facebook](https://www.facebook.com/tcap1216/posts/1453296696899096)
+- [klook](https://www.klook.com/activity/240899-taipei-children-s-amusement-park-halloween-show/)
+- [klook](https://www.klook.com/activity/241400-taipei-children-s-amusement-park-halloween-show-delala/)
+- [PChome Online 新聞](https://news.pchome.com.tw/public/taipei/20261013/index-79185644086043126016.html), [Wayback Machine](https://web.archive.org/web/20261015032932/https://news.pchome.com.tw/public/taipei/20261013/index-79185644086043126016.html)
+- description: Costume admission promotion, Halloween market, DIY, performances and giveaways. Free park entry in Halloween costume; rides and special packages cost extra
+- theme: halloween
+- audience: family
+- type: carnival
 
 ## Fashion in Flux: The Language We Wear (時尚流聲：穿在身上的語言) (Taipei City, Zhongzheng District)
 - 2026-10-27 to 2027-03-14
@@ -3000,6 +3126,36 @@
 - Curator (策展人): TENG Po-Jen (鄧博仁)
 - type: photography exhibition
 
+## 2026 Ximending Halloween "Ximending Urban Legends Walk"{ut} (2026西門萬聖【西門町都市怪談】) (Taipei City, Wanhua District)
+- 2026-10-30 19:30 to 21:30
+- Location: [Nishi Honganji Square (西本願 寺鐘樓)](https://maps.app.goo.gl/HNSr1W5i9nSZSaHY9)
+- [Official (Chinese)](https://www.redhouse.taipei/eventsCT.aspx?id=293)
+- [ACCUPASS](https://www.accupass.com/event/2609300939518726297300)
+- description: Adult evening walk covering old buildings, disappeared hotels and local urban legends. Advance registration.
+- theme: halloween
+- audience: teenagers, adults
+- type: city walk
+
+## Flow Friday Halloween Edition (台北拉丁社交派對 Halloween Edition) (Taipei City, Da'an District)
+- 2026-10-30 21:00 to 2026-10-31 00:30
+- Location: [Flow Taipei](https://maps.app.goo.gl/KPgxhZiCXGiZMXTA8)
+- [Facebook Event](https://www.facebook.com/events/1150084374110842/)
+- [Salsa Taiwan](https://www.salsataiwan.com/events/2026/10/4102/)
+- description: Halloween edition of the salsa, bachata and Brazilian zouk social. NT$600.
+- theme: halloween
+- audience: adults
+- type: dance
+
+## LABORATORY 🧪 CÉ LA VI HALLOWEEN PARTY 2026 (瘋狂實驗室 🧪 CÉ LA VI 萬聖節派對 2026) (Taipei City, Xinyi District)
+- 2026-10-30 21:00 to 2026-10-31 03:00, 2026-10-31 21:00 to 2026-11-01 03:00
+- Location: [CÉ LA VI Taipei](https://maps.app.goo.gl/kVQKPVX9aTUXUdZL9)
+- [Official (English)](https://tw.celavi.com/events/ce-la-vi-halloween-party-2026)
+- [Official (Chinese)](https://tw.celavi.com/zh-tw/events/ce-la-vi-halloween-party-2026)
+- description: Creepy laboratory costume theme; Oct 30 costume prizes. Free entry with a minimum order of one drink per person.
+- theme: halloween
+- audience: adults
+- type: costume party
+
 ## ART TAIPEI 2026 () (Taipei City, Xinyi District)
 - 2026-10-30 to 2026-11-02
 - Location: [Taipei World Trade Center, Hall 1 (台北世貿, 一館)](https://maps.app.goo.gl/b8Q9C6XU4rBajsCL7)
@@ -3007,13 +3163,91 @@
 - [Official (Chinese)](https://2026.art-taipei.com/taipei/en/)
 - type: exhibition
 
+## 2026 Ximending Halloween "Little Ghost's Night Dream" (2026西門萬聖 【小鬼夢夜】) (Taipei City, Wanhua District)
+- 2026-10-31 14:00 to 15:30
+- Location: [The Red House (西門紅樓)](https://maps.app.goo.gl/6FF9LDi9KwxXoqSG6)
+- [Official (Chinese)](https://www.redhouse.taipei/eventsCT.aspx?id=293)
+- [ACCUPASS](https://www.accupass.com/event/2609300939518726297300)
+- description: Costume walking adventure, building clues, activities and trick-or-treating at local businesses. Specifically designed for ages 3–6, one child plus one adult per registration.
+- theme: halloween
+- audience: family
+
+## Taipei Dazhi Indigo Hotel Halloween Costume Party{ut} (台北大直英迪格 酒店萬聖變裝派對) (Taipei City, Zhongshan District)
+- 2026-10-31 17:30 to 21:00
+- Location: [Hotel Indigo Taipei North, BAR DI (台北大直英迪格酒店, BAR DI)](https://maps.app.goo.gl/ZUr7aLU9C1LiE9RQ9)
+- https://indigotaipei.com/halloweenparty
+- https://www.ntpda.org.tw/news_detail.asp?sid=29401
+- [ACCUPASS](https://www.accupass.com/event/2610130908122090441331)
+- description: Costume buffet party with complimentary Halloween makeup. Adults NT$1,200; under-12s NT$700, both +10%. Children are explicitly catered for.
+- theme: halloween
+- audience: family, adults
+- type: costume party
+
+## 2026 Taipei East District Halloween Board Game Party{ut} (2026 台北東區萬聖節桌遊派對) (Taipei City, Da'an District)
+- 2026-10-31 18:40 to 22:30
+- Location: [Bungeon (桌遊地下城)](https://maps.app.goo.gl/RiLrJiyYsv2ibxTq6)
+- [ACCUPASS](https://www.accupass.com/event/2609251817106598392700)
+- description: Red/black dress code, group games, pizza, fried chicken and drinks. NT$599; register through the linked form by Oct 30.
+- theme: halloween
+- audience: adults
+- type: board games
+
+## Taipei Halloween Singles Night (台北萬聖節單身之夜) (Taipei City, Da'an District)
+- 2026-10-31 19:00 to 22:00
+- Location: [TEA BAR (米蓮娜酒吧)](https://maps.app.goo.gl/XKEiE2biXkFkWTQF8)
+- [Venue](https://teabar.localo.site/blog/8310661797670972603-10-31-tai-bei-wan-sheng-jie-pai-dui-halloween)
+- [meetup](https://www.meetup.com/nomadtravelerstaipeiclub/events/316865046/)
+- description: International social party with Halloween activities; travelers, locals and newcomers welcome. Organizer says you need not be single.
+- theme: halloween
+- audience: adults
+- type: party, social gathering
+
+## Kidchen Club Halloween Party (Kidchen Club 萬聖節變裝趴) (Taipei City, Neihu District)
+- 2026-10-31 10:30 to 12:20, 2026-11-01 10:30 to 12:20, 2026-11-01 13:20 to 15:10
+- Location: [Kidchen Club Neihu](https://maps.app.goo.gl/JS4CXvqxAo3w823w6)
+- [Official](https://www.kidchenclub.com.tw/halloweenparty)
+- description: English activities, Halloween cupcake baking, science experiments, skeleton STEAM and pumpkin treats. Ages 2–10; NT$1,500/person. Ages 2–4 need a parent.
+- theme: halloween
+- audience: family
+- type: education, cooking, diy
+
+## La Halloween Party (萬聖變裝舞會) (Taipei City, Zhongzheng District)
+- 2026-10-31 20:00 to 2026-11-01 00:00
+- Location: [La Salsa Taipei (台北樂騷莎)](https://maps.app.goo.gl/S6wEvJWRLGo5wiXr9)
+- [Salsa Taiwan](https://www.salsataiwan.com/events/2026/10/4072/)
+- [Facebook](https://www.facebook.com/reel/1702850604740612)
+- description: Costume salsa/bachata dance party, music split 50/50. NT$400.
+- theme: halloween
+- audience: adults
+- type: dance
+
+## Resurrected Halloween: The Final Nightmare (復活萬聖節派對：最終惡夢) (Taipei City, Xinyi District)
+- 2026-10-31 20:30 to 2026-11-01 05:00
+- Location: [Miculture Tiger Mountain (微遠虎山)](https://maps.app.goo.gl/tWrAviaJcdqkycuo6)
+- [Facebook](https://www.facebook.com/miculturefoundation/posts/1548422013986011)
+- [KKTIX](https://rhp.kktix.cc/events/e0d77529)
+- description: The final edition: four stages, 30 performers and NT$20,000 in costume prizes. Advertised ticket tiers NT$599–999, depending on availability.
+- theme: halloween
+- audience: adults
+- type: festival, party, rave
+
+## Tricky Circus Halloween (有趣萬聖節｜搗蛋馬戲團) (Taipei City, Zhongshan District)
+- 2026-10-31 14:00 to 2026-11-01 02:00, 2026-11-01 14:00 to 20:00
+- Location: [Taipei Expo Park, Yuanshan Flower Field Plaza (圓山 花博公園, 花海廣場)](https://maps.app.goo.gl/dDRSxefeEaEs6DHZ9)
+- [IG (funtasty_taiwan)](https://www.instagram.com/p/DehFT9Ek1Wj/)
+- [IG (funtasty_taiwan)](https://www.instagram.com/p/DcA3MIGCW2e/)
+- description: Circus-themed market with special food and cocktails. Free.
+- theme: halloween
+- audience: family, adults
+- type: market
+
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Kaohsiung City, Qianjin District)
 - performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: 6717b790-97d5-4522-945c-4f5e81c8f713
 - 2026-11-06 20:00
 - Location: [Rock Music Live House (洛克音樂藝文展演空間)](https://maps.app.goo.gl/J2pnUH2g9me4r9E1A)
-- https://comedyclub.kktix.cc/events/thecutautumn?locale=en
-- https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW
+- [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
+- [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
 - type: stand-up comedy, improv comedy
 - Language: English
 

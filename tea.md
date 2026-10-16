@@ -72,6 +72,10 @@
 
 ## CHAGE (茶聚)
 - https://www.chage.com.tw/
+- locations:
+  - [Google Maps (永和竹林店)](https://maps.app.goo.gl/JALS6f2uZT78TrHn8)
+  - [Google Maps (文山木新店)](https://maps.app.goo.gl/RuBjo5MKUqdtAQgF6)
+  - [Google Maps (台北長安店)](https://maps.app.goo.gl/VCzTvWMKjdUyiFxP8)
 
 ## Kung Fu Tea (功夫茶)
 - https://www.kungfutea.com/
@@ -82,6 +86,8 @@
 - https://www.kungfutea.com.tw/
 - https://www.instagram.com/kungfutea_tw/
 - founded 2009 in Taiwan, Taichung
+- locations:
+  - [Google Maps (台北六張犁店)](https://maps.app.goo.gl/Qd23eutztGSQfwix7)
 
 ## Oolong Tea Project (得正)
 - https://dejeng.com/en/
@@ -469,11 +475,19 @@ https://www.teapro.com.tw/
 
 ## Milk Tea Bank MTB (米堤銀行)
 - https://www.instagram.com/milkteabank/
-- https://www.facebook.com/MilkTeaBank/
+- https://www.facebook.com/MilkTeaBank
 
 ## TEASSENTIAL (茶山小)
 - https://www.facebook.com/teassential101
 - https://www.instagram.com/teassential101/
+- locations:
+  - [Google Maps (和平總店)](https://maps.app.goo.gl/vHxKj7b3qzgTGtqh7)
+
+## Buye Hou (不夜侯製茶所)
+- https://www.instagram.com/buyehou_/
+- https://www.facebook.com/profile.php?id=100063963163535
+- locations:
+  - [Google Maps (復興店)](https://maps.app.goo.gl/UwxeJhPpDnvAg5zC6)
 
 ## Chun Shui Tang (春水堂)
 - aka: 春水堂人文茶館
