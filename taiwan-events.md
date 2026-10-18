@@ -41,6 +41,7 @@
 - Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
 - [Official (English)](https://english.1839cg.com/archives/5108), [archive.today](https://archive.ph/PW89d)
 - [Official (Chinese)](https://www.1839cg.com/archives/5982)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## Tadao Ando - Endeavors (挑戰—安藤忠雄展) (Taipei City, Xinyi District)
@@ -378,6 +379,7 @@
 - Artist (藝術家): Aki NORTON
 - [Official (English)](https://english.1839cg.com/archives/6105)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=4c8da09f-a7e5-4469-8b3b-72b8941a88fc&PageType=1)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## Slow Film Festival - oneshot () (Taipei City, Songshan District)
@@ -785,6 +787,7 @@
 - Artist (藝術家): Minae KAWADA (河田 美奈枝)
 - [Official (English)](https://english.1839cg.com/archives/6151)
 - [Official (Chinese)](https://www.1839cg.com/archives/8420)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## 2026 Taipei Rose Festival (2026臺北玫瑰展) (Taipei City, Zhongshan District)
@@ -1252,6 +1255,7 @@
 - [Official (Chinese)](https://www.1839cg.com/archives/8441)
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19761)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=9ef16d50-fb35-4e66-bc60-de64a6c1dfaa&PageType=1)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## Thrust: Convergence and Expansion of the São Paulo Art Biennial through the NMH Collection (推力─巴西聖保羅雙年展的輻輳與擴散) (Taipei City, Zhongzheng District)
@@ -1928,6 +1932,7 @@
 - [Art Emperor 非池中](https://artemperor.tw/tidbits/19914)
 - https://www.ncafroc.org.tw/event_detail.html?sid=6499
 - Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## Obscured Portraits: Seen and Unseen-Perceptions Beyond Sight (黯像：看見不見-無視之覺) (Taipei City, Zhongzheng District)
@@ -2616,7 +2621,7 @@
 - 2026-07-30 19:30
 - Location: [National Sun Yat-sen University, Sun Yat-sen Hall (國立中山大學, 逸仙館)](https://maps.app.goo.gl/uRYqFPRVZbqzWd3Q9)
 - Artist (藝術家): Lisa Ono (小野麗莎)
-- https://harmoniemusictw.kktix.cc/events/lejyd
+- [KKTIX](https://harmoniemusictw.kktix.cc/events/lejyd)
 - [OPENTIX](https://www.opentix.life/event/2038873926101491713)
 - https://www.facebook.com/events/2455429278295833/
 - https://eventgo.tw/event/438fe85b-4b51-4f1b-8dd2-f88d4a977916
@@ -2780,6 +2785,15 @@
 - style: indie rock music
 - type: concert
 
+## Experiments with Light (光的實驗) (Taipei City, Da'an District)
+- 2026-09-03 to 2026-09-20
+- Location: [0km 山物所 E棟 & 複森林](https://maps.app.goo.gl/C2dkW5GiQLzANArh6)
+- [Official](https://www.0km.com.tw/%E5%85%89%E7%9A%84%E5%AF%A6%E9%A9%97)
+- [ACCUPASS](https://www.accupass.com/event/2609040336135474386040)
+- [Instagram](https://www.instagram.com/p/Dc00KjUCVVW/)
+- admission: free
+- type: exhibition
+
 ## Monologue of Plants in the Still Night (植物の獨白) (Taipei City, Da'an District)
 - 2026-09-05 to 2026-10-11
 - Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
@@ -2787,6 +2801,7 @@
 - [Official (Chinese)](https://www.1839cg.com/archives/8520)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=8974c3d9-a144-4b14-853e-c07b833c2705&PageType=1)
 - Artist (藝術家): Koshi Matsumoto (松本幸之)
+- admission: free
 - type: photography solo exhibition (攝影個展)
 
 ## Instructions for Crying () (Taipei City, Datong District)
@@ -2829,10 +2844,12 @@
 ## The Fear Exhibition (恐怖心展) (Taipei City, Zhongshan District)
 - 2026-09-12 to 2026-11-23
 - Location: [灰棚](https://maps.app.goo.gl/3P9yZuWwDx3zL3WNA)
-- [Official (Chinese)](https://kyoufushinten.osuo.shop/zh-TW)
+- [Official (Chinese)](https://kyoufushinten.osu.xyz/zh-TW), [Official (Chinese)](https://kyoufushinten.osuo.shop/zh-TW)
 - [klook](https://www.klook.com/activity/229309-the-fear-exhibition/)
 - [IG (ipspace.tw)](https://www.instagram.com/p/DcAs39iHY5j/)
 - [IG (Taipei gan ma)](https://www.instagram.com/p/DdOHEcPzmRa/)
+- [IG (lena0910_)](https://www.instagram.com/p/DdGVHYfol21/)
+- [KKTIX](https://saltsweeet.kktix.cc/events/kyoufushinten)
 - Organizer (主辦單位): YAMI Inc., TV Tokyo (東京電視台), Lawson Entertainment Inc., SaltSweeet, 方格子 vocus
 - description: Immersive exhibition exploring everyday fears, enclosed spaces and unsettling imagery. Full ticket NT$450.
 - theme: halloween
@@ -2942,6 +2959,7 @@
 - Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
 - [KKTIX (English)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=en)
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=zh-TW)
+- [Instagram](https://www.instagram.com/p/DctUHQ_ESpb/)
 - Artist (藝術家): Evan Danger, Ellery, Zachary Richards, Kylie Wang, Sam Yarbs, Chloe
 - Language: English
 - type: stand-up comedy
@@ -3054,6 +3072,17 @@
 - Artist (藝術家): Hsin-Ying LIU (劉昕穎)
 - style: painting
 - type: solo exhibition (個展)
+
+## Stories from the Floating World: Japan 3.11 (浮世物語：日本3.11) (Taipei City, Da'an District)
+- 2026-10-17 to 2026-11-22
+- Location: [1839 Contemporary Gallery (1839 當代藝廊)](https://maps.app.goo.gl/BticcBve6vuuvYRT8)
+- [Official (English)](https://english.1839cg.com/archives/6224)
+- [Official (Chinese)](https://www.1839cg.com/archives/8534)
+- [Art Emperor 非池中](https://artemperor.tw/tidbits/20447)
+- Artist (藝術家): Vincent YU (余偉建)
+- Curator (策展人): Edward, I-Chien CHIU (邱奕堅)
+- admission: free
+- type: photography solo exhibition (攝影個展)
 
 ## Tianmu Halloween Carnival{ut} (2026天母搞什麼鬼18) (Taipei City, Shilin District)
 - 2026-10-23 19:00, 2026-10-24 13:00 to 20:00
@@ -3285,7 +3314,7 @@
 - Location: [WhiteCrow78 (晗光行)](https://maps.app.goo.gl/NsEb47SYhmrs231j6)
 - [Facebook](https://www.facebook.com/WhiteCrow78)
 - [Instagram](https://www.instagram.com/leonnephotos/)
-- Artist: Leonne Chen (陳麗文)
+- Artist (藝術家): Leonne Chen (陳麗文)
 - type: photography solo exhibition (攝影個展)
 
 ## ZEPRO RUN: National Half Marathon (2026 ZEPRO RUN全國半程馬拉松) (Hsinchu County, Zhubei City)
