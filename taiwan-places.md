@@ -1661,7 +1661,7 @@
 - aka: Taoyuan Police Dorms, Taoyuan 77 Cultural Streets
 - [Google Maps](https://maps.app.goo.gl/xBiNsgSYXxLcRwKN7)
 - https://www.goteamjosh.com/blog/qiqi
-- https://travel.tycg.gov.tw/en/travel/attraction/1548
+- [Taoyuan: First Stop in Taiwan (English)](https://travel.tycg.gov.tw/en/travel/attraction/1548)
 
 - categories: heritage building
 
@@ -1708,7 +1708,7 @@
 ## Jurassic Museum (侏羅紀博物館) (Taoyuan City, Luzhu District)
 - aka: 侏羅紀自然科學博物館
 - [Google Maps](https://maps.app.goo.gl/FF6WRTXrpjCQibeg8)
-- https://travel.tycg.gov.tw/en/travel/attraction/2233
+- [Taoyuan: First Stop in Taiwan (English)](https://travel.tycg.gov.tw/en/travel/attraction/2233)
 - https://www.facebook.com/Jurassic.Museum.Taiwan/
 
 - categories: museum
@@ -2138,6 +2138,18 @@
 - [Atlas Obscura](https://www.atlasobscura.com/places/baguashan-skywalk)
 - [可大王愛旅行](https://myjourney.tw/baguashan-sky-trail/)
 - [Changhua Travel](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=486&chk=27881324-5d97-4180-bd2d-1e13aacf73b6)
+
+## Baiguo Mountain Explore Paradise (百果山探索樂園) (Changhua County, Yuanlin City)
+= [Google Maps](https://maps.app.goo.gl/NZFm5Q1aj7d6nX5y7)
+- [Wikidata](https://www.wikidata.org/wiki/Q141761228)
+- [Official](https://www.baiguoshan.com.tw/)
+- [Facebook](https://www.facebook.com/51061BAIGUOSHAN)
+- [Changhua Travel](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=598&chk=9cacca87-5712-4c7d-904a-24165797aeec&l=EN)
+- https://www.trimt-nsa.gov.tw/en/consultant/47956/
+- [TikTok](https://www.tiktok.com/@kellyhuang1025/video/7604634008584031509)
+- [Trip.com](https://www.baiguomountainexploreparadise.com/)
+
+- categories: theme park, dinosaurs
 
 ## Chimei Museum (奇美博物館) (Tainan City, Rende District)
 - [Google Maps](https://maps.app.goo.gl/CLkVWR64kcdiVCCTA)
@@ -3007,6 +3019,14 @@
 
 - activities: river tracing
 - categories: waterfall
+
+## Dayou Ecological Park (大有梯田生態公園) (Taoyuan City, Taoyuan District)
+- aka: Dayou Ecological Park Forest Area, 大有梯田生態公園 森林挑戰區
+- [Google Maps](https://maps.app.goo.gl/gQuvMVFVV3HR8QtE8)
+- [Taoyuan: First Stop in Taiwan (English)](https://travel.tycg.gov.tw/en/travel/attraction/1623)
+- [Instagram](https://www.instagram.com/p/DdX1ex4zBYM/)
+
+- categories: ecological, playground
 
 ## Luodong Forestry Culture Park (羅東林業文化園區) (Yilan County, Luodong Township)
 - [Google Maps](https://maps.app.goo.gl/Rh8TobSsK2bR91dXA)

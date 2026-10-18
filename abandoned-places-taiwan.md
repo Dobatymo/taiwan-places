@@ -230,6 +230,7 @@
 - [Facebook (NightTaiwan)](https://www.facebook.com/media/set/?set=a.643952795657465)
 - [FoodBaby](https://foodbabytw.com/2019/07/16/thirteen-levels-abandoned-smelter/)
 - [Facebook (Taiwan Urbex Image)](https://www.facebook.com/groups/urbeximage/permalink/2066156407507027/)
+- [Instagram (grassdodo)](https://www.instagram.com/p/DaTB5cxk6K9/)
 
 - dangerous, guards, need to climb fences
 
@@ -255,6 +256,7 @@
 - [Lost Places](https://lostplaces.tw/formosa-fun-coast/)
 - [SpectralCodex](https://spectralcodex.com/bali-formosa-fun-coast/)
 - [巴哈姆特 (crain83756)](https://home.gamer.com.tw/creationDetail.php?sn=4516571)
+- [Instagram (grassdodo)](https://www.instagram.com/p/DNOKHVjp3UU/)
 
 ## Bali Mediterranean Club (八里地中海俱樂部) (New Taipei City, Bali District)
 - [Google Maps (old entrance)](https://maps.app.goo.gl/ricruu4XX3xdFJUu9)
@@ -271,6 +273,8 @@
 - [YouTube (Exploring With Josh)](https://www.youtube.com/watch?v=taokgGQRXk8)
 - [Instagram (chaotic.hk.urbexer)](https://www.instagram.com/reel/C9FDcgzvfF0/)
 - [YouTube (Zarckaroo Vlogs)](https://www.youtube.com/watch?v=RmErX9AoyEc)
+- [Instagram (krampus)](https://www.instagram.com/p/DdJXqqUgZKo/)
+- [Instagram (grassdodo)](https://www.instagram.com/p/DaE7wY2EXej/)
 - There was a fire in September 2025 [China Times](https://www.chinatimes.com/realtimenews/20250925003667-260402), [United Daily News](https://udn.com/news/story/7320/9029300), but it's still possible to visit
 - https://imgchest.com/p/wl7laxalqyx
 
@@ -311,6 +315,7 @@
 - [廃墟検索地図](https://haikyo.info/s/14450.html)
 - [Flickr (greenset)](https://www.flickr.com/photos/greenset/albums/72157705106840514/)
 - [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2019/01/abandoned-places-ufo-village.html)
+- [Instagram (grassdodo)](https://www.instagram.com/p/DRgVzjMkgGn/), [Instagram (grassdodo)](https://www.instagram.com/p/CuR95ryvKKe/)
 
 ## Sanzhi Beihai Resort Center (三芝北海度假中心) (New Taipei City, Sanzhi District)
 - [Google Maps](https://maps.app.goo.gl/p6iXWVv4eUZrcHcX6)
@@ -1142,6 +1147,7 @@
 - [Flickr (True British Metal)](https://www.flickr.com/photos/truebritishmetal/albums/72177720310808028/)
 - https://www.gokinmentour.com/revitalized-granite-hospital-members-hope-to-become-universal-studios-and-world-haunted-house/
 - [YouTube (Lijia Lai(Asian boy from Taiwan))](https://www.youtube.com/watch?v=mZZzBfgcCAw)
+- [Instagram (grassdodo)](https://www.instagram.com/p/DW09dzxE3y5/), [Instagram (grassdodo)](https://www.instagram.com/p/DaLMGeek9kf/)
 
 ## 134 Highland (134高地) / Granite Park (花崗岩公園, 花崗石園區) (Kinmen County, Jinhu Township)
 - aka: 高地暗空園區

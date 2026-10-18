@@ -2819,7 +2819,7 @@
 
 ## Leofoo Village Tombstone Town (六福村「墓碑鎮十週年：決戰時刻」) (Hsinchu County, Guanxi Township)
 - 2026-09-12 to 2026-11-22 (not every day)
-- [Leofoo Village Theme Park (六福村主題遊樂園)](https://maps.app.goo.gl/o57HSFrecq238FmT7)
+- Location: [Leofoo Village Theme Park (六福村主題遊樂園)](https://maps.app.goo.gl/o57HSFrecq238FmT7)
 - [Official (Chinese)](https://www.leofoovillage.com.tw/Infos/News/halloween-tombstone-town-2026-1)
 - description: Horror street, daytime and nighttime parades, monster performers, themed dining and Snoopy Halloween activities.
 - theme: halloween
@@ -3295,7 +3295,7 @@
 - https://www.instagram.com/p/DX9Dj3KgP-Z/
 - type: sports
 
-## NieR:Orchestra Concert 12026 [YoRHa] (Taipei City, Xinyi District)
+## NieR:Orchestra Concert 12026 [YoRHa] () (Taipei City, Xinyi District)
 - 2027-02-20 18:00
 - Location: [Taipei International Convention Center (台北國際會議中心)](https://maps.app.goo.gl/WqSNa5tKyQRP4aku5)
 - https://www.nierconcert.com/12026/taipei
