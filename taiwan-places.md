@@ -639,6 +639,15 @@
 
 - public transport: good, between Fulong TRA Station and Dali TRA Station
 
+## Kalamoji Trail (卡拉莫基步道) (New Taipei City, Wulai District)
+- [Google Maps](https://maps.app.goo.gl/YJoRbAp78sxMv4P39)
+- [Wikidata](https://www.wikidata.org/wiki/Q141761097)
+- [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=1386)
+- [Hikingbook](https://zh-tw.hikingbook.net/trails/%E5%8D%A1%E6%8B%89%E8%8E%AB%E5%9F%BA%E6%AD%A5%E9%81%93)
+- [AllTrails](https://www.alltrails.com/trail/taiwan/new-taipei-city/kalamoji-trail)
+- [YouTube](https://www.youtube.com/watch?v=RUqIfptg7kM)
+- [Instagram](https://www.instagram.com/p/Dd9IkCpzvYz/)
+
 ## Wuliao Peak (五寮尖) (New Taipei City, Sanxia District)
 - aka: Wuliaojian
 - [Google Maps (peak)](https://maps.app.goo.gl/4r3bRaA8rQC3eD838)
@@ -1586,8 +1595,8 @@
 - located on: Teapot Mountain (茶壺山)
 - [Google Maps](https://maps.app.goo.gl/LTuBSt1WTKHhgu8u6)
 - [Wikidata](https://www.wikidata.org/wiki/Q139678772)
-- [Instagram](https://www.instagram.com/reels/DWu_SZVk8l4/)
-- [Instagram](https://www.instagram.com/reels/DXT3nzYkSpS/)
+- [Instagram](https://www.instagram.com/p/DWu_SZVk8l4/)
+- [Instagram](https://www.instagram.com/p/DXT3nzYkSpS/)
 - https://www.facebook.com/watch/?v=1731787728232590
 - https://www.threads.com/@qiuung/post/DWvCfUskdFY/
 
@@ -1855,7 +1864,7 @@
 - [Google Maps (B)](https://maps.app.goo.gl/shMzqcQBLbV4EqPD9)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%89%8B%E6%B4%9E)
 - [Wikidata](https://www.wikidata.org/wiki/Q101419464)
-- [Instagram](https://www.instagram.com/reels/DVTTjEck1sZ/)
+- [Instagram](https://www.instagram.com/p/DVTTjEck1sZ/)
 - [Josh Ellis](https://www.goteamjosh.com/blog/xiandong)
 - [Blogspot (My Life Abroad)](https://polishgirlintaiwan.blogspot.com/2018/11/the-fairy-cave-and-buddhas-hand-cave-of.html)
 - https://travel.klcg.gov.tw/en/TourContent.aspx?n=8888&s=739
@@ -2972,7 +2981,7 @@
 - located in: Laomei river (老梅溪)
 - [Google Maps](https://maps.app.goo.gl/mbm3j13B3yxsHCAC6)
 - [Wikidata](https://www.wikidata.org/wiki/Q139744416)
-- https://www.instagram.com/reels/DYB1ZUOS25-/
+- https://www.instagram.com/p/DYB1ZUOS25-/
 - https://www.tonyhuang39.com/tony0178.html
 - https://iflipoutdoor.com/zh-tw/cart/27
 - https://www.klook.com/activity/45978-shimen-laomei-stream-river-tracing-experience/
@@ -3064,7 +3073,7 @@
 - [Google Maps](https://maps.app.goo.gl/KfqaXCigfK7zqwNy5)
 - [HopOut](https://hopout.com.tw/location/pingtung-lion-king-waterfall)
 - [Hikingbook](https://hikingbook.net/trails/%E7%8D%85%E7%8E%8B%E7%80%91%E5%B8%83)
-- [Instagram (alex_a.ni__)](https://www.instagram.com/reels/DOaI3KaE_Wr/)
+- [Instagram (alex_a.ni__)](https://www.instagram.com/p/DOaI3KaE_Wr/)
 
 - categories: waterfall, pool, swimming
 
@@ -3249,7 +3258,7 @@
 - [Wikidata](https://www.wikidata.org/wiki/Q11079742)
 - [Round Taiwan Round](https://www.rtaiwanr.com/hualien/taroko-gorge/wenshan-hot-spring)
 - [Instagram (jerryunique)](https://www.instagram.com/p/CU2DrcghARJ/)
-- [Instagram (tangxboss)](https://www.instagram.com/reels/DTVJI9Lku8l/)
+- [Instagram (tangxboss)](https://www.instagram.com/p/DTVJI9Lku8l/)
 - [HopOut](https://hopout.com.tw/location/hualien-wenshan-hot-spring)
 - https://trail.tacp.gov.tw/en/Keyword/542
 
@@ -3275,7 +3284,7 @@
 - [TaiwanObsessed](https://www.taiwanobsessed.com/lisong-hot-spring/)
 - [HopOut](https://hopout.com.tw/location/taitung-lisong-hot-spring)
 - [Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=725)
-- [Instagram (salt.and.charcoal)](https://www.instagram.com/reels/DWWh90jj8lu/)
+- [Instagram (salt.and.charcoal)](https://www.instagram.com/p/DWWh90jj8lu/)
 
 - categories: hot spring
 
@@ -3481,7 +3490,7 @@
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://cott6226.pixnet.net/blog/post/353616316
 - https://www.instagram.com/p/DXO2zH7lD3o/
-- https://www.instagram.com/reels/DdRNAVqSlUK/
+- https://www.instagram.com/p/DdRNAVqSlUK/
 
 - categories: community, abandoned, public housing
 - scheduled for demolition

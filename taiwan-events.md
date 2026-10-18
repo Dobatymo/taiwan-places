@@ -1911,8 +1911,8 @@
 - aka: 閱影展 - 2026台北文學季
 - 2026-05-22 to 2026-06-04
 - Location: [SPOT Taipei Cinema (光點台北電影院)](https://maps.app.goo.gl/JPjDUhKd7wGFpGhU7), [SPOT Huashan Cinema (光點華山電影館)](https://maps.app.goo.gl/8WzP8vjCUnfvVWhs7)
-- https://literature.festival.taipei/film-festival.html
-- https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AA68ED6A824B0459
+- [Official](https://literature.festival.taipei/film-festival.html)
+- [Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=AA68ED6A824B0459), [Wayback Machine](https://web.archive.org/web/20261018031223/https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=AA68ED6A824B0459)
 - https://giloo.ist/topics/67513
 - type: film festival, literature festival
 
@@ -2472,8 +2472,8 @@
 ## Taipei Flea Market 2026 (台北蚤之市 第三十二回) (Taipei City, Xinyi District)
 - 2026-07-10 to 2026-07-12
 - Location: [Songshan Cultural and Creative Park, Warehouses 2 and 3 (松山文創園區, 2號及3號倉庫)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
-- https://www.instagram.com/p/DYuOJLLPnwA/
-- https://www.facebook.com/TaipeiFleaMarkets/posts/1303026775338876
+- [Instagram](https://www.instagram.com/p/DYuOJLLPnwA/)
+- [Facebook Post](https://www.facebook.com/TaipeiFleaMarkets/posts/1303026775338876)
 - type: flea market
 
 ## The Music of SQUARE ENIX - Magic, Memories, and Melodies () (Kaohsiung City, Yancheng District)
@@ -2842,10 +2842,11 @@
 ## Wang Yahui: Voyager (王雅慧：旅行者) (Taipei City, Zhongshan District)
 - 2026-09-12 to 2027-01-03
 - Location: [Taipei Fine Arts Museum, Galleries 2A and 2B (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
-- https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=813
-- https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=813
+- [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=813)
+- [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=813)
 - https://www.mutualart.com/Exhibition/Wang-Yahui--Voyager/8E14C9F688182735
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=4113b4fa-b86e-468d-836b-6d795c261a6d&PageType=1)
+- [Instagram](https://www.instagram.com/p/Dd1VLTNyCaI/)
 - Artist (藝術家): WANG Yahui (王雅慧)
 - Curator (策展人): Lei Yi-ting, Hsuan-chun Lin
 - style: contemporary art, video installation, photography
@@ -3035,6 +3036,16 @@
 - [KKTIX](https://pycontw.kktix.cc/events/2026-individual)
 - type: technology conference
 
+## 28th Taipei International Birdwatching Fair (2026臺北國際賞鳥博覽會) (Taipei City, Beitou District)
+- aka: Under Our Wings (飛鳥依人)
+- 2026-10-17 to 2026-10-18
+- Location: [Guandu Nature Park (關渡自然公園)](https://maps.app.goo.gl/ZG8wLdaV8xW7wFG96)
+- https://gd-park.org.tw/event/113
+- https://www.wbst.org.tw/news/1627
+- [Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=3040F9C9A249D872), [Wayback Machine](https://web.archive.org/web/20261018030940/https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=3040F9C9A249D872)
+- [Instagram (yesyoyeh_design)](https://www.instagram.com/p/DcLxvUZk0QQ/)
+- [Instagram (Taipei gan ma)](https://www.instagram.com/p/DedoxuGkfU5/)
+
 ## Hsin-Ying Liu Solo Exhibition (劉昕穎 個展) (Taipei City, Datong District)
 - 2026-10-17 to 2026-11-14
 - Location: [AKI Gallery (也趣藝廊)](https://maps.app.goo.gl/xr4RxbWYtJKQ3RH3A)
@@ -3053,6 +3064,16 @@
 - theme: halloween
 - audience: family
 - type: carnival
+
+## The Seoul Illustration Fair (首爾插畫展 台北站) (Taipei City, Zhongzheng District)
+- aka: SIF in Taipei
+- 2026-10-23 to 2026-10-26
+- Location: [Huashan 1914 Creative Park (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
+- [Official](https://sifintaipei.com.tw/)
+- [Instagram (Official](https://www.instagram.com/sifintaipei/)
+- [ACCUPASS](https://www.accupass.com/event/2607080922099756008700)
+- [klook](https://www.klook.com/activity/231819-sif-in-taipei/)
+- [Instagram (Taipei gan ma)](https://www.instagram.com/p/DeZm_nqk4TL/)
 
 ## IKEA Neihu Halloween Treasure Adventure{ut} (IKEA內湖萬聖寶藏傳說) (Taipei City, Neihu District)
 - 2026-10-23 to 2026-10-25, 2026-10-31 to 2026-11-01
@@ -3088,6 +3109,14 @@
 - https://khh.travel/zh-tw/event/calendardetail/7904/
 - type: food festival, market, live performances
 
+## Taipei Flea Market 2026 (台北蚤之市 第三十二回) (Taipei City, Xinyi District)
+- 2026-10-24 to 2026-10-26
+- Location: [Songshan Cultural and Creative Park (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
+- https://www.songshanculturalpark.org/exhibition/activity/55e46649-c37f-450f-85d3-1d672cdf3bc3
+- [Instagram](https://www.instagram.com/p/DeeWVW6gVu-/)
+- [Facebook Post](https://www.facebook.com/TaipeiFleaMarkets/posts/1382314547410098)
+- type: flea market
+
 ## Board Games and Ghost Stories{ut} (2026萬聖節 桌遊.鬼故事派對) (Taipei City, Da'an District)
 - 2026-10-25 14:30 to 23:30
 - Location: [她的遊戲 桌遊店](https://maps.app.goo.gl/9GuZvWeB28zEqdLDA)
@@ -3108,7 +3137,7 @@
 ## Taipei Children's Amusement Park Halloween Carnival{ut} (兒童新樂園 第十屆 萬聖嘉年華) (Taipei City, Shilin District)
 - 2026-10-25 to 2026-10-26
 - Location: [Taipei Children's Amusement Park (臺北市立兒童新樂園)](https://maps.app.goo.gl/j6KCVrSavNmbxaYB6)
-- [Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=81B1D3CBBE80DC4E), [Wayback Machine](https://web.archive.org/web/20261015033458/https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=81B1D3CBBE80DC4E)
+- [Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=81B1D3CBBE80DC4E), [Wayback Machine](https://web.archive.org/web/20261015033458/https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=81B1D3CBBE80DC4E)
 - [Facebook](https://www.facebook.com/tcap1216/posts/1453296696899096)
 - [klook](https://www.klook.com/activity/240899-taipei-children-s-amusement-park-halloween-show/)
 - [klook](https://www.klook.com/activity/241400-taipei-children-s-amusement-park-halloween-show-delala/)
@@ -3251,9 +3280,29 @@
 - type: stand-up comedy, improv comedy
 - Language: English
 
+## Double Vision (對視) (Taipei City, Da'an District)
+- 2026-11-07 to 2026-12-05
+- Location: [WhiteCrow78 (晗光行)](https://maps.app.goo.gl/NsEb47SYhmrs231j6)
+- [Facebook](https://www.facebook.com/WhiteCrow78)
+- [Instagram](https://www.instagram.com/leonnephotos/)
+- Artist: Leonne Chen (陳麗文)
+- type: photography solo exhibition (攝影個展)
+
 ## ZEPRO RUN: National Half Marathon (2026 ZEPRO RUN全國半程馬拉松) (Hsinchu County, Zhubei City)
 - 2026-11-08
 - Location: [Hsinchu County Stadium (新竹縣立體育場)](https://maps.app.goo.gl/25N6DyAaHxEYhrgX6)
 - https://www.ctrun.com.tw/Activity?EventMain_ID=324
 - https://www.instagram.com/p/DX9Dj3KgP-Z/
 - type: sports
+
+## NieR:Orchestra Concert 12026 [YoRHa] (Taipei City, Xinyi District)
+- 2027-02-20 18:00
+- Location: [Taipei International Convention Center (台北國際會議中心)](https://maps.app.goo.gl/WqSNa5tKyQRP4aku5)
+- https://www.nierconcert.com/12026/taipei
+- https://ibontw.com/NieR12026
+- https://www.instagram.com/p/DeHyWEvAUAZ/
+- Conductor (官方指揮): Eric Roth
+- Orchestra (交響樂團): Taipei Philharmonic Orchestra (台北愛樂管弦樂團)
+- Chorus (合唱團): Taipei Philharmonic Chorus (台北愛樂合唱團)
+- Special Guests (特別嘉賓): 橫尾太郎, 岡部啟一
+- type: concert, music
