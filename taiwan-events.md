@@ -1585,7 +1585,7 @@
 - Curator (策展人): ERIC H.
 - [ACCUPASS](https://www.accupass.com/event/2603300222169856392440)
 - https://www.instagram.com/p/DXJzvlwD1J3/
-- https://www.vogue.com.tw/article/a-chair-in-the-room-%E6%A4%85%E5%AD%90%E7%9A%84%E7%8D%A8%E7%99%BD-finn-juhl-%E5%85%89%E5%9C%A8%E9%8C%A6%E7%94%BA
+- [Vogue Taiwan](https://www.vogue.com.tw/article/a-chair-in-the-room-%E6%A4%85%E5%AD%90%E7%9A%84%E7%8D%A8%E7%99%BD-finn-juhl-%E5%85%89%E5%9C%A8%E9%8C%A6%E7%94%BA)
 - https://www.mottimes.com/article/detail/6785
 
 ## Butterflies of Light (光之蝶) (Taipei City, Songshan District)
@@ -3298,6 +3298,17 @@
 - theme: halloween
 - audience: family, adults
 - type: market
+
+## 2026 Nuit Blanche Taipei (2026臺北白晝之夜) (Taipei City, Zhongshan District)
+- 2026-10-31 14:00 to 2026-11-01 02:00
+- Location: [Taipei Expo Park](https://maps.app.goo.gl/dDRSxefeEaEs6DHZ9), [Yuanshan Natural Landscape Park (圓山自然景觀公園)](https://maps.app.goo.gl/dxWtWm5CAuJRxzw2A)
+- [Official](https://www.nuitblanche.taipei/)
+- https://travel.taipei/en/event-calendar/details/66784
+- https://travel.taipei/zh-tw/event-calendar/details/66397
+- [Vogue Taiwan](https://www.vogue.com.tw/article/%E8%87%BA%E5%8C%97%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C-2026)
+- [Instagram](https://www.instagram.com/p/Dc2emr1iTRu/)
+- description: Under the theme "Night ka shi," the free citywide arts night uses visual art, performance, and participatory work to explore how nakashi street-music culture is translated and sustained in contemporary urban life.
+- type: contemporary art, festival, public art, public performance
 
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Kaohsiung City, Qianjin District)
 - performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
