@@ -110,6 +110,18 @@
 - [Official (Chinese)](https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibitionPic.aspx?n=8007&s=210026)
 - type: photography exhibition
 
+## Photographic Auteurism — A Group Exhibition from Kenji Takazawa's Photographic Expression Workshop (寫真作家主義-Takazawa Kenji 寫真表現工作坊聯展) (Taipei City, Zhongshan District)
+- 2023-04-15 to 2023-05-07
+- Location: [Garden City Bookstore (田園城市生活風格書店)](https://maps.app.goo.gl/dpbQfq9gPvm3yqUc6)
+- [Facebook Post](https://www.facebook.com/gardencity.bookstore/posts/659963886137267)
+- [Facebook Event](https://www.facebook.com/events/227784726484327/)
+- [映像咖啡顯影](https://imagecoffee.net/?p=19539), [Wayback Machine](https://web.archive.org/web/20230403060651/https://imagecoffee.net/?p=19539)
+- [klook](https://www.klook.com/zh-TW/event-detail/101014850-2023-takazawa-kenji-exhibition/)
+- [IG](https://www.instagram.com/p/Cq4LWZsvyOc/)
+- [IG](https://www.instagram.com/p/Cq294eZvxPC/)
+- Artist (藝術家): Takazawa Kenji (高澤賢治, タカザワ ケンジ), Hsueh Ying-Chi (薛穎琦), FAN CHIAN-YU (范倩瑜), Chen Yu (陳瑀), WU WEN-PO (吳文波), CHANG WEI-HENG (張維恒), LI Po-Yi (李柏毅), Philippe Fang (方惠民), Hsu Pei Yuan (徐培原), Li Ming Hsien (李明憲), Chen Leonne (陳麗文)
+- type: photography group exhibition
+
 ## Taiwan Adult Expo 2023 () (Taipei City, Xinyi District)
 - 2023-04-29 to 2023-05-01
 - Location: [Songshan Cultural and Creative Park (松山文創園區)](https://maps.app.goo.gl/Z1BJE71iSMeGy2KN9)
@@ -139,8 +151,9 @@
 - 2023-10-13 to 2024-03-31
 - Location: [PLAYground南村劇場](https://maps.app.goo.gl/1n7TAJU9kSzGsA3U8)
 - [Official](https://www.playgrounddrama.com.tw/drama-info-1/2023lpctw)
-- Language: English
-- Subtitles: Mandarin
+- https://theatre.tw/perf/8623/
+- Language (發音): English
+- Subtitles (字幕): Mandarin
 - type: musical
 
 ## Sacrifice and Warfare: Guide to Ancient Weapons (祀與戎：古代兵器攻略) (Taipei City, Shilin District)
@@ -802,9 +815,10 @@
 - 2026-03-06 to 2026-06-28
 - Location: [PLAYground南村劇場](https://maps.app.goo.gl/1n7TAJU9kSzGsA3U8)
 - [Official (Chinese)](https://www.playgrounddrama.com.tw/drama-info-1/2026lpc)
+- https://theatre.tw/perf/8623/
 - Production (出品製作): Activa Productions (活性界面製作)
-- Language: English
-- Subtitles: Mandarin
+- Language (發音): English
+- Subtitles (字幕): Mandarin
 - type: musical
 
 ## Monga Neighborhood Female History Tour (女路走讀：艋舺街區的女史漫遊) (Taipei City, Wanhua District)
@@ -1219,8 +1233,8 @@
 - [Official (English)](https://tpac.org.taipei/en/program/1409)
 - [Official (Chinese)](https://tpac.org.taipei/program/1409)
 - [OPENTIX](https://www.opentix.life/event/2010918648857628673), [Wayback Machine](https://web.archive.org/web/20260325040614/https://www.opentix.life/event/2010918648857628673)
-- Language: Mandarin, Taiwanese Hokkien
-- Subtitle: none
+- Language (發音): Mandarin, Taiwanese Hokkien
+- Subtitles (字幕): none
 - type: musical
 
 ## A Leaf Holds a Mountain (壹葉一山) (Taipei City, Da'an District)
@@ -1415,8 +1429,8 @@
 - [Official (English)](https://tpac.org.taipei/en/program/1369)
 - [Official (Chinese)](https://tpac.org.taipei/program/1369)
 - https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P13CXC1H
-- Language: English (英文)
-- Subtitle: Mandarin (中文)
+- Language (發音): English (英文)
+- Subtitles (字幕): Mandarin (中文)
 - type: musical
 
 ## Qianlong and His Impostors: Authentic and Ghostwritten Works of Emperor Qianlong's Calligraphy (真假乾隆－清高宗的御筆與代筆) (Taipei City, Shilin District)
@@ -2311,8 +2325,8 @@
 - Theatrical troupe: Chungbuk Theatre Company (忠北道立劇團)
 - Playwright (劇作家): Lee Cheng-chun (李承寯)
 - Director (導演): Kim Naghyung (金洛亨) (김낙형)
-- Language: Korean
-- Subtitles: Mandarin, English
+- Language (發音): Korean
+- Subtitles (字幕): Mandarin, English
 - Series: 2026 Taiwan International Play Reading Festival (2026台灣國際讀劇節)
 - Organizer (主辦單位): Taipei Performing Arts Center, Prologue Center for New Plays
 - type: staged reading / theater festival
@@ -2334,8 +2348,8 @@
 - [Official (Chinese)](https://tpac.org.taipei/program/1384)
 - [OPENTIX](https://www.opentix.life/event/2001477038493990913)
 - Theatrical troupe: The Party Theatre Group (同黨劇團)
-- Language: Mandarin, Taiwanese Hokkien
-- Subtitles: Mandarin, English
+- Language (發音): Mandarin, Taiwanese Hokkien
+- Subtitles (字幕): Mandarin, English
 - Series: 2026北藝嚴選
 - type: theater
 
@@ -2530,8 +2544,8 @@
 - [Official (English)](https://tpac.org.taipei/en/program/1422)
 - [Official (Chinese)](https://tpac.org.taipei/program/1422)
 - https://focasa.tw/en/
-- Language: Mandarin
-- Subtitle: Mandarin
+- Language (發音): Mandarin
+- Subtitles (字幕): Mandarin
 - type: circus
 
 ## Metamorphosis (變形) (Nantou County, Nantou City)
@@ -2601,7 +2615,7 @@
 - [Official (English)](https://tpac.org.taipei/en/program/1780)
 - [Official (Chinese)](https://tpac.org.taipei/program/1780)
 - [OPENTIX (Chinese)](https://www.opentix.life/event/2043941682610323457)
-- Language: Mandarin
+- Language (發音): Mandarin
 - Series: 2026 TCAF (2026臺北兒童藝術節)
 - type: puppet theater / children's theater
 
@@ -2749,6 +2763,7 @@
 - [Official (Chinese)](https://jam.jutfoundation.org.tw/exhibition/5639)
 - [Culture Express (English)](https://cultureexpress.taipei/English/Event/E000003?ID=fd13ac25-9479-4825-ad4d-aba12398d9da&PageType=1)
 - Artist (藝術家): Sou Fujimoto (藤本壯介)
+- description: The Taipei iteration of Fujimoto's largest solo exhibition surveys nearly 30 years of architectural practice through models, drawings, notebooks, installations, and a walk-in large-scale model.
 - style: architecture
 - type: exhibition
 
@@ -2776,6 +2791,16 @@
 - Lyrics: Oscar Hammerstein II
 - type: musical
 
+## 2026 Penghu Beach Music Festival{ut} (2026澎大海沙灘音樂祭) (Penghu County, Huxi Township)
+- aka: Pescadores Fest 2026
+- 2026-08-21 to 2026-08-23
+- Location: [Aimen Beach (隘門沙灘)](https://maps.app.goo.gl/2aTawbHun18zqauB8)
+- [Penghu Tourism Administration](https://www.penghu-nsa.gov.tw/TravelActivityInfoDetailC001200.aspx?Cond=801454ec-a14d-40f0-8057-8e90aefe213f&Language=1028), [Wayback Machine](https://web.archive.org/web/20261019003935/https://www.penghu-nsa.gov.tw/TravelActivityInfoDetailC001200.aspx?Cond=801454ec-a14d-40f0-8057-8e90aefe213f&Language=1028)
+- https://www.taiwan.net.tw/m1.aspx?lid=081888&sNo=0001019
+- Organizer (主辦單位): 交通部觀光署澎湖國家風景區管理處
+- description: A three-day, two-stage beach festival with nearly 30 acts, including performers from Taiwan, Japan, and Thailand, plus a market and beach activities.
+- type: beach music festival
+
 ## Kodaline - Farewell Tour () (Taipei City, Xinyi District)
 - 2026-08-24 20:00
 - Location: [Taipei International Convention Center (台北國際會議中心)](https://maps.app.goo.gl/WqSNa5tKyQRP4aku5)
@@ -2793,6 +2818,15 @@
 - [Instagram](https://www.instagram.com/p/Dc00KjUCVVW/)
 - admission: free
 - type: exhibition
+
+## Maxwell's Demon (獨角音樂劇《馬克斯威妖：我睡了我的面試官》南村小宇宙版) (Taipei City, Xinyi District)
+- 2026-09-05 to 2026-09-20
+- Location: [PLAYground南村劇場](https://maps.app.goo.gl/1n7TAJU9kSzGsA3U8)
+- [Official](https://www.playgrounddrama.com.tw/drama-info-1/2026maxwells_demon), [Wayback Machine](https://web.archive.org/web/20261019005339/https://www.playgrounddrama.com.tw/drama-info-1/2026maxwells_demon)
+- [OPENTIX](https://www.opentix.life/event/2051557579253776385)
+- https://theatre.tw/perf/65507/
+- description: An 80-minute solo musical uses a physics metaphor to examine power and sexual exploitation surrounding a job interview.
+- type: one-person musical theatre
 
 ## Monologue of Plants in the Still Night (植物の獨白) (Taipei City, Da'an District)
 - 2026-09-05 to 2026-10-11
@@ -2890,6 +2924,17 @@
 - Organizer (主辦單位): Quanta Arts Foundation (廣藝基金會)
 - type: music
 
+## Richard Wagner: "Tristan and Isolde" (崔斯坦與伊索德) (Taipei City, Shilin District)
+- 2026-09-16 18:00, 2026-09-19 14:00
+- Location: [Taipei Performing Arts Center, Grand Theater (臺北表演藝術中心, 大劇院)](https://maps.app.goo.gl/ofWGDhY99fi7S85K6)
+- [Official (English)](https://tpac.org.taipei/en/program/2066)
+- [Official (Chinese)](https://tpac.org.taipei/program/2066)
+- [OPENTIX](https://www.opentix.life/event/2054396960022216704)
+- Language (發音): German
+- Subtitles (字幕): Mandarin, English
+- description: Taipei Symphony Orchestra chief conductor Alexander Liebreich leads an international cast in Wagner's four-and-a-half-hour opera, staged in a production originally created by The Dallas Opera.
+- type: opera, classical music
+
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taipei City, Zhongshan District)
 - performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: 86e1253d-7828-42d3-b37c-eee0fa51b017
@@ -2897,7 +2942,7 @@
 - Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
 - [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
-- Language: English
+- Language (發音): English
 - type: stand-up comedy, improv comedy
 
 ## Black Myth: Wukong Global Concert (台北・且聽天命《黑神話：悟空》全球音樂會) (Taipei City, Xinyi District)
@@ -2941,7 +2986,7 @@
 - [Official (English)](https://tpac.org.taipei/en/program/2042)
 - [Official (Chinese)](https://tpac.org.taipei/program/2042)
 - [OPENTIX](https://www.opentix.life/event/2011615042313633793), [Wayback Machine](https://web.archive.org/web/20260422074845/https://www.opentix.life/event/2011615042313633793)
-- Language: Mandarin
+- Language (發音): Mandarin
 - type: rock musical, black comedy
 
 ## Whispers of the Wilds: Whence and Whither (嚶嚶野物 或出或沒) (Miaoli County, Sanyi Township)
@@ -2961,7 +3006,7 @@
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/taipeicomedylive0926?locale=zh-TW)
 - [Instagram](https://www.instagram.com/p/DctUHQ_ESpb/)
 - Artist (藝術家): Evan Danger, Ellery, Zachary Richards, Kylie Wang, Sam Yarbs, Chloe
-- Language: English
+- Language (發音): English
 - type: stand-up comedy
 
 ## Interwoven Tranquility: Contemporary Textures and Eastern Qi-Rhythm (交錯的靜謐：當代質地與東方氣韻) (Taipei City, Nangang District)
@@ -2981,6 +3026,18 @@
 - style: photography and video equipment trade and consumer show
 - type: trade show (貿易展覽會)
 
+## I Spy Love (發現愛) (Taipei City, Zhongshan District)
+- 2026-10-03 to 2027-02-21
+- Location: [Taipei Fine Arts Museum, Children's Art Education Center (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
+- [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=816&ddlLang=en-us)
+- [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=816&ddlLang=zh-tw)
+- [Instagram](https://www.instagram.com/p/Dd_OEjeDQ6T/)
+- [Culture Express (Chinese)](https://cultureexpress.taipei/Event/C000003?ID=b77210fe-4af7-424a-af53-1f4de76f777a&PageType=1), [Wayback Machine](https://web.archive.org/web/20261019011724/https://cultureexpress.taipei/Event/C000003?ID=b77210fe-4af7-424a-af53-1f4de76f777a&PageType=1)
+- Curator (策展人): 熊思婷
+- Artist (藝術家): 郭奕臣, 羅惠瑜, 陳妍伊, 陳彥呈
+- description: Four artists use sound, photography, sculpture, video, and interactive installations to explore how love is experienced through relationships, memory, the body, and time.
+- type: contemporary-art exhibition, interactive exhibition
+
 ## Taipei Toy Festival 2026 (2026 台北國際玩具創作大展) (Taipei City, Zhongzheng District)
 - aka: 23rd Taipei Toy Festival (第23屆 台北國際玩具創作大展)
 - 2026-10-08 to 2026-10-11
@@ -2998,7 +3055,7 @@
 - [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
 - type: stand-up comedy, improv comedy
-- Language: English
+- Language (發音): English
 
 ## Ultraman Halloween assemble (2026新竹市萬聖節「宇宙集結令」) (Hsinchu City, North District)
 - 2026-10-16 to 2026-10-31, 2026-10-31 (main parade)
@@ -3099,10 +3156,13 @@
 - 2026-10-23 to 2026-10-26
 - Location: [Huashan 1914 Creative Park (華山1914文化創意產業園區)](https://maps.app.goo.gl/K3xYiNvDQt4SPzSKA)
 - [Official](https://sifintaipei.com.tw/)
+- [Venue](https://www.huashan1914.com/exhibition/event-SIFinTaipei%E9%A6%96%E7%88%BE%E6%8F%92%E7%95%AB%E5%B1%95%E5%8F%B0%E5%8C%97%E7%AB%99)
 - [Instagram (Official](https://www.instagram.com/sifintaipei/)
 - [ACCUPASS](https://www.accupass.com/event/2607080922099756008700)
 - [klook](https://www.klook.com/activity/231819-sif-in-taipei/)
 - [Instagram (Taipei gan ma)](https://www.instagram.com/p/DeZm_nqk4TL/)
+- description: More than 160 Korean illustrators and creative brands present original art, publications, merchandise, and licensing work at the fair's Taipei edition.
+- type: illustration fair, art market
 
 ## IKEA Neihu Halloween Treasure Adventure{ut} (IKEA內湖萬聖寶藏傳說) (Taipei City, Neihu District)
 - 2026-10-23 to 2026-10-25, 2026-10-31 to 2026-11-01
@@ -3203,6 +3263,15 @@
 - theme: halloween
 - audience: adults
 - type: dance
+
+## Harusame Manzai "Art is an Explosion!" (真・春雨漫才專場《藝術就是爆炸》) (Taipei City, Zhongshan District)
+- 2026-10-30 19:30, 2026-10-31 14:30, 2026-10-31 19:30
+- Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
+- [OPENTIX](https://www.opentix.life/event/2085199132312293377)
+- Organizer (主辦單位): 你好漫才工作室
+- Performance (演出暨共同創作): 春雨（林照明、周聖博）
+- description: Comedy duo Harusame combines Japanese-style two-person manzai, sketches, and audience-facing segments in a new original show.
+- type: manzai comedy, sketch show
 
 ## LABORATORY 🧪 CÉ LA VI HALLOWEEN PARTY 2026 (瘋狂實驗室 🧪 CÉ LA VI 萬聖節派對 2026) (Taipei City, Xinyi District)
 - 2026-10-30 21:00 to 2026-10-31 03:00, 2026-10-31 21:00 to 2026-11-01 03:00
@@ -3310,6 +3379,18 @@
 - description: Under the theme "Night ka shi," the free citywide arts night uses visual art, performance, and participatory work to explore how nakashi street-music culture is translated and sustained in contemporary urban life.
 - type: contemporary art, festival, public art, public performance
 
+## seeing sound, hearing time (觀音．聽時) (Taipei City, Zhongshan District)
+- 2026-10-31 to 2027-03-14
+- Location: [Taipei Fine Arts Museum (臺北市立美術館)](https://maps.app.goo.gl/bsxdUxeKpzNTk5PG6)
+- [Official (English)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=817&ddlLang=en-us)
+- [Official (Chinese)](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=817&ddlLang=zh-tw)
+- [OPENTIX](https://www.opentix.life/event/2105469201195143168)
+- https://arttaiwan.com/blogs/on-view/on-view-tfam-ryuichi-sakamoto
+- Artist: Ryuichi Sakamoto (坂本龍一)
+- description: Seven large-scale installations and selected archives survey Sakamoto's work since the 2000s across sound, moving image, digital technology, environmental thought, performance, and virtual reality.
+- style: sound-art, new-media installations
+- type: art exhibition
+
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Kaohsiung City, Qianjin District)
 - performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: 6717b790-97d5-4522-945c-4f5e81c8f713
@@ -3318,7 +3399,7 @@
 - [KKTIX (English)](https://comedyclub.kktix.cc/events/thecutautumn?locale=en)
 - [KKTIX (Chinese)](https://comedyclub.kktix.cc/events/thecutautumn?locale=zh-TW)
 - type: stand-up comedy, improv comedy
-- Language: English
+- Language (發音): English
 
 ## Double Vision (對視) (Taipei City, Da'an District)
 - 2026-11-07 to 2026-12-05
