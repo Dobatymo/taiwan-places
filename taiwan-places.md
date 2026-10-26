@@ -2140,7 +2140,7 @@
 - [Changhua Travel](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=486&chk=27881324-5d97-4180-bd2d-1e13aacf73b6)
 
 ## Baiguo Mountain Explore Paradise (百果山探索樂園) (Changhua County, Yuanlin City)
-= [Google Maps](https://maps.app.goo.gl/NZFm5Q1aj7d6nX5y7)
+= [Google Maps](https://maps.app.goo.gl/AaF88BbivfxJXHAv7)
 - [Wikidata](https://www.wikidata.org/wiki/Q141761228)
 - [Official](https://www.baiguoshan.com.tw/)
 - [Facebook](https://www.facebook.com/51061BAIGUOSHAN)

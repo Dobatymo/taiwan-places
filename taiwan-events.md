@@ -2039,7 +2039,7 @@
 - type: sketch comedy
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taipei City, Songshan District)
-- performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
+- production_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: ddf12825-086a-4f30-b672-54aa59f5160f
 - 2026-05-29 19:30, 2026-05-30 14:30, 2026-05-30 19:30, 2026-05-31 14:30
 - Location: [Metropolitan Hall (城市舞台)](https://maps.app.goo.gl/2WtVsdopNQ2LFhBeA)
@@ -2128,7 +2128,7 @@
 - type: concert
 
 ## Jaap van Zweden & ESO (靈魂．藍途—梵志登與ESO) (Taipei City, Zhongzheng District)
-- performance_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
+- program_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
 - 2026-06-05 19:30
 - Location: [National Concert Hall (國家音樂廳)](https://maps.app.goo.gl/FdewtNX68r6E5XzUA)
 - [Official (English)](https://www.evergreensymphony.org/en/concert/203)
@@ -2139,7 +2139,7 @@
 - type: concert
 
 ## Jaap van Zweden & ESO (靈魂．藍途—梵志登與ESO) (Kaohsiung City, Fengshan District)
-- performance_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
+- program_id: 996132fa-bdb5-4b1b-b058-15880261eb4f
 - 2026-06-06 19:30
 - Location: [Weiwuying Concert Hall (衞武營音樂廳)](https://maps.app.goo.gl/h5jbQJs4YLhT1Xkc6)
 - [Official (English)](https://www.evergreensymphony.org/en/concert/203)
@@ -2285,7 +2285,7 @@
 - type: film concert
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Kaohsiung City, Fengshan District)
-- performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
+- production_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: a5da37f8-148a-418b-a161-161e3580d0c5
 - 2026-06-20 19:30, 2026-06-21 14:30
 - Location: [National Kaohsiung Center for the Arts (衛武營國家藝術文化中心, 戲劇院)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
@@ -2582,7 +2582,7 @@
 - type: exhibition
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
-- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- program_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
 - event_id: 798d325e-77ca-45d8-b4de-6b5295468713
 - 2026-07-24 19:30
 - Location: [Recital Hall (國家兩廳院演奏廳)](https://maps.app.goo.gl/9y8jFDGRwpNjChV29)
@@ -2599,7 +2599,7 @@
 - type: children's theatre / puppetry
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taichung City, North District)
-- performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
+- production_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: 2f305ad1-d932-4e17-a85a-1f2dcc65a6b1
 - 2026-07-25 19:30, 2026-07-26 14:30
 - Location: [Taichung Chungshan Hall (台中市中山堂)](https://maps.app.goo.gl/kG2pZgkTHw1TtZMb7)
@@ -2642,7 +2642,7 @@
 - type: concert
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Kaohsiung City, Fengshan District)
-- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- program_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
 - event_id: 4bc1e49a-8440-479a-81f1-8cd23285ee00
 - 2026-07-31 19:30
 - Location: [National Kaohsiung Center for the Arts, Recital Hall (衛武營國家藝術文化中心, 表演廳)](https://maps.app.goo.gl/SLfmAtxL85c5Tp3c7)
@@ -2665,7 +2665,7 @@
 - type: dance / children's theater
 
 ## The Curious Incident of the Dog in the Night-Time (深夜小狗神秘習題) (Taoyuan City, Taoyuan District)
-- performance_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
+- production_id: 3cc44df4-9339-4c06-aaf7-0610d173f924
 - event_id: fb50ce9e-56fe-4f40-8aaa-1b24ae4ce10a
 - 2026-08-01 19:30, 2026-08-02 14:30
 - Location: [Taoyuan Arts Center (桃園展演中心, 展演廳)](https://maps.app.goo.gl/zDAT5cXwVo2QZXdR7)
@@ -2699,7 +2699,7 @@
 - type: dance, theatre, children's performance
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taichung City, Xitun District)
-- performance_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
+- program_id: 9cb54e41-bf39-483f-bd76-f7801ee160fc
 - event_id: 6999a680-eec9-49de-a4eb-8a30945d797c
 - 2026-08-02 19:30
 - Location: [National Taichung Theater, Playhouse (臺中國家歌劇院, 中劇院)](https://maps.app.goo.gl/fCjLrFgMu2naz7tXA)
@@ -2936,7 +2936,7 @@
 - type: opera, classical music
 
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taipei City, Zhongshan District)
-- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- program_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: 86e1253d-7828-42d3-b37c-eee0fa51b017
 - 2026-09-19 22:00
 - Location: [Comedy Plus (卡米地＋)](https://maps.app.goo.gl/q4ksxYc99MC2qoTS6)
@@ -3048,7 +3048,7 @@
 - type: trade show (貿易展覽會)
 
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Taichung City, Xitun District)
-- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- program_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: e4340758-36b6-4308-bc7d-8614b8b61eed
 - 2026-10-10 20:00
 - Location: [Islands Art Park (群島藝術園區)](https://maps.app.goo.gl/YLSauvsEMXevGU8n9)
@@ -3392,7 +3392,7 @@
 - type: art exhibition
 
 ## Ellery Presents THE CUT - Fall Edition (Ellery 呈獻 THE CUT－Fall Edition 秋季場) (Kaohsiung City, Qianjin District)
-- performance_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
+- program_id: 26d8aa02-fb4e-4e7c-92ad-6c669b35442f
 - event_id: 6717b790-97d5-4522-945c-4f5e81c8f713
 - 2026-11-06 20:00
 - Location: [Rock Music Live House (洛克音樂藝文展演空間)](https://maps.app.goo.gl/J2pnUH2g9me4r9E1A)
@@ -3402,11 +3402,13 @@
 - Language (發音): English
 
 ## Double Vision (對視) (Taipei City, Da'an District)
-- 2026-11-07 to 2026-12-05
+- 2026-11-07 to 2026-12-12
 - Location: [WhiteCrow78 (晗光行)](https://maps.app.goo.gl/NsEb47SYhmrs231j6)
-- [Facebook](https://www.facebook.com/WhiteCrow78)
+- [Facebook](https://www.facebook.com/WhiteCrow78/posts/1417835803857139)
+- [Instagram](https://www.instagram.com/p/Dewq2ZZptFo/)
 - [Instagram](https://www.instagram.com/leonnephotos/)
 - Artist (藝術家): Leonne Chen (陳麗文)
+- Curator (策展人): HSU Chun-Yi (許鈞宜)
 - type: photography solo exhibition (攝影個展)
 
 ## ZEPRO RUN: National Half Marathon (2026 ZEPRO RUN全國半程馬拉松) (Hsinchu County, Zhubei City)

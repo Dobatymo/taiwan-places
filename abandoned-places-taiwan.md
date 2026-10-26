@@ -244,7 +244,9 @@
 
 ## Formosa Fun Coast (八仙海岸) (New Taipei City, Bali District)
 - aka: Formosa Fun Water Park
-- [Google Maps](https://maps.app.goo.gl/aT9fEUQkMavLpSRX7)
+- [Google Maps (entrance)](https://maps.app.goo.gl/XEccZB37wwAqULhx5)
+- [Google Maps (inside)](https://maps.app.goo.gl/UQnVs144QfPoazE58)
+- [Google Maps (coordinates)](https://maps.app.goo.gl/aT9fEUQkMavLpSRX7)
 - [Wikipedia (English)](https://en.wikipedia.org/wiki/Formosa_Fun_Coast)
 - [Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E5%85%AB%E4%BB%99%E6%B5%B7%E5%B2%B8)
 - [Wikidata](https://www.wikidata.org/wiki/Q10891944)
@@ -534,6 +536,7 @@
 - https://www.ptt.cc/bbs/Keelung/M.1464678170.A.F84.html
 - https://www.instagram.com/p/DaJbEO5mPwq/
 - https://www.instagram.com/p/DZO98lREl7c/
+
 ## Dalong Frozen Food Factory (大隆冷凍股份有限公司) (Keelung City, Zhongzheng District)
 - aka: 大隆冷凍食品股份有限公司
 - [Google Maps](https://maps.app.goo.gl/uP1h3SCg4ZV6zTir6)

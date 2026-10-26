@@ -1,0 +1,29 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [ "setuptools>=61" ]
+
+[project]
+name = "taiwan-places"
+version = "0.1.0"
+description = "Shared helpers for the Taiwan places and events catalogue"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Programming Language :: Python :: 3.15",
+]
+dependencies = [
+  "fastcrc>=0.3.5",
+]
+
+[tool.ruff]
+line-length = 120
+lint.extend-select = [ "B", "I", "S", "UP" ]
+lint.pyupgrade.keep-runtime-typing = true
