@@ -2596,6 +2596,7 @@
 - https://english.ftvnews.com.tw/news/2024604W01EA
 - https://taipeiartweek.tw/en/listing/xining-public-housing/
 - https://english.tcma.gov.taipei/News_Content.aspx?n=5EBEBB267D321486&s=FD2D89D197A67FA2
+- [Instagram](https://www.instagram.com/p/DdRNAVqSlUK/)
 
 - categories: traditional indoor market, electronics market
 - scheduled for demolition

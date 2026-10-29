@@ -2113,8 +2113,8 @@
 - event_id: wdirj2Eh0Z1oRtJJYQ5I
 - 2026-05-16 to 2026-08-30
 - Location: [New Taipei City Art Museum, The Wonder Base (新北市美術館, 探索基地)](https://maps.app.goo.gl/ckRd9FQxHSpBWSw26)
-- https://ntcart.museum/en/exhibition_content.aspx?id=H2604001
-- https://ntcart.museum/exhibition_content.aspx?id=H2604001
+- [Official (English)](https://ntcart.museum/en/exhibition_content.aspx?id=H2604001)
+- [Official (Chinese)](https://ntcart.museum/exhibition_content.aspx?id=H2604001)
 - Artist (參展藝術家): Sleep No Playground (不想睡遊戲社),  Wild Child Physical Theatre (野孩子肢體劇場), Fu Wan-ting (傅琬婷), Liu Mia (劉文瑄), Tsai Pou-ching (蔡咅璟), Cheng Wan-chien (鄭琬蒨)
 - Supervisor (指導單位): Minstry of Culture, New Taipei City Government (文化部 、新北市政府 )
 - Organizer (主辦單位): New Taipei City Art Museum (新北市美術館)
@@ -2859,6 +2859,14 @@
 - [OPENTIX](https://www.opentix.life/event/2058831955254812673)
 - style: painting
 - type: exhibition
+
+## Minjian / Photography: Documentary Vision and Its Realist Inflection (民間／攝影：紀實影像的敘事生成)
+- 2026-07-18 to 2026-11-15
+- Location: [New Taipei City Art Museum, 3A, 3B, 4B Gallery (新北市美術館, 3A、3B、4B展覽室)](https://maps.app.goo.gl/ckRd9FQxHSpBWSw26)
+- [Official (English)](https://ntcart.museum/en/exhibition_content.aspx?id=H2606003)
+- [Official (Chinese)](https://ntcart.museum/exhibition_content.aspx?id=H2606003)
+- Curator (策展人): CHANG Shih-lun (張世倫)
+- type: photography group exhibition
 
 ## Hsia Yu at Morningside Heights: You Are the Most Complete Ruin in Me (夏宇在晨邊：你是我最完整的廢墟) (Taipei City, Zhongzheng District)
 - program_id: wdirP1MYzUtLJbfwYxKc
